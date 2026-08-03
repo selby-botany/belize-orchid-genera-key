@@ -1,0 +1,4585 @@
+{
+  "statistics": {
+    "total_genera": 8,
+    "total_unique_features": 116,
+    "features_per_genus": {
+      "Corymborkis Thou.": 24,
+      "Erythrodes Bl.": 9,
+      "Goodyera R. Br.": 11,
+      "Habenaria Willd.": 25,
+      "Hetaeria Bl.": 8,
+      "Liparis Rich.": 11,
+      "Malaxis Sol. ex Sw.": 11,
+      "Spiranthes Rich.": 27
+    },
+    "total_unique_terms": 190
+  },
+  "genera": {
+    "Corymborkis Thou.": {
+      "features": [
+        {
+          "category": "Growth Habit",
+          "subcategory": null,
+          "description": "Terrestrial plants",
+          "fullPath": "Growth Habit",
+          "fullDescription": "Growth Habit > Terrestrial plants"
+        },
+        {
+          "category": "Rhizome",
+          "subcategory": null,
+          "description": "Short",
+          "fullPath": "Rhizome",
+          "fullDescription": "Rhizome > Short"
+        },
+        {
+          "category": "Rhizome",
+          "subcategory": null,
+          "description": "Sympodial",
+          "fullPath": "Rhizome",
+          "fullDescription": "Rhizome > Sympodial"
+        },
+        {
+          "category": "Rhizome",
+          "subcategory": null,
+          "description": "Creeping",
+          "fullPath": "Rhizome",
+          "fullDescription": "Rhizome > Creeping"
+        },
+        {
+          "category": "Roots",
+          "subcategory": null,
+          "description": "Fasciculate (clustered)",
+          "fullPath": "Roots",
+          "fullDescription": "Roots > Fasciculate (clustered)"
+        },
+        {
+          "category": "Roots",
+          "subcategory": null,
+          "description": "Wiry",
+          "fullPath": "Roots",
+          "fullDescription": "Roots > Wiry"
+        },
+        {
+          "category": "Stem",
+          "subcategory": null,
+          "description": "Deciduous",
+          "fullPath": "Stem",
+          "fullDescription": "Stem > Deciduous"
+        },
+        {
+          "category": "Stem",
+          "subcategory": null,
+          "description": "Slender",
+          "fullPath": "Stem",
+          "fullDescription": "Stem > Slender"
+        },
+        {
+          "category": "Stem",
+          "subcategory": null,
+          "description": "Terete (cylindrical)",
+          "fullPath": "Stem",
+          "fullDescription": "Stem > Terete (cylindrical)"
+        },
+        {
+          "category": "Stem",
+          "subcategory": null,
+          "description": "Tapering",
+          "fullPath": "Stem",
+          "fullDescription": "Stem > Tapering"
+        },
+        {
+          "category": "Stem",
+          "subcategory": null,
+          "description": "Leafy",
+          "fullPath": "Stem",
+          "fullDescription": "Stem > Leafy"
+        },
+        {
+          "category": "Leaves",
+          "subcategory": "Arrangement",
+          "description": "Alternate in 2 series OR spirally arranged",
+          "fullPath": "Leaves > Arrangement",
+          "fullDescription": "Leaves > Arrangement > Alternate in 2 series OR spirally arranged"
+        },
+        {
+          "category": "Leaves",
+          "subcategory": "Attachment",
+          "description": "Sessile",
+          "fullPath": "Leaves > Attachment",
+          "fullDescription": "Leaves > Attachment > Sessile"
+        },
+        {
+          "category": "Leaves",
+          "subcategory": "Position",
+          "description": "Distichous (in two ranks)",
+          "fullPath": "Leaves > Position",
+          "fullDescription": "Leaves > Position > Distichous (in two ranks)"
+        },
+        {
+          "category": "Leaves",
+          "subcategory": "Texture",
+          "description": "Flat, plicate (pleated), thin",
+          "fullPath": "Leaves > Texture",
+          "fullDescription": "Leaves > Texture > Flat, plicate (pleated), thin"
+        },
+        {
+          "category": "Leaves",
+          "subcategory": "Sheaths",
+          "description": "Well-developed",
+          "fullPath": "Leaves > Sheaths",
+          "fullDescription": "Leaves > Sheaths > Well-developed"
+        },
+        {
+          "category": "Leaves",
+          "subcategory": "Dimensions",
+          "description": "5 to 30 cm long and 1 to 4 cm wide",
+          "fullPath": "Leaves > Dimensions",
+          "fullDescription": "Leaves > Dimensions > 5 to 30 cm long and 1 to 4 cm wide"
+        },
+        {
+          "category": "Leaves",
+          "subcategory": "Number",
+          "description": "25 or more leaves",
+          "fullPath": "Leaves > Number",
+          "fullDescription": "Leaves > Number > 25 or more leaves"
+        },
+        {
+          "category": "Overall Plant Size",
+          "subcategory": null,
+          "description": "Thin terrestrial",
+          "fullPath": "Overall Plant Size",
+          "fullDescription": "Overall Plant Size > Thin terrestrial"
+        },
+        {
+          "category": "Overall Plant Size",
+          "subcategory": null,
+          "description": "Tall and erect",
+          "fullPath": "Overall Plant Size",
+          "fullDescription": "Overall Plant Size > Tall and erect"
+        },
+        {
+          "category": "Overall Plant Size",
+          "subcategory": null,
+          "description": "50 cm to 2 m tall",
+          "fullPath": "Overall Plant Size",
+          "fullDescription": "Overall Plant Size > 50 cm to 2 m tall"
+        },
+        {
+          "category": "Capsule",
+          "subcategory": null,
+          "description": "3-angled",
+          "fullPath": "Capsule",
+          "fullDescription": "Capsule > 3-angled"
+        },
+        {
+          "category": "Capsule",
+          "subcategory": null,
+          "description": "Thin-walled",
+          "fullPath": "Capsule",
+          "fullDescription": "Capsule > Thin-walled"
+        },
+        {
+          "category": "Capsule",
+          "subcategory": null,
+          "description": "Erect",
+          "fullPath": "Capsule",
+          "fullDescription": "Capsule > Erect"
+        }
+      ]
+    },
+    "Erythrodes Bl.": {
+      "features": [
+        {
+          "category": "Rhizome",
+          "subcategory": null,
+          "description": "Creeping rhizome with short, erect, vertical branches",
+          "fullPath": "Rhizome",
+          "fullDescription": "Rhizome > Creeping rhizome with short, erect, vertical branches"
+        },
+        {
+          "category": "Stems",
+          "subcategory": null,
+          "description": "Erect",
+          "fullPath": "Stems",
+          "fullDescription": "Stems > Erect"
+        },
+        {
+          "category": "Stems",
+          "subcategory": null,
+          "description": "Sheathed by bracts at the base of peduncle",
+          "fullPath": "Stems",
+          "fullDescription": "Stems > Sheathed by bracts at the base of peduncle"
+        },
+        {
+          "category": "Leaves",
+          "subcategory": "Texture",
+          "description": "Membranous",
+          "fullPath": "Leaves > Texture",
+          "fullDescription": "Leaves > Texture > Membranous"
+        },
+        {
+          "category": "Leaves",
+          "subcategory": "Shape",
+          "description": "Elliptic-ovate",
+          "fullPath": "Leaves > Shape",
+          "fullDescription": "Leaves > Shape > Elliptic-ovate"
+        },
+        {
+          "category": "Leaves",
+          "subcategory": "Attachment",
+          "description": "Petiolate (with petiole)",
+          "fullPath": "Leaves > Attachment",
+          "fullDescription": "Leaves > Attachment > Petiolate (with petiole)"
+        },
+        {
+          "category": "Leaves",
+          "subcategory": "Sheath",
+          "description": "Infundibuliform (funnel-shaped)",
+          "fullPath": "Leaves > Sheath",
+          "fullDescription": "Leaves > Sheath > Infundibuliform (funnel-shaped)"
+        },
+        {
+          "category": "Leaves",
+          "subcategory": "Arrangement",
+          "description": "2-ranked",
+          "fullPath": "Leaves > Arrangement",
+          "fullDescription": "Leaves > Arrangement > 2-ranked"
+        },
+        {
+          "category": "Inflorescence",
+          "subcategory": null,
+          "description": "Terminal raceme or corymb",
+          "fullPath": "Inflorescence",
+          "fullDescription": "Inflorescence > Terminal raceme or corymb"
+        }
+      ]
+    },
+    "Goodyera R. Br.": {
+      "features": [
+        {
+          "category": "Rhizome",
+          "subcategory": null,
+          "description": "Fleshy",
+          "fullPath": "Rhizome",
+          "fullDescription": "Rhizome > Fleshy"
+        },
+        {
+          "category": "Rhizome",
+          "subcategory": null,
+          "description": "Creeping",
+          "fullPath": "Rhizome",
+          "fullDescription": "Rhizome > Creeping"
+        },
+        {
+          "category": "Stems",
+          "subcategory": null,
+          "description": "Short",
+          "fullPath": "Stems",
+          "fullDescription": "Stems > Short"
+        },
+        {
+          "category": "Stems",
+          "subcategory": null,
+          "description": "Erect",
+          "fullPath": "Stems",
+          "fullDescription": "Stems > Erect"
+        },
+        {
+          "category": "Leaves",
+          "subcategory": "Arrangement",
+          "description": "Basal rosette or cauline (stem leaves)",
+          "fullPath": "Leaves > Arrangement",
+          "fullDescription": "Leaves > Arrangement > Basal rosette or cauline (stem leaves)"
+        },
+        {
+          "category": "Leaves",
+          "subcategory": "Texture",
+          "description": "Fleshy to membranous",
+          "fullPath": "Leaves > Texture",
+          "fullDescription": "Leaves > Texture > Fleshy to membranous"
+        },
+        {
+          "category": "Leaves",
+          "subcategory": "Venation",
+          "description": "Often marked with white or pale veins",
+          "fullPath": "Leaves > Venation",
+          "fullDescription": "Leaves > Venation > Often marked with white or pale veins"
+        },
+        {
+          "category": "Leaves",
+          "subcategory": "Shape",
+          "description": "Ovate to lanceolate",
+          "fullPath": "Leaves > Shape",
+          "fullDescription": "Leaves > Shape > Ovate to lanceolate"
+        },
+        {
+          "category": "Leaves",
+          "subcategory": "Attachment",
+          "description": "Petiolate or sessile",
+          "fullPath": "Leaves > Attachment",
+          "fullDescription": "Leaves > Attachment > Petiolate or sessile"
+        },
+        {
+          "category": "Roots",
+          "subcategory": null,
+          "description": "Fleshy",
+          "fullPath": "Roots",
+          "fullDescription": "Roots > Fleshy"
+        },
+        {
+          "category": "Roots",
+          "subcategory": null,
+          "description": "From rhizome nodes",
+          "fullPath": "Roots",
+          "fullDescription": "Roots > From rhizome nodes"
+        }
+      ]
+    },
+    "Habenaria Willd.": {
+      "features": [
+        {
+          "category": "Growth Habit",
+          "subcategory": null,
+          "description": "Terrestrial",
+          "fullPath": "Growth Habit",
+          "fullDescription": "Growth Habit > Terrestrial"
+        },
+        {
+          "category": "Roots/Underground organs",
+          "subcategory": null,
+          "description": "Tubers (rounded or ovoid) OR",
+          "fullPath": "Roots/Underground organs",
+          "fullDescription": "Roots/Underground organs > Tubers (rounded or ovoid) OR"
+        },
+        {
+          "category": "Roots/Underground organs",
+          "subcategory": null,
+          "description": "Fleshy, tuberous roots",
+          "fullPath": "Roots/Underground organs",
+          "fullDescription": "Roots/Underground organs > Fleshy, tuberous roots"
+        },
+        {
+          "category": "Roots/Underground organs",
+          "subcategory": null,
+          "description": "Variable in form: some species with single rounded tuber, others with fleshy fasciculate roots",
+          "fullPath": "Roots/Underground organs",
+          "fullDescription": "Roots/Underground organs > Variable in form: some species with single rounded tuber, others with fleshy fasciculate roots"
+        },
+        {
+          "category": "Stems",
+          "subcategory": null,
+          "description": "Erect",
+          "fullPath": "Stems",
+          "fullDescription": "Stems > Erect"
+        },
+        {
+          "category": "Stems",
+          "subcategory": null,
+          "description": "Leafy",
+          "fullPath": "Stems",
+          "fullDescription": "Stems > Leafy"
+        },
+        {
+          "category": "Stems",
+          "subcategory": null,
+          "description": "Slender to stout depending on species",
+          "fullPath": "Stems",
+          "fullDescription": "Stems > Slender to stout depending on species"
+        },
+        {
+          "category": "Stems",
+          "subcategory": null,
+          "description": "Height variable: from 10-15 cm to over 50 cm",
+          "fullPath": "Stems",
+          "fullDescription": "Stems > Height variable: from 10-15 cm to over 50 cm"
+        },
+        {
+          "category": "Leaves",
+          "subcategory": "Arrangement",
+          "description": "Variable - basal rosette, cauline (along stem), or both",
+          "fullPath": "Leaves > Arrangement",
+          "fullDescription": "Leaves > Arrangement > Variable - basal rosette, cauline (along stem), or both"
+        },
+        {
+          "category": "Leaves",
+          "subcategory": "Number",
+          "description": "1 to several leaves",
+          "fullPath": "Leaves > Number",
+          "fullDescription": "Leaves > Number > 1 to several leaves"
+        },
+        {
+          "category": "Leaves",
+          "subcategory": "Shape",
+          "description": "Variable by species - lanceolate, ovate, elliptic, oblong, linear",
+          "fullPath": "Leaves > Shape",
+          "fullDescription": "Leaves > Shape > Variable by species - lanceolate, ovate, elliptic, oblong, linear"
+        },
+        {
+          "category": "Leaves",
+          "subcategory": "Texture",
+          "description": "Thin to somewhat fleshy, membranous to slightly succulent",
+          "fullPath": "Leaves > Texture",
+          "fullDescription": "Leaves > Texture > Thin to somewhat fleshy, membranous to slightly succulent"
+        },
+        {
+          "category": "Leaves",
+          "subcategory": "Size",
+          "description": "Highly variable (2-30 cm long, 0.5-4 cm wide depending on species)",
+          "fullPath": "Leaves > Size",
+          "fullDescription": "Leaves > Size > Highly variable (2-30 cm long, 0.5-4 cm wide depending on species)"
+        },
+        {
+          "category": "Leaves",
+          "subcategory": "Attachment",
+          "description": "Sessile or with short petiole, sheathing at base",
+          "fullPath": "Leaves > Attachment",
+          "fullDescription": "Leaves > Attachment > Sessile or with short petiole, sheathing at base"
+        },
+        {
+          "category": "Leaves",
+          "subcategory": "Position",
+          "description": "Basal, appressed to ground, spreading, or clasping stem",
+          "fullPath": "Leaves > Position",
+          "fullDescription": "Leaves > Position > Basal, appressed to ground, spreading, or clasping stem"
+        },
+        {
+          "category": "Leaves",
+          "subcategory": "Surface",
+          "description": "Green, sometimes with pale or darker markings",
+          "fullPath": "Leaves > Surface",
+          "fullDescription": "Leaves > Surface > Green, sometimes with pale or darker markings"
+        },
+        {
+          "category": "Leaves",
+          "subcategory": "Persistence",
+          "description": "Present at flowering in most species",
+          "fullPath": "Leaves > Persistence",
+          "fullDescription": "Leaves > Persistence > Present at flowering in most species"
+        },
+        {
+          "category": "Notes on species variation",
+          "subcategory": null,
+          "description": "H. alata: leaves lanceolate, acute",
+          "fullPath": "Notes on species variation",
+          "fullDescription": "Notes on species variation > H. alata: leaves lanceolate, acute"
+        },
+        {
+          "category": "Notes on species variation",
+          "subcategory": null,
+          "description": "H. brachyceras: rounded tuber, leaves small, oblong-elliptic",
+          "fullPath": "Notes on species variation",
+          "fullDescription": "Notes on species variation > H. brachyceras: rounded tuber, leaves small, oblong-elliptic"
+        },
+        {
+          "category": "Notes on species variation",
+          "subcategory": null,
+          "description": "H. distans: leaves lanceolate, basal",
+          "fullPath": "Notes on species variation",
+          "fullDescription": "Notes on species variation > H. distans: leaves lanceolate, basal"
+        },
+        {
+          "category": "Notes on species variation",
+          "subcategory": null,
+          "description": "H. floribunda: leaves lanceolate to ovate, cauline",
+          "fullPath": "Notes on species variation",
+          "fullDescription": "Notes on species variation > H. floribunda: leaves lanceolate to ovate, cauline"
+        },
+        {
+          "category": "Notes on species variation",
+          "subcategory": null,
+          "description": "H. monorrhiza: leaves ovate-lanceolate, spreading",
+          "fullPath": "Notes on species variation",
+          "fullDescription": "Notes on species variation > H. monorrhiza: leaves ovate-lanceolate, spreading"
+        },
+        {
+          "category": "Notes on species variation",
+          "subcategory": null,
+          "description": "H. odontopetala: leaves oblanceolate, basal",
+          "fullPath": "Notes on species variation",
+          "fullDescription": "Notes on species variation > H. odontopetala: leaves oblanceolate, basal"
+        },
+        {
+          "category": "Notes on species variation",
+          "subcategory": null,
+          "description": "H. quinqueseta: leaves ovate to elliptic",
+          "fullPath": "Notes on species variation",
+          "fullDescription": "Notes on species variation > H. quinqueseta: leaves ovate to elliptic"
+        },
+        {
+          "category": "Notes on species variation",
+          "subcategory": null,
+          "description": "H. repens: leaves ovate to oblong, shady habitats",
+          "fullPath": "Notes on species variation",
+          "fullDescription": "Notes on species variation > H. repens: leaves ovate to oblong, shady habitats"
+        }
+      ]
+    },
+    "Hetaeria Bl.": {
+      "features": [
+        {
+          "category": "Rhizome",
+          "subcategory": null,
+          "description": "Creeping",
+          "fullPath": "Rhizome",
+          "fullDescription": "Rhizome > Creeping"
+        },
+        {
+          "category": "Stems",
+          "subcategory": null,
+          "description": "Erect",
+          "fullPath": "Stems",
+          "fullDescription": "Stems > Erect"
+        },
+        {
+          "category": "Stems",
+          "subcategory": null,
+          "description": "Slender",
+          "fullPath": "Stems",
+          "fullDescription": "Stems > Slender"
+        },
+        {
+          "category": "Leaves",
+          "subcategory": "Texture",
+          "description": "Membranous to fleshy",
+          "fullPath": "Leaves > Texture",
+          "fullDescription": "Leaves > Texture > Membranous to fleshy"
+        },
+        {
+          "category": "Leaves",
+          "subcategory": "Arrangement",
+          "description": "Several along stem or in basal rosette",
+          "fullPath": "Leaves > Arrangement",
+          "fullDescription": "Leaves > Arrangement > Several along stem or in basal rosette"
+        },
+        {
+          "category": "Leaves",
+          "subcategory": "Shape",
+          "description": "Ovate to elliptic",
+          "fullPath": "Leaves > Shape",
+          "fullDescription": "Leaves > Shape > Ovate to elliptic"
+        },
+        {
+          "category": "Leaves",
+          "subcategory": "Venation",
+          "description": "Sometimes marked with lighter veins",
+          "fullPath": "Leaves > Venation",
+          "fullDescription": "Leaves > Venation > Sometimes marked with lighter veins"
+        },
+        {
+          "category": "Leaves",
+          "subcategory": "Attachment",
+          "description": "Petiolate with tubular sheath",
+          "fullPath": "Leaves > Attachment",
+          "fullDescription": "Leaves > Attachment > Petiolate with tubular sheath"
+        }
+      ]
+    },
+    "Liparis Rich.": {
+      "features": [
+        {
+          "category": "Growth Habit",
+          "subcategory": null,
+          "description": "Epiphytic or terrestrial",
+          "fullPath": "Growth Habit",
+          "fullDescription": "Growth Habit > Epiphytic or terrestrial"
+        },
+        {
+          "category": "Pseudobulbs",
+          "subcategory": null,
+          "description": "Present",
+          "fullPath": "Pseudobulbs",
+          "fullDescription": "Pseudobulbs > Present"
+        },
+        {
+          "category": "Pseudobulbs",
+          "subcategory": null,
+          "description": "Ovoid to elongate",
+          "fullPath": "Pseudobulbs",
+          "fullDescription": "Pseudobulbs > Ovoid to elongate"
+        },
+        {
+          "category": "Pseudobulbs",
+          "subcategory": null,
+          "description": "Clustered or well-spaced on rhizome",
+          "fullPath": "Pseudobulbs",
+          "fullDescription": "Pseudobulbs > Clustered or well-spaced on rhizome"
+        },
+        {
+          "category": "Rhizome",
+          "subcategory": null,
+          "description": "Creeping to abbreviated",
+          "fullPath": "Rhizome",
+          "fullDescription": "Rhizome > Creeping to abbreviated"
+        },
+        {
+          "category": "Leaves",
+          "subcategory": "Number",
+          "description": "1-several per pseudobulb",
+          "fullPath": "Leaves > Number",
+          "fullDescription": "Leaves > Number > 1-several per pseudobulb"
+        },
+        {
+          "category": "Leaves",
+          "subcategory": "Texture",
+          "description": "Thin to somewhat fleshy",
+          "fullPath": "Leaves > Texture",
+          "fullDescription": "Leaves > Texture > Thin to somewhat fleshy"
+        },
+        {
+          "category": "Leaves",
+          "subcategory": "Shape",
+          "description": "Elliptic, ovate, or lanceolate",
+          "fullPath": "Leaves > Shape",
+          "fullDescription": "Leaves > Shape > Elliptic, ovate, or lanceolate"
+        },
+        {
+          "category": "Leaves",
+          "subcategory": "Venation",
+          "description": "Plicate or non-plicate",
+          "fullPath": "Leaves > Venation",
+          "fullDescription": "Leaves > Venation > Plicate or non-plicate"
+        },
+        {
+          "category": "Leaves",
+          "subcategory": "Attachment",
+          "description": "Petiolate or subsessile",
+          "fullPath": "Leaves > Attachment",
+          "fullDescription": "Leaves > Attachment > Petiolate or subsessile"
+        },
+        {
+          "category": "Leaves",
+          "subcategory": "Arrangement",
+          "description": "Basal from pseudobulb apex",
+          "fullPath": "Leaves > Arrangement",
+          "fullDescription": "Leaves > Arrangement > Basal from pseudobulb apex"
+        }
+      ]
+    },
+    "Malaxis Sol. ex Sw.": {
+      "features": [
+        {
+          "category": "Growth Habit",
+          "subcategory": null,
+          "description": "Terrestrial or epiphytic",
+          "fullPath": "Growth Habit",
+          "fullDescription": "Growth Habit > Terrestrial or epiphytic"
+        },
+        {
+          "category": "Pseudobulbs",
+          "subcategory": null,
+          "description": "Small",
+          "fullPath": "Pseudobulbs",
+          "fullDescription": "Pseudobulbs > Small"
+        },
+        {
+          "category": "Pseudobulbs",
+          "subcategory": null,
+          "description": "Often clustered",
+          "fullPath": "Pseudobulbs",
+          "fullDescription": "Pseudobulbs > Often clustered"
+        },
+        {
+          "category": "Pseudobulbs",
+          "subcategory": null,
+          "description": "Ovoid to subglobose",
+          "fullPath": "Pseudobulbs",
+          "fullDescription": "Pseudobulbs > Ovoid to subglobose"
+        },
+        {
+          "category": "Leaves",
+          "subcategory": "Number",
+          "description": "1-several",
+          "fullPath": "Leaves > Number",
+          "fullDescription": "Leaves > Number > 1-several"
+        },
+        {
+          "category": "Leaves",
+          "subcategory": "Position",
+          "description": "Terminal on pseudobulb or along stem",
+          "fullPath": "Leaves > Position",
+          "fullDescription": "Leaves > Position > Terminal on pseudobulb or along stem"
+        },
+        {
+          "category": "Leaves",
+          "subcategory": "Texture",
+          "description": "Thin, membranous to somewhat fleshy",
+          "fullPath": "Leaves > Texture",
+          "fullDescription": "Leaves > Texture > Thin, membranous to somewhat fleshy"
+        },
+        {
+          "category": "Leaves",
+          "subcategory": "Shape",
+          "description": "Ovate to elliptic or lanceolate",
+          "fullPath": "Leaves > Shape",
+          "fullDescription": "Leaves > Shape > Ovate to elliptic or lanceolate"
+        },
+        {
+          "category": "Leaves",
+          "subcategory": "Venation",
+          "description": "Plicate or not",
+          "fullPath": "Leaves > Venation",
+          "fullDescription": "Leaves > Venation > Plicate or not"
+        },
+        {
+          "category": "Leaves",
+          "subcategory": "Attachment",
+          "description": "Usually sessile or subsessile",
+          "fullPath": "Leaves > Attachment",
+          "fullDescription": "Leaves > Attachment > Usually sessile or subsessile"
+        },
+        {
+          "category": "Stem",
+          "subcategory": null,
+          "description": "Sometimes elongated between pseudobulbs",
+          "fullPath": "Stem",
+          "fullDescription": "Stem > Sometimes elongated between pseudobulbs"
+        }
+      ]
+    },
+    "Spiranthes Rich.": {
+      "features": [
+        {
+          "category": "Growth Habit",
+          "subcategory": null,
+          "description": "Terrestrial",
+          "fullPath": "Growth Habit",
+          "fullDescription": "Growth Habit > Terrestrial"
+        },
+        {
+          "category": "Roots",
+          "subcategory": null,
+          "description": "Fleshy",
+          "fullPath": "Roots",
+          "fullDescription": "Roots > Fleshy"
+        },
+        {
+          "category": "Roots",
+          "subcategory": null,
+          "description": "Fasciculate",
+          "fullPath": "Roots",
+          "fullDescription": "Roots > Fasciculate"
+        },
+        {
+          "category": "Roots",
+          "subcategory": null,
+          "description": "Tuberous or cylindrical",
+          "fullPath": "Roots",
+          "fullDescription": "Roots > Tuberous or cylindrical"
+        },
+        {
+          "category": "Stems",
+          "subcategory": null,
+          "description": "Erect",
+          "fullPath": "Stems",
+          "fullDescription": "Stems > Erect"
+        },
+        {
+          "category": "Stems",
+          "subcategory": null,
+          "description": "Slender",
+          "fullPath": "Stems",
+          "fullDescription": "Stems > Slender"
+        },
+        {
+          "category": "Leaves",
+          "subcategory": "Arrangement",
+          "description": "Basal rosette or along stem",
+          "fullPath": "Leaves > Arrangement",
+          "fullDescription": "Leaves > Arrangement > Basal rosette or along stem"
+        },
+        {
+          "category": "Leaves",
+          "subcategory": "Texture",
+          "description": "Thin to somewhat fleshy",
+          "fullPath": "Leaves > Texture",
+          "fullDescription": "Leaves > Texture > Thin to somewhat fleshy"
+        },
+        {
+          "category": "Leaves",
+          "subcategory": "Shape",
+          "description": "Linear to lanceolate or ovate",
+          "fullPath": "Leaves > Shape",
+          "fullDescription": "Leaves > Shape > Linear to lanceolate or ovate"
+        },
+        {
+          "category": "Leaves",
+          "subcategory": "Attachment",
+          "description": "Sessile or with short sheath",
+          "fullPath": "Leaves > Attachment",
+          "fullDescription": "Leaves > Attachment > Sessile or with short sheath"
+        },
+        {
+          "category": "Leaves",
+          "subcategory": "Persistence",
+          "description": "May be absent at flowering (leaves deciduous in some species)",
+          "fullPath": "Leaves > Persistence",
+          "fullDescription": "Leaves > Persistence > May be absent at flowering (leaves deciduous in some species)"
+        },
+        {
+          "category": "Inflorescence",
+          "subcategory": null,
+          "description": "Terminal spike with flowers typically in spiral arrangement",
+          "fullPath": "Inflorescence",
+          "fullDescription": "Inflorescence > Terminal spike with flowers typically in spiral arrangement"
+        },
+        {
+          "category": "Inflorescence",
+          "subcategory": null,
+          "description": "Pages from Chapter 3: Species descriptions",
+          "fullPath": "Inflorescence",
+          "fullDescription": "Inflorescence > Pages from Chapter 3: Species descriptions"
+        },
+        {
+          "category": "Inflorescence",
+          "subcategory": "Page 13",
+          "description": "Corymborkis, Erythrodes",
+          "fullPath": "Inflorescence > Page 13",
+          "fullDescription": "Inflorescence > Page 13 > Corymborkis, Erythrodes"
+        },
+        {
+          "category": "Inflorescence",
+          "subcategory": "Page 15",
+          "description": "Goodyera, Hetaeria, Liparis, Malaxis, Spiranthes",
+          "fullPath": "Inflorescence > Page 15",
+          "fullDescription": "Inflorescence > Page 15 > Goodyera, Hetaeria, Liparis, Malaxis, Spiranthes"
+        },
+        {
+          "category": "Inflorescence",
+          "subcategory": "Pages 41-48",
+          "description": "Habenaria (continuous description with 8+ species)",
+          "fullPath": "Inflorescence > Pages 41-48",
+          "fullDescription": "Inflorescence > Pages 41-48 > Habenaria (continuous description with 8+ species)"
+        },
+        {
+          "category": "Inflorescence",
+          "subcategory": null,
+          "description": "Key distinguishing features:",
+          "fullPath": "Inflorescence",
+          "fullDescription": "Inflorescence > Key distinguishing features:"
+        },
+        {
+          "category": "Inflorescence",
+          "subcategory": null,
+          "description": "**Total Genera**: 8",
+          "fullPath": "Inflorescence",
+          "fullDescription": "Inflorescence > **Total Genera**: 8"
+        },
+        {
+          "category": "Inflorescence",
+          "subcategory": null,
+          "description": "**Total Characteristics**: 13",
+          "fullPath": "Inflorescence",
+          "fullDescription": "Inflorescence > **Total Characteristics**: 13"
+        },
+        {
+          "category": "Inflorescence",
+          "subcategory": null,
+          "description": "**Average characteristics per genus**: 4.8",
+          "fullPath": "Inflorescence",
+          "fullDescription": "Inflorescence > **Average characteristics per genus**: 4.8"
+        },
+        {
+          "category": "Inflorescence",
+          "subcategory": null,
+          "description": "**Most common characteristic**: Leaves (8 genera)",
+          "fullPath": "Inflorescence",
+          "fullDescription": "Inflorescence > **Most common characteristic**: Leaves (8 genera)"
+        },
+        {
+          "category": "Inflorescence",
+          "subcategory": null,
+          "description": "**Least common characteristics**: Capsule (1), Roots/Underground organs (1), Notes on species variation (1)",
+          "fullPath": "Inflorescence",
+          "fullDescription": "Inflorescence > **Least common characteristics**: Capsule (1), Roots/Underground organs (1), Notes on species variation (1)"
+        },
+        {
+          "category": "Inflorescence",
+          "subcategory": null,
+          "description": "**Capsule** ↔ **Overall Plant Size**: 100.0% overlap",
+          "fullPath": "Inflorescence",
+          "fullDescription": "Inflorescence > **Capsule** ↔ **Overall Plant Size**: 100.0% overlap"
+        },
+        {
+          "category": "Inflorescence",
+          "subcategory": null,
+          "description": "**Notes on species variation** ↔ **Roots/Underground organs**: 100.0% overlap",
+          "fullPath": "Inflorescence",
+          "fullDescription": "Inflorescence > **Notes on species variation** ↔ **Roots/Underground organs**: 100.0% overlap"
+        },
+        {
+          "category": "Inflorescence",
+          "subcategory": null,
+          "description": "**Growth Habit** ↔ **Leaves**: 62.5% overlap",
+          "fullPath": "Inflorescence",
+          "fullDescription": "Inflorescence > **Growth Habit** ↔ **Leaves**: 62.5% overlap"
+        },
+        {
+          "category": "Inflorescence",
+          "subcategory": null,
+          "description": "**Leaves** ↔ **Rhizome**: 62.5% overlap",
+          "fullPath": "Inflorescence",
+          "fullDescription": "Inflorescence > **Leaves** ↔ **Rhizome**: 62.5% overlap"
+        },
+        {
+          "category": "Inflorescence",
+          "subcategory": null,
+          "description": "**Leaves** ↔ **Stems**: 62.5% overlap",
+          "fullPath": "Inflorescence",
+          "fullDescription": "Inflorescence > **Leaves** ↔ **Stems**: 62.5% overlap"
+        }
+      ]
+    }
+  },
+  "features": {
+    "Growth Habit > Terrestrial plants": {
+      "genera": [
+        "Corymborkis Thou."
+      ],
+      "category": "Growth Habit",
+      "subcategory": null,
+      "description": "Terrestrial plants",
+      "fullPath": "Growth Habit"
+    },
+    "Rhizome > Short": {
+      "genera": [
+        "Corymborkis Thou."
+      ],
+      "category": "Rhizome",
+      "subcategory": null,
+      "description": "Short",
+      "fullPath": "Rhizome"
+    },
+    "Rhizome > Sympodial": {
+      "genera": [
+        "Corymborkis Thou."
+      ],
+      "category": "Rhizome",
+      "subcategory": null,
+      "description": "Sympodial",
+      "fullPath": "Rhizome"
+    },
+    "Rhizome > Creeping": {
+      "genera": [
+        "Corymborkis Thou.",
+        "Goodyera R. Br.",
+        "Hetaeria Bl."
+      ],
+      "category": "Rhizome",
+      "subcategory": null,
+      "description": "Creeping",
+      "fullPath": "Rhizome"
+    },
+    "Roots > Fasciculate (clustered)": {
+      "genera": [
+        "Corymborkis Thou."
+      ],
+      "category": "Roots",
+      "subcategory": null,
+      "description": "Fasciculate (clustered)",
+      "fullPath": "Roots"
+    },
+    "Roots > Wiry": {
+      "genera": [
+        "Corymborkis Thou."
+      ],
+      "category": "Roots",
+      "subcategory": null,
+      "description": "Wiry",
+      "fullPath": "Roots"
+    },
+    "Stem > Deciduous": {
+      "genera": [
+        "Corymborkis Thou."
+      ],
+      "category": "Stem",
+      "subcategory": null,
+      "description": "Deciduous",
+      "fullPath": "Stem"
+    },
+    "Stem > Slender": {
+      "genera": [
+        "Corymborkis Thou."
+      ],
+      "category": "Stem",
+      "subcategory": null,
+      "description": "Slender",
+      "fullPath": "Stem"
+    },
+    "Stem > Terete (cylindrical)": {
+      "genera": [
+        "Corymborkis Thou."
+      ],
+      "category": "Stem",
+      "subcategory": null,
+      "description": "Terete (cylindrical)",
+      "fullPath": "Stem"
+    },
+    "Stem > Tapering": {
+      "genera": [
+        "Corymborkis Thou."
+      ],
+      "category": "Stem",
+      "subcategory": null,
+      "description": "Tapering",
+      "fullPath": "Stem"
+    },
+    "Stem > Leafy": {
+      "genera": [
+        "Corymborkis Thou."
+      ],
+      "category": "Stem",
+      "subcategory": null,
+      "description": "Leafy",
+      "fullPath": "Stem"
+    },
+    "Leaves > Arrangement > Alternate in 2 series OR spirally arranged": {
+      "genera": [
+        "Corymborkis Thou."
+      ],
+      "category": "Leaves",
+      "subcategory": "Arrangement",
+      "description": "Alternate in 2 series OR spirally arranged",
+      "fullPath": "Leaves > Arrangement"
+    },
+    "Leaves > Attachment > Sessile": {
+      "genera": [
+        "Corymborkis Thou."
+      ],
+      "category": "Leaves",
+      "subcategory": "Attachment",
+      "description": "Sessile",
+      "fullPath": "Leaves > Attachment"
+    },
+    "Leaves > Position > Distichous (in two ranks)": {
+      "genera": [
+        "Corymborkis Thou."
+      ],
+      "category": "Leaves",
+      "subcategory": "Position",
+      "description": "Distichous (in two ranks)",
+      "fullPath": "Leaves > Position"
+    },
+    "Leaves > Texture > Flat, plicate (pleated), thin": {
+      "genera": [
+        "Corymborkis Thou."
+      ],
+      "category": "Leaves",
+      "subcategory": "Texture",
+      "description": "Flat, plicate (pleated), thin",
+      "fullPath": "Leaves > Texture"
+    },
+    "Leaves > Sheaths > Well-developed": {
+      "genera": [
+        "Corymborkis Thou."
+      ],
+      "category": "Leaves",
+      "subcategory": "Sheaths",
+      "description": "Well-developed",
+      "fullPath": "Leaves > Sheaths"
+    },
+    "Leaves > Dimensions > 5 to 30 cm long and 1 to 4 cm wide": {
+      "genera": [
+        "Corymborkis Thou."
+      ],
+      "category": "Leaves",
+      "subcategory": "Dimensions",
+      "description": "5 to 30 cm long and 1 to 4 cm wide",
+      "fullPath": "Leaves > Dimensions"
+    },
+    "Leaves > Number > 25 or more leaves": {
+      "genera": [
+        "Corymborkis Thou."
+      ],
+      "category": "Leaves",
+      "subcategory": "Number",
+      "description": "25 or more leaves",
+      "fullPath": "Leaves > Number"
+    },
+    "Overall Plant Size > Thin terrestrial": {
+      "genera": [
+        "Corymborkis Thou."
+      ],
+      "category": "Overall Plant Size",
+      "subcategory": null,
+      "description": "Thin terrestrial",
+      "fullPath": "Overall Plant Size"
+    },
+    "Overall Plant Size > Tall and erect": {
+      "genera": [
+        "Corymborkis Thou."
+      ],
+      "category": "Overall Plant Size",
+      "subcategory": null,
+      "description": "Tall and erect",
+      "fullPath": "Overall Plant Size"
+    },
+    "Overall Plant Size > 50 cm to 2 m tall": {
+      "genera": [
+        "Corymborkis Thou."
+      ],
+      "category": "Overall Plant Size",
+      "subcategory": null,
+      "description": "50 cm to 2 m tall",
+      "fullPath": "Overall Plant Size"
+    },
+    "Capsule > 3-angled": {
+      "genera": [
+        "Corymborkis Thou."
+      ],
+      "category": "Capsule",
+      "subcategory": null,
+      "description": "3-angled",
+      "fullPath": "Capsule"
+    },
+    "Capsule > Thin-walled": {
+      "genera": [
+        "Corymborkis Thou."
+      ],
+      "category": "Capsule",
+      "subcategory": null,
+      "description": "Thin-walled",
+      "fullPath": "Capsule"
+    },
+    "Capsule > Erect": {
+      "genera": [
+        "Corymborkis Thou."
+      ],
+      "category": "Capsule",
+      "subcategory": null,
+      "description": "Erect",
+      "fullPath": "Capsule"
+    },
+    "Rhizome > Creeping rhizome with short, erect, vertical branches": {
+      "genera": [
+        "Erythrodes Bl."
+      ],
+      "category": "Rhizome",
+      "subcategory": null,
+      "description": "Creeping rhizome with short, erect, vertical branches",
+      "fullPath": "Rhizome"
+    },
+    "Stems > Erect": {
+      "genera": [
+        "Erythrodes Bl.",
+        "Goodyera R. Br.",
+        "Habenaria Willd.",
+        "Hetaeria Bl.",
+        "Spiranthes Rich."
+      ],
+      "category": "Stems",
+      "subcategory": null,
+      "description": "Erect",
+      "fullPath": "Stems"
+    },
+    "Stems > Sheathed by bracts at the base of peduncle": {
+      "genera": [
+        "Erythrodes Bl."
+      ],
+      "category": "Stems",
+      "subcategory": null,
+      "description": "Sheathed by bracts at the base of peduncle",
+      "fullPath": "Stems"
+    },
+    "Leaves > Texture > Membranous": {
+      "genera": [
+        "Erythrodes Bl."
+      ],
+      "category": "Leaves",
+      "subcategory": "Texture",
+      "description": "Membranous",
+      "fullPath": "Leaves > Texture"
+    },
+    "Leaves > Shape > Elliptic-ovate": {
+      "genera": [
+        "Erythrodes Bl."
+      ],
+      "category": "Leaves",
+      "subcategory": "Shape",
+      "description": "Elliptic-ovate",
+      "fullPath": "Leaves > Shape"
+    },
+    "Leaves > Attachment > Petiolate (with petiole)": {
+      "genera": [
+        "Erythrodes Bl."
+      ],
+      "category": "Leaves",
+      "subcategory": "Attachment",
+      "description": "Petiolate (with petiole)",
+      "fullPath": "Leaves > Attachment"
+    },
+    "Leaves > Sheath > Infundibuliform (funnel-shaped)": {
+      "genera": [
+        "Erythrodes Bl."
+      ],
+      "category": "Leaves",
+      "subcategory": "Sheath",
+      "description": "Infundibuliform (funnel-shaped)",
+      "fullPath": "Leaves > Sheath"
+    },
+    "Leaves > Arrangement > 2-ranked": {
+      "genera": [
+        "Erythrodes Bl."
+      ],
+      "category": "Leaves",
+      "subcategory": "Arrangement",
+      "description": "2-ranked",
+      "fullPath": "Leaves > Arrangement"
+    },
+    "Inflorescence > Terminal raceme or corymb": {
+      "genera": [
+        "Erythrodes Bl."
+      ],
+      "category": "Inflorescence",
+      "subcategory": null,
+      "description": "Terminal raceme or corymb",
+      "fullPath": "Inflorescence"
+    },
+    "Rhizome > Fleshy": {
+      "genera": [
+        "Goodyera R. Br."
+      ],
+      "category": "Rhizome",
+      "subcategory": null,
+      "description": "Fleshy",
+      "fullPath": "Rhizome"
+    },
+    "Stems > Short": {
+      "genera": [
+        "Goodyera R. Br."
+      ],
+      "category": "Stems",
+      "subcategory": null,
+      "description": "Short",
+      "fullPath": "Stems"
+    },
+    "Leaves > Arrangement > Basal rosette or cauline (stem leaves)": {
+      "genera": [
+        "Goodyera R. Br."
+      ],
+      "category": "Leaves",
+      "subcategory": "Arrangement",
+      "description": "Basal rosette or cauline (stem leaves)",
+      "fullPath": "Leaves > Arrangement"
+    },
+    "Leaves > Texture > Fleshy to membranous": {
+      "genera": [
+        "Goodyera R. Br."
+      ],
+      "category": "Leaves",
+      "subcategory": "Texture",
+      "description": "Fleshy to membranous",
+      "fullPath": "Leaves > Texture"
+    },
+    "Leaves > Venation > Often marked with white or pale veins": {
+      "genera": [
+        "Goodyera R. Br."
+      ],
+      "category": "Leaves",
+      "subcategory": "Venation",
+      "description": "Often marked with white or pale veins",
+      "fullPath": "Leaves > Venation"
+    },
+    "Leaves > Shape > Ovate to lanceolate": {
+      "genera": [
+        "Goodyera R. Br."
+      ],
+      "category": "Leaves",
+      "subcategory": "Shape",
+      "description": "Ovate to lanceolate",
+      "fullPath": "Leaves > Shape"
+    },
+    "Leaves > Attachment > Petiolate or sessile": {
+      "genera": [
+        "Goodyera R. Br."
+      ],
+      "category": "Leaves",
+      "subcategory": "Attachment",
+      "description": "Petiolate or sessile",
+      "fullPath": "Leaves > Attachment"
+    },
+    "Roots > Fleshy": {
+      "genera": [
+        "Goodyera R. Br.",
+        "Spiranthes Rich."
+      ],
+      "category": "Roots",
+      "subcategory": null,
+      "description": "Fleshy",
+      "fullPath": "Roots"
+    },
+    "Roots > From rhizome nodes": {
+      "genera": [
+        "Goodyera R. Br."
+      ],
+      "category": "Roots",
+      "subcategory": null,
+      "description": "From rhizome nodes",
+      "fullPath": "Roots"
+    },
+    "Growth Habit > Terrestrial": {
+      "genera": [
+        "Habenaria Willd.",
+        "Spiranthes Rich."
+      ],
+      "category": "Growth Habit",
+      "subcategory": null,
+      "description": "Terrestrial",
+      "fullPath": "Growth Habit"
+    },
+    "Roots/Underground organs > Tubers (rounded or ovoid) OR": {
+      "genera": [
+        "Habenaria Willd."
+      ],
+      "category": "Roots/Underground organs",
+      "subcategory": null,
+      "description": "Tubers (rounded or ovoid) OR",
+      "fullPath": "Roots/Underground organs"
+    },
+    "Roots/Underground organs > Fleshy, tuberous roots": {
+      "genera": [
+        "Habenaria Willd."
+      ],
+      "category": "Roots/Underground organs",
+      "subcategory": null,
+      "description": "Fleshy, tuberous roots",
+      "fullPath": "Roots/Underground organs"
+    },
+    "Roots/Underground organs > Variable in form: some species with single rounded tuber, others with fleshy fasciculate roots": {
+      "genera": [
+        "Habenaria Willd."
+      ],
+      "category": "Roots/Underground organs",
+      "subcategory": null,
+      "description": "Variable in form: some species with single rounded tuber, others with fleshy fasciculate roots",
+      "fullPath": "Roots/Underground organs"
+    },
+    "Stems > Leafy": {
+      "genera": [
+        "Habenaria Willd."
+      ],
+      "category": "Stems",
+      "subcategory": null,
+      "description": "Leafy",
+      "fullPath": "Stems"
+    },
+    "Stems > Slender to stout depending on species": {
+      "genera": [
+        "Habenaria Willd."
+      ],
+      "category": "Stems",
+      "subcategory": null,
+      "description": "Slender to stout depending on species",
+      "fullPath": "Stems"
+    },
+    "Stems > Height variable: from 10-15 cm to over 50 cm": {
+      "genera": [
+        "Habenaria Willd."
+      ],
+      "category": "Stems",
+      "subcategory": null,
+      "description": "Height variable: from 10-15 cm to over 50 cm",
+      "fullPath": "Stems"
+    },
+    "Leaves > Arrangement > Variable - basal rosette, cauline (along stem), or both": {
+      "genera": [
+        "Habenaria Willd."
+      ],
+      "category": "Leaves",
+      "subcategory": "Arrangement",
+      "description": "Variable - basal rosette, cauline (along stem), or both",
+      "fullPath": "Leaves > Arrangement"
+    },
+    "Leaves > Number > 1 to several leaves": {
+      "genera": [
+        "Habenaria Willd."
+      ],
+      "category": "Leaves",
+      "subcategory": "Number",
+      "description": "1 to several leaves",
+      "fullPath": "Leaves > Number"
+    },
+    "Leaves > Shape > Variable by species - lanceolate, ovate, elliptic, oblong, linear": {
+      "genera": [
+        "Habenaria Willd."
+      ],
+      "category": "Leaves",
+      "subcategory": "Shape",
+      "description": "Variable by species - lanceolate, ovate, elliptic, oblong, linear",
+      "fullPath": "Leaves > Shape"
+    },
+    "Leaves > Texture > Thin to somewhat fleshy, membranous to slightly succulent": {
+      "genera": [
+        "Habenaria Willd."
+      ],
+      "category": "Leaves",
+      "subcategory": "Texture",
+      "description": "Thin to somewhat fleshy, membranous to slightly succulent",
+      "fullPath": "Leaves > Texture"
+    },
+    "Leaves > Size > Highly variable (2-30 cm long, 0.5-4 cm wide depending on species)": {
+      "genera": [
+        "Habenaria Willd."
+      ],
+      "category": "Leaves",
+      "subcategory": "Size",
+      "description": "Highly variable (2-30 cm long, 0.5-4 cm wide depending on species)",
+      "fullPath": "Leaves > Size"
+    },
+    "Leaves > Attachment > Sessile or with short petiole, sheathing at base": {
+      "genera": [
+        "Habenaria Willd."
+      ],
+      "category": "Leaves",
+      "subcategory": "Attachment",
+      "description": "Sessile or with short petiole, sheathing at base",
+      "fullPath": "Leaves > Attachment"
+    },
+    "Leaves > Position > Basal, appressed to ground, spreading, or clasping stem": {
+      "genera": [
+        "Habenaria Willd."
+      ],
+      "category": "Leaves",
+      "subcategory": "Position",
+      "description": "Basal, appressed to ground, spreading, or clasping stem",
+      "fullPath": "Leaves > Position"
+    },
+    "Leaves > Surface > Green, sometimes with pale or darker markings": {
+      "genera": [
+        "Habenaria Willd."
+      ],
+      "category": "Leaves",
+      "subcategory": "Surface",
+      "description": "Green, sometimes with pale or darker markings",
+      "fullPath": "Leaves > Surface"
+    },
+    "Leaves > Persistence > Present at flowering in most species": {
+      "genera": [
+        "Habenaria Willd."
+      ],
+      "category": "Leaves",
+      "subcategory": "Persistence",
+      "description": "Present at flowering in most species",
+      "fullPath": "Leaves > Persistence"
+    },
+    "Notes on species variation > H. alata: leaves lanceolate, acute": {
+      "genera": [
+        "Habenaria Willd."
+      ],
+      "category": "Notes on species variation",
+      "subcategory": null,
+      "description": "H. alata: leaves lanceolate, acute",
+      "fullPath": "Notes on species variation"
+    },
+    "Notes on species variation > H. brachyceras: rounded tuber, leaves small, oblong-elliptic": {
+      "genera": [
+        "Habenaria Willd."
+      ],
+      "category": "Notes on species variation",
+      "subcategory": null,
+      "description": "H. brachyceras: rounded tuber, leaves small, oblong-elliptic",
+      "fullPath": "Notes on species variation"
+    },
+    "Notes on species variation > H. distans: leaves lanceolate, basal": {
+      "genera": [
+        "Habenaria Willd."
+      ],
+      "category": "Notes on species variation",
+      "subcategory": null,
+      "description": "H. distans: leaves lanceolate, basal",
+      "fullPath": "Notes on species variation"
+    },
+    "Notes on species variation > H. floribunda: leaves lanceolate to ovate, cauline": {
+      "genera": [
+        "Habenaria Willd."
+      ],
+      "category": "Notes on species variation",
+      "subcategory": null,
+      "description": "H. floribunda: leaves lanceolate to ovate, cauline",
+      "fullPath": "Notes on species variation"
+    },
+    "Notes on species variation > H. monorrhiza: leaves ovate-lanceolate, spreading": {
+      "genera": [
+        "Habenaria Willd."
+      ],
+      "category": "Notes on species variation",
+      "subcategory": null,
+      "description": "H. monorrhiza: leaves ovate-lanceolate, spreading",
+      "fullPath": "Notes on species variation"
+    },
+    "Notes on species variation > H. odontopetala: leaves oblanceolate, basal": {
+      "genera": [
+        "Habenaria Willd."
+      ],
+      "category": "Notes on species variation",
+      "subcategory": null,
+      "description": "H. odontopetala: leaves oblanceolate, basal",
+      "fullPath": "Notes on species variation"
+    },
+    "Notes on species variation > H. quinqueseta: leaves ovate to elliptic": {
+      "genera": [
+        "Habenaria Willd."
+      ],
+      "category": "Notes on species variation",
+      "subcategory": null,
+      "description": "H. quinqueseta: leaves ovate to elliptic",
+      "fullPath": "Notes on species variation"
+    },
+    "Notes on species variation > H. repens: leaves ovate to oblong, shady habitats": {
+      "genera": [
+        "Habenaria Willd."
+      ],
+      "category": "Notes on species variation",
+      "subcategory": null,
+      "description": "H. repens: leaves ovate to oblong, shady habitats",
+      "fullPath": "Notes on species variation"
+    },
+    "Stems > Slender": {
+      "genera": [
+        "Hetaeria Bl.",
+        "Spiranthes Rich."
+      ],
+      "category": "Stems",
+      "subcategory": null,
+      "description": "Slender",
+      "fullPath": "Stems"
+    },
+    "Leaves > Texture > Membranous to fleshy": {
+      "genera": [
+        "Hetaeria Bl."
+      ],
+      "category": "Leaves",
+      "subcategory": "Texture",
+      "description": "Membranous to fleshy",
+      "fullPath": "Leaves > Texture"
+    },
+    "Leaves > Arrangement > Several along stem or in basal rosette": {
+      "genera": [
+        "Hetaeria Bl."
+      ],
+      "category": "Leaves",
+      "subcategory": "Arrangement",
+      "description": "Several along stem or in basal rosette",
+      "fullPath": "Leaves > Arrangement"
+    },
+    "Leaves > Shape > Ovate to elliptic": {
+      "genera": [
+        "Hetaeria Bl."
+      ],
+      "category": "Leaves",
+      "subcategory": "Shape",
+      "description": "Ovate to elliptic",
+      "fullPath": "Leaves > Shape"
+    },
+    "Leaves > Venation > Sometimes marked with lighter veins": {
+      "genera": [
+        "Hetaeria Bl."
+      ],
+      "category": "Leaves",
+      "subcategory": "Venation",
+      "description": "Sometimes marked with lighter veins",
+      "fullPath": "Leaves > Venation"
+    },
+    "Leaves > Attachment > Petiolate with tubular sheath": {
+      "genera": [
+        "Hetaeria Bl."
+      ],
+      "category": "Leaves",
+      "subcategory": "Attachment",
+      "description": "Petiolate with tubular sheath",
+      "fullPath": "Leaves > Attachment"
+    },
+    "Growth Habit > Epiphytic or terrestrial": {
+      "genera": [
+        "Liparis Rich."
+      ],
+      "category": "Growth Habit",
+      "subcategory": null,
+      "description": "Epiphytic or terrestrial",
+      "fullPath": "Growth Habit"
+    },
+    "Pseudobulbs > Present": {
+      "genera": [
+        "Liparis Rich."
+      ],
+      "category": "Pseudobulbs",
+      "subcategory": null,
+      "description": "Present",
+      "fullPath": "Pseudobulbs"
+    },
+    "Pseudobulbs > Ovoid to elongate": {
+      "genera": [
+        "Liparis Rich."
+      ],
+      "category": "Pseudobulbs",
+      "subcategory": null,
+      "description": "Ovoid to elongate",
+      "fullPath": "Pseudobulbs"
+    },
+    "Pseudobulbs > Clustered or well-spaced on rhizome": {
+      "genera": [
+        "Liparis Rich."
+      ],
+      "category": "Pseudobulbs",
+      "subcategory": null,
+      "description": "Clustered or well-spaced on rhizome",
+      "fullPath": "Pseudobulbs"
+    },
+    "Rhizome > Creeping to abbreviated": {
+      "genera": [
+        "Liparis Rich."
+      ],
+      "category": "Rhizome",
+      "subcategory": null,
+      "description": "Creeping to abbreviated",
+      "fullPath": "Rhizome"
+    },
+    "Leaves > Number > 1-several per pseudobulb": {
+      "genera": [
+        "Liparis Rich."
+      ],
+      "category": "Leaves",
+      "subcategory": "Number",
+      "description": "1-several per pseudobulb",
+      "fullPath": "Leaves > Number"
+    },
+    "Leaves > Texture > Thin to somewhat fleshy": {
+      "genera": [
+        "Liparis Rich.",
+        "Spiranthes Rich."
+      ],
+      "category": "Leaves",
+      "subcategory": "Texture",
+      "description": "Thin to somewhat fleshy",
+      "fullPath": "Leaves > Texture"
+    },
+    "Leaves > Shape > Elliptic, ovate, or lanceolate": {
+      "genera": [
+        "Liparis Rich."
+      ],
+      "category": "Leaves",
+      "subcategory": "Shape",
+      "description": "Elliptic, ovate, or lanceolate",
+      "fullPath": "Leaves > Shape"
+    },
+    "Leaves > Venation > Plicate or non-plicate": {
+      "genera": [
+        "Liparis Rich."
+      ],
+      "category": "Leaves",
+      "subcategory": "Venation",
+      "description": "Plicate or non-plicate",
+      "fullPath": "Leaves > Venation"
+    },
+    "Leaves > Attachment > Petiolate or subsessile": {
+      "genera": [
+        "Liparis Rich."
+      ],
+      "category": "Leaves",
+      "subcategory": "Attachment",
+      "description": "Petiolate or subsessile",
+      "fullPath": "Leaves > Attachment"
+    },
+    "Leaves > Arrangement > Basal from pseudobulb apex": {
+      "genera": [
+        "Liparis Rich."
+      ],
+      "category": "Leaves",
+      "subcategory": "Arrangement",
+      "description": "Basal from pseudobulb apex",
+      "fullPath": "Leaves > Arrangement"
+    },
+    "Growth Habit > Terrestrial or epiphytic": {
+      "genera": [
+        "Malaxis Sol. ex Sw."
+      ],
+      "category": "Growth Habit",
+      "subcategory": null,
+      "description": "Terrestrial or epiphytic",
+      "fullPath": "Growth Habit"
+    },
+    "Pseudobulbs > Small": {
+      "genera": [
+        "Malaxis Sol. ex Sw."
+      ],
+      "category": "Pseudobulbs",
+      "subcategory": null,
+      "description": "Small",
+      "fullPath": "Pseudobulbs"
+    },
+    "Pseudobulbs > Often clustered": {
+      "genera": [
+        "Malaxis Sol. ex Sw."
+      ],
+      "category": "Pseudobulbs",
+      "subcategory": null,
+      "description": "Often clustered",
+      "fullPath": "Pseudobulbs"
+    },
+    "Pseudobulbs > Ovoid to subglobose": {
+      "genera": [
+        "Malaxis Sol. ex Sw."
+      ],
+      "category": "Pseudobulbs",
+      "subcategory": null,
+      "description": "Ovoid to subglobose",
+      "fullPath": "Pseudobulbs"
+    },
+    "Leaves > Number > 1-several": {
+      "genera": [
+        "Malaxis Sol. ex Sw."
+      ],
+      "category": "Leaves",
+      "subcategory": "Number",
+      "description": "1-several",
+      "fullPath": "Leaves > Number"
+    },
+    "Leaves > Position > Terminal on pseudobulb or along stem": {
+      "genera": [
+        "Malaxis Sol. ex Sw."
+      ],
+      "category": "Leaves",
+      "subcategory": "Position",
+      "description": "Terminal on pseudobulb or along stem",
+      "fullPath": "Leaves > Position"
+    },
+    "Leaves > Texture > Thin, membranous to somewhat fleshy": {
+      "genera": [
+        "Malaxis Sol. ex Sw."
+      ],
+      "category": "Leaves",
+      "subcategory": "Texture",
+      "description": "Thin, membranous to somewhat fleshy",
+      "fullPath": "Leaves > Texture"
+    },
+    "Leaves > Shape > Ovate to elliptic or lanceolate": {
+      "genera": [
+        "Malaxis Sol. ex Sw."
+      ],
+      "category": "Leaves",
+      "subcategory": "Shape",
+      "description": "Ovate to elliptic or lanceolate",
+      "fullPath": "Leaves > Shape"
+    },
+    "Leaves > Venation > Plicate or not": {
+      "genera": [
+        "Malaxis Sol. ex Sw."
+      ],
+      "category": "Leaves",
+      "subcategory": "Venation",
+      "description": "Plicate or not",
+      "fullPath": "Leaves > Venation"
+    },
+    "Leaves > Attachment > Usually sessile or subsessile": {
+      "genera": [
+        "Malaxis Sol. ex Sw."
+      ],
+      "category": "Leaves",
+      "subcategory": "Attachment",
+      "description": "Usually sessile or subsessile",
+      "fullPath": "Leaves > Attachment"
+    },
+    "Stem > Sometimes elongated between pseudobulbs": {
+      "genera": [
+        "Malaxis Sol. ex Sw."
+      ],
+      "category": "Stem",
+      "subcategory": null,
+      "description": "Sometimes elongated between pseudobulbs",
+      "fullPath": "Stem"
+    },
+    "Roots > Fasciculate": {
+      "genera": [
+        "Spiranthes Rich."
+      ],
+      "category": "Roots",
+      "subcategory": null,
+      "description": "Fasciculate",
+      "fullPath": "Roots"
+    },
+    "Roots > Tuberous or cylindrical": {
+      "genera": [
+        "Spiranthes Rich."
+      ],
+      "category": "Roots",
+      "subcategory": null,
+      "description": "Tuberous or cylindrical",
+      "fullPath": "Roots"
+    },
+    "Leaves > Arrangement > Basal rosette or along stem": {
+      "genera": [
+        "Spiranthes Rich."
+      ],
+      "category": "Leaves",
+      "subcategory": "Arrangement",
+      "description": "Basal rosette or along stem",
+      "fullPath": "Leaves > Arrangement"
+    },
+    "Leaves > Shape > Linear to lanceolate or ovate": {
+      "genera": [
+        "Spiranthes Rich."
+      ],
+      "category": "Leaves",
+      "subcategory": "Shape",
+      "description": "Linear to lanceolate or ovate",
+      "fullPath": "Leaves > Shape"
+    },
+    "Leaves > Attachment > Sessile or with short sheath": {
+      "genera": [
+        "Spiranthes Rich."
+      ],
+      "category": "Leaves",
+      "subcategory": "Attachment",
+      "description": "Sessile or with short sheath",
+      "fullPath": "Leaves > Attachment"
+    },
+    "Leaves > Persistence > May be absent at flowering (leaves deciduous in some species)": {
+      "genera": [
+        "Spiranthes Rich."
+      ],
+      "category": "Leaves",
+      "subcategory": "Persistence",
+      "description": "May be absent at flowering (leaves deciduous in some species)",
+      "fullPath": "Leaves > Persistence"
+    },
+    "Inflorescence > Terminal spike with flowers typically in spiral arrangement": {
+      "genera": [
+        "Spiranthes Rich."
+      ],
+      "category": "Inflorescence",
+      "subcategory": null,
+      "description": "Terminal spike with flowers typically in spiral arrangement",
+      "fullPath": "Inflorescence"
+    },
+    "Inflorescence > Pages from Chapter 3: Species descriptions": {
+      "genera": [
+        "Spiranthes Rich."
+      ],
+      "category": "Inflorescence",
+      "subcategory": null,
+      "description": "Pages from Chapter 3: Species descriptions",
+      "fullPath": "Inflorescence"
+    },
+    "Inflorescence > Page 13 > Corymborkis, Erythrodes": {
+      "genera": [
+        "Spiranthes Rich."
+      ],
+      "category": "Inflorescence",
+      "subcategory": "Page 13",
+      "description": "Corymborkis, Erythrodes",
+      "fullPath": "Inflorescence > Page 13"
+    },
+    "Inflorescence > Page 15 > Goodyera, Hetaeria, Liparis, Malaxis, Spiranthes": {
+      "genera": [
+        "Spiranthes Rich."
+      ],
+      "category": "Inflorescence",
+      "subcategory": "Page 15",
+      "description": "Goodyera, Hetaeria, Liparis, Malaxis, Spiranthes",
+      "fullPath": "Inflorescence > Page 15"
+    },
+    "Inflorescence > Pages 41-48 > Habenaria (continuous description with 8+ species)": {
+      "genera": [
+        "Spiranthes Rich."
+      ],
+      "category": "Inflorescence",
+      "subcategory": "Pages 41-48",
+      "description": "Habenaria (continuous description with 8+ species)",
+      "fullPath": "Inflorescence > Pages 41-48"
+    },
+    "Inflorescence > Key distinguishing features:": {
+      "genera": [
+        "Spiranthes Rich."
+      ],
+      "category": "Inflorescence",
+      "subcategory": null,
+      "description": "Key distinguishing features:",
+      "fullPath": "Inflorescence"
+    },
+    "Inflorescence > **Total Genera**: 8": {
+      "genera": [
+        "Spiranthes Rich."
+      ],
+      "category": "Inflorescence",
+      "subcategory": null,
+      "description": "**Total Genera**: 8",
+      "fullPath": "Inflorescence"
+    },
+    "Inflorescence > **Total Characteristics**: 13": {
+      "genera": [
+        "Spiranthes Rich."
+      ],
+      "category": "Inflorescence",
+      "subcategory": null,
+      "description": "**Total Characteristics**: 13",
+      "fullPath": "Inflorescence"
+    },
+    "Inflorescence > **Average characteristics per genus**: 4.8": {
+      "genera": [
+        "Spiranthes Rich."
+      ],
+      "category": "Inflorescence",
+      "subcategory": null,
+      "description": "**Average characteristics per genus**: 4.8",
+      "fullPath": "Inflorescence"
+    },
+    "Inflorescence > **Most common characteristic**: Leaves (8 genera)": {
+      "genera": [
+        "Spiranthes Rich."
+      ],
+      "category": "Inflorescence",
+      "subcategory": null,
+      "description": "**Most common characteristic**: Leaves (8 genera)",
+      "fullPath": "Inflorescence"
+    },
+    "Inflorescence > **Least common characteristics**: Capsule (1), Roots/Underground organs (1), Notes on species variation (1)": {
+      "genera": [
+        "Spiranthes Rich."
+      ],
+      "category": "Inflorescence",
+      "subcategory": null,
+      "description": "**Least common characteristics**: Capsule (1), Roots/Underground organs (1), Notes on species variation (1)",
+      "fullPath": "Inflorescence"
+    },
+    "Inflorescence > **Capsule** ↔ **Overall Plant Size**: 100.0% overlap": {
+      "genera": [
+        "Spiranthes Rich."
+      ],
+      "category": "Inflorescence",
+      "subcategory": null,
+      "description": "**Capsule** ↔ **Overall Plant Size**: 100.0% overlap",
+      "fullPath": "Inflorescence"
+    },
+    "Inflorescence > **Notes on species variation** ↔ **Roots/Underground organs**: 100.0% overlap": {
+      "genera": [
+        "Spiranthes Rich."
+      ],
+      "category": "Inflorescence",
+      "subcategory": null,
+      "description": "**Notes on species variation** ↔ **Roots/Underground organs**: 100.0% overlap",
+      "fullPath": "Inflorescence"
+    },
+    "Inflorescence > **Growth Habit** ↔ **Leaves**: 62.5% overlap": {
+      "genera": [
+        "Spiranthes Rich."
+      ],
+      "category": "Inflorescence",
+      "subcategory": null,
+      "description": "**Growth Habit** ↔ **Leaves**: 62.5% overlap",
+      "fullPath": "Inflorescence"
+    },
+    "Inflorescence > **Leaves** ↔ **Rhizome**: 62.5% overlap": {
+      "genera": [
+        "Spiranthes Rich."
+      ],
+      "category": "Inflorescence",
+      "subcategory": null,
+      "description": "**Leaves** ↔ **Rhizome**: 62.5% overlap",
+      "fullPath": "Inflorescence"
+    },
+    "Inflorescence > **Leaves** ↔ **Stems**: 62.5% overlap": {
+      "genera": [
+        "Spiranthes Rich."
+      ],
+      "category": "Inflorescence",
+      "subcategory": null,
+      "description": "**Leaves** ↔ **Stems**: 62.5% overlap",
+      "fullPath": "Inflorescence"
+    }
+  },
+  "ontology": {
+    "contextTerms": {
+      "Growth Habit": [
+        "epiphytic",
+        "plants",
+        "terrestrial"
+      ],
+      "Rhizome": [
+        "abbreviated",
+        "branches",
+        "creeping",
+        "erect",
+        "fleshy",
+        "rhizome",
+        "short",
+        "sympodial",
+        "vertical"
+      ],
+      "Roots": [
+        "cylindrical",
+        "fasciculate",
+        "fleshy",
+        "from",
+        "nodes",
+        "rhizome",
+        "tuberous",
+        "wiry"
+      ],
+      "Stem": [
+        "between",
+        "deciduous",
+        "elongated",
+        "leafy",
+        "pseudobulbs",
+        "slender",
+        "sometimes",
+        "tapering",
+        "terete"
+      ],
+      "Leaves > Arrangement": [
+        "2-ranked",
+        "along",
+        "alternate",
+        "apex",
+        "arranged",
+        "basal",
+        "both",
+        "cauline",
+        "from",
+        "pseudobulb",
+        "rosette",
+        "series",
+        "several",
+        "spirally",
+        "stem",
+        "variable"
+      ],
+      "Leaves > Attachment": [
+        "base",
+        "petiolate",
+        "petiole",
+        "sessile",
+        "sheath",
+        "sheathing",
+        "short",
+        "subsessile",
+        "tubular",
+        "usually"
+      ],
+      "Leaves > Position": [
+        "along",
+        "appressed",
+        "basal",
+        "clasping",
+        "distichous",
+        "ground",
+        "pseudobulb",
+        "spreading",
+        "stem",
+        "terminal"
+      ],
+      "Leaves > Texture": [
+        "flat",
+        "fleshy",
+        "membranous",
+        "plicate",
+        "slightly",
+        "somewhat",
+        "succulent",
+        "thin"
+      ],
+      "Leaves > Sheaths": [
+        "well-developed"
+      ],
+      "Leaves > Dimensions": [
+        "long",
+        "wide"
+      ],
+      "Leaves > Number": [
+        "1-several",
+        "leaves",
+        "more",
+        "per",
+        "pseudobulb",
+        "several"
+      ],
+      "Overall Plant Size": [
+        "erect",
+        "tall",
+        "terrestrial",
+        "thin"
+      ],
+      "Capsule": [
+        "3-angled",
+        "erect",
+        "thin-walled"
+      ],
+      "Stems": [
+        "10-15",
+        "base",
+        "bracts",
+        "depending",
+        "erect",
+        "from",
+        "height",
+        "leafy",
+        "over",
+        "peduncle",
+        "sheathed",
+        "short",
+        "slender",
+        "species",
+        "stout",
+        "variable:"
+      ],
+      "Leaves > Shape": [
+        "elliptic",
+        "elliptic-ovate",
+        "lanceolate",
+        "linear",
+        "oblong",
+        "ovate",
+        "species",
+        "variable"
+      ],
+      "Leaves > Sheath": [
+        "infundibuliform"
+      ],
+      "Inflorescence": [
+        "**average",
+        "**capsule**",
+        "**growth",
+        "**least",
+        "**leaves**",
+        "**leaves**:",
+        "**most",
+        "**notes",
+        "**overall",
+        "**rhizome**:",
+        "**roots",
+        "**stems**:",
+        "**total",
+        "100.0%",
+        "4.8",
+        "62.5%",
+        "arrangement",
+        "capsule",
+        "chapter",
+        "characteristic**:",
+        "characteristics",
+        "characteristics**:",
+        "common",
+        "corymb",
+        "descriptions",
+        "distinguishing",
+        "features",
+        "flowers",
+        "from",
+        "genera**:",
+        "genus**:",
+        "habit**",
+        "key",
+        "leaves",
+        "notes",
+        "organs",
+        "organs**:",
+        "overlap",
+        "pages",
+        "per",
+        "plant",
+        "raceme",
+        "roots",
+        "size**:",
+        "species",
+        "spike",
+        "spiral",
+        "terminal",
+        "typically",
+        "underground",
+        "variation",
+        "variation**"
+      ],
+      "Leaves > Venation": [
+        "lighter",
+        "marked",
+        "non-plicate",
+        "not",
+        "often",
+        "pale",
+        "plicate",
+        "sometimes",
+        "veins",
+        "white"
+      ],
+      "Roots/Underground organs": [
+        "fasciculate",
+        "fleshy",
+        "form:",
+        "others",
+        "roots",
+        "rounded",
+        "single",
+        "some",
+        "species",
+        "tuber",
+        "tuberous",
+        "tubers",
+        "variable"
+      ],
+      "Leaves > Size": [
+        "highly",
+        "variable"
+      ],
+      "Leaves > Surface": [
+        "darker",
+        "green",
+        "markings",
+        "pale",
+        "sometimes"
+      ],
+      "Leaves > Persistence": [
+        "absent",
+        "flowering",
+        "may",
+        "most",
+        "present",
+        "species"
+      ],
+      "Notes on species variation": [
+        "acute",
+        "alata:",
+        "basal",
+        "brachyceras:",
+        "cauline",
+        "distans:",
+        "elliptic",
+        "floribunda:",
+        "habitats",
+        "lanceolate",
+        "leaves",
+        "monorrhiza:",
+        "oblanceolate",
+        "oblong",
+        "oblong-elliptic",
+        "odontopetala:",
+        "ovate",
+        "ovate-lanceolate",
+        "quinqueseta:",
+        "repens:",
+        "rounded",
+        "shady",
+        "small",
+        "spreading",
+        "tuber"
+      ],
+      "Pseudobulbs": [
+        "clustered",
+        "elongate",
+        "often",
+        "ovoid",
+        "present",
+        "rhizome",
+        "small",
+        "subglobose",
+        "well-spaced"
+      ],
+      "Inflorescence > Page 13": [
+        "corymborkis",
+        "erythrodes"
+      ],
+      "Inflorescence > Page 15": [
+        "goodyera",
+        "hetaeria",
+        "liparis",
+        "malaxis",
+        "spiranthes"
+      ],
+      "Inflorescence > Pages 41-48": [
+        "habenaria"
+      ]
+    },
+    "cooccurrence": {
+      "terrestrial": [
+        "epiphytic",
+        "plants",
+        "thin"
+      ],
+      "plants": [
+        "terrestrial"
+      ],
+      "short": [
+        "base",
+        "branches",
+        "creeping",
+        "erect",
+        "petiole",
+        "rhizome",
+        "sessile",
+        "sheath",
+        "sheathing",
+        "vertical"
+      ],
+      "sympodial": [],
+      "creeping": [
+        "abbreviated",
+        "branches",
+        "erect",
+        "rhizome",
+        "short",
+        "vertical"
+      ],
+      "fasciculate": [
+        "fleshy",
+        "form:",
+        "others",
+        "roots",
+        "rounded",
+        "single",
+        "some",
+        "species",
+        "tuber",
+        "variable"
+      ],
+      "wiry": [],
+      "deciduous": [],
+      "slender": [
+        "depending",
+        "species",
+        "stout"
+      ],
+      "terete": [],
+      "tapering": [],
+      "leafy": [],
+      "alternate": [
+        "arranged",
+        "series",
+        "spirally"
+      ],
+      "series": [
+        "alternate",
+        "arranged",
+        "spirally"
+      ],
+      "spirally": [
+        "alternate",
+        "arranged",
+        "series"
+      ],
+      "arranged": [
+        "alternate",
+        "series",
+        "spirally"
+      ],
+      "sessile": [
+        "base",
+        "petiolate",
+        "petiole",
+        "sheath",
+        "sheathing",
+        "short",
+        "subsessile",
+        "usually"
+      ],
+      "distichous": [],
+      "flat": [
+        "plicate",
+        "thin"
+      ],
+      "plicate": [
+        "flat",
+        "non-plicate",
+        "not",
+        "thin"
+      ],
+      "thin": [
+        "flat",
+        "fleshy",
+        "membranous",
+        "plicate",
+        "slightly",
+        "somewhat",
+        "succulent",
+        "terrestrial"
+      ],
+      "well-developed": [],
+      "long": [
+        "wide"
+      ],
+      "wide": [
+        "long"
+      ],
+      "more": [
+        "leaves"
+      ],
+      "leaves": [
+        "**most",
+        "acute",
+        "alata:",
+        "basal",
+        "brachyceras:",
+        "cauline",
+        "characteristic**:",
+        "common",
+        "distans:",
+        "elliptic",
+        "floribunda:",
+        "habitats",
+        "lanceolate",
+        "monorrhiza:",
+        "more",
+        "oblanceolate",
+        "oblong",
+        "oblong-elliptic",
+        "odontopetala:",
+        "ovate",
+        "ovate-lanceolate",
+        "quinqueseta:",
+        "repens:",
+        "rounded",
+        "several",
+        "shady",
+        "small",
+        "spreading",
+        "tuber"
+      ],
+      "tall": [
+        "erect"
+      ],
+      "erect": [
+        "branches",
+        "creeping",
+        "rhizome",
+        "short",
+        "tall",
+        "vertical"
+      ],
+      "3-angled": [],
+      "thin-walled": [],
+      "rhizome": [
+        "branches",
+        "clustered",
+        "creeping",
+        "erect",
+        "from",
+        "nodes",
+        "short",
+        "vertical",
+        "well-spaced"
+      ],
+      "vertical": [
+        "branches",
+        "creeping",
+        "erect",
+        "rhizome",
+        "short"
+      ],
+      "branches": [
+        "creeping",
+        "erect",
+        "rhizome",
+        "short",
+        "vertical"
+      ],
+      "sheathed": [
+        "base",
+        "bracts",
+        "peduncle"
+      ],
+      "bracts": [
+        "base",
+        "peduncle",
+        "sheathed"
+      ],
+      "base": [
+        "bracts",
+        "peduncle",
+        "petiole",
+        "sessile",
+        "sheathed",
+        "sheathing",
+        "short"
+      ],
+      "peduncle": [
+        "base",
+        "bracts",
+        "sheathed"
+      ],
+      "membranous": [
+        "fleshy",
+        "slightly",
+        "somewhat",
+        "succulent",
+        "thin"
+      ],
+      "elliptic-ovate": [],
+      "petiolate": [
+        "sessile",
+        "sheath",
+        "subsessile",
+        "tubular"
+      ],
+      "infundibuliform": [],
+      "2-ranked": [],
+      "terminal": [
+        "along",
+        "arrangement",
+        "corymb",
+        "flowers",
+        "pseudobulb",
+        "raceme",
+        "spike",
+        "spiral",
+        "stem",
+        "typically"
+      ],
+      "raceme": [
+        "corymb",
+        "terminal"
+      ],
+      "corymb": [
+        "raceme",
+        "terminal"
+      ],
+      "fleshy": [
+        "fasciculate",
+        "form:",
+        "membranous",
+        "others",
+        "roots",
+        "rounded",
+        "single",
+        "slightly",
+        "some",
+        "somewhat",
+        "species",
+        "succulent",
+        "thin",
+        "tuber",
+        "tuberous",
+        "variable"
+      ],
+      "basal": [
+        "along",
+        "apex",
+        "appressed",
+        "both",
+        "cauline",
+        "clasping",
+        "distans:",
+        "from",
+        "ground",
+        "lanceolate",
+        "leaves",
+        "oblanceolate",
+        "odontopetala:",
+        "pseudobulb",
+        "rosette",
+        "several",
+        "spreading",
+        "stem",
+        "variable"
+      ],
+      "rosette": [
+        "along",
+        "basal",
+        "both",
+        "cauline",
+        "several",
+        "stem",
+        "variable"
+      ],
+      "cauline": [
+        "basal",
+        "both",
+        "floribunda:",
+        "lanceolate",
+        "leaves",
+        "ovate",
+        "rosette",
+        "variable"
+      ],
+      "often": [
+        "clustered",
+        "marked",
+        "pale",
+        "veins",
+        "white"
+      ],
+      "marked": [
+        "lighter",
+        "often",
+        "pale",
+        "sometimes",
+        "veins",
+        "white"
+      ],
+      "white": [
+        "marked",
+        "often",
+        "pale",
+        "veins"
+      ],
+      "pale": [
+        "darker",
+        "green",
+        "marked",
+        "markings",
+        "often",
+        "sometimes",
+        "veins",
+        "white"
+      ],
+      "veins": [
+        "lighter",
+        "marked",
+        "often",
+        "pale",
+        "sometimes",
+        "white"
+      ],
+      "ovate": [
+        "cauline",
+        "elliptic",
+        "floribunda:",
+        "habitats",
+        "lanceolate",
+        "leaves",
+        "linear",
+        "oblong",
+        "quinqueseta:",
+        "repens:",
+        "shady",
+        "species",
+        "variable"
+      ],
+      "lanceolate": [
+        "acute",
+        "alata:",
+        "basal",
+        "cauline",
+        "distans:",
+        "elliptic",
+        "floribunda:",
+        "leaves",
+        "linear",
+        "oblong",
+        "ovate",
+        "species",
+        "variable"
+      ],
+      "from": [
+        "10-15",
+        "apex",
+        "basal",
+        "chapter",
+        "descriptions",
+        "height",
+        "nodes",
+        "over",
+        "pages",
+        "pseudobulb",
+        "rhizome",
+        "species",
+        "variable:"
+      ],
+      "nodes": [
+        "from",
+        "rhizome"
+      ],
+      "tubers": [],
+      "tuberous": [
+        "cylindrical",
+        "fleshy",
+        "roots"
+      ],
+      "roots": [
+        "**least",
+        "capsule",
+        "characteristics**:",
+        "common",
+        "fasciculate",
+        "fleshy",
+        "form:",
+        "notes",
+        "organs",
+        "others",
+        "rounded",
+        "single",
+        "some",
+        "species",
+        "tuber",
+        "tuberous",
+        "underground",
+        "variable",
+        "variation"
+      ],
+      "variable": [
+        "basal",
+        "both",
+        "cauline",
+        "elliptic",
+        "fasciculate",
+        "fleshy",
+        "form:",
+        "highly",
+        "lanceolate",
+        "linear",
+        "oblong",
+        "others",
+        "ovate",
+        "roots",
+        "rosette",
+        "rounded",
+        "single",
+        "some",
+        "species",
+        "tuber"
+      ],
+      "form:": [
+        "fasciculate",
+        "fleshy",
+        "others",
+        "roots",
+        "rounded",
+        "single",
+        "some",
+        "species",
+        "tuber",
+        "variable"
+      ],
+      "some": [
+        "fasciculate",
+        "fleshy",
+        "form:",
+        "others",
+        "roots",
+        "rounded",
+        "single",
+        "species",
+        "tuber",
+        "variable"
+      ],
+      "species": [
+        "**least",
+        "**notes",
+        "**roots",
+        "100.0%",
+        "capsule",
+        "chapter",
+        "characteristics**:",
+        "common",
+        "depending",
+        "descriptions",
+        "elliptic",
+        "fasciculate",
+        "fleshy",
+        "flowering",
+        "form:",
+        "from",
+        "lanceolate",
+        "linear",
+        "most",
+        "notes",
+        "oblong",
+        "organs",
+        "organs**:",
+        "others",
+        "ovate",
+        "overlap",
+        "pages",
+        "present",
+        "roots",
+        "rounded",
+        "single",
+        "slender",
+        "some",
+        "stout",
+        "tuber",
+        "underground",
+        "variable",
+        "variation",
+        "variation**"
+      ],
+      "single": [
+        "fasciculate",
+        "fleshy",
+        "form:",
+        "others",
+        "roots",
+        "rounded",
+        "some",
+        "species",
+        "tuber",
+        "variable"
+      ],
+      "rounded": [
+        "brachyceras:",
+        "fasciculate",
+        "fleshy",
+        "form:",
+        "leaves",
+        "oblong-elliptic",
+        "others",
+        "roots",
+        "single",
+        "small",
+        "some",
+        "species",
+        "tuber",
+        "variable"
+      ],
+      "tuber": [
+        "brachyceras:",
+        "fasciculate",
+        "fleshy",
+        "form:",
+        "leaves",
+        "oblong-elliptic",
+        "others",
+        "roots",
+        "rounded",
+        "single",
+        "small",
+        "some",
+        "species",
+        "variable"
+      ],
+      "others": [
+        "fasciculate",
+        "fleshy",
+        "form:",
+        "roots",
+        "rounded",
+        "single",
+        "some",
+        "species",
+        "tuber",
+        "variable"
+      ],
+      "stout": [
+        "depending",
+        "slender",
+        "species"
+      ],
+      "depending": [
+        "slender",
+        "species",
+        "stout"
+      ],
+      "height": [
+        "10-15",
+        "from",
+        "over",
+        "variable:"
+      ],
+      "variable:": [
+        "10-15",
+        "from",
+        "height",
+        "over"
+      ],
+      "10-15": [
+        "from",
+        "height",
+        "over",
+        "variable:"
+      ],
+      "over": [
+        "10-15",
+        "from",
+        "height",
+        "variable:"
+      ],
+      "both": [
+        "basal",
+        "cauline",
+        "rosette",
+        "variable"
+      ],
+      "several": [
+        "along",
+        "basal",
+        "leaves",
+        "rosette",
+        "stem"
+      ],
+      "elliptic": [
+        "lanceolate",
+        "leaves",
+        "linear",
+        "oblong",
+        "ovate",
+        "quinqueseta:",
+        "species",
+        "variable"
+      ],
+      "oblong": [
+        "elliptic",
+        "habitats",
+        "lanceolate",
+        "leaves",
+        "linear",
+        "ovate",
+        "repens:",
+        "shady",
+        "species",
+        "variable"
+      ],
+      "linear": [
+        "elliptic",
+        "lanceolate",
+        "oblong",
+        "ovate",
+        "species",
+        "variable"
+      ],
+      "somewhat": [
+        "fleshy",
+        "membranous",
+        "slightly",
+        "succulent",
+        "thin"
+      ],
+      "slightly": [
+        "fleshy",
+        "membranous",
+        "somewhat",
+        "succulent",
+        "thin"
+      ],
+      "succulent": [
+        "fleshy",
+        "membranous",
+        "slightly",
+        "somewhat",
+        "thin"
+      ],
+      "highly": [
+        "variable"
+      ],
+      "petiole": [
+        "base",
+        "sessile",
+        "sheathing",
+        "short"
+      ],
+      "sheathing": [
+        "base",
+        "petiole",
+        "sessile",
+        "short"
+      ],
+      "appressed": [
+        "basal",
+        "clasping",
+        "ground",
+        "spreading",
+        "stem"
+      ],
+      "ground": [
+        "appressed",
+        "basal",
+        "clasping",
+        "spreading",
+        "stem"
+      ],
+      "spreading": [
+        "appressed",
+        "basal",
+        "clasping",
+        "ground",
+        "leaves",
+        "monorrhiza:",
+        "ovate-lanceolate",
+        "stem"
+      ],
+      "clasping": [
+        "appressed",
+        "basal",
+        "ground",
+        "spreading",
+        "stem"
+      ],
+      "stem": [
+        "along",
+        "appressed",
+        "basal",
+        "clasping",
+        "ground",
+        "pseudobulb",
+        "rosette",
+        "several",
+        "spreading",
+        "terminal"
+      ],
+      "green": [
+        "darker",
+        "markings",
+        "pale",
+        "sometimes"
+      ],
+      "sometimes": [
+        "between",
+        "darker",
+        "elongated",
+        "green",
+        "lighter",
+        "marked",
+        "markings",
+        "pale",
+        "pseudobulbs",
+        "veins"
+      ],
+      "darker": [
+        "green",
+        "markings",
+        "pale",
+        "sometimes"
+      ],
+      "markings": [
+        "darker",
+        "green",
+        "pale",
+        "sometimes"
+      ],
+      "present": [
+        "flowering",
+        "most",
+        "species"
+      ],
+      "flowering": [
+        "absent",
+        "may",
+        "most",
+        "present",
+        "species"
+      ],
+      "most": [
+        "flowering",
+        "present",
+        "species"
+      ],
+      "alata:": [
+        "acute",
+        "lanceolate",
+        "leaves"
+      ],
+      "acute": [
+        "alata:",
+        "lanceolate",
+        "leaves"
+      ],
+      "brachyceras:": [
+        "leaves",
+        "oblong-elliptic",
+        "rounded",
+        "small",
+        "tuber"
+      ],
+      "small": [
+        "brachyceras:",
+        "leaves",
+        "oblong-elliptic",
+        "rounded",
+        "tuber"
+      ],
+      "oblong-elliptic": [
+        "brachyceras:",
+        "leaves",
+        "rounded",
+        "small",
+        "tuber"
+      ],
+      "distans:": [
+        "basal",
+        "lanceolate",
+        "leaves"
+      ],
+      "floribunda:": [
+        "cauline",
+        "lanceolate",
+        "leaves",
+        "ovate"
+      ],
+      "monorrhiza:": [
+        "leaves",
+        "ovate-lanceolate",
+        "spreading"
+      ],
+      "ovate-lanceolate": [
+        "leaves",
+        "monorrhiza:",
+        "spreading"
+      ],
+      "odontopetala:": [
+        "basal",
+        "leaves",
+        "oblanceolate"
+      ],
+      "oblanceolate": [
+        "basal",
+        "leaves",
+        "odontopetala:"
+      ],
+      "quinqueseta:": [
+        "elliptic",
+        "leaves",
+        "ovate"
+      ],
+      "repens:": [
+        "habitats",
+        "leaves",
+        "oblong",
+        "ovate",
+        "shady"
+      ],
+      "shady": [
+        "habitats",
+        "leaves",
+        "oblong",
+        "ovate",
+        "repens:"
+      ],
+      "habitats": [
+        "leaves",
+        "oblong",
+        "ovate",
+        "repens:",
+        "shady"
+      ],
+      "along": [
+        "basal",
+        "pseudobulb",
+        "rosette",
+        "several",
+        "stem",
+        "terminal"
+      ],
+      "lighter": [
+        "marked",
+        "sometimes",
+        "veins"
+      ],
+      "tubular": [
+        "petiolate",
+        "sheath"
+      ],
+      "sheath": [
+        "petiolate",
+        "sessile",
+        "short",
+        "tubular"
+      ],
+      "epiphytic": [
+        "terrestrial"
+      ],
+      "ovoid": [
+        "elongate",
+        "subglobose"
+      ],
+      "elongate": [
+        "ovoid"
+      ],
+      "clustered": [
+        "often",
+        "rhizome",
+        "well-spaced"
+      ],
+      "well-spaced": [
+        "clustered",
+        "rhizome"
+      ],
+      "abbreviated": [
+        "creeping"
+      ],
+      "1-several": [
+        "per",
+        "pseudobulb"
+      ],
+      "per": [
+        "**average",
+        "1-several",
+        "4.8",
+        "characteristics",
+        "genus**:",
+        "pseudobulb"
+      ],
+      "pseudobulb": [
+        "1-several",
+        "along",
+        "apex",
+        "basal",
+        "from",
+        "per",
+        "stem",
+        "terminal"
+      ],
+      "non-plicate": [
+        "plicate"
+      ],
+      "subsessile": [
+        "petiolate",
+        "sessile",
+        "usually"
+      ],
+      "apex": [
+        "basal",
+        "from",
+        "pseudobulb"
+      ],
+      "subglobose": [
+        "ovoid"
+      ],
+      "not": [
+        "plicate"
+      ],
+      "usually": [
+        "sessile",
+        "subsessile"
+      ],
+      "elongated": [
+        "between",
+        "pseudobulbs",
+        "sometimes"
+      ],
+      "between": [
+        "elongated",
+        "pseudobulbs",
+        "sometimes"
+      ],
+      "pseudobulbs": [
+        "between",
+        "elongated",
+        "sometimes"
+      ],
+      "cylindrical": [
+        "tuberous"
+      ],
+      "may": [
+        "absent",
+        "flowering"
+      ],
+      "absent": [
+        "flowering",
+        "may"
+      ],
+      "spike": [
+        "arrangement",
+        "flowers",
+        "spiral",
+        "terminal",
+        "typically"
+      ],
+      "flowers": [
+        "arrangement",
+        "spike",
+        "spiral",
+        "terminal",
+        "typically"
+      ],
+      "typically": [
+        "arrangement",
+        "flowers",
+        "spike",
+        "spiral",
+        "terminal"
+      ],
+      "spiral": [
+        "arrangement",
+        "flowers",
+        "spike",
+        "terminal",
+        "typically"
+      ],
+      "arrangement": [
+        "flowers",
+        "spike",
+        "spiral",
+        "terminal",
+        "typically"
+      ],
+      "pages": [
+        "chapter",
+        "descriptions",
+        "from",
+        "species"
+      ],
+      "chapter": [
+        "descriptions",
+        "from",
+        "pages",
+        "species"
+      ],
+      "descriptions": [
+        "chapter",
+        "from",
+        "pages",
+        "species"
+      ],
+      "corymborkis": [
+        "erythrodes"
+      ],
+      "erythrodes": [
+        "corymborkis"
+      ],
+      "goodyera": [
+        "hetaeria",
+        "liparis",
+        "malaxis",
+        "spiranthes"
+      ],
+      "hetaeria": [
+        "goodyera",
+        "liparis",
+        "malaxis",
+        "spiranthes"
+      ],
+      "liparis": [
+        "goodyera",
+        "hetaeria",
+        "malaxis",
+        "spiranthes"
+      ],
+      "malaxis": [
+        "goodyera",
+        "hetaeria",
+        "liparis",
+        "spiranthes"
+      ],
+      "spiranthes": [
+        "goodyera",
+        "hetaeria",
+        "liparis",
+        "malaxis"
+      ],
+      "habenaria": [],
+      "key": [
+        "distinguishing",
+        "features"
+      ],
+      "distinguishing": [
+        "features",
+        "key"
+      ],
+      "features": [
+        "distinguishing",
+        "key"
+      ],
+      "**total": [
+        "characteristics**:",
+        "genera**:"
+      ],
+      "genera**:": [
+        "**total"
+      ],
+      "characteristics**:": [
+        "**least",
+        "**total",
+        "capsule",
+        "common",
+        "notes",
+        "organs",
+        "roots",
+        "species",
+        "underground",
+        "variation"
+      ],
+      "**average": [
+        "4.8",
+        "characteristics",
+        "genus**:",
+        "per"
+      ],
+      "characteristics": [
+        "**average",
+        "4.8",
+        "genus**:",
+        "per"
+      ],
+      "genus**:": [
+        "**average",
+        "4.8",
+        "characteristics",
+        "per"
+      ],
+      "4.8": [
+        "**average",
+        "characteristics",
+        "genus**:",
+        "per"
+      ],
+      "**most": [
+        "characteristic**:",
+        "common",
+        "leaves"
+      ],
+      "common": [
+        "**least",
+        "**most",
+        "capsule",
+        "characteristic**:",
+        "characteristics**:",
+        "leaves",
+        "notes",
+        "organs",
+        "roots",
+        "species",
+        "underground",
+        "variation"
+      ],
+      "characteristic**:": [
+        "**most",
+        "common",
+        "leaves"
+      ],
+      "**least": [
+        "capsule",
+        "characteristics**:",
+        "common",
+        "notes",
+        "organs",
+        "roots",
+        "species",
+        "underground",
+        "variation"
+      ],
+      "capsule": [
+        "**least",
+        "characteristics**:",
+        "common",
+        "notes",
+        "organs",
+        "roots",
+        "species",
+        "underground",
+        "variation"
+      ],
+      "underground": [
+        "**least",
+        "**notes",
+        "**roots",
+        "100.0%",
+        "capsule",
+        "characteristics**:",
+        "common",
+        "notes",
+        "organs",
+        "organs**:",
+        "overlap",
+        "roots",
+        "species",
+        "variation",
+        "variation**"
+      ],
+      "organs": [
+        "**least",
+        "capsule",
+        "characteristics**:",
+        "common",
+        "notes",
+        "roots",
+        "species",
+        "underground",
+        "variation"
+      ],
+      "notes": [
+        "**least",
+        "capsule",
+        "characteristics**:",
+        "common",
+        "organs",
+        "roots",
+        "species",
+        "underground",
+        "variation"
+      ],
+      "variation": [
+        "**least",
+        "capsule",
+        "characteristics**:",
+        "common",
+        "notes",
+        "organs",
+        "roots",
+        "species",
+        "underground"
+      ],
+      "**capsule**": [
+        "**overall",
+        "100.0%",
+        "overlap",
+        "plant",
+        "size**:"
+      ],
+      "**overall": [
+        "**capsule**",
+        "100.0%",
+        "overlap",
+        "plant",
+        "size**:"
+      ],
+      "plant": [
+        "**capsule**",
+        "**overall",
+        "100.0%",
+        "overlap",
+        "size**:"
+      ],
+      "size**:": [
+        "**capsule**",
+        "**overall",
+        "100.0%",
+        "overlap",
+        "plant"
+      ],
+      "100.0%": [
+        "**capsule**",
+        "**notes",
+        "**overall",
+        "**roots",
+        "organs**:",
+        "overlap",
+        "plant",
+        "size**:",
+        "species",
+        "underground",
+        "variation**"
+      ],
+      "overlap": [
+        "**capsule**",
+        "**growth",
+        "**leaves**",
+        "**leaves**:",
+        "**notes",
+        "**overall",
+        "**rhizome**:",
+        "**roots",
+        "**stems**:",
+        "100.0%",
+        "62.5%",
+        "habit**",
+        "organs**:",
+        "plant",
+        "size**:",
+        "species",
+        "underground",
+        "variation**"
+      ],
+      "**notes": [
+        "**roots",
+        "100.0%",
+        "organs**:",
+        "overlap",
+        "species",
+        "underground",
+        "variation**"
+      ],
+      "variation**": [
+        "**notes",
+        "**roots",
+        "100.0%",
+        "organs**:",
+        "overlap",
+        "species",
+        "underground"
+      ],
+      "**roots": [
+        "**notes",
+        "100.0%",
+        "organs**:",
+        "overlap",
+        "species",
+        "underground",
+        "variation**"
+      ],
+      "organs**:": [
+        "**notes",
+        "**roots",
+        "100.0%",
+        "overlap",
+        "species",
+        "underground",
+        "variation**"
+      ],
+      "**growth": [
+        "**leaves**:",
+        "62.5%",
+        "habit**",
+        "overlap"
+      ],
+      "habit**": [
+        "**growth",
+        "**leaves**:",
+        "62.5%",
+        "overlap"
+      ],
+      "**leaves**:": [
+        "**growth",
+        "62.5%",
+        "habit**",
+        "overlap"
+      ],
+      "62.5%": [
+        "**growth",
+        "**leaves**",
+        "**leaves**:",
+        "**rhizome**:",
+        "**stems**:",
+        "habit**",
+        "overlap"
+      ],
+      "**leaves**": [
+        "**rhizome**:",
+        "**stems**:",
+        "62.5%",
+        "overlap"
+      ],
+      "**rhizome**:": [
+        "**leaves**",
+        "62.5%",
+        "overlap"
+      ],
+      "**stems**:": [
+        "**leaves**",
+        "62.5%",
+        "overlap"
+      ]
+    }
+  },
+  "similarities": {
+    "Growth Habit > Terrestrial plants": {
+      "Growth Habit > Terrestrial": 0.5,
+      "Growth Habit > Epiphytic or terrestrial": 0.3333333333333333,
+      "Growth Habit > Terrestrial or epiphytic": 0.3333333333333333
+    },
+    "Growth Habit > Terrestrial": {
+      "Growth Habit > Epiphytic or terrestrial": 0.5,
+      "Growth Habit > Terrestrial or epiphytic": 0.5
+    },
+    "Growth Habit > Epiphytic or terrestrial": {
+      "Growth Habit > Terrestrial or epiphytic": 1
+    },
+    "Growth Habit > Terrestrial or epiphytic": {},
+    "Rhizome > Short": {
+      "Rhizome > Creeping rhizome with short, erect, vertical branches": 0.16666666666666666
+    },
+    "Rhizome > Creeping rhizome with short, erect, vertical branches": {
+      "Rhizome > Creeping to abbreviated": 0.14285714285714285
+    },
+    "Rhizome > Sympodial": {},
+    "Rhizome > Creeping": {
+      "Rhizome > Creeping rhizome with short, erect, vertical branches": 0.16666666666666666,
+      "Rhizome > Creeping to abbreviated": 0.5
+    },
+    "Rhizome > Creeping to abbreviated": {},
+    "Roots > Fasciculate (clustered)": {
+      "Roots > Fasciculate": 1
+    },
+    "Roots > Fasciculate": {},
+    "Roots > Wiry": {},
+    "Stem > Deciduous": {},
+    "Stem > Slender": {},
+    "Stem > Terete (cylindrical)": {},
+    "Stem > Tapering": {},
+    "Stem > Leafy": {},
+    "Leaves > Arrangement > Alternate in 2 series OR spirally arranged": {},
+    "Leaves > Attachment > Sessile": {
+      "Leaves > Attachment > Petiolate or sessile": 0.5,
+      "Leaves > Attachment > Sessile or with short petiole, sheathing at base": 0.2,
+      "Leaves > Attachment > Usually sessile or subsessile": 0.3333333333333333,
+      "Leaves > Attachment > Sessile or with short sheath": 0.3333333333333333
+    },
+    "Leaves > Attachment > Petiolate or sessile": {
+      "Leaves > Attachment > Sessile or with short petiole, sheathing at base": 0.16666666666666666,
+      "Leaves > Attachment > Petiolate with tubular sheath": 0.25,
+      "Leaves > Attachment > Petiolate or subsessile": 0.3333333333333333,
+      "Leaves > Attachment > Usually sessile or subsessile": 0.25,
+      "Leaves > Attachment > Sessile or with short sheath": 0.25
+    },
+    "Leaves > Attachment > Sessile or with short petiole, sheathing at base": {
+      "Leaves > Attachment > Usually sessile or subsessile": 0.14285714285714285,
+      "Leaves > Attachment > Sessile or with short sheath": 0.3333333333333333
+    },
+    "Leaves > Attachment > Usually sessile or subsessile": {
+      "Leaves > Attachment > Sessile or with short sheath": 0.2
+    },
+    "Leaves > Attachment > Sessile or with short sheath": {},
+    "Leaves > Position > Distichous (in two ranks)": {},
+    "Leaves > Texture > Flat, plicate (pleated), thin": {
+      "Leaves > Texture > Thin to somewhat fleshy, membranous to slightly succulent": 0.125,
+      "Leaves > Texture > Thin to somewhat fleshy": 0.2,
+      "Leaves > Venation > Plicate or non-plicate": 0.25,
+      "Leaves > Texture > Thin, membranous to somewhat fleshy": 0.16666666666666666,
+      "Leaves > Venation > Plicate or not": 0.25
+    },
+    "Leaves > Texture > Thin to somewhat fleshy, membranous to slightly succulent": {
+      "Leaves > Texture > Membranous to fleshy": 0.3333333333333333,
+      "Leaves > Texture > Thin to somewhat fleshy": 0.5,
+      "Leaves > Texture > Thin, membranous to somewhat fleshy": 0.6666666666666666
+    },
+    "Leaves > Texture > Thin to somewhat fleshy": {
+      "Leaves > Texture > Thin, membranous to somewhat fleshy": 0.75
+    },
+    "Leaves > Venation > Plicate or non-plicate": {
+      "Leaves > Venation > Plicate or not": 0.3333333333333333
+    },
+    "Leaves > Texture > Thin, membranous to somewhat fleshy": {},
+    "Leaves > Venation > Plicate or not": {},
+    "Leaves > Sheaths > Well-developed": {},
+    "Leaves > Dimensions > 5 to 30 cm long and 1 to 4 cm wide": {},
+    "Leaves > Number > 25 or more leaves": {
+      "Leaves > Number > 1 to several leaves": 0.3333333333333333
+    },
+    "Leaves > Number > 1 to several leaves": {
+      "Leaves > Arrangement > Several along stem or in basal rosette": 0.16666666666666666
+    },
+    "Overall Plant Size > Thin terrestrial": {},
+    "Overall Plant Size > Tall and erect": {
+      "Overall Plant Size > 50 cm to 2 m tall": 0.5
+    },
+    "Overall Plant Size > 50 cm to 2 m tall": {},
+    "Capsule > 3-angled": {},
+    "Capsule > Thin-walled": {},
+    "Capsule > Erect": {},
+    "Stems > Erect": {},
+    "Stems > Sheathed by bracts at the base of peduncle": {},
+    "Leaves > Texture > Membranous": {
+      "Leaves > Texture > Fleshy to membranous": 0.5,
+      "Leaves > Texture > Thin to somewhat fleshy, membranous to slightly succulent": 0.16666666666666666,
+      "Leaves > Texture > Membranous to fleshy": 0.5,
+      "Leaves > Texture > Thin, membranous to somewhat fleshy": 0.25
+    },
+    "Leaves > Texture > Fleshy to membranous": {
+      "Leaves > Texture > Thin to somewhat fleshy, membranous to slightly succulent": 0.3333333333333333,
+      "Leaves > Texture > Membranous to fleshy": 1,
+      "Leaves > Texture > Thin to somewhat fleshy": 0.25,
+      "Leaves > Texture > Thin, membranous to somewhat fleshy": 0.5
+    },
+    "Leaves > Texture > Membranous to fleshy": {
+      "Leaves > Texture > Thin to somewhat fleshy": 0.25,
+      "Leaves > Texture > Thin, membranous to somewhat fleshy": 0.5
+    },
+    "Leaves > Shape > Elliptic-ovate": {},
+    "Leaves > Attachment > Petiolate (with petiole)": {
+      "Leaves > Attachment > Petiolate or sessile": 0.5,
+      "Leaves > Attachment > Petiolate with tubular sheath": 0.3333333333333333,
+      "Leaves > Attachment > Petiolate or subsessile": 0.5
+    },
+    "Leaves > Attachment > Petiolate with tubular sheath": {
+      "Leaves > Attachment > Petiolate or subsessile": 0.25,
+      "Leaves > Attachment > Sessile or with short sheath": 0.2
+    },
+    "Leaves > Attachment > Petiolate or subsessile": {
+      "Leaves > Attachment > Usually sessile or subsessile": 0.25
+    },
+    "Leaves > Sheath > Infundibuliform (funnel-shaped)": {},
+    "Leaves > Arrangement > 2-ranked": {},
+    "Inflorescence > Terminal raceme or corymb": {
+      "Inflorescence > Terminal spike with flowers typically in spiral arrangement": 0.125
+    },
+    "Inflorescence > Terminal spike with flowers typically in spiral arrangement": {},
+    "Rhizome > Fleshy": {},
+    "Stems > Short": {},
+    "Leaves > Arrangement > Basal rosette or cauline (stem leaves)": {
+      "Leaves > Arrangement > Variable - basal rosette, cauline (along stem), or both": 0.6,
+      "Leaves > Position > Basal, appressed to ground, spreading, or clasping stem": 0.125,
+      "Leaves > Arrangement > Several along stem or in basal rosette": 0.3333333333333333,
+      "Leaves > Arrangement > Basal from pseudobulb apex": 0.16666666666666666,
+      "Leaves > Arrangement > Basal rosette or along stem": 0.4
+    },
+    "Leaves > Arrangement > Variable - basal rosette, cauline (along stem), or both": {
+      "Leaves > Size > Highly variable (2-30 cm long, 0.5-4 cm wide depending on species)": 0.16666666666666666,
+      "Leaves > Arrangement > Several along stem or in basal rosette": 0.25,
+      "Leaves > Arrangement > Basal from pseudobulb apex": 0.125,
+      "Leaves > Arrangement > Basal rosette or along stem": 0.2857142857142857
+    },
+    "Leaves > Position > Basal, appressed to ground, spreading, or clasping stem": {
+      "Leaves > Arrangement > Several along stem or in basal rosette": 0.2222222222222222,
+      "Leaves > Arrangement > Basal from pseudobulb apex": 0.1111111111111111,
+      "Leaves > Position > Terminal on pseudobulb or along stem": 0.1111111111111111,
+      "Leaves > Arrangement > Basal rosette or along stem": 0.25
+    },
+    "Leaves > Arrangement > Several along stem or in basal rosette": {
+      "Leaves > Arrangement > Basal from pseudobulb apex": 0.125,
+      "Leaves > Position > Terminal on pseudobulb or along stem": 0.2857142857142857,
+      "Leaves > Arrangement > Basal rosette or along stem": 0.8
+    },
+    "Leaves > Arrangement > Basal from pseudobulb apex": {
+      "Leaves > Position > Terminal on pseudobulb or along stem": 0.14285714285714285,
+      "Leaves > Arrangement > Basal rosette or along stem": 0.14285714285714285
+    },
+    "Leaves > Arrangement > Basal rosette or along stem": {},
+    "Leaves > Venation > Often marked with white or pale veins": {
+      "Leaves > Surface > Green, sometimes with pale or darker markings": 0.1111111111111111,
+      "Leaves > Venation > Sometimes marked with lighter veins": 0.2857142857142857
+    },
+    "Leaves > Surface > Green, sometimes with pale or darker markings": {
+      "Leaves > Venation > Sometimes marked with lighter veins": 0.125
+    },
+    "Leaves > Venation > Sometimes marked with lighter veins": {},
+    "Leaves > Shape > Ovate to lanceolate": {
+      "Leaves > Shape > Variable by species - lanceolate, ovate, elliptic, oblong, linear": 0.2857142857142857,
+      "Leaves > Shape > Ovate to elliptic": 0.3333333333333333,
+      "Leaves > Shape > Elliptic, ovate, or lanceolate": 0.6666666666666666,
+      "Leaves > Shape > Ovate to elliptic or lanceolate": 0.6666666666666666,
+      "Leaves > Shape > Linear to lanceolate or ovate": 0.6666666666666666
+    },
+    "Leaves > Shape > Variable by species - lanceolate, ovate, elliptic, oblong, linear": {
+      "Leaves > Size > Highly variable (2-30 cm long, 0.5-4 cm wide depending on species)": 0.125,
+      "Leaves > Shape > Ovate to elliptic": 0.2857142857142857,
+      "Leaves > Shape > Elliptic, ovate, or lanceolate": 0.42857142857142855,
+      "Leaves > Shape > Ovate to elliptic or lanceolate": 0.42857142857142855,
+      "Leaves > Shape > Linear to lanceolate or ovate": 0.42857142857142855
+    },
+    "Leaves > Shape > Ovate to elliptic": {
+      "Leaves > Shape > Elliptic, ovate, or lanceolate": 0.6666666666666666,
+      "Leaves > Shape > Ovate to elliptic or lanceolate": 0.6666666666666666,
+      "Leaves > Shape > Linear to lanceolate or ovate": 0.25
+    },
+    "Leaves > Shape > Elliptic, ovate, or lanceolate": {
+      "Leaves > Shape > Ovate to elliptic or lanceolate": 1,
+      "Leaves > Shape > Linear to lanceolate or ovate": 0.5
+    },
+    "Leaves > Shape > Ovate to elliptic or lanceolate": {
+      "Leaves > Shape > Linear to lanceolate or ovate": 0.5
+    },
+    "Leaves > Shape > Linear to lanceolate or ovate": {},
+    "Roots > Fleshy": {},
+    "Roots > From rhizome nodes": {},
+    "Roots/Underground organs > Tubers (rounded or ovoid) OR": {},
+    "Roots/Underground organs > Fleshy, tuberous roots": {
+      "Roots/Underground organs > Variable in form: some species with single rounded tuber, others with fleshy fasciculate roots": 0.16666666666666666
+    },
+    "Roots/Underground organs > Variable in form: some species with single rounded tuber, others with fleshy fasciculate roots": {},
+    "Stems > Leafy": {},
+    "Stems > Slender to stout depending on species": {
+      "Stems > Slender": 0.25
+    },
+    "Stems > Slender": {},
+    "Stems > Height variable: from 10-15 cm to over 50 cm": {},
+    "Leaves > Size > Highly variable (2-30 cm long, 0.5-4 cm wide depending on species)": {},
+    "Leaves > Position > Terminal on pseudobulb or along stem": {
+      "Leaves > Arrangement > Basal rosette or along stem": 0.3333333333333333
+    },
+    "Leaves > Persistence > Present at flowering in most species": {
+      "Leaves > Persistence > May be absent at flowering (leaves deciduous in some species)": 0.16666666666666666
+    },
+    "Leaves > Persistence > May be absent at flowering (leaves deciduous in some species)": {},
+    "Notes on species variation > H. alata: leaves lanceolate, acute": {
+      "Notes on species variation > H. brachyceras: rounded tuber, leaves small, oblong-elliptic": 0.1111111111111111,
+      "Notes on species variation > H. distans: leaves lanceolate, basal": 0.3333333333333333,
+      "Notes on species variation > H. floribunda: leaves lanceolate to ovate, cauline": 0.2857142857142857,
+      "Notes on species variation > H. monorrhiza: leaves ovate-lanceolate, spreading": 0.14285714285714285,
+      "Notes on species variation > H. odontopetala: leaves oblanceolate, basal": 0.14285714285714285,
+      "Notes on species variation > H. quinqueseta: leaves ovate to elliptic": 0.14285714285714285,
+      "Notes on species variation > H. repens: leaves ovate to oblong, shady habitats": 0.1111111111111111
+    },
+    "Notes on species variation > H. brachyceras: rounded tuber, leaves small, oblong-elliptic": {
+      "Notes on species variation > H. distans: leaves lanceolate, basal": 0.1111111111111111,
+      "Notes on species variation > H. monorrhiza: leaves ovate-lanceolate, spreading": 0.1111111111111111,
+      "Notes on species variation > H. odontopetala: leaves oblanceolate, basal": 0.1111111111111111,
+      "Notes on species variation > H. quinqueseta: leaves ovate to elliptic": 0.1111111111111111
+    },
+    "Notes on species variation > H. distans: leaves lanceolate, basal": {
+      "Notes on species variation > H. floribunda: leaves lanceolate to ovate, cauline": 0.2857142857142857,
+      "Notes on species variation > H. monorrhiza: leaves ovate-lanceolate, spreading": 0.14285714285714285,
+      "Notes on species variation > H. odontopetala: leaves oblanceolate, basal": 0.3333333333333333,
+      "Notes on species variation > H. quinqueseta: leaves ovate to elliptic": 0.14285714285714285,
+      "Notes on species variation > H. repens: leaves ovate to oblong, shady habitats": 0.1111111111111111
+    },
+    "Notes on species variation > H. floribunda: leaves lanceolate to ovate, cauline": {
+      "Notes on species variation > H. monorrhiza: leaves ovate-lanceolate, spreading": 0.125,
+      "Notes on species variation > H. odontopetala: leaves oblanceolate, basal": 0.125,
+      "Notes on species variation > H. quinqueseta: leaves ovate to elliptic": 0.2857142857142857,
+      "Notes on species variation > H. repens: leaves ovate to oblong, shady habitats": 0.2222222222222222
+    },
+    "Notes on species variation > H. monorrhiza: leaves ovate-lanceolate, spreading": {
+      "Notes on species variation > H. odontopetala: leaves oblanceolate, basal": 0.14285714285714285,
+      "Notes on species variation > H. quinqueseta: leaves ovate to elliptic": 0.14285714285714285,
+      "Notes on species variation > H. repens: leaves ovate to oblong, shady habitats": 0.1111111111111111
+    },
+    "Notes on species variation > H. odontopetala: leaves oblanceolate, basal": {
+      "Notes on species variation > H. quinqueseta: leaves ovate to elliptic": 0.14285714285714285,
+      "Notes on species variation > H. repens: leaves ovate to oblong, shady habitats": 0.1111111111111111
+    },
+    "Notes on species variation > H. quinqueseta: leaves ovate to elliptic": {
+      "Notes on species variation > H. repens: leaves ovate to oblong, shady habitats": 0.25
+    },
+    "Notes on species variation > H. repens: leaves ovate to oblong, shady habitats": {},
+    "Pseudobulbs > Present": {},
+    "Pseudobulbs > Ovoid to elongate": {
+      "Pseudobulbs > Ovoid to subglobose": 0.3333333333333333
+    },
+    "Pseudobulbs > Ovoid to subglobose": {},
+    "Pseudobulbs > Clustered or well-spaced on rhizome": {
+      "Pseudobulbs > Often clustered": 0.25
+    },
+    "Pseudobulbs > Often clustered": {},
+    "Leaves > Number > 1-several per pseudobulb": {
+      "Leaves > Arrangement > Basal from pseudobulb apex": 0.16666666666666666,
+      "Leaves > Number > 1-several": 0.3333333333333333,
+      "Leaves > Position > Terminal on pseudobulb or along stem": 0.16666666666666666
+    },
+    "Leaves > Number > 1-several": {},
+    "Pseudobulbs > Small": {},
+    "Stem > Sometimes elongated between pseudobulbs": {},
+    "Roots > Tuberous or cylindrical": {},
+    "Inflorescence > Pages from Chapter 3: Species descriptions": {},
+    "Inflorescence > Page 13 > Corymborkis, Erythrodes": {},
+    "Inflorescence > Page 15 > Goodyera, Hetaeria, Liparis, Malaxis, Spiranthes": {},
+    "Inflorescence > Pages 41-48 > Habenaria (continuous description with 8+ species)": {},
+    "Inflorescence > Key distinguishing features:": {},
+    "Inflorescence > **Total Genera**: 8": {
+      "Inflorescence > **Total Characteristics**: 13": 0.3333333333333333
+    },
+    "Inflorescence > **Total Characteristics**: 13": {},
+    "Inflorescence > **Average characteristics per genus**: 4.8": {},
+    "Inflorescence > **Most common characteristic**: Leaves (8 genera)": {},
+    "Inflorescence > **Least common characteristics**: Capsule (1), Roots/Underground organs (1), Notes on species variation (1)": {
+      "Inflorescence > **Notes on species variation** ↔ **Roots/Underground organs**: 100.0% overlap": 0.125
+    },
+    "Inflorescence > **Notes on species variation** ↔ **Roots/Underground organs**: 100.0% overlap": {},
+    "Inflorescence > **Capsule** ↔ **Overall Plant Size**: 100.0% overlap": {
+      "Inflorescence > **Notes on species variation** ↔ **Roots/Underground organs**: 100.0% overlap": 0.16666666666666666,
+      "Inflorescence > **Leaves** ↔ **Rhizome**: 62.5% overlap": 0.1111111111111111,
+      "Inflorescence > **Leaves** ↔ **Stems**: 62.5% overlap": 0.1111111111111111
+    },
+    "Inflorescence > **Leaves** ↔ **Rhizome**: 62.5% overlap": {
+      "Inflorescence > **Leaves** ↔ **Stems**: 62.5% overlap": 0.6
+    },
+    "Inflorescence > **Leaves** ↔ **Stems**: 62.5% overlap": {},
+    "Inflorescence > **Growth Habit** ↔ **Leaves**: 62.5% overlap": {
+      "Inflorescence > **Leaves** ↔ **Rhizome**: 62.5% overlap": 0.2857142857142857,
+      "Inflorescence > **Leaves** ↔ **Stems**: 62.5% overlap": 0.2857142857142857
+    }
+  },
+  "clusters": [
+    {
+      "features": [
+        "Leaves > Shape > Ovate to lanceolate",
+        "Leaves > Shape > Ovate to elliptic",
+        "Leaves > Shape > Elliptic, ovate, or lanceolate",
+        "Leaves > Shape > Ovate to elliptic or lanceolate",
+        "Leaves > Shape > Linear to lanceolate or ovate"
+      ],
+      "size": 5,
+      "representative": "Leaves > Shape > Ovate to lanceolate"
+    },
+    {
+      "features": [
+        "Growth Habit > Terrestrial plants",
+        "Growth Habit > Terrestrial",
+        "Growth Habit > Epiphytic or terrestrial",
+        "Growth Habit > Terrestrial or epiphytic"
+      ],
+      "size": 4,
+      "representative": "Growth Habit > Terrestrial plants"
+    },
+    {
+      "features": [
+        "Leaves > Attachment > Sessile",
+        "Leaves > Attachment > Petiolate or sessile",
+        "Leaves > Attachment > Usually sessile or subsessile",
+        "Leaves > Attachment > Sessile or with short sheath"
+      ],
+      "size": 4,
+      "representative": "Leaves > Attachment > Sessile"
+    },
+    {
+      "features": [
+        "Leaves > Arrangement > Basal rosette or cauline (stem leaves)",
+        "Leaves > Arrangement > Variable - basal rosette, cauline (along stem), or both",
+        "Leaves > Arrangement > Several along stem or in basal rosette",
+        "Leaves > Arrangement > Basal rosette or along stem"
+      ],
+      "size": 4,
+      "representative": "Leaves > Arrangement > Basal rosette or cauline (stem leaves)"
+    },
+    {
+      "features": [
+        "Leaves > Texture > Membranous",
+        "Leaves > Texture > Fleshy to membranous",
+        "Leaves > Texture > Membranous to fleshy"
+      ],
+      "size": 3,
+      "representative": "Leaves > Texture > Membranous"
+    },
+    {
+      "features": [
+        "Leaves > Attachment > Petiolate (with petiole)",
+        "Leaves > Attachment > Petiolate with tubular sheath",
+        "Leaves > Attachment > Petiolate or subsessile"
+      ],
+      "size": 3,
+      "representative": "Leaves > Attachment > Petiolate (with petiole)"
+    },
+    {
+      "features": [
+        "Leaves > Texture > Thin to somewhat fleshy, membranous to slightly succulent",
+        "Leaves > Texture > Thin to somewhat fleshy",
+        "Leaves > Texture > Thin, membranous to somewhat fleshy"
+      ],
+      "size": 3,
+      "representative": "Leaves > Texture > Thin to somewhat fleshy, membranous to slightly succulent"
+    },
+    {
+      "features": [
+        "Rhizome > Creeping",
+        "Rhizome > Creeping to abbreviated"
+      ],
+      "size": 2,
+      "representative": "Rhizome > Creeping"
+    },
+    {
+      "features": [
+        "Roots > Fasciculate (clustered)",
+        "Roots > Fasciculate"
+      ],
+      "size": 2,
+      "representative": "Roots > Fasciculate (clustered)"
+    },
+    {
+      "features": [
+        "Leaves > Number > 25 or more leaves",
+        "Leaves > Number > 1 to several leaves"
+      ],
+      "size": 2,
+      "representative": "Leaves > Number > 25 or more leaves"
+    },
+    {
+      "features": [
+        "Overall Plant Size > Tall and erect",
+        "Overall Plant Size > 50 cm to 2 m tall"
+      ],
+      "size": 2,
+      "representative": "Overall Plant Size > Tall and erect"
+    },
+    {
+      "features": [
+        "Notes on species variation > H. alata: leaves lanceolate, acute",
+        "Notes on species variation > H. distans: leaves lanceolate, basal"
+      ],
+      "size": 2,
+      "representative": "Notes on species variation > H. alata: leaves lanceolate, acute"
+    },
+    {
+      "features": [
+        "Pseudobulbs > Ovoid to elongate",
+        "Pseudobulbs > Ovoid to subglobose"
+      ],
+      "size": 2,
+      "representative": "Pseudobulbs > Ovoid to elongate"
+    },
+    {
+      "features": [
+        "Leaves > Number > 1-several per pseudobulb",
+        "Leaves > Number > 1-several"
+      ],
+      "size": 2,
+      "representative": "Leaves > Number > 1-several per pseudobulb"
+    },
+    {
+      "features": [
+        "Leaves > Venation > Plicate or non-plicate",
+        "Leaves > Venation > Plicate or not"
+      ],
+      "size": 2,
+      "representative": "Leaves > Venation > Plicate or non-plicate"
+    },
+    {
+      "features": [
+        "Inflorescence > **Total Genera**: 8",
+        "Inflorescence > **Total Characteristics**: 13"
+      ],
+      "size": 2,
+      "representative": "Inflorescence > **Total Genera**: 8"
+    },
+    {
+      "features": [
+        "Inflorescence > **Leaves** ↔ **Rhizome**: 62.5% overlap",
+        "Inflorescence > **Leaves** ↔ **Stems**: 62.5% overlap"
+      ],
+      "size": 2,
+      "representative": "Inflorescence > **Leaves** ↔ **Rhizome**: 62.5% overlap"
+    },
+    {
+      "features": [
+        "Rhizome > Short"
+      ],
+      "size": 1,
+      "representative": "Rhizome > Short"
+    },
+    {
+      "features": [
+        "Rhizome > Sympodial"
+      ],
+      "size": 1,
+      "representative": "Rhizome > Sympodial"
+    },
+    {
+      "features": [
+        "Roots > Wiry"
+      ],
+      "size": 1,
+      "representative": "Roots > Wiry"
+    },
+    {
+      "features": [
+        "Stem > Deciduous"
+      ],
+      "size": 1,
+      "representative": "Stem > Deciduous"
+    },
+    {
+      "features": [
+        "Stem > Slender"
+      ],
+      "size": 1,
+      "representative": "Stem > Slender"
+    },
+    {
+      "features": [
+        "Stem > Terete (cylindrical)"
+      ],
+      "size": 1,
+      "representative": "Stem > Terete (cylindrical)"
+    },
+    {
+      "features": [
+        "Stem > Tapering"
+      ],
+      "size": 1,
+      "representative": "Stem > Tapering"
+    },
+    {
+      "features": [
+        "Stem > Leafy"
+      ],
+      "size": 1,
+      "representative": "Stem > Leafy"
+    },
+    {
+      "features": [
+        "Leaves > Arrangement > Alternate in 2 series OR spirally arranged"
+      ],
+      "size": 1,
+      "representative": "Leaves > Arrangement > Alternate in 2 series OR spirally arranged"
+    },
+    {
+      "features": [
+        "Leaves > Position > Distichous (in two ranks)"
+      ],
+      "size": 1,
+      "representative": "Leaves > Position > Distichous (in two ranks)"
+    },
+    {
+      "features": [
+        "Leaves > Texture > Flat, plicate (pleated), thin"
+      ],
+      "size": 1,
+      "representative": "Leaves > Texture > Flat, plicate (pleated), thin"
+    },
+    {
+      "features": [
+        "Leaves > Sheaths > Well-developed"
+      ],
+      "size": 1,
+      "representative": "Leaves > Sheaths > Well-developed"
+    },
+    {
+      "features": [
+        "Leaves > Dimensions > 5 to 30 cm long and 1 to 4 cm wide"
+      ],
+      "size": 1,
+      "representative": "Leaves > Dimensions > 5 to 30 cm long and 1 to 4 cm wide"
+    },
+    {
+      "features": [
+        "Overall Plant Size > Thin terrestrial"
+      ],
+      "size": 1,
+      "representative": "Overall Plant Size > Thin terrestrial"
+    },
+    {
+      "features": [
+        "Capsule > 3-angled"
+      ],
+      "size": 1,
+      "representative": "Capsule > 3-angled"
+    },
+    {
+      "features": [
+        "Capsule > Thin-walled"
+      ],
+      "size": 1,
+      "representative": "Capsule > Thin-walled"
+    },
+    {
+      "features": [
+        "Capsule > Erect"
+      ],
+      "size": 1,
+      "representative": "Capsule > Erect"
+    },
+    {
+      "features": [
+        "Rhizome > Creeping rhizome with short, erect, vertical branches"
+      ],
+      "size": 1,
+      "representative": "Rhizome > Creeping rhizome with short, erect, vertical branches"
+    },
+    {
+      "features": [
+        "Stems > Erect"
+      ],
+      "size": 1,
+      "representative": "Stems > Erect"
+    },
+    {
+      "features": [
+        "Stems > Sheathed by bracts at the base of peduncle"
+      ],
+      "size": 1,
+      "representative": "Stems > Sheathed by bracts at the base of peduncle"
+    },
+    {
+      "features": [
+        "Leaves > Shape > Elliptic-ovate"
+      ],
+      "size": 1,
+      "representative": "Leaves > Shape > Elliptic-ovate"
+    },
+    {
+      "features": [
+        "Leaves > Sheath > Infundibuliform (funnel-shaped)"
+      ],
+      "size": 1,
+      "representative": "Leaves > Sheath > Infundibuliform (funnel-shaped)"
+    },
+    {
+      "features": [
+        "Leaves > Arrangement > 2-ranked"
+      ],
+      "size": 1,
+      "representative": "Leaves > Arrangement > 2-ranked"
+    },
+    {
+      "features": [
+        "Inflorescence > Terminal raceme or corymb"
+      ],
+      "size": 1,
+      "representative": "Inflorescence > Terminal raceme or corymb"
+    },
+    {
+      "features": [
+        "Rhizome > Fleshy"
+      ],
+      "size": 1,
+      "representative": "Rhizome > Fleshy"
+    },
+    {
+      "features": [
+        "Stems > Short"
+      ],
+      "size": 1,
+      "representative": "Stems > Short"
+    },
+    {
+      "features": [
+        "Leaves > Venation > Often marked with white or pale veins"
+      ],
+      "size": 1,
+      "representative": "Leaves > Venation > Often marked with white or pale veins"
+    },
+    {
+      "features": [
+        "Roots > Fleshy"
+      ],
+      "size": 1,
+      "representative": "Roots > Fleshy"
+    },
+    {
+      "features": [
+        "Roots > From rhizome nodes"
+      ],
+      "size": 1,
+      "representative": "Roots > From rhizome nodes"
+    },
+    {
+      "features": [
+        "Roots/Underground organs > Tubers (rounded or ovoid) OR"
+      ],
+      "size": 1,
+      "representative": "Roots/Underground organs > Tubers (rounded or ovoid) OR"
+    },
+    {
+      "features": [
+        "Roots/Underground organs > Fleshy, tuberous roots"
+      ],
+      "size": 1,
+      "representative": "Roots/Underground organs > Fleshy, tuberous roots"
+    },
+    {
+      "features": [
+        "Roots/Underground organs > Variable in form: some species with single rounded tuber, others with fleshy fasciculate roots"
+      ],
+      "size": 1,
+      "representative": "Roots/Underground organs > Variable in form: some species with single rounded tuber, others with fleshy fasciculate roots"
+    },
+    {
+      "features": [
+        "Stems > Leafy"
+      ],
+      "size": 1,
+      "representative": "Stems > Leafy"
+    },
+    {
+      "features": [
+        "Stems > Slender to stout depending on species"
+      ],
+      "size": 1,
+      "representative": "Stems > Slender to stout depending on species"
+    },
+    {
+      "features": [
+        "Stems > Height variable: from 10-15 cm to over 50 cm"
+      ],
+      "size": 1,
+      "representative": "Stems > Height variable: from 10-15 cm to over 50 cm"
+    },
+    {
+      "features": [
+        "Leaves > Shape > Variable by species - lanceolate, ovate, elliptic, oblong, linear"
+      ],
+      "size": 1,
+      "representative": "Leaves > Shape > Variable by species - lanceolate, ovate, elliptic, oblong, linear"
+    },
+    {
+      "features": [
+        "Leaves > Size > Highly variable (2-30 cm long, 0.5-4 cm wide depending on species)"
+      ],
+      "size": 1,
+      "representative": "Leaves > Size > Highly variable (2-30 cm long, 0.5-4 cm wide depending on species)"
+    },
+    {
+      "features": [
+        "Leaves > Attachment > Sessile or with short petiole, sheathing at base"
+      ],
+      "size": 1,
+      "representative": "Leaves > Attachment > Sessile or with short petiole, sheathing at base"
+    },
+    {
+      "features": [
+        "Leaves > Position > Basal, appressed to ground, spreading, or clasping stem"
+      ],
+      "size": 1,
+      "representative": "Leaves > Position > Basal, appressed to ground, spreading, or clasping stem"
+    },
+    {
+      "features": [
+        "Leaves > Surface > Green, sometimes with pale or darker markings"
+      ],
+      "size": 1,
+      "representative": "Leaves > Surface > Green, sometimes with pale or darker markings"
+    },
+    {
+      "features": [
+        "Leaves > Persistence > Present at flowering in most species"
+      ],
+      "size": 1,
+      "representative": "Leaves > Persistence > Present at flowering in most species"
+    },
+    {
+      "features": [
+        "Notes on species variation > H. brachyceras: rounded tuber, leaves small, oblong-elliptic"
+      ],
+      "size": 1,
+      "representative": "Notes on species variation > H. brachyceras: rounded tuber, leaves small, oblong-elliptic"
+    },
+    {
+      "features": [
+        "Notes on species variation > H. floribunda: leaves lanceolate to ovate, cauline"
+      ],
+      "size": 1,
+      "representative": "Notes on species variation > H. floribunda: leaves lanceolate to ovate, cauline"
+    },
+    {
+      "features": [
+        "Notes on species variation > H. monorrhiza: leaves ovate-lanceolate, spreading"
+      ],
+      "size": 1,
+      "representative": "Notes on species variation > H. monorrhiza: leaves ovate-lanceolate, spreading"
+    },
+    {
+      "features": [
+        "Notes on species variation > H. odontopetala: leaves oblanceolate, basal"
+      ],
+      "size": 1,
+      "representative": "Notes on species variation > H. odontopetala: leaves oblanceolate, basal"
+    },
+    {
+      "features": [
+        "Notes on species variation > H. quinqueseta: leaves ovate to elliptic"
+      ],
+      "size": 1,
+      "representative": "Notes on species variation > H. quinqueseta: leaves ovate to elliptic"
+    },
+    {
+      "features": [
+        "Notes on species variation > H. repens: leaves ovate to oblong, shady habitats"
+      ],
+      "size": 1,
+      "representative": "Notes on species variation > H. repens: leaves ovate to oblong, shady habitats"
+    },
+    {
+      "features": [
+        "Stems > Slender"
+      ],
+      "size": 1,
+      "representative": "Stems > Slender"
+    },
+    {
+      "features": [
+        "Leaves > Venation > Sometimes marked with lighter veins"
+      ],
+      "size": 1,
+      "representative": "Leaves > Venation > Sometimes marked with lighter veins"
+    },
+    {
+      "features": [
+        "Pseudobulbs > Present"
+      ],
+      "size": 1,
+      "representative": "Pseudobulbs > Present"
+    },
+    {
+      "features": [
+        "Pseudobulbs > Clustered or well-spaced on rhizome"
+      ],
+      "size": 1,
+      "representative": "Pseudobulbs > Clustered or well-spaced on rhizome"
+    },
+    {
+      "features": [
+        "Leaves > Arrangement > Basal from pseudobulb apex"
+      ],
+      "size": 1,
+      "representative": "Leaves > Arrangement > Basal from pseudobulb apex"
+    },
+    {
+      "features": [
+        "Pseudobulbs > Small"
+      ],
+      "size": 1,
+      "representative": "Pseudobulbs > Small"
+    },
+    {
+      "features": [
+        "Pseudobulbs > Often clustered"
+      ],
+      "size": 1,
+      "representative": "Pseudobulbs > Often clustered"
+    },
+    {
+      "features": [
+        "Leaves > Position > Terminal on pseudobulb or along stem"
+      ],
+      "size": 1,
+      "representative": "Leaves > Position > Terminal on pseudobulb or along stem"
+    },
+    {
+      "features": [
+        "Stem > Sometimes elongated between pseudobulbs"
+      ],
+      "size": 1,
+      "representative": "Stem > Sometimes elongated between pseudobulbs"
+    },
+    {
+      "features": [
+        "Roots > Tuberous or cylindrical"
+      ],
+      "size": 1,
+      "representative": "Roots > Tuberous or cylindrical"
+    },
+    {
+      "features": [
+        "Leaves > Persistence > May be absent at flowering (leaves deciduous in some species)"
+      ],
+      "size": 1,
+      "representative": "Leaves > Persistence > May be absent at flowering (leaves deciduous in some species)"
+    },
+    {
+      "features": [
+        "Inflorescence > Terminal spike with flowers typically in spiral arrangement"
+      ],
+      "size": 1,
+      "representative": "Inflorescence > Terminal spike with flowers typically in spiral arrangement"
+    },
+    {
+      "features": [
+        "Inflorescence > Pages from Chapter 3: Species descriptions"
+      ],
+      "size": 1,
+      "representative": "Inflorescence > Pages from Chapter 3: Species descriptions"
+    },
+    {
+      "features": [
+        "Inflorescence > Page 13 > Corymborkis, Erythrodes"
+      ],
+      "size": 1,
+      "representative": "Inflorescence > Page 13 > Corymborkis, Erythrodes"
+    },
+    {
+      "features": [
+        "Inflorescence > Page 15 > Goodyera, Hetaeria, Liparis, Malaxis, Spiranthes"
+      ],
+      "size": 1,
+      "representative": "Inflorescence > Page 15 > Goodyera, Hetaeria, Liparis, Malaxis, Spiranthes"
+    },
+    {
+      "features": [
+        "Inflorescence > Pages 41-48 > Habenaria (continuous description with 8+ species)"
+      ],
+      "size": 1,
+      "representative": "Inflorescence > Pages 41-48 > Habenaria (continuous description with 8+ species)"
+    },
+    {
+      "features": [
+        "Inflorescence > Key distinguishing features:"
+      ],
+      "size": 1,
+      "representative": "Inflorescence > Key distinguishing features:"
+    },
+    {
+      "features": [
+        "Inflorescence > **Average characteristics per genus**: 4.8"
+      ],
+      "size": 1,
+      "representative": "Inflorescence > **Average characteristics per genus**: 4.8"
+    },
+    {
+      "features": [
+        "Inflorescence > **Most common characteristic**: Leaves (8 genera)"
+      ],
+      "size": 1,
+      "representative": "Inflorescence > **Most common characteristic**: Leaves (8 genera)"
+    },
+    {
+      "features": [
+        "Inflorescence > **Least common characteristics**: Capsule (1), Roots/Underground organs (1), Notes on species variation (1)"
+      ],
+      "size": 1,
+      "representative": "Inflorescence > **Least common characteristics**: Capsule (1), Roots/Underground organs (1), Notes on species variation (1)"
+    },
+    {
+      "features": [
+        "Inflorescence > **Capsule** ↔ **Overall Plant Size**: 100.0% overlap"
+      ],
+      "size": 1,
+      "representative": "Inflorescence > **Capsule** ↔ **Overall Plant Size**: 100.0% overlap"
+    },
+    {
+      "features": [
+        "Inflorescence > **Notes on species variation** ↔ **Roots/Underground organs**: 100.0% overlap"
+      ],
+      "size": 1,
+      "representative": "Inflorescence > **Notes on species variation** ↔ **Roots/Underground organs**: 100.0% overlap"
+    },
+    {
+      "features": [
+        "Inflorescence > **Growth Habit** ↔ **Leaves**: 62.5% overlap"
+      ],
+      "size": 1,
+      "representative": "Inflorescence > **Growth Habit** ↔ **Leaves**: 62.5% overlap"
+    }
+  ]
+}

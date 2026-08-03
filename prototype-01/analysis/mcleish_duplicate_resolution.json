@@ -1,0 +1,2152 @@
+{
+  "duplicate_pages": 118,
+  "generated_from": "analysis/mcleish_manifest_postprocessed.json",
+  "pages": [
+    {
+      "alternates": [
+        {
+          "confidence_score": 3.1104651085281763,
+          "image": "032.jpg",
+          "needs_review": true,
+          "renamed_to": "032-scan2.jpg"
+        }
+      ],
+      "page": 32,
+      "primary": {
+        "confidence_score": 4.897519394941588,
+        "image": "131.jpg",
+        "needs_review": true,
+        "renamed_to": "032.jpg"
+      }
+    },
+    {
+      "alternates": [
+        {
+          "confidence_score": 5.681395340954005,
+          "image": "136.jpg",
+          "needs_review": true,
+          "renamed_to": "037-scan2.jpg"
+        }
+      ],
+      "page": 37,
+      "primary": {
+        "confidence_score": 10.179069764178383,
+        "image": "037.jpg",
+        "needs_review": false,
+        "renamed_to": "037.jpg"
+      }
+    },
+    {
+      "alternates": [
+        {
+          "confidence_score": 5.833565894000702,
+          "image": "040.jpg",
+          "needs_review": true,
+          "renamed_to": "040-scan2.jpg"
+        },
+        {
+          "confidence_score": 5.5312403074715695,
+          "image": "139.jpg",
+          "needs_review": true,
+          "renamed_to": "040-scan3.jpg"
+        }
+      ],
+      "page": 40,
+      "primary": {
+        "confidence_score": 7.294806213546238,
+        "image": "143.jpg",
+        "needs_review": true,
+        "renamed_to": "040.jpg"
+      }
+    },
+    {
+      "alternates": [
+        {
+          "confidence_score": 6.7085271226619465,
+          "image": "140.jpg",
+          "needs_review": true,
+          "renamed_to": "041-scan2.jpg"
+        },
+        {
+          "confidence_score": 5.009883729802809,
+          "image": "041.jpg",
+          "needs_review": true,
+          "renamed_to": "041-scan3.jpg"
+        }
+      ],
+      "page": 41,
+      "primary": {
+        "confidence_score": 7.931395351486337,
+        "image": "144.jpg",
+        "needs_review": true,
+        "renamed_to": "041.jpg"
+      }
+    },
+    {
+      "alternates": [
+        {
+          "confidence_score": 4.608759686610556,
+          "image": "042.jpg",
+          "needs_review": true,
+          "renamed_to": "042-scan2.jpg"
+        }
+      ],
+      "page": 42,
+      "primary": {
+        "confidence_score": 6.701782953878087,
+        "image": "141.jpg",
+        "needs_review": true,
+        "renamed_to": "042.jpg"
+      }
+    },
+    {
+      "alternates": [
+        {
+          "confidence_score": 3.888717705915856,
+          "image": "043.jpg",
+          "needs_review": true,
+          "renamed_to": "043-scan2.jpg"
+        }
+      ],
+      "page": 43,
+      "primary": {
+        "confidence_score": 8.223062018342894,
+        "image": "142.jpg",
+        "needs_review": false,
+        "renamed_to": "043.jpg"
+      }
+    },
+    {
+      "alternates": [
+        {
+          "confidence_score": 0.24547109046920146,
+          "image": "044.jpg",
+          "needs_review": true,
+          "renamed_to": "044-scan2.jpg"
+        }
+      ],
+      "page": 44,
+      "primary": {
+        "confidence_score": 2.9552666240850733,
+        "image": "145.jpg",
+        "needs_review": true,
+        "renamed_to": "044.jpg"
+      }
+    },
+    {
+      "alternates": [
+        {
+          "confidence_score": 6.877131795727455,
+          "image": "045.jpg",
+          "needs_review": true,
+          "renamed_to": "045-scan2.jpg"
+        }
+      ],
+      "page": 45,
+      "primary": {
+        "confidence_score": 7.638759678339605,
+        "image": "146.jpg",
+        "needs_review": true,
+        "renamed_to": "045.jpg"
+      }
+    },
+    {
+      "alternates": [
+        {
+          "confidence_score": 4.963410840234778,
+          "image": "046.jpg",
+          "needs_review": true,
+          "renamed_to": "046-scan2.jpg"
+        }
+      ],
+      "page": 46,
+      "primary": {
+        "confidence_score": 5.4479069848858375,
+        "image": "147.jpg",
+        "needs_review": true,
+        "renamed_to": "046.jpg"
+      }
+    },
+    {
+      "alternates": [
+        {
+          "confidence_score": 6.281201556327389,
+          "image": "047.jpg",
+          "needs_review": true,
+          "renamed_to": "047-scan2.jpg"
+        }
+      ],
+      "page": 47,
+      "primary": {
+        "confidence_score": 7.436240313789771,
+        "image": "148.jpg",
+        "needs_review": true,
+        "renamed_to": "047.jpg"
+      }
+    },
+    {
+      "alternates": [
+        {
+          "confidence_score": 4.828720922467739,
+          "image": "149.jpg",
+          "needs_review": true,
+          "renamed_to": "048-scan2.jpg"
+        }
+      ],
+      "page": 48,
+      "primary": {
+        "confidence_score": 6.93143410412163,
+        "image": "048.jpg",
+        "needs_review": true,
+        "renamed_to": "048.jpg"
+      }
+    },
+    {
+      "alternates": [
+        {
+          "confidence_score": 7.238604643299217,
+          "image": "151.jpg",
+          "needs_review": true,
+          "renamed_to": "050-scan2.jpg"
+        }
+      ],
+      "page": 50,
+      "primary": {
+        "confidence_score": 8.337441865095785,
+        "image": "152.jpg",
+        "needs_review": false,
+        "renamed_to": "050.jpg"
+      }
+    },
+    {
+      "alternates": [
+        {
+          "confidence_score": 0,
+          "image": "154.jpg",
+          "needs_review": true,
+          "renamed_to": "052-scan2.jpg"
+        }
+      ],
+      "page": 52,
+      "primary": {
+        "confidence_score": 5.937248059559518,
+        "image": "155.jpg",
+        "needs_review": true,
+        "renamed_to": "052.jpg"
+      }
+    },
+    {
+      "alternates": [
+        {
+          "confidence_score": 6.11844962212744,
+          "image": "157.jpg",
+          "needs_review": true,
+          "renamed_to": "054-scan2.jpg"
+        }
+      ],
+      "page": 54,
+      "primary": {
+        "confidence_score": 6.569999985486713,
+        "image": "054.jpg",
+        "needs_review": true,
+        "renamed_to": "054.jpg"
+      }
+    },
+    {
+      "alternates": [
+        {
+          "confidence_score": 3.3258928586763936,
+          "image": "159.jpg",
+          "needs_review": true,
+          "renamed_to": "056-scan2.jpg"
+        }
+      ],
+      "page": 56,
+      "primary": {
+        "confidence_score": 6.833565885244464,
+        "image": "056.jpg",
+        "needs_review": true,
+        "renamed_to": "056.jpg"
+      }
+    },
+    {
+      "alternates": [
+        {
+          "confidence_score": 0,
+          "image": "162.jpg",
+          "needs_review": true,
+          "renamed_to": "059-scan2.jpg"
+        }
+      ],
+      "page": 59,
+      "primary": {
+        "confidence_score": 9.035658909965882,
+        "image": "059.jpg",
+        "needs_review": false,
+        "renamed_to": "059.jpg"
+      }
+    },
+    {
+      "alternates": [
+        {
+          "confidence_score": 6.928062032359065,
+          "image": "060.jpg",
+          "needs_review": true,
+          "renamed_to": "060-scan2.jpg"
+        },
+        {
+          "confidence_score": 2.072681540301893,
+          "image": "164.jpg",
+          "needs_review": true,
+          "renamed_to": "060-scan3.jpg"
+        }
+      ],
+      "page": 60,
+      "primary": {
+        "confidence_score": 9.251201534220403,
+        "image": "163.jpg",
+        "needs_review": false,
+        "renamed_to": "060.jpg"
+      }
+    },
+    {
+      "alternates": [
+        {
+          "confidence_score": 0,
+          "image": "062.jpg",
+          "needs_review": true,
+          "renamed_to": "062-scan2.jpg"
+        }
+      ],
+      "page": 62,
+      "primary": {
+        "confidence_score": 0.5575580449440898,
+        "image": "166.jpg",
+        "needs_review": true,
+        "renamed_to": "062.jpg"
+      }
+    },
+    {
+      "alternates": [
+        {
+          "confidence_score": 6.967248066159343,
+          "image": "168.jpg",
+          "needs_review": true,
+          "renamed_to": "063-scan2.jpg"
+        }
+      ],
+      "page": 63,
+      "primary": {
+        "confidence_score": 8.711434100643924,
+        "image": "167.jpg",
+        "needs_review": false,
+        "renamed_to": "063.jpg"
+      }
+    },
+    {
+      "alternates": [
+        {
+          "confidence_score": 0,
+          "image": "169.jpg",
+          "needs_review": true,
+          "renamed_to": "064-scan2.jpg"
+        },
+        {
+          "confidence_score": 0,
+          "image": "170.jpg",
+          "needs_review": true,
+          "renamed_to": "064-scan3.jpg"
+        },
+        {
+          "confidence_score": 0,
+          "image": "171.jpg",
+          "needs_review": true,
+          "renamed_to": "064-scan4.jpg"
+        }
+      ],
+      "page": 64,
+      "primary": {
+        "confidence_score": 2.6902487190184345,
+        "image": "064.jpg",
+        "needs_review": true,
+        "renamed_to": "064.jpg"
+      }
+    },
+    {
+      "alternates": [
+        {
+          "confidence_score": 10.651395331127125,
+          "image": "174.jpg",
+          "needs_review": false,
+          "renamed_to": "066-scan2.jpg"
+        },
+        {
+          "confidence_score": 8.016705441013066,
+          "image": "066.jpg",
+          "needs_review": true,
+          "renamed_to": "066-scan3.jpg"
+        },
+        {
+          "confidence_score": 6.649457378457452,
+          "image": "175.jpg",
+          "needs_review": true,
+          "renamed_to": "066-scan4.jpg"
+        },
+        {
+          "confidence_score": 4.932403090868326,
+          "image": "176.jpg",
+          "needs_review": true,
+          "renamed_to": "066-scan5.jpg"
+        }
+      ],
+      "page": 66,
+      "primary": {
+        "confidence_score": 10.942596902267708,
+        "image": "173.jpg",
+        "needs_review": false,
+        "renamed_to": "066.jpg"
+      }
+    },
+    {
+      "alternates": [
+        {
+          "confidence_score": 5.220155034095866,
+          "image": "177.jpg",
+          "needs_review": true,
+          "renamed_to": "067-scan2.jpg"
+        }
+      ],
+      "page": 67,
+      "primary": {
+        "confidence_score": 9.654263565846875,
+        "image": "067.jpg",
+        "needs_review": false,
+        "renamed_to": "067.jpg"
+      }
+    },
+    {
+      "alternates": [
+        {
+          "confidence_score": 1.8005952391153102,
+          "image": "180.jpg",
+          "needs_review": true,
+          "renamed_to": "068-scan2.jpg"
+        },
+        {
+          "confidence_score": 0,
+          "image": "179.jpg",
+          "needs_review": true,
+          "renamed_to": "068-scan3.jpg"
+        }
+      ],
+      "page": 68,
+      "primary": {
+        "confidence_score": 7.080658900237197,
+        "image": "178.jpg",
+        "needs_review": true,
+        "renamed_to": "068.jpg"
+      }
+    },
+    {
+      "alternates": [
+        {
+          "confidence_score": 6.503100798983079,
+          "image": "181.jpg",
+          "needs_review": true,
+          "renamed_to": "069-scan2.jpg"
+        }
+      ],
+      "page": 69,
+      "primary": {
+        "confidence_score": 6.63643411698258,
+        "image": "069.jpg",
+        "needs_review": true,
+        "renamed_to": "069.jpg"
+      }
+    },
+    {
+      "alternates": [
+        {
+          "confidence_score": 4.9324031106713875,
+          "image": "182.jpg",
+          "needs_review": true,
+          "renamed_to": "070-scan2.jpg"
+        }
+      ],
+      "page": 70,
+      "primary": {
+        "confidence_score": 6.226976751923793,
+        "image": "070.jpg",
+        "needs_review": true,
+        "renamed_to": "070.jpg"
+      }
+    },
+    {
+      "alternates": [
+        {
+          "confidence_score": 6.243410857304429,
+          "image": "183.jpg",
+          "needs_review": true,
+          "renamed_to": "071-scan2.jpg"
+        }
+      ],
+      "page": 71,
+      "primary": {
+        "confidence_score": 9.67364341154371,
+        "image": "071.jpg",
+        "needs_review": false,
+        "renamed_to": "071.jpg"
+      }
+    },
+    {
+      "alternates": [
+        {
+          "confidence_score": 4.374263571136504,
+          "image": "187.jpg",
+          "needs_review": true,
+          "renamed_to": "074-scan2.jpg"
+        }
+      ],
+      "page": 74,
+      "primary": {
+        "confidence_score": 4.74635657924042,
+        "image": "186.jpg",
+        "needs_review": true,
+        "renamed_to": "074.jpg"
+      }
+    },
+    {
+      "alternates": [
+        {
+          "confidence_score": 5.943062023645528,
+          "image": "194.jpg",
+          "needs_review": true,
+          "renamed_to": "076-scan2.jpg"
+        },
+        {
+          "confidence_score": 4.12620154048073,
+          "image": "191.jpg",
+          "needs_review": true,
+          "renamed_to": "076-scan3.jpg"
+        },
+        {
+          "confidence_score": 4.095193801713965,
+          "image": "190.jpg",
+          "needs_review": true,
+          "renamed_to": "076-scan4.jpg"
+        },
+        {
+          "confidence_score": 0.40170976146535753,
+          "image": "189.jpg",
+          "needs_review": true,
+          "renamed_to": "076-scan5.jpg"
+        }
+      ],
+      "page": 76,
+      "primary": {
+        "confidence_score": 7.623294587188809,
+        "image": "193.jpg",
+        "needs_review": true,
+        "renamed_to": "076.jpg"
+      }
+    },
+    {
+      "alternates": [
+        {
+          "confidence_score": 5.0031007786691415,
+          "image": "192.jpg",
+          "needs_review": true,
+          "renamed_to": "077-scan2.jpg"
+        }
+      ],
+      "page": 77,
+      "primary": {
+        "confidence_score": 5.611627928195896,
+        "image": "195.jpg",
+        "needs_review": true,
+        "renamed_to": "077.jpg"
+      }
+    },
+    {
+      "alternates": [
+        {
+          "confidence_score": 6.256046513862889,
+          "image": "196.jpg",
+          "needs_review": true,
+          "renamed_to": "078-scan2.jpg"
+        },
+        {
+          "confidence_score": 0,
+          "image": "197.jpg",
+          "needs_review": true,
+          "renamed_to": "078-scan3.jpg"
+        }
+      ],
+      "page": 78,
+      "primary": {
+        "confidence_score": 6.694030981492511,
+        "image": "198.jpg",
+        "needs_review": true,
+        "renamed_to": "078.jpg"
+      }
+    },
+    {
+      "alternates": [
+        {
+          "confidence_score": 7.485658936967574,
+          "image": "200.jpg",
+          "needs_review": true,
+          "renamed_to": "079-scan2.jpg"
+        }
+      ],
+      "page": 79,
+      "primary": {
+        "confidence_score": 9.634883724393315,
+        "image": "199.jpg",
+        "needs_review": false,
+        "renamed_to": "079.jpg"
+      }
+    },
+    {
+      "alternates": [
+        {
+          "confidence_score": 8.443023287775933,
+          "image": "001.jpg",
+          "needs_review": false,
+          "renamed_to": "089-scan2.jpg"
+        },
+        {
+          "confidence_score": 5.80930233545984,
+          "image": "214.jpg",
+          "needs_review": true,
+          "renamed_to": "089-scan3.jpg"
+        },
+        {
+          "confidence_score": 5.623255809526345,
+          "image": "210.jpg",
+          "needs_review": true,
+          "renamed_to": "089-scan4.jpg"
+        },
+        {
+          "confidence_score": 5.530232553475713,
+          "image": "212.jpg",
+          "needs_review": true,
+          "renamed_to": "089-scan5.jpg"
+        },
+        {
+          "confidence_score": 5.499224816108416,
+          "image": "211.jpg",
+          "needs_review": true,
+          "renamed_to": "089-scan6.jpg"
+        },
+        {
+          "confidence_score": 5.496317834234365,
+          "image": "215.jpg",
+          "needs_review": true,
+          "renamed_to": "089-scan7.jpg"
+        }
+      ],
+      "page": 89,
+      "primary": {
+        "confidence_score": 9.371317835022388,
+        "image": "213.jpg",
+        "needs_review": false,
+        "renamed_to": "089.jpg"
+      }
+    },
+    {
+      "alternates": [
+        {
+          "confidence_score": 5.156240299304352,
+          "image": "216.jpg",
+          "needs_review": true,
+          "renamed_to": "090-scan2.jpg"
+        }
+      ],
+      "page": 90,
+      "primary": {
+        "confidence_score": 5.207596908949145,
+        "image": "002.jpg",
+        "needs_review": true,
+        "renamed_to": "090.jpg"
+      }
+    },
+    {
+      "alternates": [
+        {
+          "confidence_score": 5.871317823437138,
+          "image": "003.jpg",
+          "needs_review": true,
+          "renamed_to": "091-scan2.jpg"
+        }
+      ],
+      "page": 91,
+      "primary": {
+        "confidence_score": 6.638759698795056,
+        "image": "217.jpg",
+        "needs_review": true,
+        "renamed_to": "091.jpg"
+      }
+    },
+    {
+      "alternates": [
+        {
+          "confidence_score": 7.614573645645837,
+          "image": "004.jpg",
+          "needs_review": true,
+          "renamed_to": "092-scan2.jpg"
+        }
+      ],
+      "page": 92,
+      "primary": {
+        "confidence_score": 8.726976729694561,
+        "image": "218.jpg",
+        "needs_review": false,
+        "renamed_to": "092.jpg"
+      }
+    },
+    {
+      "alternates": [
+        {
+          "confidence_score": 5.220155030284685,
+          "image": "219.jpg",
+          "needs_review": true,
+          "renamed_to": "093-scan2.jpg"
+        }
+      ],
+      "page": 93,
+      "primary": {
+        "confidence_score": 8.088372097167088,
+        "image": "005.jpg",
+        "needs_review": false,
+        "renamed_to": "093.jpg"
+      }
+    },
+    {
+      "alternates": [
+        {
+          "confidence_score": 6.690155022075705,
+          "image": "006.jpg",
+          "needs_review": true,
+          "renamed_to": "094-scan2.jpg"
+        }
+      ],
+      "page": 94,
+      "primary": {
+        "confidence_score": 9.708565887067364,
+        "image": "220.jpg",
+        "needs_review": false,
+        "renamed_to": "094.jpg"
+      }
+    },
+    {
+      "alternates": [
+        {
+          "confidence_score": 6.024418595842805,
+          "image": "221.jpg",
+          "needs_review": true,
+          "renamed_to": "095-scan2.jpg"
+        }
+      ],
+      "page": 95,
+      "primary": {
+        "confidence_score": 8.286046509865079,
+        "image": "007.jpg",
+        "needs_review": false,
+        "renamed_to": "095.jpg"
+      }
+    },
+    {
+      "alternates": [
+        {
+          "confidence_score": 5.141042784532691,
+          "image": "222.jpg",
+          "needs_review": true,
+          "renamed_to": "096-scan2.jpg"
+        }
+      ],
+      "page": 96,
+      "primary": {
+        "confidence_score": 7.915930243778796,
+        "image": "008.jpg",
+        "needs_review": true,
+        "renamed_to": "096.jpg"
+      }
+    },
+    {
+      "alternates": [
+        {
+          "confidence_score": 6.11744184406877,
+          "image": "223.jpg",
+          "needs_review": true,
+          "renamed_to": "097-scan2.jpg"
+        }
+      ],
+      "page": 97,
+      "primary": {
+        "confidence_score": 9.905232560766862,
+        "image": "009.jpg",
+        "needs_review": false,
+        "renamed_to": "097.jpg"
+      }
+    },
+    {
+      "alternates": [
+        {
+          "confidence_score": 2.7386047345498605,
+          "image": "224.jpg",
+          "needs_review": true,
+          "renamed_to": "098-scan2.jpg"
+        }
+      ],
+      "page": 98,
+      "primary": {
+        "confidence_score": 8.371356600367944,
+        "image": "010.jpg",
+        "needs_review": false,
+        "renamed_to": "098.jpg"
+      }
+    },
+    {
+      "alternates": [
+        {
+          "confidence_score": 5.468217051473312,
+          "image": "225.jpg",
+          "needs_review": true,
+          "renamed_to": "099-scan2.jpg"
+        }
+      ],
+      "page": 99,
+      "primary": {
+        "confidence_score": 8.173643414071394,
+        "image": "011.jpg",
+        "needs_review": false,
+        "renamed_to": "099.jpg"
+      }
+    },
+    {
+      "alternates": [
+        {
+          "confidence_score": 5.3006201508451065,
+          "image": "226.jpg",
+          "needs_review": true,
+          "renamed_to": "100-scan2.jpg"
+        }
+      ],
+      "page": 100,
+      "primary": {
+        "confidence_score": 8.198875964796288,
+        "image": "012.jpg",
+        "needs_review": true,
+        "renamed_to": "100.jpg"
+      }
+    },
+    {
+      "alternates": [
+        {
+          "confidence_score": 5.496317847519196,
+          "image": "227.jpg",
+          "needs_review": true,
+          "renamed_to": "101-scan2.jpg"
+        }
+      ],
+      "page": 101,
+      "primary": {
+        "confidence_score": 8.908139552945551,
+        "image": "013-2.jpg",
+        "needs_review": false,
+        "renamed_to": "101.jpg"
+      }
+    },
+    {
+      "alternates": [
+        {
+          "confidence_score": 5.986666657606109,
+          "image": "014-2.jpg",
+          "needs_review": true,
+          "renamed_to": "102-scan2.jpg"
+        }
+      ],
+      "page": 102,
+      "primary": {
+        "confidence_score": 6.152364346936417,
+        "image": "228.jpg",
+        "needs_review": true,
+        "renamed_to": "102.jpg"
+      }
+    },
+    {
+      "alternates": [
+        {
+          "confidence_score": 8.015697692329887,
+          "image": "229.jpg",
+          "needs_review": false,
+          "renamed_to": "103-scan2.jpg"
+        }
+      ],
+      "page": 103,
+      "primary": {
+        "confidence_score": 9.653294565332637,
+        "image": "015-2.jpg",
+        "needs_review": false,
+        "renamed_to": "103.jpg"
+      }
+    },
+    {
+      "alternates": [
+        {
+          "confidence_score": 6.46244185624147,
+          "image": "016.jpg",
+          "needs_review": true,
+          "renamed_to": "104-scan2.jpg"
+        }
+      ],
+      "page": 104,
+      "primary": {
+        "confidence_score": 7.062248061896812,
+        "image": "230.jpg",
+        "needs_review": true,
+        "renamed_to": "104.jpg"
+      }
+    },
+    {
+      "alternates": [
+        {
+          "confidence_score": 4.896511643880275,
+          "image": "231.jpg",
+          "needs_review": true,
+          "renamed_to": "105-scan2.jpg"
+        }
+      ],
+      "page": 105,
+      "primary": {
+        "confidence_score": 8.443023265024983,
+        "image": "017.jpg",
+        "needs_review": false,
+        "renamed_to": "105.jpg"
+      }
+    },
+    {
+      "alternates": [
+        {
+          "confidence_score": 4.994418594836757,
+          "image": "018-2.jpg",
+          "needs_review": true,
+          "renamed_to": "106-scan2.jpg"
+        }
+      ],
+      "page": 106,
+      "primary": {
+        "confidence_score": 5.114573640993685,
+        "image": "232.jpg",
+        "needs_review": true,
+        "renamed_to": "106.jpg"
+      }
+    },
+    {
+      "alternates": [
+        {
+          "confidence_score": 0.3393798316393406,
+          "image": "233.jpg",
+          "needs_review": true,
+          "renamed_to": "107-scan2.jpg"
+        }
+      ],
+      "page": 107,
+      "primary": {
+        "confidence_score": 7.747286834782275,
+        "image": "019.jpg",
+        "needs_review": true,
+        "renamed_to": "107.jpg"
+      }
+    },
+    {
+      "alternates": [
+        {
+          "confidence_score": 7.262829462128988,
+          "image": "020.jpg",
+          "needs_review": true,
+          "renamed_to": "108-scan2.jpg"
+        }
+      ],
+      "page": 108,
+      "primary": {
+        "confidence_score": 7.75992247851503,
+        "image": "234.jpg",
+        "needs_review": true,
+        "renamed_to": "108.jpg"
+      }
+    },
+    {
+      "alternates": [
+        {
+          "confidence_score": 5.406201549736885,
+          "image": "235.jpg",
+          "needs_review": true,
+          "renamed_to": "109-scan2.jpg"
+        }
+      ],
+      "page": 109,
+      "primary": {
+        "confidence_score": 6.894573651237697,
+        "image": "021-2.jpg",
+        "needs_review": true,
+        "renamed_to": "109.jpg"
+      }
+    },
+    {
+      "alternates": [
+        {
+          "confidence_score": 7.14558139093881,
+          "image": "236.jpg",
+          "needs_review": true,
+          "renamed_to": "110-scan2.jpg"
+        }
+      ],
+      "page": 110,
+      "primary": {
+        "confidence_score": 7.9798837073288595,
+        "image": "022-2.jpg",
+        "needs_review": true,
+        "renamed_to": "110.jpg"
+      }
+    },
+    {
+      "alternates": [
+        {
+          "confidence_score": 2.979883716670427,
+          "image": "237.jpg",
+          "needs_review": true,
+          "renamed_to": "111-scan2.jpg"
+        }
+      ],
+      "page": 111,
+      "primary": {
+        "confidence_score": 7.610658916755415,
+        "image": "023.jpg",
+        "needs_review": true,
+        "renamed_to": "111.jpg"
+      }
+    },
+    {
+      "alternates": [
+        {
+          "confidence_score": 7.718255812381312,
+          "image": "024.jpg",
+          "needs_review": true,
+          "renamed_to": "112-scan2.jpg"
+        }
+      ],
+      "page": 112,
+      "primary": {
+        "confidence_score": 7.925620147986733,
+        "image": "238.jpg",
+        "needs_review": true,
+        "renamed_to": "112.jpg"
+      }
+    },
+    {
+      "alternates": [
+        {
+          "confidence_score": 5.402325597972973,
+          "image": "025.jpg",
+          "needs_review": true,
+          "renamed_to": "113-scan2.jpg"
+        }
+      ],
+      "page": 113,
+      "primary": {
+        "confidence_score": 6.574806218128012,
+        "image": "239.jpg",
+        "needs_review": true,
+        "renamed_to": "113.jpg"
+      }
+    },
+    {
+      "alternates": [
+        {
+          "confidence_score": 4.216317825316619,
+          "image": "026.jpg",
+          "needs_review": true,
+          "renamed_to": "114-scan2.jpg"
+        }
+      ],
+      "page": 114,
+      "primary": {
+        "confidence_score": 6.111666677109994,
+        "image": "240.jpg",
+        "needs_review": true,
+        "renamed_to": "114.jpg"
+      }
+    },
+    {
+      "alternates": [
+        {
+          "confidence_score": 5.034108536192342,
+          "image": "241.jpg",
+          "needs_review": true,
+          "renamed_to": "115-scan2.jpg"
+        }
+      ],
+      "page": 115,
+      "primary": {
+        "confidence_score": 8.42073644295973,
+        "image": "027-2.jpg",
+        "needs_review": false,
+        "renamed_to": "115.jpg"
+      }
+    },
+    {
+      "alternates": [
+        {
+          "confidence_score": 5.943062014378277,
+          "image": "028.jpg",
+          "needs_review": true,
+          "renamed_to": "116-scan2.jpg"
+        }
+      ],
+      "page": 116,
+      "primary": {
+        "confidence_score": 6.262829455709105,
+        "image": "242.jpg",
+        "needs_review": true,
+        "renamed_to": "116.jpg"
+      }
+    },
+    {
+      "alternates": [
+        {
+          "confidence_score": 7.934302326535313,
+          "image": "030.jpg",
+          "needs_review": true,
+          "renamed_to": "117-scan2.jpg"
+        },
+        {
+          "confidence_score": 6.232751938938417,
+          "image": "243.jpg",
+          "needs_review": true,
+          "renamed_to": "117-scan3.jpg"
+        }
+      ],
+      "page": 117,
+      "primary": {
+        "confidence_score": 8.341279081104002,
+        "image": "359.jpg",
+        "needs_review": false,
+        "renamed_to": "117.jpg"
+      }
+    },
+    {
+      "alternates": [
+        {
+          "confidence_score": 4.8665116237165496,
+          "image": "031.jpg",
+          "needs_review": true,
+          "renamed_to": "118-scan2.jpg"
+        }
+      ],
+      "page": 118,
+      "primary": {
+        "confidence_score": 7.8287209076951045,
+        "image": "244.jpg",
+        "needs_review": true,
+        "renamed_to": "118.jpg"
+      }
+    },
+    {
+      "alternates": [
+        {
+          "confidence_score": 8.699806208724567,
+          "image": "245.jpg",
+          "needs_review": false,
+          "renamed_to": "119-scan2.jpg"
+        }
+      ],
+      "page": 119,
+      "primary": {
+        "confidence_score": 8.856782946641905,
+        "image": "032-2.jpg",
+        "needs_review": false,
+        "renamed_to": "119.jpg"
+      }
+    },
+    {
+      "alternates": [
+        {
+          "confidence_score": 6.898488358491647,
+          "image": "246.jpg",
+          "needs_review": true,
+          "renamed_to": "120-scan2.jpg"
+        },
+        {
+          "confidence_score": 4.963410846753395,
+          "image": "034.jpg",
+          "needs_review": true,
+          "renamed_to": "120-scan3.jpg"
+        }
+      ],
+      "page": 120,
+      "primary": {
+        "confidence_score": 7.251201543387481,
+        "image": "360.jpg",
+        "needs_review": true,
+        "renamed_to": "120.jpg"
+      }
+    },
+    {
+      "alternates": [
+        {
+          "confidence_score": 6.533139550857024,
+          "image": "035.jpg",
+          "needs_review": true,
+          "renamed_to": "121-scan2.jpg"
+        }
+      ],
+      "page": 121,
+      "primary": {
+        "confidence_score": 9.042829461959482,
+        "image": "247.jpg",
+        "needs_review": false,
+        "renamed_to": "121.jpg"
+      }
+    },
+    {
+      "alternates": [
+        {
+          "confidence_score": 4.649457360115131,
+          "image": "036.jpg",
+          "needs_review": true,
+          "renamed_to": "122-scan2.jpg"
+        }
+      ],
+      "page": 122,
+      "primary": {
+        "confidence_score": 8.917868213447203,
+        "image": "248.jpg",
+        "needs_review": false,
+        "renamed_to": "122.jpg"
+      }
+    },
+    {
+      "alternates": [
+        {
+          "confidence_score": 5.269573644364772,
+          "image": "249.jpg",
+          "needs_review": true,
+          "renamed_to": "123-scan2.jpg"
+        }
+      ],
+      "page": 123,
+      "primary": {
+        "confidence_score": 7.278294574548879,
+        "image": "037-2.jpg",
+        "needs_review": true,
+        "renamed_to": "123.jpg"
+      }
+    },
+    {
+      "alternates": [
+        {
+          "confidence_score": 6.093255809759837,
+          "image": "250.jpg",
+          "needs_review": true,
+          "renamed_to": "124-scan2.jpg"
+        }
+      ],
+      "page": 124,
+      "primary": {
+        "confidence_score": 6.1213565901312785,
+        "image": "038.jpg",
+        "needs_review": true,
+        "renamed_to": "124.jpg"
+      }
+    },
+    {
+      "alternates": [
+        {
+          "confidence_score": 4.600000003892598,
+          "image": "251.jpg",
+          "needs_review": true,
+          "renamed_to": "125-scan2.jpg"
+        }
+      ],
+      "page": 125,
+      "primary": {
+        "confidence_score": 6.398449613308568,
+        "image": "039.jpg",
+        "needs_review": true,
+        "renamed_to": "125.jpg"
+      }
+    },
+    {
+      "alternates": [
+        {
+          "confidence_score": 4.765736429914875,
+          "image": "252.jpg",
+          "needs_review": true,
+          "renamed_to": "126-scan2.jpg"
+        },
+        {
+          "confidence_score": 3.9091472756939636,
+          "image": "041-2.jpg",
+          "needs_review": true,
+          "renamed_to": "126-scan3.jpg"
+        }
+      ],
+      "page": 126,
+      "primary": {
+        "confidence_score": 5.323364265352513,
+        "image": "040-2.jpg",
+        "needs_review": true,
+        "renamed_to": "126.jpg"
+      }
+    },
+    {
+      "alternates": [
+        {
+          "confidence_score": 6.846124054862054,
+          "image": "253.jpg",
+          "needs_review": true,
+          "renamed_to": "127-scan2.jpg"
+        }
+      ],
+      "page": 127,
+      "primary": {
+        "confidence_score": 10.017635668125756,
+        "image": "042-2.jpg",
+        "needs_review": false,
+        "renamed_to": "127.jpg"
+      }
+    },
+    {
+      "alternates": [
+        {
+          "confidence_score": 4.981821701200404,
+          "image": "043-2.jpg",
+          "needs_review": true,
+          "renamed_to": "128-scan2.jpg"
+        }
+      ],
+      "page": 128,
+      "primary": {
+        "confidence_score": 7.086472866644876,
+        "image": "254.jpg",
+        "needs_review": true,
+        "renamed_to": "128.jpg"
+      }
+    },
+    {
+      "alternates": [
+        {
+          "confidence_score": 5.313178298983038,
+          "image": "255.jpg",
+          "needs_review": true,
+          "renamed_to": "129-scan2.jpg"
+        }
+      ],
+      "page": 129,
+      "primary": {
+        "confidence_score": 9.570930224632086,
+        "image": "044-2.jpg",
+        "needs_review": false,
+        "renamed_to": "129.jpg"
+      }
+    },
+    {
+      "alternates": [
+        {
+          "confidence_score": 6.735697679287347,
+          "image": "256.jpg",
+          "needs_review": true,
+          "renamed_to": "130-scan2.jpg"
+        }
+      ],
+      "page": 130,
+      "primary": {
+        "confidence_score": 7.8858914717426165,
+        "image": "045-2.jpg",
+        "needs_review": true,
+        "renamed_to": "130.jpg"
+      }
+    },
+    {
+      "alternates": [
+        {
+          "confidence_score": 5.313178299391982,
+          "image": "257.jpg",
+          "needs_review": true,
+          "renamed_to": "131-scan2.jpg"
+        }
+      ],
+      "page": 131,
+      "primary": {
+        "confidence_score": 8.77441861457014,
+        "image": "046-2.jpg",
+        "needs_review": false,
+        "renamed_to": "131.jpg"
+      }
+    },
+    {
+      "alternates": [
+        {
+          "confidence_score": 5.335503870319287,
+          "image": "258.jpg",
+          "needs_review": true,
+          "renamed_to": "132-scan2.jpg"
+        }
+      ],
+      "page": 132,
+      "primary": {
+        "confidence_score": 6.920775188410814,
+        "image": "047-2.jpg",
+        "needs_review": true,
+        "renamed_to": "132.jpg"
+      }
+    },
+    {
+      "alternates": [
+        {
+          "confidence_score": 4.693023272389398,
+          "image": "259.jpg",
+          "needs_review": true,
+          "renamed_to": "133-scan2.jpg"
+        }
+      ],
+      "page": 133,
+      "primary": {
+        "confidence_score": 9.051550401481666,
+        "image": "048-2.jpg",
+        "needs_review": false,
+        "renamed_to": "133.jpg"
+      }
+    },
+    {
+      "alternates": [
+        {
+          "confidence_score": 2.79040014341426,
+          "image": "260.jpg",
+          "needs_review": true,
+          "renamed_to": "134-scan2.jpg"
+        }
+      ],
+      "page": 134,
+      "primary": {
+        "confidence_score": 5.254108522941357,
+        "image": "049.jpg",
+        "needs_review": true,
+        "renamed_to": "134.jpg"
+      }
+    },
+    {
+      "alternates": [
+        {
+          "confidence_score": 5.158139545860916,
+          "image": "050.jpg",
+          "needs_review": true,
+          "renamed_to": "135-scan2.jpg"
+        }
+      ],
+      "page": 135,
+      "primary": {
+        "confidence_score": 5.568023260409095,
+        "image": "261.jpg",
+        "needs_review": true,
+        "renamed_to": "135.jpg"
+      }
+    },
+    {
+      "alternates": [
+        {
+          "confidence_score": 5.138798442781124,
+          "image": "051.jpg",
+          "needs_review": true,
+          "renamed_to": "136-scan2.jpg"
+        }
+      ],
+      "page": 136,
+      "primary": {
+        "confidence_score": 7.222131780840611,
+        "image": "262.jpg",
+        "needs_review": true,
+        "renamed_to": "136.jpg"
+      }
+    },
+    {
+      "alternates": [
+        {
+          "confidence_score": 5.561240319913269,
+          "image": "263.jpg",
+          "needs_review": true,
+          "renamed_to": "137-scan2.jpg"
+        }
+      ],
+      "page": 137,
+      "primary": {
+        "confidence_score": 6.989534879670846,
+        "image": "052.jpg",
+        "needs_review": true,
+        "renamed_to": "137.jpg"
+      }
+    },
+    {
+      "alternates": [
+        {
+          "confidence_score": 7.673682155531832,
+          "image": "271.jpg",
+          "needs_review": true,
+          "renamed_to": "144-scan2.jpg"
+        }
+      ],
+      "page": 144,
+      "primary": {
+        "confidence_score": 9.543837202211364,
+        "image": "270.jpg",
+        "needs_review": false,
+        "renamed_to": "144.jpg"
+      }
+    },
+    {
+      "alternates": [
+        {
+          "confidence_score": 5.778294584297051,
+          "image": "279.jpg",
+          "needs_review": true,
+          "renamed_to": "151-scan2.jpg"
+        }
+      ],
+      "page": 151,
+      "primary": {
+        "confidence_score": 10.403294591312449,
+        "image": "278.jpg",
+        "needs_review": false,
+        "renamed_to": "151.jpg"
+      }
+    },
+    {
+      "alternates": [
+        {
+          "confidence_score": 6.024418618992602,
+          "image": "293.jpg",
+          "needs_review": true,
+          "renamed_to": "165-scan2.jpg"
+        }
+      ],
+      "page": 165,
+      "primary": {
+        "confidence_score": 7.3625969172866315,
+        "image": "053.jpg",
+        "needs_review": true,
+        "renamed_to": "165.jpg"
+      }
+    },
+    {
+      "alternates": [
+        {
+          "confidence_score": 6.522480627622516,
+          "image": "294.jpg",
+          "needs_review": true,
+          "renamed_to": "167-scan2.jpg"
+        }
+      ],
+      "page": 167,
+      "primary": {
+        "confidence_score": 6.710465120874214,
+        "image": "055.jpg",
+        "needs_review": true,
+        "renamed_to": "167.jpg"
+      }
+    },
+    {
+      "alternates": [
+        {
+          "confidence_score": 8.061279068146813,
+          "image": "295.jpg",
+          "needs_review": false,
+          "renamed_to": "168-scan2.jpg"
+        },
+        {
+          "confidence_score": 5.8296899193956895,
+          "image": "056-2.jpg",
+          "needs_review": true,
+          "renamed_to": "168-scan3.jpg"
+        }
+      ],
+      "page": 168,
+      "primary": {
+        "confidence_score": 8.840348835588674,
+        "image": "296.jpg",
+        "needs_review": false,
+        "renamed_to": "168.jpg"
+      }
+    },
+    {
+      "alternates": [
+        {
+          "confidence_score": 7.373255829926787,
+          "image": "297.jpg",
+          "needs_review": true,
+          "renamed_to": "169-scan2.jpg"
+        }
+      ],
+      "page": 169,
+      "primary": {
+        "confidence_score": 9.487596891245916,
+        "image": "057.jpg",
+        "needs_review": false,
+        "renamed_to": "169.jpg"
+      }
+    },
+    {
+      "alternates": [
+        {
+          "confidence_score": 5.145581391155184,
+          "image": "058.jpg",
+          "needs_review": true,
+          "renamed_to": "170-scan2.jpg"
+        }
+      ],
+      "page": 170,
+      "primary": {
+        "confidence_score": 5.459534872701041,
+        "image": "298.jpg",
+        "needs_review": true,
+        "renamed_to": "170.jpg"
+      }
+    },
+    {
+      "alternates": [
+        {
+          "confidence_score": 6.675581396254304,
+          "image": "299.jpg",
+          "needs_review": true,
+          "renamed_to": "171-scan2.jpg"
+        }
+      ],
+      "page": 171,
+      "primary": {
+        "confidence_score": 9.263759699841454,
+        "image": "059-2.jpg",
+        "needs_review": false,
+        "renamed_to": "171.jpg"
+      }
+    },
+    {
+      "alternates": [
+        {
+          "confidence_score": 5.560310067118981,
+          "image": "060-2.jpg",
+          "needs_review": true,
+          "renamed_to": "172-scan2.jpg"
+        }
+      ],
+      "page": 172,
+      "primary": {
+        "confidence_score": 6.3054651165964275,
+        "image": "300.jpg",
+        "needs_review": true,
+        "renamed_to": "172.jpg"
+      }
+    },
+    {
+      "alternates": [
+        {
+          "confidence_score": 5.313178298466243,
+          "image": "061.jpg",
+          "needs_review": true,
+          "renamed_to": "173-scan2.jpg"
+        }
+      ],
+      "page": 173,
+      "primary": {
+        "confidence_score": 6.357751932662605,
+        "image": "301.jpg",
+        "needs_review": true,
+        "renamed_to": "173.jpg"
+      }
+    },
+    {
+      "alternates": [
+        {
+          "confidence_score": 0,
+          "image": "062-2.jpg",
+          "needs_review": true,
+          "renamed_to": "174-scan2.jpg"
+        }
+      ],
+      "page": 174,
+      "primary": {
+        "confidence_score": 7.914961238689449,
+        "image": "302.jpg",
+        "needs_review": true,
+        "renamed_to": "174.jpg"
+      }
+    },
+    {
+      "alternates": [
+        {
+          "confidence_score": 5.530232558651614,
+          "image": "063.jpg",
+          "needs_review": true,
+          "renamed_to": "175-scan2.jpg"
+        }
+      ],
+      "page": 175,
+      "primary": {
+        "confidence_score": 5.654263569784073,
+        "image": "303.jpg",
+        "needs_review": true,
+        "renamed_to": "175.jpg"
+      }
+    },
+    {
+      "alternates": [
+        {
+          "confidence_score": 7.29286821396933,
+          "image": "064-2.jpg",
+          "needs_review": true,
+          "renamed_to": "176-scan2.jpg"
+        }
+      ],
+      "page": 176,
+      "primary": {
+        "confidence_score": 8.265736432568225,
+        "image": "304.jpg",
+        "needs_review": false,
+        "renamed_to": "176.jpg"
+      }
+    },
+    {
+      "alternates": [
+        {
+          "confidence_score": 5.123255829926787,
+          "image": "305.jpg",
+          "needs_review": true,
+          "renamed_to": "177-scan2.jpg"
+        }
+      ],
+      "page": 177,
+      "primary": {
+        "confidence_score": 7.738565895229141,
+        "image": "065.jpg",
+        "needs_review": true,
+        "renamed_to": "177.jpg"
+      }
+    },
+    {
+      "alternates": [
+        {
+          "confidence_score": 5.459534876619704,
+          "image": "066-2.jpg",
+          "needs_review": true,
+          "renamed_to": "178-scan2.jpg"
+        }
+      ],
+      "page": 178,
+      "primary": {
+        "confidence_score": 7.687248060394875,
+        "image": "306.jpg",
+        "needs_review": true,
+        "renamed_to": "178.jpg"
+      }
+    },
+    {
+      "alternates": [
+        {
+          "confidence_score": 6.088372090413211,
+          "image": "345.jpg",
+          "needs_review": true,
+          "renamed_to": "217-scan2.jpg"
+        }
+      ],
+      "page": 217,
+      "primary": {
+        "confidence_score": 8.058333349355081,
+        "image": "067-2.jpg",
+        "needs_review": false,
+        "renamed_to": "217.jpg"
+      }
+    },
+    {
+      "alternates": [
+        {
+          "confidence_score": 6.764767439755339,
+          "image": "346.jpg",
+          "needs_review": true,
+          "renamed_to": "218-scan2.jpg"
+        }
+      ],
+      "page": 218,
+      "primary": {
+        "confidence_score": 7.325813952829541,
+        "image": "068.jpg",
+        "needs_review": true,
+        "renamed_to": "218.jpg"
+      }
+    },
+    {
+      "alternates": [
+        {
+          "confidence_score": 5.189147295882265,
+          "image": "069-2.jpg",
+          "needs_review": true,
+          "renamed_to": "219-scan2.jpg"
+        }
+      ],
+      "page": 219,
+      "primary": {
+        "confidence_score": 7.057364346557959,
+        "image": "347.jpg",
+        "needs_review": true,
+        "renamed_to": "219.jpg"
+      }
+    },
+    {
+      "alternates": [
+        {
+          "confidence_score": 4.15720929119784,
+          "image": "070-2.jpg",
+          "needs_review": true,
+          "renamed_to": "220-scan2.jpg"
+        }
+      ],
+      "page": 220,
+      "primary": {
+        "confidence_score": 7.427558135927824,
+        "image": "348.jpg",
+        "needs_review": true,
+        "renamed_to": "220.jpg"
+      }
+    },
+    {
+      "alternates": [
+        {
+          "confidence_score": 5.282170553763402,
+          "image": "071-2.jpg",
+          "needs_review": true,
+          "renamed_to": "221-scan2.jpg"
+        }
+      ],
+      "page": 221,
+      "primary": {
+        "confidence_score": 5.7472868235464105,
+        "image": "349.jpg",
+        "needs_review": true,
+        "renamed_to": "221.jpg"
+      }
+    },
+    {
+      "alternates": [
+        {
+          "confidence_score": 4.901395340637977,
+          "image": "072.jpg",
+          "needs_review": true,
+          "renamed_to": "222-scan2.jpg"
+        }
+      ],
+      "page": 222,
+      "primary": {
+        "confidence_score": 7.300620146403472,
+        "image": "350.jpg",
+        "needs_review": true,
+        "renamed_to": "222.jpg"
+      }
+    },
+    {
+      "alternates": [
+        {
+          "confidence_score": 6.088372094310531,
+          "image": "351.jpg",
+          "needs_review": true,
+          "renamed_to": "223-scan2.jpg"
+        }
+      ],
+      "page": 223,
+      "primary": {
+        "confidence_score": 7.071899239706685,
+        "image": "073.jpg",
+        "needs_review": true,
+        "renamed_to": "223.jpg"
+      }
+    },
+    {
+      "alternates": [
+        {
+          "confidence_score": 1.6762266595730546,
+          "image": "352.jpg",
+          "needs_review": true,
+          "renamed_to": "224-scan2.jpg"
+        }
+      ],
+      "page": 224,
+      "primary": {
+        "confidence_score": 5.512829453140695,
+        "image": "074.jpg",
+        "needs_review": true,
+        "renamed_to": "224.jpg"
+      }
+    },
+    {
+      "alternates": [
+        {
+          "confidence_score": 5.375193807488822,
+          "image": "075.jpg",
+          "needs_review": true,
+          "renamed_to": "225-scan2.jpg"
+        }
+      ],
+      "page": 225,
+      "primary": {
+        "confidence_score": 6.243410858672961,
+        "image": "353.jpg",
+        "needs_review": true,
+        "renamed_to": "225.jpg"
+      }
+    },
+    {
+      "alternates": [
+        {
+          "confidence_score": 4.126201543497581,
+          "image": "354.jpg",
+          "needs_review": true,
+          "renamed_to": "226-scan2.jpg"
+        }
+      ],
+      "page": 226,
+      "primary": {
+        "confidence_score": 6.3384108363772755,
+        "image": "076.jpg",
+        "needs_review": true,
+        "renamed_to": "226.jpg"
+      }
+    },
+    {
+      "alternates": [
+        {
+          "confidence_score": 5.9333333334578136,
+          "image": "355.jpg",
+          "needs_review": true,
+          "renamed_to": "227-scan2.jpg"
+        }
+      ],
+      "page": 227,
+      "primary": {
+        "confidence_score": 8.360658913744615,
+        "image": "077.jpg",
+        "needs_review": false,
+        "renamed_to": "227.jpg"
+      }
+    },
+    {
+      "alternates": [
+        {
+          "confidence_score": 6.075813939886993,
+          "image": "356.jpg",
+          "needs_review": true,
+          "renamed_to": "228-scan2.jpg"
+        }
+      ],
+      "page": 228,
+      "primary": {
+        "confidence_score": 6.575813950403437,
+        "image": "078.jpg",
+        "needs_review": true,
+        "renamed_to": "228.jpg"
+      }
+    },
+    {
+      "alternates": [
+        {
+          "confidence_score": 6.458527133809676,
+          "image": "079.jpg",
+          "needs_review": true,
+          "renamed_to": "229-scan2.jpg"
+        }
+      ],
+      "page": 229,
+      "primary": {
+        "confidence_score": 7.631976753037254,
+        "image": "357.jpg",
+        "needs_review": true,
+        "renamed_to": "229.jpg"
+      }
+    },
+    {
+      "alternates": [
+        {
+          "confidence_score": 6.606821701230393,
+          "image": "358.jpg",
+          "needs_review": true,
+          "renamed_to": "230-scan2.jpg"
+        }
+      ],
+      "page": 230,
+      "primary": {
+        "confidence_score": 7.686279068014416,
+        "image": "080.jpg",
+        "needs_review": true,
+        "renamed_to": "230.jpg"
+      }
+    },
+    {
+      "alternates": [
+        {
+          "confidence_score": 6.662054255688824,
+          "image": "084.jpg",
+          "needs_review": true,
+          "renamed_to": "234-scan2.jpg"
+        }
+      ],
+      "page": 234,
+      "primary": {
+        "confidence_score": 6.714379837909213,
+        "image": "085.jpg",
+        "needs_review": true,
+        "renamed_to": "234.jpg"
+      }
+    },
+    {
+      "alternates": [
+        {
+          "confidence_score": 8.192054279539189,
+          "image": "090.jpg",
+          "needs_review": false,
+          "renamed_to": "239-scan2.jpg"
+        }
+      ],
+      "page": 239,
+      "primary": {
+        "confidence_score": 9.208527132736865,
+        "image": "091.jpg",
+        "needs_review": false,
+        "renamed_to": "239.jpg"
+      }
+    },
+    {
+      "alternates": [
+        {
+          "confidence_score": 6.091317827885186,
+          "image": "097.jpg",
+          "needs_review": true,
+          "renamed_to": "244-scan2.jpg"
+        }
+      ],
+      "page": 244,
+      "primary": {
+        "confidence_score": 6.3907364335255235,
+        "image": "096.jpg",
+        "needs_review": true,
+        "renamed_to": "244.jpg"
+      }
+    },
+    {
+      "alternates": [
+        {
+          "confidence_score": 4.312248050887762,
+          "image": "102.jpg",
+          "needs_review": true,
+          "renamed_to": "248-scan2.jpg"
+        }
+      ],
+      "page": 248,
+      "primary": {
+        "confidence_score": 4.312248058226263,
+        "image": "101.jpg",
+        "needs_review": true,
+        "renamed_to": "248.jpg"
+      }
+    },
+    {
+      "alternates": [
+        {
+          "confidence_score": 4.184341087722202,
+          "image": "106.jpg",
+          "needs_review": true,
+          "renamed_to": "252-scan2.jpg"
+        }
+      ],
+      "page": 252,
+      "primary": {
+        "confidence_score": 5.70759688861386,
+        "image": "109.jpg",
+        "needs_review": true,
+        "renamed_to": "252.jpg"
+      }
+    },
+    {
+      "alternates": [
+        {
+          "confidence_score": 0,
+          "image": "108.jpg",
+          "needs_review": true,
+          "renamed_to": "253-scan2.jpg"
+        }
+      ],
+      "page": 253,
+      "primary": {
+        "confidence_score": 6.418798455847331,
+        "image": "107.jpg",
+        "needs_review": true,
+        "renamed_to": "253.jpg"
+      }
+    },
+    {
+      "alternates": [
+        {
+          "confidence_score": 5.580620161273688,
+          "image": "111.jpg",
+          "needs_review": true,
+          "renamed_to": "255-scan2.jpg"
+        }
+      ],
+      "page": 255,
+      "primary": {
+        "confidence_score": 5.943023264008211,
+        "image": "112.jpg",
+        "needs_review": true,
+        "renamed_to": "255.jpg"
+      }
+    },
+    {
+      "alternates": [
+        {
+          "confidence_score": 6.637829443762964,
+          "image": "115.jpg",
+          "needs_review": true,
+          "renamed_to": "256-scan2.jpg"
+        },
+        {
+          "confidence_score": 5.707596893265023,
+          "image": "113.jpg",
+          "needs_review": true,
+          "renamed_to": "256-scan3.jpg"
+        }
+      ],
+      "page": 256,
+      "primary": {
+        "confidence_score": 6.898488372076428,
+        "image": "116.jpg",
+        "needs_review": true,
+        "renamed_to": "256.jpg"
+      }
+    },
+    {
+      "alternates": [
+        {
+          "confidence_score": 6.449806211469362,
+          "image": "114.jpg",
+          "needs_review": true,
+          "renamed_to": "257-scan2.jpg"
+        }
+      ],
+      "page": 257,
+      "primary": {
+        "confidence_score": 7.974031015705242,
+        "image": "117.jpg",
+        "needs_review": true,
+        "renamed_to": "257.jpg"
+      }
+    }
+  ],
+  "schema_version": 1,
+  "selection_rule": "Among images assigned to the same page, prefer needs_review=false, then higher OCR confidence_score, then earlier manifest order. The top-ranked scan is renamed to NNN.jpg; the rest are kept as NNN-scanK.jpg (best to worst) instead of being discarded, so a curator can still consult or combine them during genus text curation."
+}

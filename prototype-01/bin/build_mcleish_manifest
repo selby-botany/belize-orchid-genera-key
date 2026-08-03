@@ -1,0 +1,39 @@
+#!/usr/bin/env bash
+
+set -o errexit
+set -o nounset
+set -o pipefail
+
+ROOT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
+OUT_DIR="${ROOT_DIR}/analysis"
+RAW_JSON="${OUT_DIR}/mcleish_header_candidates.json"
+MANIFEST_JSON="${OUT_DIR}/mcleish_manifest.json"
+
+mkdir -p "${OUT_DIR}"
+
+swift "${ROOT_DIR}/bin/extract_mcleish_header_candidates.swift" > "${RAW_JSON}"
+
+jq '
+  {
+    schema_version: 1,
+    generated_at: now | todate,
+    source: "mcleish/*.jpg",
+    note: "best_page is automated OCR inference; review required where needs_review=true",
+    entries: [
+      .[] | {
+        image: .image,
+        inferred_page: .bestPage,
+        confidence_score: (.bestScore | tonumber),
+        needs_review: .needsReview,
+        top_candidates: .candidates
+      }
+    ]
+  }
+' "${RAW_JSON}" > "${MANIFEST_JSON}"
+
+review_count="$(jq '[.entries[] | select(.needs_review == true)] | length' "${MANIFEST_JSON}")"
+total_count="$(jq '.entries | length' "${MANIFEST_JSON}")"
+
+printf 'Manifest written: %s\n' "${MANIFEST_JSON}"
+printf 'Raw OCR written: %s\n' "${RAW_JSON}"
+printf 'Entries needing review: %s/%s\n' "${review_count}" "${total_count}"
