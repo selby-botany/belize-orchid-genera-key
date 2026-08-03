@@ -1,0 +1,31 @@
+#!/usr/bin/env bash
+# shellcheck shell=bash
+
+# Provide the ImageMagick 7 CLI through dpokidov/imagemagick.
+
+set -o errexit
+set -o nounset
+set -o pipefail
+
+# Run ImageMagick with the current directory mounted read-write.
+# Args:
+#   ImageMagick 7 magick command arguments
+# Returns:
+#   The exit status and output from the containerized magick command
+imagemagick() {
+    local image="${IMAGEMAGICK_IMAGE:-dpokidov/imagemagick}"
+    local tag="${IMAGEMAGICK_IMAGE_TAG:-latest-trixie}"
+    local workdir
+    workdir="$(pwd -P)"
+
+    docker run --rm --interactive \
+        --user "$(id -u):$(id -g)" \
+        --volume "${workdir}:${workdir}" \
+        --workdir "${workdir}" \
+        --entrypoint magick \
+        "${image}:${tag}" "${@}"
+}
+
+if [[ "${BASH_SOURCE[0]}" == "${0}" ]]; then
+    imagemagick "${@}"
+fi
