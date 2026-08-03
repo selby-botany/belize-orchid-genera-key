@@ -31,8 +31,7 @@ data a key will be generated from, across two prototypes:
 
 ## Source material
 
-The genus descriptions originate from scanned pages of a reference text
-referred to internally as "McLeish". The raw scans live in `mcleish/` and
+The genus descriptions originate from scanned pages of *Native orchids of Belize*[^mcleish]. The raw scans live in `mcleish/` and
 are not committed to this repository. The curated, machine-readable
 output derived from that source — page-mapped images, extracted genus
 text, characteristic data — lives under `prototype-01/` and
@@ -43,3 +42,6 @@ text, characteristic data — lives under `prototype-01/` and
 © 2026 Marie Selby Botanical Gardens
 
 AGPL-3.0-or-later — see [LICENSE.md](LICENSE.md).
+
+
+[^mcleish] McLeish, I., Pearce, N. R., Adams, B. R., & Briggs, J. S. (1995). *Native orchids of Belize*. A.A. Balkema.
