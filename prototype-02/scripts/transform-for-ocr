@@ -1,0 +1,135 @@
+#!/usr/bin/env bash
+# Prepare captured page images for the OCR stage.
+#
+# Text and line-art pages are flat-fielded to a clean white ground and
+# converted to grayscale. Colour plates, covers, and maps keep their colour
+# and receive white balance only, because flat-fielding destroys photographic
+# tonality.
+#
+# Usage:
+#   scripts/transform-for-ocr [SOURCE_DIR] [OUTPUT_DIR]
+#
+# Defaults to 20260729-page-scans-original -> 20260729-page-scans.
+# Requires manifest/capture-classification.json (scripts/classify_captures.py).
+
+set -o errexit
+set -o nounset
+set -o pipefail
+
+ROOT="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd -P)"
+IMAGEMAGICK="${ROOT}/bin/imagemagick"
+JOBS="${TRANSFORM_JOBS:-6}"
+CHUNK="${TRANSFORM_CHUNK:-10}"
+
+# Print a path relative to the project root.
+# Args:
+#   $1  absolute or relative path that resolves under the project root
+# Returns:
+#   0 and writes the root-relative path to stdout
+relative-to-root() {
+    local resolved
+    resolved="$(cd "$1" && pwd -P)"
+    printf '%s' "${resolved#"${ROOT}/"}"
+}
+
+# Transform one chunk of captures in a single ImageMagick invocation.
+#
+# ImageMagick paths are root-relative because the wrapper mounts the current
+# directory into the container at the same location.
+# Args:
+#   $1   mode: "mono" or "colour"
+#   $2   output directory, relative to the project root
+#   $3.. source paths, relative to the project root
+# Returns:
+#   0 on success
+transform-chunk() {
+    local mode="$1" output="$2"
+    shift 2
+
+    local arguments=() source base
+    for source in "$@"; do
+        base="$(basename "${source}")"
+        base="${base%.*}"
+        arguments+=( '(' "${source}" -auto-orient )
+        if [[ "${mode}" == "mono" ]]; then
+            # Dividing by a heavy blur of the frame itself removes the
+            # tungsten cast and the illumination gradient together. The 90%
+            # white point clips residual show-through without thinning
+            # strokes; lower white points visibly lighten fine line art.
+            arguments+=( -colorspace Gray
+                         '(' +clone -blur 0x60 ')'
+                         -compose Divide_Src -composite
+                         -level '0%,90%'
+                         -unsharp 0x1.2+0.8+0.02 )
+        else
+            # Per-channel stretch neutralizes the cast while preserving
+            # photographic tonality.
+            arguments+=( -channel RGB -contrast-stretch '0.2%x0.05%' +channel )
+        fi
+        arguments+=( -quality 95 -write "${output}/${base}.jpg" +delete ')' )
+    done
+
+    cd "${ROOT}"
+    "${IMAGEMAGICK}" "${arguments[@]}" null:
+}
+
+# Transform every capture in the source directory.
+# Args:
+#   $1  source directory (optional)
+#   $2  output directory (optional)
+# Returns:
+#   0 on success
+main() {
+    local source="${1:-${ROOT}/20260729-page-scans-original}"
+    local output="${2:-${ROOT}/20260729-page-scans}"
+    local classification="${ROOT}/manifest/capture-classification.json"
+
+    [[ -d "${source}" ]] || { echo "no such source directory: ${source}" >&2; exit 1; }
+    [[ -f "${classification}" ]] || {
+        echo "missing ${classification}; run scripts/classify_captures.py" >&2
+        exit 1
+    }
+    mkdir -p "${output}"
+
+    local source_relative output_relative
+    source_relative="$(relative-to-root "${source}")"
+    output_relative="$(relative-to-root "${output}")"
+
+    local list_mono list_colour
+    list_mono="$(mktemp)"
+    list_colour="$(mktemp)"
+    # shellcheck disable=SC2064  # expand the paths now, not at trap time
+    trap "rm -f '${list_mono}' '${list_colour}'" EXIT
+
+    python3 - "${source}" "${classification}" "${source_relative}" \
+             "${list_mono}" "${list_colour}" <<'PY'
+import json, os, sys
+source, classification, prefix, mono_path, colour_path = sys.argv[1:6]
+colour = set(json.load(open(classification))["colour"])
+names = sorted(n for n in os.listdir(source) if n.lower().endswith((".jpg", ".jpeg")))
+with open(mono_path, "w") as mono, open(colour_path, "w") as col:
+    for name in names:
+        (col if name in colour else mono).write(f"{prefix}/{name}\n")
+PY
+
+    local mode list
+    for mode in colour mono; do
+        list="${list_colour}"
+        [[ "${mode}" == "mono" ]] && list="${list_mono}"
+        [[ -s "${list}" ]] || continue
+        echo "transforming $(wc -l < "${list}" | tr -d ' ') ${mode} captures"
+        xargs -n "${CHUNK}" -P "${JOBS}" \
+            "${BASH_SOURCE[0]}" --chunk "${mode}" "${output_relative}" < "${list}"
+    done
+
+    echo "wrote $(find "${output}" -name '*.jpg' | wc -l | tr -d ' ') images to ${output}"
+}
+
+if [[ "${BASH_SOURCE[0]}" == "${0}" ]]; then
+    if [[ "${1:-}" == "--chunk" ]]; then
+        shift
+        transform-chunk "$@"
+    else
+        main "$@"
+    fi
+fi
