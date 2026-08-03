@@ -24,3 +24,6 @@ venv/
 # Raw source-image captures (large binaries; not tracked)
 /mcleish/
 /prototype-02/images/
+
+/.claude
+
