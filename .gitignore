@@ -22,8 +22,9 @@ __pycache__/
 venv/
 
 # Raw source-image captures (large binaries; not tracked)
-/mcleish/
-/prototype-02/images/
+/prototype-01/mcleish/
+images/
 
-/.claude
+# Anthropic and CoPilot files
+.claude
 
