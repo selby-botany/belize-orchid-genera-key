@@ -58,20 +58,19 @@ contact-sheet() {
 
 # Resolve a Python interpreter that can import the scientific stack.
 #
-# `python3` on PATH may be a wrapper that defers to a system interpreter
-# without numpy, so verify the imports rather than assume them. Override with
-# QA_PYTHON when the right interpreter is not first on PATH.
+# The repository ships one at bin/python3 — a containerized interpreter with
+# numpy, scipy, and Pillow pinned — because the host `python3` may be anything.
+# QA_PYTHON overrides it for a host interpreter that already has the stack.
 # Args:
 #   None
 # Returns:
 #   0 and writes the interpreter to stdout; 1 when none is usable
 resolve-python() {
     local candidate
-    for candidate in "${QA_PYTHON:-}" python3 /opt/homebrew/bin/python3 \
-                     /usr/local/bin/python3; do
+    for candidate in "${QA_PYTHON:-}" "${ROOT}/bin/python3" python3; do
         [[ -n "${candidate}" ]] || continue
         command -v "${candidate}" >/dev/null 2>&1 || continue
-        if "${candidate}" -c 'import numpy, scipy, PIL' 2>/dev/null; then
+        if "${candidate}" -c 'import numpy, scipy, PIL' </dev/null 2>/dev/null; then
             printf '%s' "${candidate}"
             return 0
         fi
@@ -140,8 +139,9 @@ scan-crop-demo() {
 
     local interpreter
     if ! interpreter="$(resolve-python)"; then
-        echo "skip scan crop demo: no python3 with numpy, scipy, and PIL." >&2
-        echo "  set QA_PYTHON to an interpreter that has them" >&2
+        echo "skip scan crop demo: no usable python3." >&2
+        echo "  bin/python3 needs Docker; or set QA_PYTHON to a host" >&2
+        echo "  interpreter with numpy, scipy, and PIL" >&2
         return 0
     fi
 

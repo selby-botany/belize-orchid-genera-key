@@ -1,0 +1,6 @@
+# Scientific stack required by the prototype-02 image tooling.
+# Pinned so the interpreter is a function of this repository, not of
+# whatever happens to be installed on the host or current on PyPI.
+numpy==2.2.6
+scipy==1.15.3
+pillow==12.2.0

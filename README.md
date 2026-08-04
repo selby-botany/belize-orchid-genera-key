@@ -27,7 +27,8 @@ data a key will be generated from, across two prototypes:
   characteristic analysis (complete)
 - `prototype-02/` — image capture auditing and OCR extraction tooling
   (in progress)
-- `bin/` — shared Docker-backed tool wrappers (for example `imagemagick`)
+- `bin/` — shared Docker-backed tool wrappers (`imagemagick`, `python3`)
+- `docker/` — build contexts for the locally built tool images
 
 ## Source material
 

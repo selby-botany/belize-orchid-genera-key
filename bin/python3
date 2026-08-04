@@ -1,0 +1,93 @@
+#!/usr/bin/env bash
+# shellcheck shell=bash
+
+# Provide a Python 3 interpreter carrying numpy, scipy, and Pillow through a
+# locally built image, so the tooling in this repository does not depend on
+# whichever interpreter happens to be first on the host PATH.
+#
+# The image is built from docker/python-imaging/ on first use. Rebuild it
+# deliberately with:
+#
+#   bin/python3 --rebuild-image
+
+set -o errexit
+set -o nounset
+set -o pipefail
+
+PYTHON_IMAGE="${SELBY_PYTHON_IMAGE:-selbybotany/python-imaging}"
+PYTHON_IMAGE_TAG="${SELBY_PYTHON_IMAGE_TAG:-1.0.0}"
+
+# Print the directory holding the image build context.
+# Args:
+#   None
+# Returns:
+#   0 and writes the absolute context directory to stdout
+python-image-context() {
+    local bin_directory
+    bin_directory="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd -P)"
+    printf '%s/docker/python-imaging' "$(dirname "${bin_directory}")"
+}
+
+# Build the interpreter image.
+# Args:
+#   None
+# Returns:
+#   0 on a successful build; the docker exit status otherwise
+python-image-build() {
+    local context
+    context="$(python-image-context)"
+
+    if [[ ! -f "${context}/Dockerfile" ]]; then
+        echo "bin/python3: missing build context at ${context}" >&2
+        return 1
+    fi
+
+    echo "bin/python3: building ${PYTHON_IMAGE}:${PYTHON_IMAGE_TAG}" >&2
+    docker build --tag "${PYTHON_IMAGE}:${PYTHON_IMAGE_TAG}" "${context}" >&2
+}
+
+# Run the containerized interpreter with the current directory mounted.
+#
+# Only the working directory is mounted, matching bin/imagemagick, so script
+# and data paths must sit beneath it. Standard input is attached, which means
+# a call inside a `while read` loop will consume the loop's input unless it is
+# redirected with `< /dev/null`.
+# Args:
+#   Arguments passed directly to python3
+# Returns:
+#   The exit status and output from the containerized interpreter
+python-run() {
+    local workdir
+    workdir="$(pwd -P)"
+
+    docker run --rm --interactive \
+        --user "$(id -u):$(id -g)" \
+        --volume "${workdir}:${workdir}" \
+        --workdir "${workdir}" \
+        --env HOME=/tmp \
+        "${PYTHON_IMAGE}:${PYTHON_IMAGE_TAG}" "${@}"
+}
+
+# Ensure the image exists, building it once if it does not.
+# Args:
+#   None
+# Returns:
+#   0 when the image is available
+python-image-ensure() {
+    docker image inspect "${PYTHON_IMAGE}:${PYTHON_IMAGE_TAG}" >/dev/null 2>&1 \
+        || python-image-build
+}
+
+main() {
+    if [[ "${1:-}" == "--rebuild-image" ]]; then
+        python-image-build
+        return
+    fi
+
+    python-image-ensure
+    python-run "${@}"
+}
+
+if [[ "${BASH_SOURCE[0]}" == "${0}" ]]; then
+    main "${@}"
+fi

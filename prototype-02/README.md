@@ -270,7 +270,8 @@ Image directories, in order of capture:
 Scanner route, per page:
 
 ```bash
-python3 prototype-02/scripts/scan_page_geometry.py SCAN...   # crop, rotation, side
+# emits crop box, rotation, and recto or verso per scan
+bin/python3 prototype-02/scripts/scan_page_geometry.py SCAN...
 # then crop, rotate, and apply the monochrome recipe above
 swift prototype-02/bin/ocr_page.swift PROCESSED...
 ```
@@ -278,7 +279,7 @@ swift prototype-02/bin/ocr_page.swift PROCESSED...
 Phone route, whole set:
 
 ```bash
-python3 prototype-02/scripts/classify_captures.py \
+bin/python3 prototype-02/scripts/classify_captures.py \
     --force-colour IMG_8822.jpeg IMG_8848.jpeg
 prototype-02/scripts/transform-for-ocr
 ```
@@ -295,22 +296,36 @@ prototype-02/scripts/build-qa-reports scan-crop  # one report
 
 ### Dependencies
 
-All image work goes through `../bin/imagemagick`, the Docker-backed
-ImageMagick 7 wrapper, so Docker must be running.
+Docker must be running. Everything else the tooling needs is containerized
+and pinned, so there is nothing to install on the host.
 
-`scan_page_geometry.py` and `classify_captures.py` need **numpy, scipy, and
-PIL**. Plain `python3` may not provide them — on the machine this was
-developed on it resolves to a wrapper that defers to CommandLineTools Python
-3.9.6, which has none of the three. `build-qa-reports` verifies the imports
-and reports rather than failing with a traceback; set `QA_PYTHON` to a
-suitable interpreter:
+- `../bin/imagemagick` — ImageMagick 7.
+- `../bin/python3` — Python 3.13 with numpy, scipy, and Pillow, built from
+  `../docker/python-imaging/` on first use. The base image is pinned by
+  digest and the packages by exact version, so the interpreter is a property
+  of this repository rather than of the host.
+
+That second wrapper matters more than it looks. `scan_page_geometry.py` and
+`classify_captures.py` need numpy, scipy, and PIL, and the host `python3` may
+well not have them — on the machine this was developed on it resolves to a
+wrapper deferring to CommandLineTools Python 3.9.6, which has none of the
+three. Scripts invoked as `python3 foo.py` therefore succeeded or failed on
+PATH order alone.
+
+Run them through the repository interpreter:
 
 ```bash
-QA_PYTHON=/path/to/python3 prototype-02/scripts/build-qa-reports
+bin/python3 prototype-02/scripts/scan_page_geometry.py SCAN...
+bin/python3 --rebuild-image        # after changing the Dockerfile
 ```
 
-A virtual environment inside this repository would remove the dependency on
-whatever happens to be first on PATH. Not yet created.
+`build-qa-reports` picks it up automatically. Set `QA_PYTHON` to override
+with a host interpreter that already carries the stack.
+
+Two caveats inherited from the container pattern: only the working directory
+is mounted, so script and data paths must sit beneath it; and standard input
+is attached, so a call inside a `while read` loop consumes the loop's input
+unless redirected with `< /dev/null`.
 
 ## Open items
 
