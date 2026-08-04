@@ -1,0 +1,37 @@
+#!/usr/bin/env bash
+# shellcheck shell=bash
+
+# Provide the jq JSON processor through the upstream ghcr.io/jqlang/jq image,
+# so the tooling in this repository does not depend on jq being installed on
+# the host.
+
+set -o errexit
+set -o nounset
+set -o pipefail
+
+# Run jq with the current directory mounted read-write.
+#
+# Only the working directory is mounted, so any file argument must sit beneath
+# it. Standard input is attached, which is how jq is most often used, but it
+# also means a call inside a `while read` loop consumes the loop's input
+# unless redirected with `< /dev/null`.
+# Args:
+#   jq command arguments
+# Returns:
+#   The exit status and output from the containerized jq
+jq() {
+    local image="${JQ_IMAGE:-ghcr.io/jqlang/jq}"
+    local tag="${JQ_IMAGE_TAG:-1.8.1}"
+    local workdir
+    workdir="$(pwd -P)"
+
+    docker run --rm --interactive \
+        --user "$(id -u):$(id -g)" \
+        --volume "${workdir}:${workdir}" \
+        --workdir "${workdir}" \
+        "${image}:${tag}" "${@}"
+}
+
+if [[ "${BASH_SOURCE[0]}" == "${0}" ]]; then
+    jq "${@}"
+fi

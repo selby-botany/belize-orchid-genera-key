@@ -5,7 +5,20 @@ set -o nounset
 set -o pipefail
 
 ROOT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
+REPO_DIR="$(cd "${ROOT_DIR}/.." && pwd)"
 OUT_DIR="${ROOT_DIR}/analysis"
+
+# jq comes from the repository wrapper so it need not be installed on the
+# host. Swift cannot be wrapped: the extraction script uses Vision and
+# AppKit, which exist only on macOS.
+JQ="${REPO_DIR}/bin/jq"
+
+if ! command -v swift >/dev/null 2>&1; then
+    echo "build_mcleish_manifest: swift not found." >&2
+    echo "  Header extraction uses the Vision framework and runs only on" >&2
+    echo "  macOS with the Xcode command line tools installed." >&2
+    exit 1
+fi
 RAW_JSON="${OUT_DIR}/mcleish_header_candidates.json"
 MANIFEST_JSON="${OUT_DIR}/mcleish_manifest.json"
 
@@ -13,7 +26,7 @@ mkdir -p "${OUT_DIR}"
 
 swift "${ROOT_DIR}/bin/extract_mcleish_header_candidates.swift" > "${RAW_JSON}"
 
-jq '
+"${JQ}" '
   {
     schema_version: 1,
     generated_at: now | todate,
@@ -31,8 +44,8 @@ jq '
   }
 ' "${RAW_JSON}" > "${MANIFEST_JSON}"
 
-review_count="$(jq '[.entries[] | select(.needs_review == true)] | length' "${MANIFEST_JSON}")"
-total_count="$(jq '.entries | length' "${MANIFEST_JSON}")"
+review_count="$("${JQ}" '[.entries[] | select(.needs_review == true)] | length' "${MANIFEST_JSON}")"
+total_count="$("${JQ}" '.entries | length' "${MANIFEST_JSON}")"
 
 printf 'Manifest written: %s\n' "${MANIFEST_JSON}"
 printf 'Raw OCR written: %s\n' "${RAW_JSON}"

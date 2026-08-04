@@ -300,10 +300,19 @@ Docker must be running. Everything else the tooling needs is containerized
 and pinned, so there is nothing to install on the host.
 
 - `../bin/imagemagick` — ImageMagick 7.
+- `../bin/jq` — jq 1.8.1.
+- `../bin/node` — Node.js 22.
 - `../bin/python3` — Python 3.13 with numpy, scipy, and Pillow, built from
   `../docker/python-imaging/` on first use. The base image is pinned by
   digest and the packages by exact version, so the interpreter is a property
   of this repository rather than of the host.
+
+**Except OCR.** `bin/ocr_page.swift` and `bin/extract_mcleish_page_text.swift`
+use Apple's Vision and AppKit frameworks, which exist only on macOS. Swift
+runs on Linux; those frameworks do not, so no container can run them. The
+recognition stage of this prototype requires a macOS host with the Xcode
+command line tools, and the OCR results below were produced there. See the
+requirements section of the [repository README](../README.md).
 
 That second wrapper matters more than it looks. `scan_page_geometry.py` and
 `classify_captures.py` need numpy, scipy, and PIL, and the host `python3` may

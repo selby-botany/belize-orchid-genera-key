@@ -1,0 +1,39 @@
+#!/usr/bin/env bash
+# shellcheck shell=bash
+
+# Provide Node.js through the upstream node image, so the analysis scripts in
+# prototype-01/bin do not depend on Node being installed on the host.
+#
+# Those scripts import only `fs` and `path`, so the stock image suffices and
+# there is nothing to install on top of it.
+
+set -o errexit
+set -o nounset
+set -o pipefail
+
+# Run Node with the current directory mounted read-write.
+#
+# Only the working directory is mounted, so script and data paths must sit
+# beneath it. Standard input is attached, so a call inside a `while read` loop
+# consumes the loop's input unless redirected with `< /dev/null`.
+# Args:
+#   node command arguments
+# Returns:
+#   The exit status and output from the containerized node
+node() {
+    local image="${NODE_IMAGE:-node}"
+    local tag="${NODE_IMAGE_TAG:-22-slim}"
+    local workdir
+    workdir="$(pwd -P)"
+
+    docker run --rm --interactive \
+        --user "$(id -u):$(id -g)" \
+        --volume "${workdir}:${workdir}" \
+        --workdir "${workdir}" \
+        --entrypoint node \
+        "${image}:${tag}" "${@}"
+}
+
+if [[ "${BASH_SOURCE[0]}" == "${0}" ]]; then
+    node "${@}"
+fi

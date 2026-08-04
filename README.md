@@ -27,12 +27,44 @@ data a key will be generated from, across two prototypes:
   characteristic analysis (complete)
 - `prototype-02/` — image capture auditing and OCR extraction tooling
   (in progress)
-- `bin/` — shared Docker-backed tool wrappers (`imagemagick`, `python3`)
+- `bin/` — shared Docker-backed tool wrappers (`imagemagick`, `jq`, `node`,
+  `python3`)
 - `docker/` — build contexts for the locally built tool images
+
+## Requirements
+
+**Docker**, for the tool wrappers in `bin/`. Everything they provide —
+ImageMagick, jq, Node.js, and a Python carrying numpy, scipy, and Pillow — is
+containerized and version-pinned, so nothing needs installing on the host and
+the tooling is a property of this repository rather than of the machine.
+`bin/python3` builds its image from `docker/python-imaging/` on first use; the
+others use pinned upstream images.
+
+**macOS with the Xcode command line tools**, for the OCR stages. This one
+cannot be containerized and is not optional:
+
+| Script | Frameworks |
+| --- | --- |
+| `prototype-01/bin/extract_mcleish_header_candidates.swift` | Vision, AppKit |
+| `prototype-01/bin/render_mcleish_review_sheets.swift` | CoreImage, AppKit |
+| `prototype-02/bin/extract_mcleish_page_text.swift` | Vision, AppKit |
+| `prototype-02/bin/ocr_page.swift` | Vision, AppKit |
+
+Vision, AppKit, and CoreImage are Apple frameworks. Swift itself runs on
+Linux, but those frameworks do not exist there, so no container can run these
+scripts. Every prototype therefore depends on a macOS host for text
+recognition, even though the rest of the pipeline is portable. Scripts that
+shell out to `swift` check for it first and explain the requirement rather
+than failing with `command not found`.
+
+Replacing the OCR stage with a containerizable engine — Tesseract, PaddleOCR,
+or a hosted vision model — would remove the constraint, but that is a change
+of engine rather than of packaging and has not been evaluated.
 
 ## Source material
 
-The genus descriptions originate from scanned pages of *Native orchids of Belize*[^mcleish]. The raw scans live in `mcleish/` and
+The genus descriptions originate from scanned pages of *Native orchids of
+Belize*[^mcleish]. The raw scans live in `mcleish/` and
 are not committed to this repository. The curated, machine-readable
 output derived from that source — page-mapped images, extracted genus
 text, characteristic data — lives under `prototype-01/` and
@@ -44,5 +76,5 @@ text, characteristic data — lives under `prototype-01/` and
 
 AGPL-3.0-or-later — see [LICENSE.md](LICENSE.md).
 
-
-[^mcleish] McLeish, I., Pearce, N. R., Adams, B. R., & Briggs, J. S. (1995). *Native orchids of Belize*. A.A. Balkema.
+[^mcleish] McLeish, I., Pearce, N. R., Adams, B. R., & Briggs, J. S. (1995).
+*Native orchids of Belize*. A.A. Balkema.

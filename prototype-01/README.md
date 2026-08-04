@@ -31,6 +31,14 @@ Spiranthes.
   [analysis/README.md](analysis/README.md)
 - `doc/` — the curated genus corpus and generated clustering write-ups
 
+## Requirements
+
+jq, Node.js, and Python come from the wrappers in `../bin/` and need Docker
+only. The Swift stages do not: `extract_mcleish_header_candidates.swift` uses
+Vision and `render_mcleish_review_sheets.swift` uses CoreImage, both
+macOS-only frameworks, so this prototype's page-mapping pipeline runs only on
+macOS. See the requirements section of the [repository README](../README.md).
+
 ## Status
 
 The page-mapping and rename-plan tooling in `bin/` operates on
