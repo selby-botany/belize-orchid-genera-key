@@ -1,0 +1,219 @@
+#!/usr/bin/env bash
+# Regenerate the QA artifacts for this prototype.
+#
+# Output is build product, not source: it is written to prototype-02/qa/
+# and excluded from version control. Everything here derives from committed
+# scripts plus the capture sets under prototype-02/images/.
+#
+# Usage:
+#   prototype-02/scripts/build-qa-reports [REPORT...]
+#
+# With no arguments every report is built. Named reports build only those.
+# Reports whose input capture set is absent are skipped with a notice.
+
+set -o errexit
+set -o nounset
+set -o pipefail
+
+PROTOTYPE="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd -P)"
+ROOT="$(cd "${PROTOTYPE}/.." && pwd -P)"
+IMAGES="${PROTOTYPE}/images"
+REPORTS="${PROTOTYPE}/qa/reports"
+IMAGEMAGICK="${ROOT}/bin/imagemagick"
+
+# Monochrome flat-field recipe shared with scripts/transform-for-ocr.
+MONO=(-colorspace Gray '(' +clone -blur 0x60 ')'
+      -compose Divide_Src -composite
+      -level '0%,90%' -unsharp 0x1.2+0.8+0.02)
+
+# Build a contact sheet from every Nth image in a directory.
+# Args:
+#   $1  source directory
+#   $2  output filename, relative to the reports directory
+#   $3  sampling stride
+# Returns:
+#   0 on success, or 0 with a notice when the source directory is absent
+contact-sheet() {
+    local source="$1" output="$2" stride="$3"
+
+    if [[ ! -d "${source}" ]]; then
+        echo "skip ${output}: no ${source##*/}"
+        return 0
+    fi
+
+    local files=()
+    while IFS= read -r file; do
+        files+=( "${file}" )
+    done < <(find "${source}" -maxdepth 1 -type f \
+                 \( -iname '*.jpg' -o -iname '*.jpeg' \) | sort | awk "(NR - 1) % ${stride} == 0")
+
+    [[ ${#files[@]} -gt 0 ]] || { echo "skip ${output}: no images"; return 0; }
+
+    "${IMAGEMAGICK}" montage "${files[@]}" \
+        -define jpeg:size=300x400 -thumbnail 190x250 \
+        -background gray30 -tile 8x -geometry +3+3 \
+        "${REPORTS}/${output}" < /dev/null
+    echo "wrote ${output} (${#files[@]} frames)"
+}
+
+# Resolve a Python interpreter that can import the scientific stack.
+#
+# `python3` on PATH may be a wrapper that defers to a system interpreter
+# without numpy, so verify the imports rather than assume them. Override with
+# QA_PYTHON when the right interpreter is not first on PATH.
+# Args:
+#   None
+# Returns:
+#   0 and writes the interpreter to stdout; 1 when none is usable
+resolve-python() {
+    local candidate
+    for candidate in "${QA_PYTHON:-}" python3 /opt/homebrew/bin/python3 \
+                     /usr/local/bin/python3; do
+        [[ -n "${candidate}" ]] || continue
+        command -v "${candidate}" >/dev/null 2>&1 || continue
+        if "${candidate}" -c 'import numpy, scipy, PIL' 2>/dev/null; then
+            printf '%s' "${candidate}"
+            return 0
+        fi
+    done
+    return 1
+}
+
+# Build the scan contrast comparison: raw, automated, and manual boost.
+# Args:
+#   None
+# Returns:
+#   0 on success, or 0 with a notice when inputs are absent
+scan-contrast-comparison() {
+    local scans="${IMAGES}/20260803-test-scans-01"
+    local normal="${scans}/p276-crop.jpeg"
+    local manual="${scans}/p276-crop-high-contrast.jpeg"
+
+    if [[ ! -f "${normal}" || ! -f "${manual}" ]]; then
+        echo "skip scan contrast comparison: missing p276 crops"
+        return 0
+    fi
+
+    local work
+    work="$(mktemp -d "${PROTOTYPE}/qa/.build-XXXXXX")"
+
+    "${IMAGEMAGICK}" "${normal}" "${MONO[@]}" "${work}/auto.png" < /dev/null
+    local index=0
+    local source
+    for source in "${normal}" "${work}/auto.png" "${manual}"; do
+        "${IMAGEMAGICK}" "${source}" -crop 900x300+70+1200 +repage \
+            -resize 190% "${work}/panel-${index}.png" < /dev/null
+        index=$(( index + 1 ))
+    done
+
+    "${IMAGEMAGICK}" montage "${work}/panel-0.png" "${work}/panel-1.png" \
+        "${work}/panel-2.png" -tile 1x -geometry +4+4 -background gray25 \
+        "${REPORTS}/20260804-scan-contrast-comparison.png" < /dev/null
+    rm -rf "${work}"
+    echo "wrote 20260804-scan-contrast-comparison.png"
+    return 0
+}
+
+# Build the scanner auto-crop demonstration across the scan test set.
+# Args:
+#   None
+# Returns:
+#   0 on success, or 0 with a notice when the scan set is absent
+scan-crop-demo() {
+    local scans="${IMAGES}/20260803-test-scans-01"
+
+    if [[ ! -d "${scans}" ]]; then
+        echo "skip scan crop demo: no 20260803-test-scans-01"
+        return 0
+    fi
+
+    local work
+    work="$(mktemp -d "${PROTOTYPE}/qa/.build-XXXXXX")"
+
+    local sources=()
+    while IFS= read -r file; do
+        sources+=( "${file}" )
+    done < <(find "${scans}" -maxdepth 1 -type f -iname '*.jpeg' \
+                 -not -name '*-crop*' | sort)
+
+    [[ ${#sources[@]} -gt 0 ]] || { echo "skip scan crop demo: no scans"; return 0; }
+
+    local interpreter
+    if ! interpreter="$(resolve-python)"; then
+        echo "skip scan crop demo: no python3 with numpy, scipy, and PIL." >&2
+        echo "  set QA_PYTHON to an interpreter that has them" >&2
+        return 0
+    fi
+
+    local geometry
+    geometry="$("${interpreter}" "${PROTOTYPE}/scripts/scan_page_geometry.py" \
+                "${sources[@]}")"
+
+    local name rotate crop side
+    while read -r name rotate crop side; do
+        [[ -n "${name}" ]] || continue
+        : "${side}"
+        "${IMAGEMAGICK}" "${scans}/${name}" -crop "${crop}" +repage \
+            -rotate "${rotate}" "${MONO[@]}" -quality 92 \
+            "${work}/${name%.jpeg}.jpg" < /dev/null
+    done <<< "${geometry}"
+
+    "${IMAGEMAGICK}" montage "${work}"/*.jpg -tile 3x -geometry 420x560+4+4 \
+        -background gray35 "${REPORTS}/20260804-scan-autocrop-demo.jpg" < /dev/null
+    rm -rf "${work}"
+    echo "wrote 20260804-scan-autocrop-demo.jpg"
+    return 0
+}
+
+# Build the visual scan audit report from the page manifest.
+# Args:
+#   None
+# Returns:
+#   0 on success, or 0 with a notice when the manifest is absent
+scan-audit() {
+    if [[ ! -f "${PROTOTYPE}/manifest/pages.json" ]]; then
+        echo "skip scan audit: no manifest/pages.json"
+        return 0
+    fi
+    python3 "${PROTOTYPE}/scripts/build_audit_report.py" \
+        --manifest "${PROTOTYPE}/manifest/pages.json" \
+        --output "${REPORTS}/scan-audit.html"
+}
+
+main() {
+    # The imagemagick wrapper mounts only the working directory, so every
+    # input, output, and temporary path has to sit beneath the repository root.
+    cd "${ROOT}"
+    mkdir -p "${REPORTS}"
+    # A run that died mid-report leaves its scratch directory behind.
+    rm -rf "${PROTOTYPE}"/qa/.build-*
+
+    local requested=( "$@" )
+    [[ ${#requested[@]} -gt 0 ]] || requested=(
+        captures-original captures-transformed test-shots
+        scan-crop scan-contrast scan-audit
+    )
+
+    local report
+    for report in "${requested[@]}"; do
+        case "${report}" in
+            captures-original)
+                contact-sheet "${IMAGES}/20260729-page-scans-original" \
+                    20260729-captures-original-contact-sheet.jpg 8 ;;
+            captures-transformed)
+                contact-sheet "${IMAGES}/20260729-page-scans" \
+                    20260729-captures-transformed-contact-sheet.jpg 8 ;;
+            test-shots)
+                contact-sheet "${IMAGES}/20260730-test-shots" \
+                    20260731-test-shots-contact-sheet.jpg 1 ;;
+            scan-crop)     scan-crop-demo ;;
+            scan-contrast) scan-contrast-comparison ;;
+            scan-audit)    scan-audit ;;
+            *) echo "unknown report: ${report}" >&2; exit 1 ;;
+        esac
+    done
+}
+
+if [[ "${BASH_SOURCE[0]}" == "${0}" ]]; then
+    main "$@"
+fi

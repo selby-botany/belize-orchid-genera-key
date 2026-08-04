@@ -86,9 +86,11 @@ gap). One skipped page turn, not a missing leaf.
 
 This fixed the important things. Brightness became cleanly bimodal (background
 below 85, page above 145, an empty valley between), so **page detection worked
-on every frame**, and crop, rotate, and transform were demonstrated end to end
-— see `qa/reports/20260731-test-shot-crop-demo.jpg`. Illumination was
-excellent: paper brightness varied only about 3% across a page.
+on every frame**, and crop, rotate, and transform were demonstrated end to end.
+Illumination was excellent: paper brightness varied only about 3% across a
+page. That demonstration is not among the rebuildable QA reports — the
+dark-background detector behind it was exploratory and was not kept, the route
+having been superseded before it was worth committing.
 
 Two problems remained. The page filled only about half the frame, costing
 roughly a quarter of the linear resolution against the earlier shoot (~310 ppi
@@ -203,8 +205,8 @@ this book is mostly Latin nomenclature.
   scientific names, diacritics, dot leaders, and figure stipple.
 - **Do not use Preview's contrast boost.** It reaches a white ground but
   visibly fattens glyphs, which will close counters in the smallest type. The
-  automated recipe gets the same background with faithful stroke weight — see
-  `qa/reports/20260804-scan-contrast-comparison.png`.
+  automated recipe gets the same background with faithful stroke weight; the
+  `scan-contrast` QA report shows the two side by side.
 - For photography, **consistency beats correctness**: a uniform wrong colour
   cast is one transform away from gone, drift is not.
 
@@ -247,7 +249,7 @@ bin/        OCR tools (Swift, Apple Vision)
 doc/        design documents and reviews, dated and model-attributed
 images/     capture sets — large binaries, excluded from version control
 manifest/   page and capture manifests
-qa/reports/ contact sheets and before/after comparisons
+qa/reports/ contact sheets and comparisons — generated, not tracked
 scripts/    manifest, classification, geometry, and transform tooling
 test/       unit tests for the manifest and audit tooling
 ```
@@ -281,8 +283,34 @@ python3 prototype-02/scripts/classify_captures.py \
 prototype-02/scripts/transform-for-ocr
 ```
 
+QA artifacts — contact sheets, the crop demonstration, the contrast
+comparison, and the audit report — are build output rather than source, so
+they are excluded from version control. Rebuild them from the capture sets
+with:
+
+```bash
+prototype-02/scripts/build-qa-reports            # everything
+prototype-02/scripts/build-qa-reports scan-crop  # one report
+```
+
+### Dependencies
+
 All image work goes through `../bin/imagemagick`, the Docker-backed
-ImageMagick 7 wrapper.
+ImageMagick 7 wrapper, so Docker must be running.
+
+`scan_page_geometry.py` and `classify_captures.py` need **numpy, scipy, and
+PIL**. Plain `python3` may not provide them — on the machine this was
+developed on it resolves to a wrapper that defers to CommandLineTools Python
+3.9.6, which has none of the three. `build-qa-reports` verifies the imports
+and reports rather than failing with a traceback; set `QA_PYTHON` to a
+suitable interpreter:
+
+```bash
+QA_PYTHON=/path/to/python3 prototype-02/scripts/build-qa-reports
+```
+
+A virtual environment inside this repository would remove the dependency on
+whatever happens to be first on PATH. Not yet created.
 
 ## Open items
 

@@ -21,6 +21,10 @@ __pycache__/
 .venv/
 venv/
 
+# Generated QA artifacts (rebuild with prototype-02/scripts/build-qa-reports)
+qa/reports/
+qa/.build-*
+
 # Raw source-image captures (large binaries; not tracked)
 /prototype-01/mcleish/
 images/
@@ -28,3 +32,6 @@ images/
 # Anthropic and CoPilot files
 .claude
 
+# Generated QA reports and their scratch directories (see
+# prototype-02/scripts/build-qa-reports)
+/prototype-02/qa/
