@@ -130,6 +130,17 @@ class CrossCheckRunningHeadTest(unittest.TestCase):
         lines = [_line("50", mid_y=0.042)]
         self.assertIsNone(MODULE.cross_check_running_head(lines))
 
+    def test_finds_informative_running_head_in_bottom_band(self) -> None:
+        # Real full-run finding (module docstring, finding 6): Epidendrum's
+        # numbered-species-list pages (183, 185, 187, 189) print the
+        # running head at the page bottom, not the top.
+        lines = [
+            _line("1. Epidendrum acuñae Dressler in Am. Orch. Soc.", mid_y=0.5),
+            _line("70 Epidendrum", mid_y=0.965),
+        ]
+        result = MODULE.cross_check_running_head(lines)
+        self.assertEqual(result, {"genus_number": "70", "genus_name": "Epidendrum"})
+
     def test_running_head_pattern_outside_top_band_is_ignored(self) -> None:
         lines = [_line("18 Psilochilus", mid_y=0.5)]
         self.assertIsNone(MODULE.cross_check_running_head(lines))
@@ -384,6 +395,36 @@ class BuildGenusRecordsTest(unittest.TestCase):
             "numbered_species_list_unparsed:synthetic-182.jpeg",
             records[0]["review_flags"],
         )
+
+    def test_bottom_band_running_head_confirms_continuation_not_ambiguous(self) -> None:
+        # Real full-run case: pages 183/185/187/189 print the running head
+        # at the page bottom, not the top (module docstring, finding 6).
+        # Before this fix these were flagged ambiguous_genus_boundary even
+        # though they genuinely continue the open genus.
+        page_one = {
+            "source_image": "synthetic-181.jpeg",
+            "page_number": 181,
+            "lines": [
+                _line("70. Epidendrum L."),
+                _line("Roots adventitious."),
+            ],
+        }
+        page_two = {
+            "source_image": "synthetic-183.jpeg",
+            "page_number": 183,
+            "lines": [
+                _line("161. E. hawkesii"),
+                _line("Epidendrum flavovirens Rchb. f., Beitr. Orch."),
+                _line("183", mid_y=0.964),
+                _line("70 Epidendrum", mid_y=0.965),
+            ],
+        }
+        records, discontinuities = MODULE.build_genus_records([page_one, page_two])
+        self.assertEqual(discontinuities, [])
+        self.assertEqual(len(records), 1)
+        self.assertEqual(records[0]["source_pages"], [181, 183])
+        self.assertEqual(records[0]["extraction_status"], "complete")
+        self.assertEqual(records[0]["review_flags"], [])
 
     def test_sparse_no_header_page_without_running_head_is_not_flagged(self) -> None:
         # A near-empty page (an illustration with a caption fragment, say)

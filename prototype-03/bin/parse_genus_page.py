@@ -53,6 +53,15 @@ findings from that real page shaped the design directly:
    passes both header discriminators -- caught instead by checking
    whether the "new" genus name is the one already open (`build_genus_
    records`).
+6. The running head is not always at the page top. Investigating why
+   Epidendrum's numbered-species-list continuation pages (183, 185, 187,
+   189) were flagged `ambiguous_genus_boundary` despite genuinely
+   continuing the same genus found that those specific pages print the
+   folio number and running head at the page *bottom*
+   (`mid_y` ~0.964-0.965) instead -- the even-numbered pages in the same
+   run (182, 184, ...) still print it at the top. `cross_check_running_
+   head` and `_is_page_furniture` now check both bands (see
+   `BOTTOM_BAND_MID_Y`).
 """
 
 from __future__ import annotations
@@ -145,6 +154,13 @@ RUNNING_HEAD_PATTERN = re.compile(r"^(\d+)\s+([A-Z][A-Za-z-]+)$")
 # Running heads and folio numbers sit within this fraction of page height
 # from the top, discovered on page-050 (~0.042-0.043) with headroom.
 TOP_BAND_MID_Y = 0.06
+
+# On most of the book the running head sits at the page top, but the
+# numbered-species-list pages within Epidendrum (found on the real full
+# run, pages 183/185/187/189) print it at the page *bottom* instead
+# ("183" / "70 Epidendrum" both found at mid_y ~0.964-0.965). Symmetric
+# headroom to TOP_BAND_MID_Y below the page's bottom edge (mid_y=1.0).
+BOTTOM_BAND_MID_Y = 0.94
 
 # Tribe/subtribe heading lines ("TRIBE TRIPHOREAE DRESSLER", "SUBTRIBE
 # VANILLINAE LINDL.") are printed in full caps -- an OCR-faithful match,
@@ -279,10 +295,13 @@ def find_genus_headers(lines: list[dict[str, Any]]) -> list[dict[str, Any]]:
 def cross_check_running_head(lines: list[dict[str, Any]]) -> dict[str, Any] | None:
     """Find and parse this page's running head, if it carries genus info.
 
-    Scans for lines in the top `mid_y` band rather than the start of
-    reading order, and only the informative "<number> <Genus>" variant is
-    returned -- a bare page-number running head carries no continuity
-    signal (module docstring, finding 2).
+    Scans for lines in the top or bottom `mid_y` band rather than the
+    start of reading order, and only the informative "<number> <Genus>"
+    variant is returned -- a bare page-number running head carries no
+    continuity signal (module docstring, finding 2). Most of the book
+    prints it at the top; Epidendrum's numbered-species-list pages print
+    it at the bottom instead (module comment on `BOTTOM_BAND_MID_Y`) --
+    both are checked rather than assuming one fixed position.
 
     Args:
         lines: Per-line OCR records for one page.
@@ -291,7 +310,7 @@ def cross_check_running_head(lines: list[dict[str, Any]]) -> dict[str, Any] | No
         head is present.
     """
     for line in lines:
-        if line["mid_y"] > TOP_BAND_MID_Y:
+        if TOP_BAND_MID_Y < line["mid_y"] < BOTTOM_BAND_MID_Y:
             continue
         match = RUNNING_HEAD_PATTERN.match(line["text"].strip())
         if match:
@@ -302,15 +321,15 @@ def cross_check_running_head(lines: list[dict[str, Any]]) -> dict[str, Any] | No
 def _is_page_furniture(line: dict[str, Any]) -> bool:
     """True for a line that is page furniture, not body content.
 
-    Covers three kinds found on the real pilot page: a bare folio number
-    or an informative running head (both confined to the top `mid_y`
-    band), and a tribe/subtribe heading, which can appear anywhere between
-    two genus blocks.
+    Covers three kinds found on the real pages: a bare folio number or an
+    informative running head (both confined to the top or bottom `mid_y`
+    band -- see `cross_check_running_head`), and a tribe/subtribe heading,
+    which can appear anywhere between two genus blocks.
     """
     text = line["text"].strip()
     if TRIBE_HEADING_PATTERN.match(text):
         return True
-    if line["mid_y"] > TOP_BAND_MID_Y:
+    if TOP_BAND_MID_Y < line["mid_y"] < BOTTOM_BAND_MID_Y:
         return False
     return bool(RUNNING_HEAD_PATTERN.match(text) or re.match(r"^\d+$", text))
 
