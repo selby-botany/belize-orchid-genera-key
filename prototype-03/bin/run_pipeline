@@ -1,0 +1,102 @@
+#!/usr/bin/env bash
+# Run prototype-03's extraction pipeline: Stage A (audit) through Stage E
+# (review queue).
+#
+# Usage:
+#   prototype-03/bin/run_pipeline [--pilot FILE...]
+#
+# With no arguments, every file Stage A's inventory classifies as kind
+# "page" goes through OCR and parsing -- the full 1-190 capture range.
+# With --pilot, only the named files (relative to images/20260804-page-scans/)
+# are OCR'd and parsed; both modes call the same Stage C/D/E invocations, so
+# a pilot run exercises exactly the code path the full run will.
+#
+# Stage A's audit always covers the whole source directory regardless of
+# mode (requirements document, §3: nothing is silently excluded from the
+# audit), and Stage E's review queue always reflects the full current state
+# of every stage's output on disk, not just a pilot subset -- a review
+# queue that hid non-pilot items would misrepresent what actually needs
+# attention.
+#
+# Stage B (preprocess_scan.py) is deliberately not part of this runtime
+# pipeline. It was a one-time evidence-gathering step (implementation plan
+# document, commit 9), already run and committed, that concluded -- from
+# measurement, not assumption -- that no image transform is needed for
+# this capture batch. Stage C reads source images directly; re-running
+# Stage B here would only reproduce the same already-recorded conclusion.
+
+set -o errexit
+set -o nounset
+set -o pipefail
+
+PROTOTYPE="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd -P)"
+ROOT="$(cd "${PROTOTYPE}/.." && pwd -P)"
+IMAGES="${PROTOTYPE}/images/20260804-page-scans"
+BIN="${PROTOTYPE}/bin"
+MANIFEST="${PROTOTYPE}/manifest"
+ANALYSIS="${PROTOTYPE}/analysis"
+PYTHON="${ROOT}/bin/python3"
+
+# List the page images to OCR: either the given pilot filenames, or every
+# file Stage A's inventory classifies as kind "page".
+# Args:
+#   Pilot filenames, if any were given after --pilot
+# Returns:
+#   0, writes one filename per line to stdout
+pages-to-process() {
+    if [[ $# -gt 0 ]]; then
+        printf '%s\n' "$@"
+        return 0
+    fi
+    "${PYTHON}" -c '
+import json, sys
+inventory = json.load(open(sys.argv[1], encoding="utf-8"))
+for entry in inventory["entries"]:
+    if entry["claimed_identity"]["kind"] == "page":
+        print(entry["filename"])
+' "${MANIFEST}/scan_inventory.json"
+}
+
+# Run Stages A, C, D, E in order.
+# Args:
+#   Command-line arguments: [--pilot FILE...]
+# Returns:
+#   0 on success; exits non-zero (via errexit) on any stage's failure
+main() {
+    local pilot_files=()
+    if [[ "${1:-}" == "--pilot" ]]; then
+        shift
+        pilot_files=( "$@" )
+    fi
+
+    echo "== Stage A: scan inventory =="
+    "${PYTHON}" "${BIN}/build_scan_inventory.py"
+
+    echo "== Stage C: OCR =="
+    mkdir -p "${ANALYSIS}"
+    local pages=()
+    local page
+    while IFS= read -r page; do
+        pages+=( "${IMAGES}/${page}" )
+    done < <(
+        if [[ ${#pilot_files[@]} -gt 0 ]]; then
+            pages-to-process "${pilot_files[@]}"
+        else
+            pages-to-process
+        fi
+    )
+    [[ ${#pages[@]} -gt 0 ]] || {
+        echo "no pages to process" >&2
+        exit 1
+    }
+    swift "${BIN}/ocr_page.swift" --json "${pages[@]}" > "${ANALYSIS}/page_ocr.jsonl"
+    echo "$(wc -l < "${ANALYSIS}/page_ocr.jsonl" | tr -d ' ') page(s) OCR'd"
+
+    echo "== Stage D: genus/field parsing =="
+    "${PYTHON}" "${BIN}/parse_genus_page.py"
+
+    echo "== Stage E: review queue =="
+    "${PYTHON}" "${BIN}/export_review_queue.py"
+}
+
+main "$@"
