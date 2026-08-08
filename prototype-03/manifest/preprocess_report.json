@@ -1,0 +1,2100 @@
+{
+ "evaluated_count": 190,
+ "needs_transform_count": 0,
+ "thresholds": {
+  "gradient_std": 8.0,
+  "background_mean_floor": 200.0
+ },
+ "entries": [
+  {
+   "filename": "page-001.jpeg",
+   "kind": "page",
+   "stats": {
+    "mean": 230.0141143798828,
+    "std": 2.5316452980041504,
+    "min": 227.0,
+    "max": 255.0
+   },
+   "needs_transform": false
+  },
+  {
+   "filename": "page-002.jpeg",
+   "kind": "page",
+   "stats": {
+    "mean": 231.8032684326172,
+    "std": 3.199653387069702,
+    "min": 228.0,
+    "max": 255.0
+   },
+   "needs_transform": false
+  },
+  {
+   "filename": "page-003.jpeg",
+   "kind": "page",
+   "stats": {
+    "mean": 232.09695434570312,
+    "std": 3.2506446838378906,
+    "min": 228.0,
+    "max": 255.0
+   },
+   "needs_transform": false
+  },
+  {
+   "filename": "page-004.jpeg",
+   "kind": "page",
+   "stats": {
+    "mean": 229.77684020996094,
+    "std": 2.8745615482330322,
+    "min": 226.0,
+    "max": 255.0
+   },
+   "needs_transform": false
+  },
+  {
+   "filename": "page-005.jpeg",
+   "kind": "page",
+   "stats": {
+    "mean": 229.4815216064453,
+    "std": 2.665029287338257,
+    "min": 226.0,
+    "max": 255.0
+   },
+   "needs_transform": false
+  },
+  {
+   "filename": "page-006.jpeg",
+   "kind": "page",
+   "stats": {
+    "mean": 231.16038513183594,
+    "std": 3.4699556827545166,
+    "min": 227.0,
+    "max": 255.0
+   },
+   "needs_transform": false
+  },
+  {
+   "filename": "page-007.jpeg",
+   "kind": "page",
+   "stats": {
+    "mean": 233.44166564941406,
+    "std": 3.143096923828125,
+    "min": 230.0,
+    "max": 255.0
+   },
+   "needs_transform": false
+  },
+  {
+   "filename": "page-008.jpeg",
+   "kind": "page",
+   "stats": {
+    "mean": 240.9773406982422,
+    "std": 2.737778425216675,
+    "min": 238.0,
+    "max": 255.0
+   },
+   "needs_transform": false
+  },
+  {
+   "filename": "page-009.jpeg",
+   "kind": "page",
+   "stats": {
+    "mean": 230.89984130859375,
+    "std": 2.5102880001068115,
+    "min": 228.0,
+    "max": 255.0
+   },
+   "needs_transform": false
+  },
+  {
+   "filename": "page-010.jpeg",
+   "kind": "page",
+   "stats": {
+    "mean": 232.6422576904297,
+    "std": 3.3505210876464844,
+    "min": 228.0,
+    "max": 255.0
+   },
+   "needs_transform": false
+  },
+  {
+   "filename": "page-011.jpeg",
+   "kind": "page",
+   "stats": {
+    "mean": 232.20330810546875,
+    "std": 3.2838618755340576,
+    "min": 228.0,
+    "max": 255.0
+   },
+   "needs_transform": false
+  },
+  {
+   "filename": "page-012.jpeg",
+   "kind": "page",
+   "stats": {
+    "mean": 230.7913818359375,
+    "std": 2.4366204738616943,
+    "min": 228.0,
+    "max": 255.0
+   },
+   "needs_transform": false
+  },
+  {
+   "filename": "page-013.jpeg",
+   "kind": "page",
+   "stats": {
+    "mean": 230.75901794433594,
+    "std": 2.4811031818389893,
+    "min": 228.0,
+    "max": 255.0
+   },
+   "needs_transform": false
+  },
+  {
+   "filename": "page-014.jpeg",
+   "kind": "page",
+   "stats": {
+    "mean": 232.51034545898438,
+    "std": 3.1028897762298584,
+    "min": 229.0,
+    "max": 255.0
+   },
+   "needs_transform": false
+  },
+  {
+   "filename": "page-015.jpeg",
+   "kind": "page",
+   "stats": {
+    "mean": 232.26084899902344,
+    "std": 3.3405942916870117,
+    "min": 228.0,
+    "max": 255.0
+   },
+   "needs_transform": false
+  },
+  {
+   "filename": "page-016.jpeg",
+   "kind": "page",
+   "stats": {
+    "mean": 230.54055786132812,
+    "std": 3.0045456886291504,
+    "min": 227.0,
+    "max": 255.0
+   },
+   "needs_transform": false
+  },
+  {
+   "filename": "page-017.jpeg",
+   "kind": "page",
+   "stats": {
+    "mean": 230.69215393066406,
+    "std": 2.3932836055755615,
+    "min": 228.0,
+    "max": 255.0
+   },
+   "needs_transform": false
+  },
+  {
+   "filename": "page-018.jpeg",
+   "kind": "page",
+   "stats": {
+    "mean": 232.9717254638672,
+    "std": 3.272517442703247,
+    "min": 229.0,
+    "max": 255.0
+   },
+   "needs_transform": false
+  },
+  {
+   "filename": "page-019.jpeg",
+   "kind": "page",
+   "stats": {
+    "mean": 232.3250274658203,
+    "std": 3.4585447311401367,
+    "min": 228.0,
+    "max": 255.0
+   },
+   "needs_transform": false
+  },
+  {
+   "filename": "page-020.jpeg",
+   "kind": "page",
+   "stats": {
+    "mean": 230.25820922851562,
+    "std": 2.5073530673980713,
+    "min": 227.0,
+    "max": 255.0
+   },
+   "needs_transform": false
+  },
+  {
+   "filename": "page-021.jpeg",
+   "kind": "page",
+   "stats": {
+    "mean": 231.00843811035156,
+    "std": 2.4909307956695557,
+    "min": 228.0,
+    "max": 255.0
+   },
+   "needs_transform": false
+  },
+  {
+   "filename": "page-022.jpeg",
+   "kind": "page",
+   "stats": {
+    "mean": 233.33055114746094,
+    "std": 3.3504371643066406,
+    "min": 229.0,
+    "max": 255.0
+   },
+   "needs_transform": false
+  },
+  {
+   "filename": "page-023.jpeg",
+   "kind": "page",
+   "stats": {
+    "mean": 232.38548278808594,
+    "std": 3.468815803527832,
+    "min": 228.0,
+    "max": 255.0
+   },
+   "needs_transform": false
+  },
+  {
+   "filename": "page-024.jpeg",
+   "kind": "page",
+   "stats": {
+    "mean": 230.1769561767578,
+    "std": 2.6191933155059814,
+    "min": 227.0,
+    "max": 255.0
+   },
+   "needs_transform": false
+  },
+  {
+   "filename": "page-025.jpeg",
+   "kind": "page",
+   "stats": {
+    "mean": 230.94384765625,
+    "std": 2.460819721221924,
+    "min": 228.0,
+    "max": 255.0
+   },
+   "needs_transform": false
+  },
+  {
+   "filename": "page-026.jpeg",
+   "kind": "page",
+   "stats": {
+    "mean": 233.40008544921875,
+    "std": 3.3711931705474854,
+    "min": 229.0,
+    "max": 255.0
+   },
+   "needs_transform": false
+  },
+  {
+   "filename": "page-027.jpeg",
+   "kind": "page",
+   "stats": {
+    "mean": 233.06219482421875,
+    "std": 3.360487461090088,
+    "min": 229.0,
+    "max": 255.0
+   },
+   "needs_transform": false
+  },
+  {
+   "filename": "page-028.jpeg",
+   "kind": "page",
+   "stats": {
+    "mean": 230.25535583496094,
+    "std": 2.5370709896087646,
+    "min": 227.0,
+    "max": 255.0
+   },
+   "needs_transform": false
+  },
+  {
+   "filename": "page-029.jpeg",
+   "kind": "page",
+   "stats": {
+    "mean": 231.14610290527344,
+    "std": 2.472527265548706,
+    "min": 228.0,
+    "max": 255.0
+   },
+   "needs_transform": false
+  },
+  {
+   "filename": "page-030.jpeg",
+   "kind": "page",
+   "stats": {
+    "mean": 232.19927978515625,
+    "std": 3.3656930923461914,
+    "min": 228.0,
+    "max": 255.0
+   },
+   "needs_transform": false
+  },
+  {
+   "filename": "page-031.jpeg",
+   "kind": "page",
+   "stats": {
+    "mean": 232.27288818359375,
+    "std": 3.393847703933716,
+    "min": 228.0,
+    "max": 255.0
+   },
+   "needs_transform": false
+  },
+  {
+   "filename": "page-032.jpeg",
+   "kind": "page",
+   "stats": {
+    "mean": 230.97967529296875,
+    "std": 2.3921101093292236,
+    "min": 228.0,
+    "max": 255.0
+   },
+   "needs_transform": false
+  },
+  {
+   "filename": "page-033.jpeg",
+   "kind": "page",
+   "stats": {
+    "mean": 229.84388732910156,
+    "std": 2.6079306602478027,
+    "min": 226.0,
+    "max": 255.0
+   },
+   "needs_transform": false
+  },
+  {
+   "filename": "page-034.jpeg",
+   "kind": "page",
+   "stats": {
+    "mean": 233.21072387695312,
+    "std": 3.382136344909668,
+    "min": 229.0,
+    "max": 255.0
+   },
+   "needs_transform": false
+  },
+  {
+   "filename": "page-035.jpeg",
+   "kind": "page",
+   "stats": {
+    "mean": 232.15267944335938,
+    "std": 3.5758020877838135,
+    "min": 228.0,
+    "max": 255.0
+   },
+   "needs_transform": false
+  },
+  {
+   "filename": "page-036.jpeg",
+   "kind": "page",
+   "stats": {
+    "mean": 231.00399780273438,
+    "std": 2.4690444469451904,
+    "min": 228.0,
+    "max": 255.0
+   },
+   "needs_transform": false
+  },
+  {
+   "filename": "page-037.jpeg",
+   "kind": "page",
+   "stats": {
+    "mean": 231.15231323242188,
+    "std": 2.483124256134033,
+    "min": 228.0,
+    "max": 255.0
+   },
+   "needs_transform": false
+  },
+  {
+   "filename": "page-038.jpeg",
+   "kind": "page",
+   "stats": {
+    "mean": 232.77760314941406,
+    "std": 3.535290479660034,
+    "min": 228.0,
+    "max": 255.0
+   },
+   "needs_transform": false
+  },
+  {
+   "filename": "page-039.jpeg",
+   "kind": "page",
+   "stats": {
+    "mean": 232.5837860107422,
+    "std": 3.14314341545105,
+    "min": 229.0,
+    "max": 255.0
+   },
+   "needs_transform": false
+  },
+  {
+   "filename": "page-040.jpeg",
+   "kind": "page",
+   "stats": {
+    "mean": 230.25125122070312,
+    "std": 2.573103189468384,
+    "min": 227.0,
+    "max": 255.0
+   },
+   "needs_transform": false
+  },
+  {
+   "filename": "page-041.jpeg",
+   "kind": "page",
+   "stats": {
+    "mean": 230.0649871826172,
+    "std": 2.58193302154541,
+    "min": 227.0,
+    "max": 255.0
+   },
+   "needs_transform": false
+  },
+  {
+   "filename": "page-042.jpeg",
+   "kind": "page",
+   "stats": {
+    "mean": 231.893798828125,
+    "std": 3.377584218978882,
+    "min": 228.0,
+    "max": 255.0
+   },
+   "needs_transform": false
+  },
+  {
+   "filename": "page-043.jpeg",
+   "kind": "page",
+   "stats": {
+    "mean": 232.7738494873047,
+    "std": 3.2289021015167236,
+    "min": 229.0,
+    "max": 255.0
+   },
+   "needs_transform": false
+  },
+  {
+   "filename": "page-044.jpeg",
+   "kind": "page",
+   "stats": {
+    "mean": 231.11264038085938,
+    "std": 2.4317991733551025,
+    "min": 228.0,
+    "max": 255.0
+   },
+   "needs_transform": false
+  },
+  {
+   "filename": "page-045.jpeg",
+   "kind": "page",
+   "stats": {
+    "mean": 229.88418579101562,
+    "std": 2.627019166946411,
+    "min": 226.0,
+    "max": 255.0
+   },
+   "needs_transform": false
+  },
+  {
+   "filename": "page-046.jpeg",
+   "kind": "page",
+   "stats": {
+    "mean": 231.73228454589844,
+    "std": 3.236276865005493,
+    "min": 228.0,
+    "max": 255.0
+   },
+   "needs_transform": false
+  },
+  {
+   "filename": "page-047.jpeg",
+   "kind": "page",
+   "stats": {
+    "mean": 231.21592712402344,
+    "std": 3.2276735305786133,
+    "min": 227.0,
+    "max": 255.0
+   },
+   "needs_transform": false
+  },
+  {
+   "filename": "page-048.jpeg",
+   "kind": "page",
+   "stats": {
+    "mean": 229.95127868652344,
+    "std": 2.6074023246765137,
+    "min": 227.0,
+    "max": 255.0
+   },
+   "needs_transform": false
+  },
+  {
+   "filename": "page-049.jpeg",
+   "kind": "page",
+   "stats": {
+    "mean": 230.8418426513672,
+    "std": 2.468079090118408,
+    "min": 228.0,
+    "max": 255.0
+   },
+   "needs_transform": false
+  },
+  {
+   "filename": "page-050.jpeg",
+   "kind": "page",
+   "stats": {
+    "mean": 231.9438018798828,
+    "std": 3.3233253955841064,
+    "min": 228.0,
+    "max": 255.0
+   },
+   "needs_transform": false
+  },
+  {
+   "filename": "page-051.jpeg",
+   "kind": "page",
+   "stats": {
+    "mean": 232.85183715820312,
+    "std": 3.3651199340820312,
+    "min": 229.0,
+    "max": 255.0
+   },
+   "needs_transform": false
+  },
+  {
+   "filename": "page-052.jpeg",
+   "kind": "page",
+   "stats": {
+    "mean": 231.30490112304688,
+    "std": 2.524850845336914,
+    "min": 228.0,
+    "max": 255.0
+   },
+   "needs_transform": false
+  },
+  {
+   "filename": "page-053.jpeg",
+   "kind": "page",
+   "stats": {
+    "mean": 229.87139892578125,
+    "std": 2.710233688354492,
+    "min": 226.0,
+    "max": 255.0
+   },
+   "needs_transform": false
+  },
+  {
+   "filename": "page-054.jpeg",
+   "kind": "page",
+   "stats": {
+    "mean": 232.6802978515625,
+    "std": 3.2918968200683594,
+    "min": 229.0,
+    "max": 255.0
+   },
+   "needs_transform": false
+  },
+  {
+   "filename": "page-055.jpeg",
+   "kind": "page",
+   "stats": {
+    "mean": 231.65127563476562,
+    "std": 3.4283103942871094,
+    "min": 227.0,
+    "max": 255.0
+   },
+   "needs_transform": false
+  },
+  {
+   "filename": "page-056.jpeg",
+   "kind": "page",
+   "stats": {
+    "mean": 230.778564453125,
+    "std": 2.50649094581604,
+    "min": 228.0,
+    "max": 255.0
+   },
+   "needs_transform": false
+  },
+  {
+   "filename": "page-057.jpeg",
+   "kind": "page",
+   "stats": {
+    "mean": 230.8768310546875,
+    "std": 2.513051748275757,
+    "min": 228.0,
+    "max": 255.0
+   },
+   "needs_transform": false
+  },
+  {
+   "filename": "page-058.jpeg",
+   "kind": "page",
+   "stats": {
+    "mean": 231.65016174316406,
+    "std": 3.2116611003875732,
+    "min": 228.0,
+    "max": 255.0
+   },
+   "needs_transform": false
+  },
+  {
+   "filename": "page-059.jpeg",
+   "kind": "page",
+   "stats": {
+    "mean": 232.36061096191406,
+    "std": 3.1554622650146484,
+    "min": 228.0,
+    "max": 255.0
+   },
+   "needs_transform": false
+  },
+  {
+   "filename": "page-060.jpeg",
+   "kind": "page",
+   "stats": {
+    "mean": 231.12283325195312,
+    "std": 2.4259603023529053,
+    "min": 228.0,
+    "max": 255.0
+   },
+   "needs_transform": false
+  },
+  {
+   "filename": "page-061.jpeg",
+   "kind": "page",
+   "stats": {
+    "mean": 230.13943481445312,
+    "std": 2.6732327938079834,
+    "min": 227.0,
+    "max": 255.0
+   },
+   "needs_transform": false
+  },
+  {
+   "filename": "page-062.jpeg",
+   "kind": "page",
+   "stats": {
+    "mean": 232.23020935058594,
+    "std": 3.030268430709839,
+    "min": 228.0,
+    "max": 255.0
+   },
+   "needs_transform": false
+  },
+  {
+   "filename": "page-063.jpeg",
+   "kind": "page",
+   "stats": {
+    "mean": 231.83314514160156,
+    "std": 3.4580414295196533,
+    "min": 227.0,
+    "max": 255.0
+   },
+   "needs_transform": false
+  },
+  {
+   "filename": "page-064.jpeg",
+   "kind": "page",
+   "stats": {
+    "mean": 230.9967803955078,
+    "std": 2.482651710510254,
+    "min": 228.0,
+    "max": 255.0
+   },
+   "needs_transform": false
+  },
+  {
+   "filename": "page-065.jpeg",
+   "kind": "page",
+   "stats": {
+    "mean": 230.07650756835938,
+    "std": 2.758810043334961,
+    "min": 227.0,
+    "max": 255.0
+   },
+   "needs_transform": false
+  },
+  {
+   "filename": "page-066.jpeg",
+   "kind": "page",
+   "stats": {
+    "mean": 232.77117919921875,
+    "std": 3.5491139888763428,
+    "min": 228.0,
+    "max": 255.0
+   },
+   "needs_transform": false
+  },
+  {
+   "filename": "page-067.jpeg",
+   "kind": "page",
+   "stats": {
+    "mean": 232.62448120117188,
+    "std": 3.551015615463257,
+    "min": 228.0,
+    "max": 255.0
+   },
+   "needs_transform": false
+  },
+  {
+   "filename": "page-068.jpeg",
+   "kind": "page",
+   "stats": {
+    "mean": 230.03953552246094,
+    "std": 2.58447265625,
+    "min": 227.0,
+    "max": 255.0
+   },
+   "needs_transform": false
+  },
+  {
+   "filename": "page-069.jpeg",
+   "kind": "page",
+   "stats": {
+    "mean": 230.50743103027344,
+    "std": 2.443052291870117,
+    "min": 227.0,
+    "max": 255.0
+   },
+   "needs_transform": false
+  },
+  {
+   "filename": "page-070.jpeg",
+   "kind": "page",
+   "stats": {
+    "mean": 231.9419708251953,
+    "std": 3.2952916622161865,
+    "min": 228.0,
+    "max": 255.0
+   },
+   "needs_transform": false
+  },
+  {
+   "filename": "page-071.jpeg",
+   "kind": "page",
+   "stats": {
+    "mean": 232.2914581298828,
+    "std": 3.0576062202453613,
+    "min": 228.0,
+    "max": 255.0
+   },
+   "needs_transform": false
+  },
+  {
+   "filename": "page-072.jpeg",
+   "kind": "page",
+   "stats": {
+    "mean": 230.46299743652344,
+    "std": 2.553300142288208,
+    "min": 227.0,
+    "max": 255.0
+   },
+   "needs_transform": false
+  },
+  {
+   "filename": "page-073.jpeg",
+   "kind": "page",
+   "stats": {
+    "mean": 229.84716796875,
+    "std": 2.580228090286255,
+    "min": 226.0,
+    "max": 255.0
+   },
+   "needs_transform": false
+  },
+  {
+   "filename": "page-074.jpeg",
+   "kind": "page",
+   "stats": {
+    "mean": 232.64669799804688,
+    "std": 3.357832908630371,
+    "min": 229.0,
+    "max": 255.0
+   },
+   "needs_transform": false
+  },
+  {
+   "filename": "page-075.jpeg",
+   "kind": "page",
+   "stats": {
+    "mean": 231.6809539794922,
+    "std": 3.5708136558532715,
+    "min": 227.0,
+    "max": 255.0
+   },
+   "needs_transform": false
+  },
+  {
+   "filename": "page-076.jpeg",
+   "kind": "page",
+   "stats": {
+    "mean": 230.74085998535156,
+    "std": 2.4937405586242676,
+    "min": 228.0,
+    "max": 255.0
+   },
+   "needs_transform": false
+  },
+  {
+   "filename": "page-077.jpeg",
+   "kind": "page",
+   "stats": {
+    "mean": 230.91558837890625,
+    "std": 2.4762043952941895,
+    "min": 228.0,
+    "max": 255.0
+   },
+   "needs_transform": false
+  },
+  {
+   "filename": "page-078.jpeg",
+   "kind": "page",
+   "stats": {
+    "mean": 232.11660766601562,
+    "std": 3.341717004776001,
+    "min": 228.0,
+    "max": 255.0
+   },
+   "needs_transform": false
+  },
+  {
+   "filename": "page-079.jpeg",
+   "kind": "page",
+   "stats": {
+    "mean": 232.1813507080078,
+    "std": 3.430086612701416,
+    "min": 228.0,
+    "max": 255.0
+   },
+   "needs_transform": false
+  },
+  {
+   "filename": "page-080.jpeg",
+   "kind": "page",
+   "stats": {
+    "mean": 230.9286346435547,
+    "std": 2.50199818611145,
+    "min": 228.0,
+    "max": 255.0
+   },
+   "needs_transform": false
+  },
+  {
+   "filename": "page-081.jpeg",
+   "kind": "page",
+   "stats": {
+    "mean": 230.24447631835938,
+    "std": 2.684284210205078,
+    "min": 227.0,
+    "max": 255.0
+   },
+   "needs_transform": false
+  },
+  {
+   "filename": "page-082.jpeg",
+   "kind": "page",
+   "stats": {
+    "mean": 232.81935119628906,
+    "std": 3.3710973262786865,
+    "min": 229.0,
+    "max": 255.0
+   },
+   "needs_transform": false
+  },
+  {
+   "filename": "page-083.jpeg",
+   "kind": "page",
+   "stats": {
+    "mean": 231.85720825195312,
+    "std": 3.408870220184326,
+    "min": 228.0,
+    "max": 255.0
+   },
+   "needs_transform": false
+  },
+  {
+   "filename": "page-084.jpeg",
+   "kind": "page",
+   "stats": {
+    "mean": 230.5773468017578,
+    "std": 2.5043816566467285,
+    "min": 227.0,
+    "max": 255.0
+   },
+   "needs_transform": false
+  },
+  {
+   "filename": "page-085.jpeg",
+   "kind": "page",
+   "stats": {
+    "mean": 229.96018981933594,
+    "std": 2.617178201675415,
+    "min": 227.0,
+    "max": 255.0
+   },
+   "needs_transform": false
+  },
+  {
+   "filename": "page-086.jpeg",
+   "kind": "page",
+   "stats": {
+    "mean": 232.34756469726562,
+    "std": 3.0790486335754395,
+    "min": 229.0,
+    "max": 255.0
+   },
+   "needs_transform": false
+  },
+  {
+   "filename": "page-087.jpeg",
+   "kind": "page",
+   "stats": {
+    "mean": 231.73773193359375,
+    "std": 3.2365403175354004,
+    "min": 228.0,
+    "max": 255.0
+   },
+   "needs_transform": false
+  },
+  {
+   "filename": "page-088.jpeg",
+   "kind": "page",
+   "stats": {
+    "mean": 230.7289276123047,
+    "std": 2.4429824352264404,
+    "min": 228.0,
+    "max": 255.0
+   },
+   "needs_transform": false
+  },
+  {
+   "filename": "page-089.jpeg",
+   "kind": "page",
+   "stats": {
+    "mean": 230.0265655517578,
+    "std": 2.5866692066192627,
+    "min": 227.0,
+    "max": 255.0
+   },
+   "needs_transform": false
+  },
+  {
+   "filename": "page-090.jpeg",
+   "kind": "page",
+   "stats": {
+    "mean": 231.69801330566406,
+    "std": 3.304262638092041,
+    "min": 228.0,
+    "max": 255.0
+   },
+   "needs_transform": false
+  },
+  {
+   "filename": "page-091.jpeg",
+   "kind": "page",
+   "stats": {
+    "mean": 232.13168334960938,
+    "std": 3.261276960372925,
+    "min": 228.0,
+    "max": 255.0
+   },
+   "needs_transform": false
+  },
+  {
+   "filename": "page-092.jpeg",
+   "kind": "page",
+   "stats": {
+    "mean": 223.53695678710938,
+    "std": 2.9099395275115967,
+    "min": 220.0,
+    "max": 255.0
+   },
+   "needs_transform": false
+  },
+  {
+   "filename": "page-093.jpeg",
+   "kind": "page",
+   "stats": {
+    "mean": 230.5694122314453,
+    "std": 2.580742359161377,
+    "min": 227.0,
+    "max": 255.0
+   },
+   "needs_transform": false
+  },
+  {
+   "filename": "page-094.jpeg",
+   "kind": "page",
+   "stats": {
+    "mean": 232.11964416503906,
+    "std": 3.5052764415740967,
+    "min": 228.0,
+    "max": 255.0
+   },
+   "needs_transform": false
+  },
+  {
+   "filename": "page-095.jpeg",
+   "kind": "page",
+   "stats": {
+    "mean": 232.4990997314453,
+    "std": 3.3097431659698486,
+    "min": 228.0,
+    "max": 255.0
+   },
+   "needs_transform": false
+  },
+  {
+   "filename": "page-096.jpeg",
+   "kind": "page",
+   "stats": {
+    "mean": 229.89169311523438,
+    "std": 2.5592308044433594,
+    "min": 227.0,
+    "max": 255.0
+   },
+   "needs_transform": false
+  },
+  {
+   "filename": "page-097.jpeg",
+   "kind": "page",
+   "stats": {
+    "mean": 230.6288299560547,
+    "std": 2.4857840538024902,
+    "min": 227.0,
+    "max": 255.0
+   },
+   "needs_transform": false
+  },
+  {
+   "filename": "page-098.jpeg",
+   "kind": "page",
+   "stats": {
+    "mean": 231.85626220703125,
+    "std": 3.3707098960876465,
+    "min": 228.0,
+    "max": 255.0
+   },
+   "needs_transform": false
+  },
+  {
+   "filename": "page-099.jpeg",
+   "kind": "page",
+   "stats": {
+    "mean": 232.3097686767578,
+    "std": 3.391545534133911,
+    "min": 228.0,
+    "max": 255.0
+   },
+   "needs_transform": false
+  },
+  {
+   "filename": "page-100.jpeg",
+   "kind": "page",
+   "stats": {
+    "mean": 224.3155059814453,
+    "std": 2.792783737182617,
+    "min": 221.0,
+    "max": 255.0
+   },
+   "needs_transform": false
+  },
+  {
+   "filename": "page-101.jpeg",
+   "kind": "page",
+   "stats": {
+    "mean": 229.81033325195312,
+    "std": 2.6431753635406494,
+    "min": 226.0,
+    "max": 255.0
+   },
+   "needs_transform": false
+  },
+  {
+   "filename": "page-102.jpeg",
+   "kind": "page",
+   "stats": {
+    "mean": 225.89443969726562,
+    "std": 3.4469799995422363,
+    "min": 222.0,
+    "max": 255.0
+   },
+   "needs_transform": false
+  },
+  {
+   "filename": "page-103.jpeg",
+   "kind": "page",
+   "stats": {
+    "mean": 231.91429138183594,
+    "std": 3.3682353496551514,
+    "min": 228.0,
+    "max": 255.0
+   },
+   "needs_transform": false
+  },
+  {
+   "filename": "page-104.jpeg",
+   "kind": "page",
+   "stats": {
+    "mean": 229.38815307617188,
+    "std": 2.5596466064453125,
+    "min": 226.0,
+    "max": 255.0
+   },
+   "needs_transform": false
+  },
+  {
+   "filename": "page-105.jpeg",
+   "kind": "page",
+   "stats": {
+    "mean": 230.3218994140625,
+    "std": 2.5119924545288086,
+    "min": 227.0,
+    "max": 255.0
+   },
+   "needs_transform": false
+  },
+  {
+   "filename": "page-106.jpeg",
+   "kind": "page",
+   "stats": {
+    "mean": 232.4094696044922,
+    "std": 3.387706756591797,
+    "min": 228.0,
+    "max": 255.0
+   },
+   "needs_transform": false
+  },
+  {
+   "filename": "page-107.jpeg",
+   "kind": "page",
+   "stats": {
+    "mean": 231.65159606933594,
+    "std": 3.506784200668335,
+    "min": 227.0,
+    "max": 255.0
+   },
+   "needs_transform": false
+  },
+  {
+   "filename": "page-108.jpeg",
+   "kind": "page",
+   "stats": {
+    "mean": 230.29945373535156,
+    "std": 2.437142848968506,
+    "min": 227.0,
+    "max": 255.0
+   },
+   "needs_transform": false
+  },
+  {
+   "filename": "page-109.jpeg",
+   "kind": "page",
+   "stats": {
+    "mean": 229.2523193359375,
+    "std": 2.601202964782715,
+    "min": 226.0,
+    "max": 255.0
+   },
+   "needs_transform": false
+  },
+  {
+   "filename": "page-110.jpeg",
+   "kind": "page",
+   "stats": {
+    "mean": 232.02781677246094,
+    "std": 3.3095955848693848,
+    "min": 228.0,
+    "max": 255.0
+   },
+   "needs_transform": false
+  },
+  {
+   "filename": "page-111.jpeg",
+   "kind": "page",
+   "stats": {
+    "mean": 231.05812072753906,
+    "std": 3.543250799179077,
+    "min": 227.0,
+    "max": 255.0
+   },
+   "needs_transform": false
+  },
+  {
+   "filename": "page-112.jpeg",
+   "kind": "page",
+   "stats": {
+    "mean": 229.9250946044922,
+    "std": 2.4301300048828125,
+    "min": 227.0,
+    "max": 255.0
+   },
+   "needs_transform": false
+  },
+  {
+   "filename": "page-113.jpeg",
+   "kind": "page",
+   "stats": {
+    "mean": 229.29241943359375,
+    "std": 2.659301280975342,
+    "min": 226.0,
+    "max": 255.0
+   },
+   "needs_transform": false
+  },
+  {
+   "filename": "page-114.jpeg",
+   "kind": "page",
+   "stats": {
+    "mean": 232.22250366210938,
+    "std": 3.401825428009033,
+    "min": 228.0,
+    "max": 255.0
+   },
+   "needs_transform": false
+  },
+  {
+   "filename": "page-115.jpeg",
+   "kind": "page",
+   "stats": {
+    "mean": 231.52110290527344,
+    "std": 3.497408628463745,
+    "min": 227.0,
+    "max": 255.0
+   },
+   "needs_transform": false
+  },
+  {
+   "filename": "page-116.jpeg",
+   "kind": "page",
+   "stats": {
+    "mean": 229.5357666015625,
+    "std": 2.474287271499634,
+    "min": 226.0,
+    "max": 255.0
+   },
+   "needs_transform": false
+  },
+  {
+   "filename": "page-117.jpeg",
+   "kind": "page",
+   "stats": {
+    "mean": 229.8822784423828,
+    "std": 2.589733600616455,
+    "min": 227.0,
+    "max": 255.0
+   },
+   "needs_transform": false
+  },
+  {
+   "filename": "page-118.jpeg",
+   "kind": "page",
+   "stats": {
+    "mean": 225.52108764648438,
+    "std": 3.907546281814575,
+    "min": 221.0,
+    "max": 255.0
+   },
+   "needs_transform": false
+  },
+  {
+   "filename": "page-119.jpeg",
+   "kind": "page",
+   "stats": {
+    "mean": 226.46139526367188,
+    "std": 3.656187057495117,
+    "min": 222.0,
+    "max": 255.0
+   },
+   "needs_transform": false
+  },
+  {
+   "filename": "page-120.jpeg",
+   "kind": "page",
+   "stats": {
+    "mean": 230.37510681152344,
+    "std": 2.503861904144287,
+    "min": 227.0,
+    "max": 255.0
+   },
+   "needs_transform": false
+  },
+  {
+   "filename": "page-121.jpeg",
+   "kind": "page",
+   "stats": {
+    "mean": 230.8408966064453,
+    "std": 2.46482253074646,
+    "min": 228.0,
+    "max": 255.0
+   },
+   "needs_transform": false
+  },
+  {
+   "filename": "page-122.jpeg",
+   "kind": "page",
+   "stats": {
+    "mean": 231.94744873046875,
+    "std": 3.3258774280548096,
+    "min": 228.0,
+    "max": 255.0
+   },
+   "needs_transform": false
+  },
+  {
+   "filename": "page-123.jpeg",
+   "kind": "page",
+   "stats": {
+    "mean": 232.7427978515625,
+    "std": 3.351227045059204,
+    "min": 229.0,
+    "max": 255.0
+   },
+   "needs_transform": false
+  },
+  {
+   "filename": "page-124.jpeg",
+   "kind": "page",
+   "stats": {
+    "mean": 230.38499450683594,
+    "std": 2.5871965885162354,
+    "min": 227.0,
+    "max": 255.0
+   },
+   "needs_transform": false
+  },
+  {
+   "filename": "page-125.jpeg",
+   "kind": "page",
+   "stats": {
+    "mean": 230.97984313964844,
+    "std": 2.573742151260376,
+    "min": 228.0,
+    "max": 255.0
+   },
+   "needs_transform": false
+  },
+  {
+   "filename": "page-126.jpeg",
+   "kind": "page",
+   "stats": {
+    "mean": 232.0810089111328,
+    "std": 3.434725522994995,
+    "min": 228.0,
+    "max": 255.0
+   },
+   "needs_transform": false
+  },
+  {
+   "filename": "page-127.jpeg",
+   "kind": "page",
+   "stats": {
+    "mean": 232.8480224609375,
+    "std": 3.3103368282318115,
+    "min": 229.0,
+    "max": 255.0
+   },
+   "needs_transform": false
+  },
+  {
+   "filename": "page-128.jpeg",
+   "kind": "page",
+   "stats": {
+    "mean": 230.85240173339844,
+    "std": 2.528533935546875,
+    "min": 228.0,
+    "max": 254.0
+   },
+   "needs_transform": false
+  },
+  {
+   "filename": "page-129.jpeg",
+   "kind": "page",
+   "stats": {
+    "mean": 230.341064453125,
+    "std": 3.012213706970215,
+    "min": 227.0,
+    "max": 255.0
+   },
+   "needs_transform": false
+  },
+  {
+   "filename": "page-130.jpeg",
+   "kind": "page",
+   "stats": {
+    "mean": 232.80921936035156,
+    "std": 3.3349058628082275,
+    "min": 229.0,
+    "max": 255.0
+   },
+   "needs_transform": false
+  },
+  {
+   "filename": "page-131.jpeg",
+   "kind": "page",
+   "stats": {
+    "mean": 232.52565002441406,
+    "std": 3.361069440841675,
+    "min": 228.0,
+    "max": 255.0
+   },
+   "needs_transform": false
+  },
+  {
+   "filename": "page-132.jpeg",
+   "kind": "page",
+   "stats": {
+    "mean": 224.02719116210938,
+    "std": 2.8860061168670654,
+    "min": 220.0,
+    "max": 252.0
+   },
+   "needs_transform": false
+  },
+  {
+   "filename": "page-133.jpeg",
+   "kind": "page",
+   "stats": {
+    "mean": 231.1173858642578,
+    "std": 2.5793442726135254,
+    "min": 228.0,
+    "max": 255.0
+   },
+   "needs_transform": false
+  },
+  {
+   "filename": "page-134.jpeg",
+   "kind": "page",
+   "stats": {
+    "mean": 232.7589569091797,
+    "std": 3.3644962310791016,
+    "min": 229.0,
+    "max": 255.0
+   },
+   "needs_transform": false
+  },
+  {
+   "filename": "page-135.jpeg",
+   "kind": "page",
+   "stats": {
+    "mean": 232.07489013671875,
+    "std": 3.4558310508728027,
+    "min": 228.0,
+    "max": 255.0
+   },
+   "needs_transform": false
+  },
+  {
+   "filename": "page-136.jpeg",
+   "kind": "page",
+   "stats": {
+    "mean": 230.7830047607422,
+    "std": 2.4492204189300537,
+    "min": 228.0,
+    "max": 255.0
+   },
+   "needs_transform": false
+  },
+  {
+   "filename": "page-137.jpeg",
+   "kind": "page",
+   "stats": {
+    "mean": 223.6410369873047,
+    "std": 2.9252514839172363,
+    "min": 220.0,
+    "max": 255.0
+   },
+   "needs_transform": false
+  },
+  {
+   "filename": "page-138.jpeg",
+   "kind": "page",
+   "stats": {
+    "mean": 232.0778045654297,
+    "std": 3.458042621612549,
+    "min": 228.0,
+    "max": 255.0
+   },
+   "needs_transform": false
+  },
+  {
+   "filename": "page-139.jpeg",
+   "kind": "page",
+   "stats": {
+    "mean": 227.35418701171875,
+    "std": 3.8315296173095703,
+    "min": 223.0,
+    "max": 255.0
+   },
+   "needs_transform": false
+  },
+  {
+   "filename": "page-140.jpeg",
+   "kind": "page",
+   "stats": {
+    "mean": 230.31382751464844,
+    "std": 2.597630739212036,
+    "min": 227.0,
+    "max": 255.0
+   },
+   "needs_transform": false
+  },
+  {
+   "filename": "page-141.jpeg",
+   "kind": "page",
+   "stats": {
+    "mean": 231.05520629882812,
+    "std": 2.570497512817383,
+    "min": 228.0,
+    "max": 255.0
+   },
+   "needs_transform": false
+  },
+  {
+   "filename": "page-142.jpeg",
+   "kind": "page",
+   "stats": {
+    "mean": 226.18310546875,
+    "std": 3.8317453861236572,
+    "min": 221.0,
+    "max": 255.0
+   },
+   "needs_transform": false
+  },
+  {
+   "filename": "page-143.jpeg",
+   "kind": "page",
+   "stats": {
+    "mean": 232.56507873535156,
+    "std": 3.2179834842681885,
+    "min": 229.0,
+    "max": 255.0
+   },
+   "needs_transform": false
+  },
+  {
+   "filename": "page-144.jpeg",
+   "kind": "page",
+   "stats": {
+    "mean": 230.28646850585938,
+    "std": 2.6433660984039307,
+    "min": 227.0,
+    "max": 255.0
+   },
+   "needs_transform": false
+  },
+  {
+   "filename": "page-145.jpeg",
+   "kind": "page",
+   "stats": {
+    "mean": 231.32733154296875,
+    "std": 2.6462507247924805,
+    "min": 228.0,
+    "max": 255.0
+   },
+   "needs_transform": false
+  },
+  {
+   "filename": "page-146.jpeg",
+   "kind": "page",
+   "stats": {
+    "mean": 233.205322265625,
+    "std": 3.507073402404785,
+    "min": 229.0,
+    "max": 255.0
+   },
+   "needs_transform": false
+  },
+  {
+   "filename": "page-147.jpeg",
+   "kind": "page",
+   "stats": {
+    "mean": 232.19113159179688,
+    "std": 3.468522548675537,
+    "min": 228.0,
+    "max": 255.0
+   },
+   "needs_transform": false
+  },
+  {
+   "filename": "page-148.jpeg",
+   "kind": "page",
+   "stats": {
+    "mean": 224.39427185058594,
+    "std": 2.8114070892333984,
+    "min": 221.0,
+    "max": 255.0
+   },
+   "needs_transform": false
+  },
+  {
+   "filename": "page-149.jpeg",
+   "kind": "page",
+   "stats": {
+    "mean": 223.521240234375,
+    "std": 3.0305440425872803,
+    "min": 220.0,
+    "max": 255.0
+   },
+   "needs_transform": false
+  },
+  {
+   "filename": "page-150.jpeg",
+   "kind": "page",
+   "stats": {
+    "mean": 225.94943237304688,
+    "std": 4.022485256195068,
+    "min": 221.0,
+    "max": 255.0
+   },
+   "needs_transform": false
+  },
+  {
+   "filename": "page-151.jpeg",
+   "kind": "page",
+   "stats": {
+    "mean": 227.0030517578125,
+    "std": 3.9287707805633545,
+    "min": 222.0,
+    "max": 255.0
+   },
+   "needs_transform": false
+  },
+  {
+   "filename": "page-152.jpeg",
+   "kind": "page",
+   "stats": {
+    "mean": 224.90890502929688,
+    "std": 2.8954973220825195,
+    "min": 221.0,
+    "max": 254.0
+   },
+   "needs_transform": false
+  },
+  {
+   "filename": "page-153.jpeg",
+   "kind": "page",
+   "stats": {
+    "mean": 223.53282165527344,
+    "std": 3.0022478103637695,
+    "min": 220.0,
+    "max": 250.0
+   },
+   "needs_transform": false
+  },
+  {
+   "filename": "page-154.jpeg",
+   "kind": "page",
+   "stats": {
+    "mean": 226.83700561523438,
+    "std": 3.8273072242736816,
+    "min": 222.0,
+    "max": 255.0
+   },
+   "needs_transform": false
+  },
+  {
+   "filename": "page-155.jpeg",
+   "kind": "page",
+   "stats": {
+    "mean": 226.9818115234375,
+    "std": 3.9296505451202393,
+    "min": 222.0,
+    "max": 255.0
+   },
+   "needs_transform": false
+  },
+  {
+   "filename": "page-156.jpeg",
+   "kind": "page",
+   "stats": {
+    "mean": 223.2398223876953,
+    "std": 2.9150071144104004,
+    "min": 219.0,
+    "max": 255.0
+   },
+   "needs_transform": false
+  },
+  {
+   "filename": "page-157.jpeg",
+   "kind": "page",
+   "stats": {
+    "mean": 229.75843811035156,
+    "std": 2.65191912651062,
+    "min": 226.0,
+    "max": 255.0
+   },
+   "needs_transform": false
+  },
+  {
+   "filename": "page-158.jpeg",
+   "kind": "page",
+   "stats": {
+    "mean": 226.2952880859375,
+    "std": 3.678741216659546,
+    "min": 222.0,
+    "max": 255.0
+   },
+   "needs_transform": false
+  },
+  {
+   "filename": "page-159.jpeg",
+   "kind": "page",
+   "stats": {
+    "mean": 231.9684600830078,
+    "std": 3.3730714321136475,
+    "min": 228.0,
+    "max": 255.0
+   },
+   "needs_transform": false
+  },
+  {
+   "filename": "page-160.jpeg",
+   "kind": "page",
+   "stats": {
+    "mean": 229.77125549316406,
+    "std": 2.5364954471588135,
+    "min": 226.0,
+    "max": 255.0
+   },
+   "needs_transform": false
+  },
+  {
+   "filename": "page-161.jpeg",
+   "kind": "page",
+   "stats": {
+    "mean": 236.1551513671875,
+    "std": 2.7514777183532715,
+    "min": 233.0,
+    "max": 255.0
+   },
+   "needs_transform": false
+  },
+  {
+   "filename": "page-162.jpeg",
+   "kind": "page",
+   "stats": {
+    "mean": 236.6885528564453,
+    "std": 3.6288323402404785,
+    "min": 232.0,
+    "max": 255.0
+   },
+   "needs_transform": false
+  },
+  {
+   "filename": "page-163.jpeg",
+   "kind": "page",
+   "stats": {
+    "mean": 237.31106567382812,
+    "std": 3.4757397174835205,
+    "min": 233.0,
+    "max": 255.0
+   },
+   "needs_transform": false
+  },
+  {
+   "filename": "page-164.jpeg",
+   "kind": "page",
+   "stats": {
+    "mean": 236.28530883789062,
+    "std": 2.6797001361846924,
+    "min": 233.0,
+    "max": 255.0
+   },
+   "needs_transform": false
+  },
+  {
+   "filename": "page-165.jpeg",
+   "kind": "page",
+   "stats": {
+    "mean": 225.88848876953125,
+    "std": 3.7677550315856934,
+    "min": 221.0,
+    "max": 255.0
+   },
+   "needs_transform": false
+  },
+  {
+   "filename": "page-166.jpeg",
+   "kind": "page",
+   "stats": {
+    "mean": 233.28057861328125,
+    "std": 4.080649375915527,
+    "min": 228.0,
+    "max": 255.0
+   },
+   "needs_transform": false
+  },
+  {
+   "filename": "page-167.jpeg",
+   "kind": "page",
+   "stats": {
+    "mean": 232.22804260253906,
+    "std": 4.318172454833984,
+    "min": 227.0,
+    "max": 255.0
+   },
+   "needs_transform": false
+  },
+  {
+   "filename": "page-168.jpeg",
+   "kind": "page",
+   "stats": {
+    "mean": 232.1472930908203,
+    "std": 3.2347960472106934,
+    "min": 228.0,
+    "max": 255.0
+   },
+   "needs_transform": false
+  },
+  {
+   "filename": "page-169.jpeg",
+   "kind": "page",
+   "stats": {
+    "mean": 235.84971618652344,
+    "std": 2.965176582336426,
+    "min": 232.0,
+    "max": 255.0
+   },
+   "needs_transform": false
+  },
+  {
+   "filename": "page-170.jpeg",
+   "kind": "page",
+   "stats": {
+    "mean": 237.29051208496094,
+    "std": 3.591419219970703,
+    "min": 233.0,
+    "max": 255.0
+   },
+   "needs_transform": false
+  },
+  {
+   "filename": "page-171.jpeg",
+   "kind": "page",
+   "stats": {
+    "mean": 236.50613403320312,
+    "std": 3.621757745742798,
+    "min": 232.0,
+    "max": 255.0
+   },
+   "needs_transform": false
+  },
+  {
+   "filename": "page-172.jpeg",
+   "kind": "page",
+   "stats": {
+    "mean": 235.57855224609375,
+    "std": 2.8652684688568115,
+    "min": 232.0,
+    "max": 255.0
+   },
+   "needs_transform": false
+  },
+  {
+   "filename": "page-173.jpeg",
+   "kind": "page",
+   "stats": {
+    "mean": 232.58372497558594,
+    "std": 3.0884649753570557,
+    "min": 229.0,
+    "max": 255.0
+   },
+   "needs_transform": false
+  },
+  {
+   "filename": "page-174.jpeg",
+   "kind": "page",
+   "stats": {
+    "mean": 237.30259704589844,
+    "std": 3.58884596824646,
+    "min": 233.0,
+    "max": 255.0
+   },
+   "needs_transform": false
+  },
+  {
+   "filename": "page-175.jpeg",
+   "kind": "page",
+   "stats": {
+    "mean": 237.50424194335938,
+    "std": 3.923534631729126,
+    "min": 233.0,
+    "max": 255.0
+   },
+   "needs_transform": false
+  },
+  {
+   "filename": "page-176.jpeg",
+   "kind": "page",
+   "stats": {
+    "mean": 231.9952392578125,
+    "std": 3.094172239303589,
+    "min": 228.0,
+    "max": 255.0
+   },
+   "needs_transform": false
+  },
+  {
+   "filename": "page-177.jpeg",
+   "kind": "page",
+   "stats": {
+    "mean": 235.93238830566406,
+    "std": 2.847048759460449,
+    "min": 232.0,
+    "max": 255.0
+   },
+   "needs_transform": false
+  },
+  {
+   "filename": "page-178.jpeg",
+   "kind": "page",
+   "stats": {
+    "mean": 236.79148864746094,
+    "std": 3.916032075881958,
+    "min": 232.0,
+    "max": 255.0
+   },
+   "needs_transform": false
+  },
+  {
+   "filename": "page-179.jpeg",
+   "kind": "page",
+   "stats": {
+    "mean": 237.72659301757812,
+    "std": 3.7740259170532227,
+    "min": 233.0,
+    "max": 255.0
+   },
+   "needs_transform": false
+  },
+  {
+   "filename": "page-180.jpeg",
+   "kind": "page",
+   "stats": {
+    "mean": 236.48123168945312,
+    "std": 2.6504576206207275,
+    "min": 233.0,
+    "max": 255.0
+   },
+   "needs_transform": false
+  },
+  {
+   "filename": "page-181.jpeg",
+   "kind": "page",
+   "stats": {
+    "mean": 232.51220703125,
+    "std": 3.2295167446136475,
+    "min": 228.0,
+    "max": 255.0
+   },
+   "needs_transform": false
+  },
+  {
+   "filename": "page-182.jpeg",
+   "kind": "page",
+   "stats": {
+    "mean": 237.79519653320312,
+    "std": 3.8274154663085938,
+    "min": 233.0,
+    "max": 255.0
+   },
+   "needs_transform": false
+  },
+  {
+   "filename": "page-183.jpeg",
+   "kind": "page",
+   "stats": {
+    "mean": 237.06484985351562,
+    "std": 3.7146174907684326,
+    "min": 232.0,
+    "max": 255.0
+   },
+   "needs_transform": false
+  },
+  {
+   "filename": "page-184.jpeg",
+   "kind": "page",
+   "stats": {
+    "mean": 232.66917419433594,
+    "std": 3.1080641746520996,
+    "min": 229.0,
+    "max": 255.0
+   },
+   "needs_transform": false
+  },
+  {
+   "filename": "page-185.jpeg",
+   "kind": "page",
+   "stats": {
+    "mean": 235.7071990966797,
+    "std": 2.8698766231536865,
+    "min": 232.0,
+    "max": 255.0
+   },
+   "needs_transform": false
+  },
+  {
+   "filename": "page-186.jpeg",
+   "kind": "page",
+   "stats": {
+    "mean": 238.05345153808594,
+    "std": 3.627707004547119,
+    "min": 234.0,
+    "max": 255.0
+   },
+   "needs_transform": false
+  },
+  {
+   "filename": "page-187.jpeg",
+   "kind": "page",
+   "stats": {
+    "mean": 237.6433868408203,
+    "std": 3.719295024871826,
+    "min": 233.0,
+    "max": 255.0
+   },
+   "needs_transform": false
+  },
+  {
+   "filename": "page-188.jpeg",
+   "kind": "page",
+   "stats": {
+    "mean": 235.9813995361328,
+    "std": 2.806831121444702,
+    "min": 232.0,
+    "max": 255.0
+   },
+   "needs_transform": false
+  },
+  {
+   "filename": "page-189.jpeg",
+   "kind": "page",
+   "stats": {
+    "mean": 232.03652954101562,
+    "std": 3.1411237716674805,
+    "min": 228.0,
+    "max": 255.0
+   },
+   "needs_transform": false
+  },
+  {
+   "filename": "page-190.jpeg",
+   "kind": "page",
+   "stats": {
+    "mean": 237.86756896972656,
+    "std": 3.495328664779663,
+    "min": 234.0,
+    "max": 255.0
+   },
+   "needs_transform": false
+  }
+ ]
+}
