@@ -117,7 +117,7 @@ rather than `013.jpg` with no known page number yet. Checked directly:
 | Fact | Value |
 | --- | --- |
 | Body-text pages, contiguous | 1 through 190, no gaps |
-| Named front matter | title page, copyright page, dedication, acknowledgments, foreword, preface (2 pp.), frontispiece, table of contents (5 pp.) |
+| Named front matter | title page, copyright page, dedication, acknowledgments, foreword, preface (2 pp.), frontispiece (2 pp.), table of contents (5 pp.) |
 | Colour-plate pairs | `page-NNNp1.jpeg` / `p2.jpeg`, alongside several main-sequence pages |
 | Typical page image | ~4350×6450 px, already grayscale, ~640 dpi at the book's trim size |
 | Typical plate image | ~5096×6600 px, colour |

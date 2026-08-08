@@ -28,7 +28,7 @@ implementing or auditing the pipeline.
 | --- | --- | --- | --- |
 | `page-NNN.jpeg` | `page-050.jpeg` | 190 (pages 1–190, no gaps) | A body-text page |
 | `page-NNNpK.jpeg` | `page-030p1.jpeg` | several pairs | Colour plate `K` associated with page `NNN` |
-| named front matter | `titlepage.jpeg`, `toc-3.jpeg` | 15 | Title page, copyright, dedication, acknowledgments, foreword (2), preface (2), frontispiece (2), table of contents (5) |
+| named front matter | `titlepage.jpeg`, `toc-3.jpeg` | 14 | Title page, copyright, dedication, acknowledgments, foreword, preface (2), frontispiece (2), table of contents (5) |
 | unrecognized | `m276.jpeg`, `page-065 1.jpeg` | 2 found so far | Anomalies — see requirements, §4, items 2–3 |
 
 Typical body-text page: ~4350×6450 px, grayscale JPEG, ~640 dpi at the
