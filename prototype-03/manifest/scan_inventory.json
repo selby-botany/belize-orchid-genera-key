@@ -1,0 +1,4613 @@
+{
+ "schema_version": 1,
+ "generated_at": "2026-08-08T21:05:39.212225+00:00",
+ "source_directory": "20260804-page-scans",
+ "image_count": 242,
+ "entries": [
+  {
+   "filename": "acknowledgments-1.jpeg",
+   "sha256": "48bd97b2c092128924b2b7faf7bac7f389f9ee1ea47f01eab84bd814efcd3bf3",
+   "byte_size": 6169894,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "front_matter",
+    "page_number": null,
+    "label": "acknowledgments-1",
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "48bd97b2c092128924b2b7faf7bac7f389f9ee1ea47f01eab84bd814efcd3bf3",
+   "remarks": ""
+  },
+  {
+   "filename": "copyrightpage.jpeg",
+   "sha256": "6899771d8705c6e346acdc1b6788264d8e21b8331ec82f5193bc7b05352305ec",
+   "byte_size": 5665891,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "front_matter",
+    "page_number": null,
+    "label": "copyrightpage",
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "6899771d8705c6e346acdc1b6788264d8e21b8331ec82f5193bc7b05352305ec",
+   "remarks": ""
+  },
+  {
+   "filename": "dedication-page.jpeg",
+   "sha256": "52d22fc5d12ec56261097cc3953a2dff797ad8db87b8f718643b1c85a1846fea",
+   "byte_size": 5287079,
+   "width": 4342,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "front_matter",
+    "page_number": null,
+    "label": "dedication-page",
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "52d22fc5d12ec56261097cc3953a2dff797ad8db87b8f718643b1c85a1846fea",
+   "remarks": ""
+  },
+  {
+   "filename": "forward-1.jpeg",
+   "sha256": "8e1cdef3138bfa6986ecf6736a0574e5e43647c77f3a733756fd8dca3dc103a8",
+   "byte_size": 6099465,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "front_matter",
+    "page_number": null,
+    "label": "forward-1",
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "8e1cdef3138bfa6986ecf6736a0574e5e43647c77f3a733756fd8dca3dc103a8",
+   "remarks": ""
+  },
+  {
+   "filename": "frontis-1.jpeg",
+   "sha256": "8c6b9121c749f7e4e1e599df3f16b9366fd87673154f9dfe73b4d63395dc0734",
+   "byte_size": 5441828,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "front_matter",
+    "page_number": null,
+    "label": "frontis-1",
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "8c6b9121c749f7e4e1e599df3f16b9366fd87673154f9dfe73b4d63395dc0734",
+   "remarks": ""
+  },
+  {
+   "filename": "frontis-plate-1.jpeg",
+   "sha256": "d55aac7aecc7c6a88fdf977b4c9c37a0def32be9afc5233981e5ee7a28f5ac9d",
+   "byte_size": 7603526,
+   "width": 4158,
+   "height": 6450,
+   "colorspace": "sRGB",
+   "claimed_identity": {
+    "kind": "front_matter",
+    "page_number": null,
+    "label": "frontis-plate-1",
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "d55aac7aecc7c6a88fdf977b4c9c37a0def32be9afc5233981e5ee7a28f5ac9d",
+   "remarks": ""
+  },
+  {
+   "filename": "m276.jpeg",
+   "sha256": "aff3fdd3fe27615e628a8d99bcde9810d1eeb3a9261f4b41d73b02412dc18c07",
+   "byte_size": 17621749,
+   "width": 8812,
+   "height": 12944,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "unrecognized",
+    "page_number": null,
+    "label": null,
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [
+    "unparseable_filename"
+   ],
+   "review_status": "unreviewed",
+   "review_checksum": "aff3fdd3fe27615e628a8d99bcde9810d1eeb3a9261f4b41d73b02412dc18c07",
+   "remarks": ""
+  },
+  {
+   "filename": "page-001.jpeg",
+   "sha256": "17a1e67160a4a3e69afccb522ac5f3bb25c9c027145951059d26f9165c02c7d0",
+   "byte_size": 6114568,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "page",
+    "page_number": 1,
+    "label": null,
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "17a1e67160a4a3e69afccb522ac5f3bb25c9c027145951059d26f9165c02c7d0",
+   "remarks": ""
+  },
+  {
+   "filename": "page-002.jpeg",
+   "sha256": "725eaab1146c34dc35c27176e3ce7fc9a8584672cc7eb55a7b635a79c61b9a5f",
+   "byte_size": 6643109,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "page",
+    "page_number": 2,
+    "label": null,
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "725eaab1146c34dc35c27176e3ce7fc9a8584672cc7eb55a7b635a79c61b9a5f",
+   "remarks": ""
+  },
+  {
+   "filename": "page-003.jpeg",
+   "sha256": "b911e47a5ddac643d8ef164b292fb0d2ae8b736b8f511763134125eeccedc71c",
+   "byte_size": 6334053,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "page",
+    "page_number": 3,
+    "label": null,
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "b911e47a5ddac643d8ef164b292fb0d2ae8b736b8f511763134125eeccedc71c",
+   "remarks": ""
+  },
+  {
+   "filename": "page-004.jpeg",
+   "sha256": "6cac656d453e4a192b548607ba52e200521e63bde90564aa34e349141830a06c",
+   "byte_size": 6662586,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "page",
+    "page_number": 4,
+    "label": null,
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "6cac656d453e4a192b548607ba52e200521e63bde90564aa34e349141830a06c",
+   "remarks": ""
+  },
+  {
+   "filename": "page-005.jpeg",
+   "sha256": "cd4e458c0d024909d97bf1409974f327567635a50ec84e9045abfa1957e5a26b",
+   "byte_size": 6708809,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "page",
+    "page_number": 5,
+    "label": null,
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "cd4e458c0d024909d97bf1409974f327567635a50ec84e9045abfa1957e5a26b",
+   "remarks": ""
+  },
+  {
+   "filename": "page-006.jpeg",
+   "sha256": "c7f7dd0b292bf27b0c80206a5279a51707f3f9700917f5246686f4d68b78ad58",
+   "byte_size": 7371511,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "page",
+    "page_number": 6,
+    "label": null,
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "c7f7dd0b292bf27b0c80206a5279a51707f3f9700917f5246686f4d68b78ad58",
+   "remarks": ""
+  },
+  {
+   "filename": "page-006p1.jpeg",
+   "sha256": "1423ccf2a27bba054d5c3664947cff6f6f34ec104966b9af97bd825f33e2e7a0",
+   "byte_size": 10059210,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "sRGB",
+   "claimed_identity": {
+    "kind": "plate",
+    "page_number": null,
+    "label": null,
+    "linked_page": 6,
+    "plate_index": 1
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "1423ccf2a27bba054d5c3664947cff6f6f34ec104966b9af97bd825f33e2e7a0",
+   "remarks": ""
+  },
+  {
+   "filename": "page-007.jpeg",
+   "sha256": "26959e9681f8fcd6933cdefbebca1805cde6b4b5f18c7af54b367bc3773e03c2",
+   "byte_size": 5814225,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "page",
+    "page_number": 7,
+    "label": null,
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "26959e9681f8fcd6933cdefbebca1805cde6b4b5f18c7af54b367bc3773e03c2",
+   "remarks": ""
+  },
+  {
+   "filename": "page-008.jpeg",
+   "sha256": "f50c3328337e27adf9e2fab61ca690bf4216e58d53eb8d7d0375750d53063f17",
+   "byte_size": 5024990,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "page",
+    "page_number": 8,
+    "label": null,
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "f50c3328337e27adf9e2fab61ca690bf4216e58d53eb8d7d0375750d53063f17",
+   "remarks": ""
+  },
+  {
+   "filename": "page-009.jpeg",
+   "sha256": "7ab7d5f39fd99a9db51932982b63c348cb1761db969c717bff15c4c76e2af7c5",
+   "byte_size": 5825740,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "page",
+    "page_number": 9,
+    "label": null,
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "7ab7d5f39fd99a9db51932982b63c348cb1761db969c717bff15c4c76e2af7c5",
+   "remarks": ""
+  },
+  {
+   "filename": "page-010.jpeg",
+   "sha256": "05f23bc7f739743b5261cb2e294559eb9859aefd3ab462503b449eb6152aaa7f",
+   "byte_size": 6602062,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "page",
+    "page_number": 10,
+    "label": null,
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "05f23bc7f739743b5261cb2e294559eb9859aefd3ab462503b449eb6152aaa7f",
+   "remarks": ""
+  },
+  {
+   "filename": "page-011.jpeg",
+   "sha256": "039e763ee44f8ef91caf5cb0b9645e0fa1fa99bd9c045377d131321da94e5bf2",
+   "byte_size": 6711547,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "page",
+    "page_number": 11,
+    "label": null,
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "039e763ee44f8ef91caf5cb0b9645e0fa1fa99bd9c045377d131321da94e5bf2",
+   "remarks": ""
+  },
+  {
+   "filename": "page-012.jpeg",
+   "sha256": "0360b44d8adc1d3d9abadf7802a73a05243b9c1af72bd500a5edf9c8a114222e",
+   "byte_size": 5663318,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "page",
+    "page_number": 12,
+    "label": null,
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "0360b44d8adc1d3d9abadf7802a73a05243b9c1af72bd500a5edf9c8a114222e",
+   "remarks": ""
+  },
+  {
+   "filename": "page-013.jpeg",
+   "sha256": "b6b0160f2ee11a08ca75a1046cab4a214412c6a4146a3f1959537b207b1f3a94",
+   "byte_size": 5920669,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "page",
+    "page_number": 13,
+    "label": null,
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "b6b0160f2ee11a08ca75a1046cab4a214412c6a4146a3f1959537b207b1f3a94",
+   "remarks": ""
+  },
+  {
+   "filename": "page-014.jpeg",
+   "sha256": "8b9947f791183b5e9a8e49a10e9a224907aa4a4386b6c42ca7a29242a7496d67",
+   "byte_size": 6061437,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "page",
+    "page_number": 14,
+    "label": null,
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "8b9947f791183b5e9a8e49a10e9a224907aa4a4386b6c42ca7a29242a7496d67",
+   "remarks": ""
+  },
+  {
+   "filename": "page-014p1.jpeg",
+   "sha256": "39f455afa9226e026ebb200f23efdb0815e4a966cf69ddeb4408069c145ba50b",
+   "byte_size": 15153083,
+   "width": 5096,
+   "height": 6600,
+   "colorspace": "sRGB",
+   "claimed_identity": {
+    "kind": "plate",
+    "page_number": null,
+    "label": null,
+    "linked_page": 14,
+    "plate_index": 1
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "39f455afa9226e026ebb200f23efdb0815e4a966cf69ddeb4408069c145ba50b",
+   "remarks": ""
+  },
+  {
+   "filename": "page-014p2.jpeg",
+   "sha256": "3bf1d57eca666533e4b45397438a94cf6f3db71ac06dacdf18da3aa7474fac1d",
+   "byte_size": 14448857,
+   "width": 5096,
+   "height": 6600,
+   "colorspace": "sRGB",
+   "claimed_identity": {
+    "kind": "plate",
+    "page_number": null,
+    "label": null,
+    "linked_page": 14,
+    "plate_index": 2
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "3bf1d57eca666533e4b45397438a94cf6f3db71ac06dacdf18da3aa7474fac1d",
+   "remarks": ""
+  },
+  {
+   "filename": "page-015.jpeg",
+   "sha256": "83dc8dd44641a04065d4a5d02137c735ef53e1771809d2d493f91d2d3c6f2bc5",
+   "byte_size": 6706503,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "page",
+    "page_number": 15,
+    "label": null,
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "83dc8dd44641a04065d4a5d02137c735ef53e1771809d2d493f91d2d3c6f2bc5",
+   "remarks": ""
+  },
+  {
+   "filename": "page-016.jpeg",
+   "sha256": "7faa454c79cbe24b3a9f4671a3d871660d8eb9978d0fefcaade4d911ba24dd1a",
+   "byte_size": 6301056,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "page",
+    "page_number": 16,
+    "label": null,
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "7faa454c79cbe24b3a9f4671a3d871660d8eb9978d0fefcaade4d911ba24dd1a",
+   "remarks": ""
+  },
+  {
+   "filename": "page-017.jpeg",
+   "sha256": "4dd1e7d7939acd4ed7b3e7442ae135a912aeaf6e0c721e883234602f74a82e5d",
+   "byte_size": 5308543,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "page",
+    "page_number": 17,
+    "label": null,
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "4dd1e7d7939acd4ed7b3e7442ae135a912aeaf6e0c721e883234602f74a82e5d",
+   "remarks": ""
+  },
+  {
+   "filename": "page-018.jpeg",
+   "sha256": "54a086325b1b2ec83d035ad1c7b6937dda3b5f11009c906817a4ddcd33114e33",
+   "byte_size": 6285307,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "page",
+    "page_number": 18,
+    "label": null,
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "54a086325b1b2ec83d035ad1c7b6937dda3b5f11009c906817a4ddcd33114e33",
+   "remarks": ""
+  },
+  {
+   "filename": "page-019.jpeg",
+   "sha256": "5cd2447d41f6e93698bac8838434e71b7e248a6bc51be3493c5e4b63410d5694",
+   "byte_size": 7020733,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "page",
+    "page_number": 19,
+    "label": null,
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "5cd2447d41f6e93698bac8838434e71b7e248a6bc51be3493c5e4b63410d5694",
+   "remarks": ""
+  },
+  {
+   "filename": "page-020.jpeg",
+   "sha256": "009af24edcbaca35a6f663549aca544ac391baaf318e7197b84f4398be81bcec",
+   "byte_size": 6226622,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "page",
+    "page_number": 20,
+    "label": null,
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "009af24edcbaca35a6f663549aca544ac391baaf318e7197b84f4398be81bcec",
+   "remarks": ""
+  },
+  {
+   "filename": "page-021.jpeg",
+   "sha256": "6e1d9fa0559666461f0e561596e46e5c6c39f456ec401900ff7dfdfa9329e01b",
+   "byte_size": 5449501,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "page",
+    "page_number": 21,
+    "label": null,
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "6e1d9fa0559666461f0e561596e46e5c6c39f456ec401900ff7dfdfa9329e01b",
+   "remarks": ""
+  },
+  {
+   "filename": "page-022.jpeg",
+   "sha256": "ffb75cb9175a8fed6445f98efc860d9d50455856f515a8080f26ec6280ffe1e9",
+   "byte_size": 6196631,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "page",
+    "page_number": 22,
+    "label": null,
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "ffb75cb9175a8fed6445f98efc860d9d50455856f515a8080f26ec6280ffe1e9",
+   "remarks": ""
+  },
+  {
+   "filename": "page-023.jpeg",
+   "sha256": "d9def2a5299ea1521c0f0479f39eb1884d9e0f793871be717a2b97661a187b80",
+   "byte_size": 6982845,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "page",
+    "page_number": 23,
+    "label": null,
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "d9def2a5299ea1521c0f0479f39eb1884d9e0f793871be717a2b97661a187b80",
+   "remarks": ""
+  },
+  {
+   "filename": "page-024.jpeg",
+   "sha256": "64759c9a4dc1be9c131ac97c8fd3dc624851dfd0eac3e4c4543601e9b0057f6d",
+   "byte_size": 6410314,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "page",
+    "page_number": 24,
+    "label": null,
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "64759c9a4dc1be9c131ac97c8fd3dc624851dfd0eac3e4c4543601e9b0057f6d",
+   "remarks": ""
+  },
+  {
+   "filename": "page-025.jpeg",
+   "sha256": "14d7a7c39757c6e744383f1a5d4464505de49a9fc72240a94107c67d3885d801",
+   "byte_size": 5547398,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "page",
+    "page_number": 25,
+    "label": null,
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "14d7a7c39757c6e744383f1a5d4464505de49a9fc72240a94107c67d3885d801",
+   "remarks": ""
+  },
+  {
+   "filename": "page-026.jpeg",
+   "sha256": "f0cb9079ef3580b8eca860b563ef5fa30b1f7d93576a8750dc10bbe705bf8614",
+   "byte_size": 6269244,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "page",
+    "page_number": 26,
+    "label": null,
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "f0cb9079ef3580b8eca860b563ef5fa30b1f7d93576a8750dc10bbe705bf8614",
+   "remarks": ""
+  },
+  {
+   "filename": "page-027.jpeg",
+   "sha256": "6e30988ac62de346fc6e40d6f046369b5630f4b73ad8ddc484921c2a850bd26c",
+   "byte_size": 6325249,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "page",
+    "page_number": 27,
+    "label": null,
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "6e30988ac62de346fc6e40d6f046369b5630f4b73ad8ddc484921c2a850bd26c",
+   "remarks": ""
+  },
+  {
+   "filename": "page-028.jpeg",
+   "sha256": "6b9bd0ee2f0fc41ea5cacf978b8ccb8cb4adebbcce95f8c3acc4af0cbf1057dd",
+   "byte_size": 6343895,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "page",
+    "page_number": 28,
+    "label": null,
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "6b9bd0ee2f0fc41ea5cacf978b8ccb8cb4adebbcce95f8c3acc4af0cbf1057dd",
+   "remarks": ""
+  },
+  {
+   "filename": "page-029.jpeg",
+   "sha256": "8d1fd776efc722befe10def5c9b1802aa2ed4fa8cdc451ff268d0d04aa217a04",
+   "byte_size": 5303136,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "page",
+    "page_number": 29,
+    "label": null,
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "8d1fd776efc722befe10def5c9b1802aa2ed4fa8cdc451ff268d0d04aa217a04",
+   "remarks": ""
+  },
+  {
+   "filename": "page-030.jpeg",
+   "sha256": "87f96eae4c70dfb510526b2c9046e1a8674beacb321647a5da17ec616c2b0426",
+   "byte_size": 6825435,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "page",
+    "page_number": 30,
+    "label": null,
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "87f96eae4c70dfb510526b2c9046e1a8674beacb321647a5da17ec616c2b0426",
+   "remarks": ""
+  },
+  {
+   "filename": "page-030p1.jpeg",
+   "sha256": "45f971be4d50e7d9e3a4cc0488c9757346d72737abcd5203209f2dc1beac5529",
+   "byte_size": 11361784,
+   "width": 5096,
+   "height": 6600,
+   "colorspace": "sRGB",
+   "claimed_identity": {
+    "kind": "plate",
+    "page_number": null,
+    "label": null,
+    "linked_page": 30,
+    "plate_index": 1
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "45f971be4d50e7d9e3a4cc0488c9757346d72737abcd5203209f2dc1beac5529",
+   "remarks": ""
+  },
+  {
+   "filename": "page-030p2.jpeg",
+   "sha256": "3e42865d474d41f5a475bfdf84fd2610dd60bfe174b6d30d7a2df945bc12a020",
+   "byte_size": 8985237,
+   "width": 5096,
+   "height": 6600,
+   "colorspace": "sRGB",
+   "claimed_identity": {
+    "kind": "plate",
+    "page_number": null,
+    "label": null,
+    "linked_page": 30,
+    "plate_index": 2
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "3e42865d474d41f5a475bfdf84fd2610dd60bfe174b6d30d7a2df945bc12a020",
+   "remarks": ""
+  },
+  {
+   "filename": "page-031.jpeg",
+   "sha256": "823ee948e65f058554811f63829a82f4a15a264396da7a513967cd8e8603aa7f",
+   "byte_size": 6934102,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "page",
+    "page_number": 31,
+    "label": null,
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "823ee948e65f058554811f63829a82f4a15a264396da7a513967cd8e8603aa7f",
+   "remarks": ""
+  },
+  {
+   "filename": "page-032.jpeg",
+   "sha256": "a45ddfcd76f62e195769979d28de8435029e9faae7d5bb018f84b0ed7ddeae87",
+   "byte_size": 5279802,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "page",
+    "page_number": 32,
+    "label": null,
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "a45ddfcd76f62e195769979d28de8435029e9faae7d5bb018f84b0ed7ddeae87",
+   "remarks": ""
+  },
+  {
+   "filename": "page-033.jpeg",
+   "sha256": "6d0c26c6d085b171aac25071e4e69a6be1f958533faa53c19c6ef27883966c4b",
+   "byte_size": 6395099,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "page",
+    "page_number": 33,
+    "label": null,
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "6d0c26c6d085b171aac25071e4e69a6be1f958533faa53c19c6ef27883966c4b",
+   "remarks": ""
+  },
+  {
+   "filename": "page-034.jpeg",
+   "sha256": "dd2d155ccb8c646762da26948b469b1ac03355bdad1b74715e58f62e6e2484f5",
+   "byte_size": 6403607,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "page",
+    "page_number": 34,
+    "label": null,
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "dd2d155ccb8c646762da26948b469b1ac03355bdad1b74715e58f62e6e2484f5",
+   "remarks": ""
+  },
+  {
+   "filename": "page-035.jpeg",
+   "sha256": "78f44e6352209c516a2d0f7c239629624e74026e6c08a3266b28fa55f6f86381",
+   "byte_size": 7062744,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "page",
+    "page_number": 35,
+    "label": null,
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "78f44e6352209c516a2d0f7c239629624e74026e6c08a3266b28fa55f6f86381",
+   "remarks": ""
+  },
+  {
+   "filename": "page-036.jpeg",
+   "sha256": "035d2390de4ee129e019a644af06b4e2bffab719a25cfe13fe76ae2e55e901de",
+   "byte_size": 5617217,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "page",
+    "page_number": 36,
+    "label": null,
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "035d2390de4ee129e019a644af06b4e2bffab719a25cfe13fe76ae2e55e901de",
+   "remarks": ""
+  },
+  {
+   "filename": "page-037.jpeg",
+   "sha256": "c3cba4daa58b2e6f8e103dbd195230f51bb272bfee76b8d2973c123d08551c63",
+   "byte_size": 5319400,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "page",
+    "page_number": 37,
+    "label": null,
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "c3cba4daa58b2e6f8e103dbd195230f51bb272bfee76b8d2973c123d08551c63",
+   "remarks": ""
+  },
+  {
+   "filename": "page-038.jpeg",
+   "sha256": "9ee3acfa0c7a999b3c512299cdfd7467eead6e57ca1069975b2f9ce560b635d8",
+   "byte_size": 6877051,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "page",
+    "page_number": 38,
+    "label": null,
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "9ee3acfa0c7a999b3c512299cdfd7467eead6e57ca1069975b2f9ce560b635d8",
+   "remarks": ""
+  },
+  {
+   "filename": "page-038p1.jpeg",
+   "sha256": "2c160c08ded8769e630410d2b12115f8e64de3767603de9a9e6c5db185a1fb0e",
+   "byte_size": 9487359,
+   "width": 5096,
+   "height": 6600,
+   "colorspace": "sRGB",
+   "claimed_identity": {
+    "kind": "plate",
+    "page_number": null,
+    "label": null,
+    "linked_page": 38,
+    "plate_index": 1
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "2c160c08ded8769e630410d2b12115f8e64de3767603de9a9e6c5db185a1fb0e",
+   "remarks": ""
+  },
+  {
+   "filename": "page-038p2.jpeg",
+   "sha256": "8fa89c57351d7ce05f1bb08c426a01852cbcec99d689707bc48588a042131e6f",
+   "byte_size": 11221278,
+   "width": 5096,
+   "height": 6600,
+   "colorspace": "sRGB",
+   "claimed_identity": {
+    "kind": "plate",
+    "page_number": null,
+    "label": null,
+    "linked_page": 38,
+    "plate_index": 2
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "8fa89c57351d7ce05f1bb08c426a01852cbcec99d689707bc48588a042131e6f",
+   "remarks": ""
+  },
+  {
+   "filename": "page-039.jpeg",
+   "sha256": "dcd264f1d8bae2ee8af52b7a06d9abf60cc76dea91ac689c481e390b32a6c9bf",
+   "byte_size": 5859627,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "page",
+    "page_number": 39,
+    "label": null,
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "dcd264f1d8bae2ee8af52b7a06d9abf60cc76dea91ac689c481e390b32a6c9bf",
+   "remarks": ""
+  },
+  {
+   "filename": "page-040.jpeg",
+   "sha256": "7a9798e409f1a2c7c63a9bc58df2922938d47a7dedaa995c1e53a8beb1d8cbdd",
+   "byte_size": 6278882,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "page",
+    "page_number": 40,
+    "label": null,
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "7a9798e409f1a2c7c63a9bc58df2922938d47a7dedaa995c1e53a8beb1d8cbdd",
+   "remarks": ""
+  },
+  {
+   "filename": "page-041.jpeg",
+   "sha256": "3c305e17016a3f4b0c27dc96a86ebf1a185f18958b73c65802ee49b56b27930d",
+   "byte_size": 6363643,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "page",
+    "page_number": 41,
+    "label": null,
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "3c305e17016a3f4b0c27dc96a86ebf1a185f18958b73c65802ee49b56b27930d",
+   "remarks": ""
+  },
+  {
+   "filename": "page-042.jpeg",
+   "sha256": "be226bb6b855a576430ce343d47d10e4412c8ff6db7eaad8963fe72fb0eb3b62",
+   "byte_size": 7092791,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "page",
+    "page_number": 42,
+    "label": null,
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "be226bb6b855a576430ce343d47d10e4412c8ff6db7eaad8963fe72fb0eb3b62",
+   "remarks": ""
+  },
+  {
+   "filename": "page-043.jpeg",
+   "sha256": "84f21006088c02d5657f1c22d83d6114e93b51db6263f9414696e41b58d25fe9",
+   "byte_size": 6167084,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "page",
+    "page_number": 43,
+    "label": null,
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "84f21006088c02d5657f1c22d83d6114e93b51db6263f9414696e41b58d25fe9",
+   "remarks": ""
+  },
+  {
+   "filename": "page-044.jpeg",
+   "sha256": "c226f8b9bc242195957f4b1a6875832f902d7db14f6ed10711d7f670424190c2",
+   "byte_size": 5271123,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "page",
+    "page_number": 44,
+    "label": null,
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "c226f8b9bc242195957f4b1a6875832f902d7db14f6ed10711d7f670424190c2",
+   "remarks": ""
+  },
+  {
+   "filename": "page-045.jpeg",
+   "sha256": "9c36aac4c728c92740b5f8d2d1d44e9ba4b1ff3e6d47563b91e09fa20c07ccc2",
+   "byte_size": 6319725,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "page",
+    "page_number": 45,
+    "label": null,
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "9c36aac4c728c92740b5f8d2d1d44e9ba4b1ff3e6d47563b91e09fa20c07ccc2",
+   "remarks": ""
+  },
+  {
+   "filename": "page-046.jpeg",
+   "sha256": "b7d629cf4b0abba2907b8ec8d242a1bcc8d5f56b9b8981a888ebd62304531c55",
+   "byte_size": 6772274,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "page",
+    "page_number": 46,
+    "label": null,
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "b7d629cf4b0abba2907b8ec8d242a1bcc8d5f56b9b8981a888ebd62304531c55",
+   "remarks": ""
+  },
+  {
+   "filename": "page-046p1.jpeg",
+   "sha256": "04cb63dadae8c40da9a688520a783c84c8c7a450a7196b29f8eb81e4408b1b33",
+   "byte_size": 13703378,
+   "width": 5096,
+   "height": 6600,
+   "colorspace": "sRGB",
+   "claimed_identity": {
+    "kind": "plate",
+    "page_number": null,
+    "label": null,
+    "linked_page": 46,
+    "plate_index": 1
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "04cb63dadae8c40da9a688520a783c84c8c7a450a7196b29f8eb81e4408b1b33",
+   "remarks": ""
+  },
+  {
+   "filename": "page-046p2.jpeg",
+   "sha256": "1d4a17a9c5bffd86f03e49bd15fd9a75bc6fca74fe0e58a2abfe0a6be14168e8",
+   "byte_size": 13854893,
+   "width": 5096,
+   "height": 6600,
+   "colorspace": "sRGB",
+   "claimed_identity": {
+    "kind": "plate",
+    "page_number": null,
+    "label": null,
+    "linked_page": 46,
+    "plate_index": 2
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "1d4a17a9c5bffd86f03e49bd15fd9a75bc6fca74fe0e58a2abfe0a6be14168e8",
+   "remarks": ""
+  },
+  {
+   "filename": "page-047.jpeg",
+   "sha256": "6d5755f87a3df871b3c61edc7f84733cfc160cfb8b5ccff5fda476472c54fafc",
+   "byte_size": 6733573,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "page",
+    "page_number": 47,
+    "label": null,
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "6d5755f87a3df871b3c61edc7f84733cfc160cfb8b5ccff5fda476472c54fafc",
+   "remarks": ""
+  },
+  {
+   "filename": "page-048.jpeg",
+   "sha256": "c2bb702852a61182ef88dca7fed852d7e1fa7225469c54d78d1ab2e37dbb0322",
+   "byte_size": 6373431,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "page",
+    "page_number": 48,
+    "label": null,
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "c2bb702852a61182ef88dca7fed852d7e1fa7225469c54d78d1ab2e37dbb0322",
+   "remarks": ""
+  },
+  {
+   "filename": "page-049.jpeg",
+   "sha256": "17abe66ea9f70502f622cdf6bf63b09c584f7182f33b4a822ffeffb7571261d0",
+   "byte_size": 5164971,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "page",
+    "page_number": 49,
+    "label": null,
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "17abe66ea9f70502f622cdf6bf63b09c584f7182f33b4a822ffeffb7571261d0",
+   "remarks": ""
+  },
+  {
+   "filename": "page-050.jpeg",
+   "sha256": "489773237aba6ac1be0571ea8c8105c35b291c3eda6b9bbfe0ab6bb6e1a35de7",
+   "byte_size": 6981686,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "page",
+    "page_number": 50,
+    "label": null,
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "489773237aba6ac1be0571ea8c8105c35b291c3eda6b9bbfe0ab6bb6e1a35de7",
+   "remarks": ""
+  },
+  {
+   "filename": "page-051.jpeg",
+   "sha256": "5268a308fe0fa3644cf23d47ecf0e58f8a6de1fa117d7727ac9e29218394c812",
+   "byte_size": 5947221,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "page",
+    "page_number": 51,
+    "label": null,
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "5268a308fe0fa3644cf23d47ecf0e58f8a6de1fa117d7727ac9e29218394c812",
+   "remarks": ""
+  },
+  {
+   "filename": "page-052.jpeg",
+   "sha256": "531d99490c6ccaf4847689e2fc0b353af2d344a4dc3f56547fbb0c2fe0b39ca7",
+   "byte_size": 5543383,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "page",
+    "page_number": 52,
+    "label": null,
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "531d99490c6ccaf4847689e2fc0b353af2d344a4dc3f56547fbb0c2fe0b39ca7",
+   "remarks": ""
+  },
+  {
+   "filename": "page-053.jpeg",
+   "sha256": "f697bad0c814167edf72c10828ad7bae9014cc21fb511fe259b1a32900bbab63",
+   "byte_size": 6354487,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "page",
+    "page_number": 53,
+    "label": null,
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "f697bad0c814167edf72c10828ad7bae9014cc21fb511fe259b1a32900bbab63",
+   "remarks": ""
+  },
+  {
+   "filename": "page-054.jpeg",
+   "sha256": "28e71f7c95f18fd1115b33d0d49d7c9f5bc2d6f678aac301c1c1b94c6e3cf3cc",
+   "byte_size": 6531539,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "page",
+    "page_number": 54,
+    "label": null,
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "28e71f7c95f18fd1115b33d0d49d7c9f5bc2d6f678aac301c1c1b94c6e3cf3cc",
+   "remarks": ""
+  },
+  {
+   "filename": "page-055.jpeg",
+   "sha256": "8e4a9c49b178da4245827b0eeabd8457d126c2082329ba9a9c13838fb8925fa2",
+   "byte_size": 7018384,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "page",
+    "page_number": 55,
+    "label": null,
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "8e4a9c49b178da4245827b0eeabd8457d126c2082329ba9a9c13838fb8925fa2",
+   "remarks": ""
+  },
+  {
+   "filename": "page-056.jpeg",
+   "sha256": "3ab32258915ca7d29cd818f32c7f99c2a21e6f83237fa6f42b52089aabda7c94",
+   "byte_size": 5802397,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "page",
+    "page_number": 56,
+    "label": null,
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "3ab32258915ca7d29cd818f32c7f99c2a21e6f83237fa6f42b52089aabda7c94",
+   "remarks": ""
+  },
+  {
+   "filename": "page-057.jpeg",
+   "sha256": "c459a19e1f3183cbae59b5b408aeedb8579a3d71f5696705dcdbb5babd0eff4c",
+   "byte_size": 5518133,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "page",
+    "page_number": 57,
+    "label": null,
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "c459a19e1f3183cbae59b5b408aeedb8579a3d71f5696705dcdbb5babd0eff4c",
+   "remarks": ""
+  },
+  {
+   "filename": "page-058.jpeg",
+   "sha256": "688ecfdce7dccd50ee2d35cdd59ee4ab29ab39d7970fd9c9d4c055eb97cfdf3f",
+   "byte_size": 6912788,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "page",
+    "page_number": 58,
+    "label": null,
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "688ecfdce7dccd50ee2d35cdd59ee4ab29ab39d7970fd9c9d4c055eb97cfdf3f",
+   "remarks": ""
+  },
+  {
+   "filename": "page-059.jpeg",
+   "sha256": "828d6740449813e7cdd9f8d72ba7dc6ac80b8a273d3b752a121f721f6f86114f",
+   "byte_size": 6167061,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "page",
+    "page_number": 59,
+    "label": null,
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "828d6740449813e7cdd9f8d72ba7dc6ac80b8a273d3b752a121f721f6f86114f",
+   "remarks": ""
+  },
+  {
+   "filename": "page-060.jpeg",
+   "sha256": "56791cbd1518d7eb58b4cc602639e208c838d503764bbf92b0ee8ee0ba5ca2d9",
+   "byte_size": 5532857,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "page",
+    "page_number": 60,
+    "label": null,
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "56791cbd1518d7eb58b4cc602639e208c838d503764bbf92b0ee8ee0ba5ca2d9",
+   "remarks": ""
+  },
+  {
+   "filename": "page-061.jpeg",
+   "sha256": "19431be196fab6c5c9123e84732331cc34a94b2ec72a0a999111941673e1be70",
+   "byte_size": 6526496,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "page",
+    "page_number": 61,
+    "label": null,
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "19431be196fab6c5c9123e84732331cc34a94b2ec72a0a999111941673e1be70",
+   "remarks": ""
+  },
+  {
+   "filename": "page-062.jpeg",
+   "sha256": "de99950d19ea342cb0dd5277c57cbfe8dbe95d9c48a7a75c4ad71ddb769b9c33",
+   "byte_size": 6150615,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "page",
+    "page_number": 62,
+    "label": null,
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "de99950d19ea342cb0dd5277c57cbfe8dbe95d9c48a7a75c4ad71ddb769b9c33",
+   "remarks": ""
+  },
+  {
+   "filename": "page-062p1.jpeg",
+   "sha256": "11c69342a76db5b8401343dcb6504f8a15dfe2f65db8931eb1666b878c147ba5",
+   "byte_size": 10726279,
+   "width": 5096,
+   "height": 6600,
+   "colorspace": "sRGB",
+   "claimed_identity": {
+    "kind": "plate",
+    "page_number": null,
+    "label": null,
+    "linked_page": 62,
+    "plate_index": 1
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "11c69342a76db5b8401343dcb6504f8a15dfe2f65db8931eb1666b878c147ba5",
+   "remarks": ""
+  },
+  {
+   "filename": "page-062p2.jpeg",
+   "sha256": "203f46616245032d47a21c2d22fe9695c59f011243f1bc3d88ba13a025b6d11a",
+   "byte_size": 13083308,
+   "width": 5096,
+   "height": 6600,
+   "colorspace": "sRGB",
+   "claimed_identity": {
+    "kind": "plate",
+    "page_number": null,
+    "label": null,
+    "linked_page": 62,
+    "plate_index": 2
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "203f46616245032d47a21c2d22fe9695c59f011243f1bc3d88ba13a025b6d11a",
+   "remarks": ""
+  },
+  {
+   "filename": "page-063.jpeg",
+   "sha256": "40e1904a479bab65899d7fdf54782d352f5fd8eeb7505ecca1dcc283d29f88aa",
+   "byte_size": 6705738,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "page",
+    "page_number": 63,
+    "label": null,
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "40e1904a479bab65899d7fdf54782d352f5fd8eeb7505ecca1dcc283d29f88aa",
+   "remarks": ""
+  },
+  {
+   "filename": "page-064.jpeg",
+   "sha256": "72fbd1c37e0f7233cfe2a170d651a60fc6017d20745891e3acdd2b54f47f5e4e",
+   "byte_size": 5815757,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "page",
+    "page_number": 64,
+    "label": null,
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "72fbd1c37e0f7233cfe2a170d651a60fc6017d20745891e3acdd2b54f47f5e4e",
+   "remarks": ""
+  },
+  {
+   "filename": "page-065 1.jpeg",
+   "sha256": "0eb1672a167dbdfdc6d4678b13352b94dc0232461578475ef1f19f6228d19786",
+   "byte_size": 14307,
+   "width": 192,
+   "height": 152,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "unrecognized",
+    "page_number": null,
+    "label": null,
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [
+    "too_small",
+    "unparseable_filename"
+   ],
+   "review_status": "unreviewed",
+   "review_checksum": "0eb1672a167dbdfdc6d4678b13352b94dc0232461578475ef1f19f6228d19786",
+   "remarks": ""
+  },
+  {
+   "filename": "page-065.jpeg",
+   "sha256": "e80503d0d5c07edcc5e85ad61ac73cfe0e76d60a74d9ab9e58d8cb149a9fc6d4",
+   "byte_size": 6637658,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "page",
+    "page_number": 65,
+    "label": null,
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "e80503d0d5c07edcc5e85ad61ac73cfe0e76d60a74d9ab9e58d8cb149a9fc6d4",
+   "remarks": ""
+  },
+  {
+   "filename": "page-066.jpeg",
+   "sha256": "77eca788e7ac4a8489e96a9d3f718790f98c3f99226b31d837d9b83f5d2bcb1e",
+   "byte_size": 6653871,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "page",
+    "page_number": 66,
+    "label": null,
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "77eca788e7ac4a8489e96a9d3f718790f98c3f99226b31d837d9b83f5d2bcb1e",
+   "remarks": ""
+  },
+  {
+   "filename": "page-067.jpeg",
+   "sha256": "9513998cd6466060067e15fcf14c34637ccf8dc6419adc109073fbc659ce578f",
+   "byte_size": 6870633,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "page",
+    "page_number": 67,
+    "label": null,
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "9513998cd6466060067e15fcf14c34637ccf8dc6419adc109073fbc659ce578f",
+   "remarks": ""
+  },
+  {
+   "filename": "page-068.jpeg",
+   "sha256": "44bc9233b07250efe07d6058ad9b45bd3df4f11f163a66e6db59903fcd84c0e9",
+   "byte_size": 6398517,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "page",
+    "page_number": 68,
+    "label": null,
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "44bc9233b07250efe07d6058ad9b45bd3df4f11f163a66e6db59903fcd84c0e9",
+   "remarks": ""
+  },
+  {
+   "filename": "page-069.jpeg",
+   "sha256": "cad1b747a05f81b87c46e6b2dc49cf7373d549e14fbf11b6d7e0097bd700bda9",
+   "byte_size": 5772607,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "page",
+    "page_number": 69,
+    "label": null,
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "cad1b747a05f81b87c46e6b2dc49cf7373d549e14fbf11b6d7e0097bd700bda9",
+   "remarks": ""
+  },
+  {
+   "filename": "page-070.jpeg",
+   "sha256": "b60e25fe3762ef2477465e746440591bcd8fd2e0593453eb0868f4ebde70eb2f",
+   "byte_size": 6750051,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "page",
+    "page_number": 70,
+    "label": null,
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "b60e25fe3762ef2477465e746440591bcd8fd2e0593453eb0868f4ebde70eb2f",
+   "remarks": ""
+  },
+  {
+   "filename": "page-070p1.jpeg",
+   "sha256": "fdc6740a78ceb3ea903965510d2f4873dcdfb5503158bfaab76953cf6f62e7a1",
+   "byte_size": 9399806,
+   "width": 5096,
+   "height": 6600,
+   "colorspace": "sRGB",
+   "claimed_identity": {
+    "kind": "plate",
+    "page_number": null,
+    "label": null,
+    "linked_page": 70,
+    "plate_index": 1
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "fdc6740a78ceb3ea903965510d2f4873dcdfb5503158bfaab76953cf6f62e7a1",
+   "remarks": ""
+  },
+  {
+   "filename": "page-070p2.jpeg",
+   "sha256": "29b1f075df6fd2aa198113645dfe65b05b6cf66dbfc1c1208f9390253405b314",
+   "byte_size": 11794394,
+   "width": 5096,
+   "height": 6600,
+   "colorspace": "sRGB",
+   "claimed_identity": {
+    "kind": "plate",
+    "page_number": null,
+    "label": null,
+    "linked_page": 70,
+    "plate_index": 2
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "29b1f075df6fd2aa198113645dfe65b05b6cf66dbfc1c1208f9390253405b314",
+   "remarks": ""
+  },
+  {
+   "filename": "page-071.jpeg",
+   "sha256": "b75e274bd7a2d01bea30993e161cca4781ac7a4e370af67ec3b5e34770d2b784",
+   "byte_size": 6199579,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "page",
+    "page_number": 71,
+    "label": null,
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "b75e274bd7a2d01bea30993e161cca4781ac7a4e370af67ec3b5e34770d2b784",
+   "remarks": ""
+  },
+  {
+   "filename": "page-072.jpeg",
+   "sha256": "a623c1e6087342023fef82991436301925d7a5fa2bb9763cb2adf0abc7b8072e",
+   "byte_size": 6089207,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "page",
+    "page_number": 72,
+    "label": null,
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "a623c1e6087342023fef82991436301925d7a5fa2bb9763cb2adf0abc7b8072e",
+   "remarks": ""
+  },
+  {
+   "filename": "page-073.jpeg",
+   "sha256": "3aca0398238c9372589a6416d1dec1960d2df5f48eaa7b1e6f1bf49aee1e7584",
+   "byte_size": 6292159,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "page",
+    "page_number": 73,
+    "label": null,
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "3aca0398238c9372589a6416d1dec1960d2df5f48eaa7b1e6f1bf49aee1e7584",
+   "remarks": ""
+  },
+  {
+   "filename": "page-074.jpeg",
+   "sha256": "f72652417f35410f35320016399f57ee3c7290457e16b1a596a69717a622fc3a",
+   "byte_size": 6228406,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "page",
+    "page_number": 74,
+    "label": null,
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "f72652417f35410f35320016399f57ee3c7290457e16b1a596a69717a622fc3a",
+   "remarks": ""
+  },
+  {
+   "filename": "page-075.jpeg",
+   "sha256": "5daad713c5cbb44b35746a850b65f5864f3256f1ad1cf98ce96c3b3636852254",
+   "byte_size": 7077303,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "page",
+    "page_number": 75,
+    "label": null,
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "5daad713c5cbb44b35746a850b65f5864f3256f1ad1cf98ce96c3b3636852254",
+   "remarks": ""
+  },
+  {
+   "filename": "page-076 1.jpeg",
+   "sha256": "1ed7906e4e2fd0a8ba83775702c76e4d551ec82c91e2fba227d4edf0b91cea00",
+   "byte_size": 5647507,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "unrecognized",
+    "page_number": null,
+    "label": null,
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [
+    "unparseable_filename"
+   ],
+   "review_status": "unreviewed",
+   "review_checksum": "1ed7906e4e2fd0a8ba83775702c76e4d551ec82c91e2fba227d4edf0b91cea00",
+   "remarks": ""
+  },
+  {
+   "filename": "page-076.jpeg",
+   "sha256": "653e785b9d7caf044b7c544a0681780a02068b8dfbe2ad7a46760cd510814094",
+   "byte_size": 5014170,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "page",
+    "page_number": 76,
+    "label": null,
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "653e785b9d7caf044b7c544a0681780a02068b8dfbe2ad7a46760cd510814094",
+   "remarks": ""
+  },
+  {
+   "filename": "page-077.jpeg",
+   "sha256": "5a48fc72f77f26d4cf59b295dd3be7b9ce1a4d10b59ea34904f9ffc96b2aa17a",
+   "byte_size": 5722485,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "page",
+    "page_number": 77,
+    "label": null,
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "5a48fc72f77f26d4cf59b295dd3be7b9ce1a4d10b59ea34904f9ffc96b2aa17a",
+   "remarks": ""
+  },
+  {
+   "filename": "page-078.jpeg",
+   "sha256": "0dc54a101b6224acd9215f17fe26bf98e4b2f2b0a245c0e1276cba0d6df33a39",
+   "byte_size": 7003428,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "page",
+    "page_number": 78,
+    "label": null,
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "0dc54a101b6224acd9215f17fe26bf98e4b2f2b0a245c0e1276cba0d6df33a39",
+   "remarks": ""
+  },
+  {
+   "filename": "page-079.jpeg",
+   "sha256": "ecf176069e91cd65e9e3908e16f6c37724c9f66672ec828b6871d101d15d036b",
+   "byte_size": 6989639,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "page",
+    "page_number": 79,
+    "label": null,
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "ecf176069e91cd65e9e3908e16f6c37724c9f66672ec828b6871d101d15d036b",
+   "remarks": ""
+  },
+  {
+   "filename": "page-080.jpeg",
+   "sha256": "034955d35eedd4085b35bb606c0f1028b387c61c9fad6d773216f6f1fbbf20bd",
+   "byte_size": 5930295,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "page",
+    "page_number": 80,
+    "label": null,
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "034955d35eedd4085b35bb606c0f1028b387c61c9fad6d773216f6f1fbbf20bd",
+   "remarks": ""
+  },
+  {
+   "filename": "page-081.jpeg",
+   "sha256": "f1afcbfb2fae742d6aea61bf8329e39adc1b16d495890bc29aa86c715cc6a4e6",
+   "byte_size": 6383126,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "page",
+    "page_number": 81,
+    "label": null,
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "f1afcbfb2fae742d6aea61bf8329e39adc1b16d495890bc29aa86c715cc6a4e6",
+   "remarks": ""
+  },
+  {
+   "filename": "page-082.jpeg",
+   "sha256": "fa12b6f4d9060005914a89d2d0805e8f57cc5ced324517e961ed293c1e80a8f2",
+   "byte_size": 6365164,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "page",
+    "page_number": 82,
+    "label": null,
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "fa12b6f4d9060005914a89d2d0805e8f57cc5ced324517e961ed293c1e80a8f2",
+   "remarks": ""
+  },
+  {
+   "filename": "page-083.jpeg",
+   "sha256": "092488f851b8cda1217005796bed6719433c9c1cca5a76a0c76249db3e232c75",
+   "byte_size": 6854631,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "page",
+    "page_number": 83,
+    "label": null,
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "092488f851b8cda1217005796bed6719433c9c1cca5a76a0c76249db3e232c75",
+   "remarks": ""
+  },
+  {
+   "filename": "page-084.jpeg",
+   "sha256": "4d9683716b7f37e50a60d9ac06030f930e0cbb9056ff30a1d8b3d4358b43153e",
+   "byte_size": 5764336,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "page",
+    "page_number": 84,
+    "label": null,
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "4d9683716b7f37e50a60d9ac06030f930e0cbb9056ff30a1d8b3d4358b43153e",
+   "remarks": ""
+  },
+  {
+   "filename": "page-085.jpeg",
+   "sha256": "cf7e75a0bda91e83f17a4171416be82fe6a8d6967dea021445a2a54b2febcccf",
+   "byte_size": 6358582,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "page",
+    "page_number": 85,
+    "label": null,
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "cf7e75a0bda91e83f17a4171416be82fe6a8d6967dea021445a2a54b2febcccf",
+   "remarks": ""
+  },
+  {
+   "filename": "page-086.jpeg",
+   "sha256": "8d45c21e2c88f0332160c18176db3543c91bd51393fd1472da019e79a7c34637",
+   "byte_size": 5995204,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "page",
+    "page_number": 86,
+    "label": null,
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "8d45c21e2c88f0332160c18176db3543c91bd51393fd1472da019e79a7c34637",
+   "remarks": ""
+  },
+  {
+   "filename": "page-086p1.jpeg",
+   "sha256": "26b728e838a7d2ebaae6a19ad2958887c5c4e9af4aae3b8107859f8f048e4af1",
+   "byte_size": 12667593,
+   "width": 5096,
+   "height": 6600,
+   "colorspace": "sRGB",
+   "claimed_identity": {
+    "kind": "plate",
+    "page_number": null,
+    "label": null,
+    "linked_page": 86,
+    "plate_index": 1
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "26b728e838a7d2ebaae6a19ad2958887c5c4e9af4aae3b8107859f8f048e4af1",
+   "remarks": ""
+  },
+  {
+   "filename": "page-086p2.jpeg",
+   "sha256": "581ddea0a7adc287b1cee4d3d4b0ff118c13fe88af51981bf967e3b39225f527",
+   "byte_size": 13435064,
+   "width": 5096,
+   "height": 6600,
+   "colorspace": "sRGB",
+   "claimed_identity": {
+    "kind": "plate",
+    "page_number": null,
+    "label": null,
+    "linked_page": 86,
+    "plate_index": 2
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "581ddea0a7adc287b1cee4d3d4b0ff118c13fe88af51981bf967e3b39225f527",
+   "remarks": ""
+  },
+  {
+   "filename": "page-087.jpeg",
+   "sha256": "fa02ac92b1e036ae0e457b9a099da9d6f26d3dc4afe5305d5fded37d4e55f9b2",
+   "byte_size": 6635420,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "page",
+    "page_number": 87,
+    "label": null,
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "fa02ac92b1e036ae0e457b9a099da9d6f26d3dc4afe5305d5fded37d4e55f9b2",
+   "remarks": ""
+  },
+  {
+   "filename": "page-088.jpeg",
+   "sha256": "bd78668f806f85bf76ea66fa055ef679cfe69f9dc363c25ffe756df718157244",
+   "byte_size": 5718850,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "page",
+    "page_number": 88,
+    "label": null,
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "bd78668f806f85bf76ea66fa055ef679cfe69f9dc363c25ffe756df718157244",
+   "remarks": ""
+  },
+  {
+   "filename": "page-089.jpeg",
+   "sha256": "9c840eaf4c340f94e993288155b778be7dd30a3c33a65e5d19a3816d883318db",
+   "byte_size": 6182466,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "page",
+    "page_number": 89,
+    "label": null,
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "9c840eaf4c340f94e993288155b778be7dd30a3c33a65e5d19a3816d883318db",
+   "remarks": ""
+  },
+  {
+   "filename": "page-090.jpeg",
+   "sha256": "7c1be961372f451da05c356aae463298d2c649496c8ae948fb92949654f1aafa",
+   "byte_size": 6986899,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "page",
+    "page_number": 90,
+    "label": null,
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "7c1be961372f451da05c356aae463298d2c649496c8ae948fb92949654f1aafa",
+   "remarks": ""
+  },
+  {
+   "filename": "page-091.jpeg",
+   "sha256": "3bca950479bad09c076a219bb8e3db16539213f585f1308035229fda687b691b",
+   "byte_size": 6512549,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "page",
+    "page_number": 91,
+    "label": null,
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "3bca950479bad09c076a219bb8e3db16539213f585f1308035229fda687b691b",
+   "remarks": ""
+  },
+  {
+   "filename": "page-092.jpeg",
+   "sha256": "84e379b5dc3c1a74f8e1f5ab9252c3514dee2da9ac75b77f8a1c15b628a40b33",
+   "byte_size": 6835356,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "page",
+    "page_number": 92,
+    "label": null,
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "84e379b5dc3c1a74f8e1f5ab9252c3514dee2da9ac75b77f8a1c15b628a40b33",
+   "remarks": ""
+  },
+  {
+   "filename": "page-093.jpeg",
+   "sha256": "369b5665290320b9b8185abfa5f923d3a4de4f6c84b597e28d9a4ce732390044",
+   "byte_size": 5711301,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "page",
+    "page_number": 93,
+    "label": null,
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "369b5665290320b9b8185abfa5f923d3a4de4f6c84b597e28d9a4ce732390044",
+   "remarks": ""
+  },
+  {
+   "filename": "page-094.jpeg",
+   "sha256": "0852a2563b5fd0f93425f94b96604e84bdfa4eb3349575b6f8df55a91196f857",
+   "byte_size": 6975951,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "page",
+    "page_number": 94,
+    "label": null,
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "0852a2563b5fd0f93425f94b96604e84bdfa4eb3349575b6f8df55a91196f857",
+   "remarks": ""
+  },
+  {
+   "filename": "page-095.jpeg",
+   "sha256": "70fda23a179d93d841335e9aa5c5fa9a9cbcaa6d3afab2ac1862acebc8b83665",
+   "byte_size": 6339168,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "page",
+    "page_number": 95,
+    "label": null,
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "70fda23a179d93d841335e9aa5c5fa9a9cbcaa6d3afab2ac1862acebc8b83665",
+   "remarks": ""
+  },
+  {
+   "filename": "page-096.jpeg",
+   "sha256": "f374c5a6cd62e6abc7336ff4602af29fbc34b11b452e7182ed2010ada26321aa",
+   "byte_size": 6412252,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "page",
+    "page_number": 96,
+    "label": null,
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "f374c5a6cd62e6abc7336ff4602af29fbc34b11b452e7182ed2010ada26321aa",
+   "remarks": ""
+  },
+  {
+   "filename": "page-097.jpeg",
+   "sha256": "bbc6de373971d5180a18f1fd22fc6e50014af9e8a39495f80c3e6a70a47a2a34",
+   "byte_size": 5732724,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "page",
+    "page_number": 97,
+    "label": null,
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "bbc6de373971d5180a18f1fd22fc6e50014af9e8a39495f80c3e6a70a47a2a34",
+   "remarks": ""
+  },
+  {
+   "filename": "page-098.jpeg",
+   "sha256": "0f12838400a8e58a25e03aca7e7409a863e54f0a7e3ceb67a1e58105bd3cade4",
+   "byte_size": 6919175,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "page",
+    "page_number": 98,
+    "label": null,
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "0f12838400a8e58a25e03aca7e7409a863e54f0a7e3ceb67a1e58105bd3cade4",
+   "remarks": ""
+  },
+  {
+   "filename": "page-099.jpeg",
+   "sha256": "c3f7bfa34612957e392ab500296657d73c6b70e768b951f2df9c49b11fcde8ad",
+   "byte_size": 5666952,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "page",
+    "page_number": 99,
+    "label": null,
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "c3f7bfa34612957e392ab500296657d73c6b70e768b951f2df9c49b11fcde8ad",
+   "remarks": ""
+  },
+  {
+   "filename": "page-100.jpeg",
+   "sha256": "2dcfe3c7fd0b443ca75170f51c057d002e6c4704fd2dab88bac6cd32f111fdf4",
+   "byte_size": 6368226,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "page",
+    "page_number": 100,
+    "label": null,
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "2dcfe3c7fd0b443ca75170f51c057d002e6c4704fd2dab88bac6cd32f111fdf4",
+   "remarks": ""
+  },
+  {
+   "filename": "page-101.jpeg",
+   "sha256": "15d8e8be781ea3bb05d7c7b7eb77d473a7904ff1bd56b5e5a5006526cf6cc366",
+   "byte_size": 6331817,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "page",
+    "page_number": 101,
+    "label": null,
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "15d8e8be781ea3bb05d7c7b7eb77d473a7904ff1bd56b5e5a5006526cf6cc366",
+   "remarks": ""
+  },
+  {
+   "filename": "page-102.jpeg",
+   "sha256": "53c66223cc4dc9ff0b0a4e5d3613c1381e1c9b39e0fdf41f0b64788d7feecd50",
+   "byte_size": 6511989,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "page",
+    "page_number": 102,
+    "label": null,
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "53c66223cc4dc9ff0b0a4e5d3613c1381e1c9b39e0fdf41f0b64788d7feecd50",
+   "remarks": ""
+  },
+  {
+   "filename": "page-102p1.jpeg",
+   "sha256": "afdc776b3982d3d2a7a57bb38a9337b8ad076f0c363dca69cbed89460efd4998",
+   "byte_size": 12556616,
+   "width": 5096,
+   "height": 6600,
+   "colorspace": "sRGB",
+   "claimed_identity": {
+    "kind": "plate",
+    "page_number": null,
+    "label": null,
+    "linked_page": 102,
+    "plate_index": 1
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "afdc776b3982d3d2a7a57bb38a9337b8ad076f0c363dca69cbed89460efd4998",
+   "remarks": ""
+  },
+  {
+   "filename": "page-102p2.jpeg",
+   "sha256": "f8d4d870c79026282dca8e4fa87fc35d45f0bfb5b682c161378c31b0df3f800f",
+   "byte_size": 12996063,
+   "width": 5096,
+   "height": 6600,
+   "colorspace": "sRGB",
+   "claimed_identity": {
+    "kind": "plate",
+    "page_number": null,
+    "label": null,
+    "linked_page": 102,
+    "plate_index": 2
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "f8d4d870c79026282dca8e4fa87fc35d45f0bfb5b682c161378c31b0df3f800f",
+   "remarks": ""
+  },
+  {
+   "filename": "page-103.jpeg",
+   "sha256": "6aed4a357c0383526f3a6277b4ce7b903767b6606340f15a571f6250aec2ae9d",
+   "byte_size": 6346303,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "page",
+    "page_number": 103,
+    "label": null,
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "6aed4a357c0383526f3a6277b4ce7b903767b6606340f15a571f6250aec2ae9d",
+   "remarks": ""
+  },
+  {
+   "filename": "page-104.jpeg",
+   "sha256": "496d3a47d25b31cfa4ccdbbf940d0f180cfccf832ff5a1068f07dfbda894e6ae",
+   "byte_size": 6379089,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "page",
+    "page_number": 104,
+    "label": null,
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "496d3a47d25b31cfa4ccdbbf940d0f180cfccf832ff5a1068f07dfbda894e6ae",
+   "remarks": ""
+  },
+  {
+   "filename": "page-105.jpeg",
+   "sha256": "f07bfca7c8a52169e531a150bb7b546aec5becaae96876fa7fb97bcc3886d202",
+   "byte_size": 5673499,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "page",
+    "page_number": 105,
+    "label": null,
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "f07bfca7c8a52169e531a150bb7b546aec5becaae96876fa7fb97bcc3886d202",
+   "remarks": ""
+  },
+  {
+   "filename": "page-106.jpeg",
+   "sha256": "72afbe048690de7252082d70549685c3768846c74dbd0092a8f21fe2a1bc41d7",
+   "byte_size": 6424215,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "page",
+    "page_number": 106,
+    "label": null,
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "72afbe048690de7252082d70549685c3768846c74dbd0092a8f21fe2a1bc41d7",
+   "remarks": ""
+  },
+  {
+   "filename": "page-107.jpeg",
+   "sha256": "f3d3eac879ada325a08d9c4c9ac3aaf8d17d019a42a81e776daef6aff9c6f942",
+   "byte_size": 7060701,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "page",
+    "page_number": 107,
+    "label": null,
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "f3d3eac879ada325a08d9c4c9ac3aaf8d17d019a42a81e776daef6aff9c6f942",
+   "remarks": ""
+  },
+  {
+   "filename": "page-108.jpeg",
+   "sha256": "5da74844473e1e063f52f81e08322de6a70f89caf7c6e7c8e6251d8ccd02fd8c",
+   "byte_size": 5533390,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "page",
+    "page_number": 108,
+    "label": null,
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "5da74844473e1e063f52f81e08322de6a70f89caf7c6e7c8e6251d8ccd02fd8c",
+   "remarks": ""
+  },
+  {
+   "filename": "page-109.jpeg",
+   "sha256": "89da524297133c0bc4dd6660e7eb793adc8544f9de82b1e324b4d675b0dd6d8e",
+   "byte_size": 6318576,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "page",
+    "page_number": 109,
+    "label": null,
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "89da524297133c0bc4dd6660e7eb793adc8544f9de82b1e324b4d675b0dd6d8e",
+   "remarks": ""
+  },
+  {
+   "filename": "page-110.jpeg",
+   "sha256": "47fba95a63f7d4aa79c3d9e1e2da4f5753c647705c33c8bdc8e0238b5b93cff9",
+   "byte_size": 6382492,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "page",
+    "page_number": 110,
+    "label": null,
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "47fba95a63f7d4aa79c3d9e1e2da4f5753c647705c33c8bdc8e0238b5b93cff9",
+   "remarks": ""
+  },
+  {
+   "filename": "page-110p1.jpeg",
+   "sha256": "ad69e2737b8cc4cdbbe1740034037bf09d46e1b08ca1de673148046eaaca478b",
+   "byte_size": 9616978,
+   "width": 5096,
+   "height": 6600,
+   "colorspace": "sRGB",
+   "claimed_identity": {
+    "kind": "plate",
+    "page_number": null,
+    "label": null,
+    "linked_page": 110,
+    "plate_index": 1
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "ad69e2737b8cc4cdbbe1740034037bf09d46e1b08ca1de673148046eaaca478b",
+   "remarks": ""
+  },
+  {
+   "filename": "page-110p2.jpeg",
+   "sha256": "b72862547c370ca505d6164f761779a3cb6214a92b8c00f834b5043f86217576",
+   "byte_size": 10160063,
+   "width": 5096,
+   "height": 6600,
+   "colorspace": "sRGB",
+   "claimed_identity": {
+    "kind": "plate",
+    "page_number": null,
+    "label": null,
+    "linked_page": 110,
+    "plate_index": 2
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "b72862547c370ca505d6164f761779a3cb6214a92b8c00f834b5043f86217576",
+   "remarks": ""
+  },
+  {
+   "filename": "page-111.jpeg",
+   "sha256": "94ea18acfe02aff3f1a14654fc8cdcd7dc4e6d5029fb5ea276d4518ad515dfdf",
+   "byte_size": 6770123,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "page",
+    "page_number": 111,
+    "label": null,
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "94ea18acfe02aff3f1a14654fc8cdcd7dc4e6d5029fb5ea276d4518ad515dfdf",
+   "remarks": ""
+  },
+  {
+   "filename": "page-112.jpeg",
+   "sha256": "6103c488b580d30d7a977542507c1dcf40e09ecfe36b2a8c0c51ab151a1711ae",
+   "byte_size": 5811847,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "page",
+    "page_number": 112,
+    "label": null,
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "6103c488b580d30d7a977542507c1dcf40e09ecfe36b2a8c0c51ab151a1711ae",
+   "remarks": ""
+  },
+  {
+   "filename": "page-113.jpeg",
+   "sha256": "64a8f26a4718b49d33d1e79c9996ddaaf6e6ca6f928a6c75828b84ecc9266dd5",
+   "byte_size": 6313398,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "page",
+    "page_number": 113,
+    "label": null,
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "64a8f26a4718b49d33d1e79c9996ddaaf6e6ca6f928a6c75828b84ecc9266dd5",
+   "remarks": ""
+  },
+  {
+   "filename": "page-114.jpeg",
+   "sha256": "26354ed38df7eb379a83f932c9481703b3accaf5b94c6fa465c5ae5df335e412",
+   "byte_size": 6316057,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "page",
+    "page_number": 114,
+    "label": null,
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "26354ed38df7eb379a83f932c9481703b3accaf5b94c6fa465c5ae5df335e412",
+   "remarks": ""
+  },
+  {
+   "filename": "page-115.jpeg",
+   "sha256": "0623f4085c5353b99555ed2123f7435eba69951333f06aa498f4889f675088df",
+   "byte_size": 6894077,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "page",
+    "page_number": 115,
+    "label": null,
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "0623f4085c5353b99555ed2123f7435eba69951333f06aa498f4889f675088df",
+   "remarks": ""
+  },
+  {
+   "filename": "page-116.jpeg",
+   "sha256": "f8f7ec30cbe3aab15a33634ad4a1ab5f9314ba468dd5c1ed84477aad2cf2b7f6",
+   "byte_size": 6217479,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "page",
+    "page_number": 116,
+    "label": null,
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "f8f7ec30cbe3aab15a33634ad4a1ab5f9314ba468dd5c1ed84477aad2cf2b7f6",
+   "remarks": ""
+  },
+  {
+   "filename": "page-117.jpeg",
+   "sha256": "376fae74a2b3f1455d9e2a89b295cf032a559cb0975bce3bf8db5cbe1f18d7ab",
+   "byte_size": 5758871,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "page",
+    "page_number": 117,
+    "label": null,
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "376fae74a2b3f1455d9e2a89b295cf032a559cb0975bce3bf8db5cbe1f18d7ab",
+   "remarks": ""
+  },
+  {
+   "filename": "page-118.jpeg",
+   "sha256": "234e5db8fb4faa754be4ea2176baa7bf45d46dc6e4e40de8b4cbd942b088cf85",
+   "byte_size": 7410812,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "page",
+    "page_number": 118,
+    "label": null,
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "234e5db8fb4faa754be4ea2176baa7bf45d46dc6e4e40de8b4cbd942b088cf85",
+   "remarks": ""
+  },
+  {
+   "filename": "page-118p1.jpeg",
+   "sha256": "43b50417e42919360cea7438057357dadf120f58c8a5c9b14acdfc99ce5c1286",
+   "byte_size": 11705724,
+   "width": 5096,
+   "height": 6600,
+   "colorspace": "sRGB",
+   "claimed_identity": {
+    "kind": "plate",
+    "page_number": null,
+    "label": null,
+    "linked_page": 118,
+    "plate_index": 1
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "43b50417e42919360cea7438057357dadf120f58c8a5c9b14acdfc99ce5c1286",
+   "remarks": ""
+  },
+  {
+   "filename": "page-118p2.jpeg",
+   "sha256": "562dcfbe0ce1ce339a083f7fc22540ee063de5cf080c381ef8aead94e90acac1",
+   "byte_size": 13056949,
+   "width": 5096,
+   "height": 6600,
+   "colorspace": "sRGB",
+   "claimed_identity": {
+    "kind": "plate",
+    "page_number": null,
+    "label": null,
+    "linked_page": 118,
+    "plate_index": 2
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "562dcfbe0ce1ce339a083f7fc22540ee063de5cf080c381ef8aead94e90acac1",
+   "remarks": ""
+  },
+  {
+   "filename": "page-119.jpeg",
+   "sha256": "d2ecc93d7831acda4842c3af9cae790e76b237eeee76810ebcf9dc50fc734e65",
+   "byte_size": 6841075,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "page",
+    "page_number": 119,
+    "label": null,
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "d2ecc93d7831acda4842c3af9cae790e76b237eeee76810ebcf9dc50fc734e65",
+   "remarks": ""
+  },
+  {
+   "filename": "page-120.jpeg",
+   "sha256": "dd1f927ba8c942b380c17e47ecec80e6d644c081bfca8cff6d6736f1bc97221e",
+   "byte_size": 6213664,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "page",
+    "page_number": 120,
+    "label": null,
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "dd1f927ba8c942b380c17e47ecec80e6d644c081bfca8cff6d6736f1bc97221e",
+   "remarks": ""
+  },
+  {
+   "filename": "page-121.jpeg",
+   "sha256": "21501a4867fa4f90ba343974cc5256f01189584b90c6ef3ca7263c633d813391",
+   "byte_size": 5626469,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "page",
+    "page_number": 121,
+    "label": null,
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "21501a4867fa4f90ba343974cc5256f01189584b90c6ef3ca7263c633d813391",
+   "remarks": ""
+  },
+  {
+   "filename": "page-122.jpeg",
+   "sha256": "d465484f3849aaf43b33c722d580f6b0b64e4a37dad2dca7d9ab98a20da1d592",
+   "byte_size": 6857148,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "page",
+    "page_number": 122,
+    "label": null,
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "d465484f3849aaf43b33c722d580f6b0b64e4a37dad2dca7d9ab98a20da1d592",
+   "remarks": ""
+  },
+  {
+   "filename": "page-123.jpeg",
+   "sha256": "0e2f19dea4e3ed775f3854b224dbfeb2594d4d6c60ff7552a6fb83ff0a6a532e",
+   "byte_size": 6236193,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "page",
+    "page_number": 123,
+    "label": null,
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "0e2f19dea4e3ed775f3854b224dbfeb2594d4d6c60ff7552a6fb83ff0a6a532e",
+   "remarks": ""
+  },
+  {
+   "filename": "page-124.jpeg",
+   "sha256": "1281d013bdc01e9eb5711105d4f2ac1ee7a4e66b002ddca54c9bc001e49ca838",
+   "byte_size": 6168929,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "page",
+    "page_number": 124,
+    "label": null,
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "1281d013bdc01e9eb5711105d4f2ac1ee7a4e66b002ddca54c9bc001e49ca838",
+   "remarks": ""
+  },
+  {
+   "filename": "page-125.jpeg",
+   "sha256": "579ff3fc3d4af58700fe2352194182c0b3934887e850e37b87578aa6bbf3d54e",
+   "byte_size": 5495150,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "page",
+    "page_number": 125,
+    "label": null,
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "579ff3fc3d4af58700fe2352194182c0b3934887e850e37b87578aa6bbf3d54e",
+   "remarks": ""
+  },
+  {
+   "filename": "page-126.jpeg",
+   "sha256": "92be5bf733974d27a52e177353a2cf3c0228e807e7fe2d826365ce818686e629",
+   "byte_size": 6787225,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "page",
+    "page_number": 126,
+    "label": null,
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "92be5bf733974d27a52e177353a2cf3c0228e807e7fe2d826365ce818686e629",
+   "remarks": ""
+  },
+  {
+   "filename": "page-126p1.jpeg",
+   "sha256": "ff5b884ca9815272aa8b976ee7e975ce1b99ab6aa8e03ba9c10230a7dba0d76e",
+   "byte_size": 12579385,
+   "width": 5096,
+   "height": 6600,
+   "colorspace": "sRGB",
+   "claimed_identity": {
+    "kind": "plate",
+    "page_number": null,
+    "label": null,
+    "linked_page": 126,
+    "plate_index": 1
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "ff5b884ca9815272aa8b976ee7e975ce1b99ab6aa8e03ba9c10230a7dba0d76e",
+   "remarks": ""
+  },
+  {
+   "filename": "page-126p2.jpeg",
+   "sha256": "845385cf26fb9df5e054d87f16a4b02dff6a93635bb3a8ad21032c472e70aa6f",
+   "byte_size": 9969637,
+   "width": 5096,
+   "height": 6600,
+   "colorspace": "sRGB",
+   "claimed_identity": {
+    "kind": "plate",
+    "page_number": null,
+    "label": null,
+    "linked_page": 126,
+    "plate_index": 2
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "845385cf26fb9df5e054d87f16a4b02dff6a93635bb3a8ad21032c472e70aa6f",
+   "remarks": ""
+  },
+  {
+   "filename": "page-127.jpeg",
+   "sha256": "30cd8fb9c77e015bbfbf2bc48def55b2c505997a9e63e060dd112c602375ea34",
+   "byte_size": 6132888,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "page",
+    "page_number": 127,
+    "label": null,
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "30cd8fb9c77e015bbfbf2bc48def55b2c505997a9e63e060dd112c602375ea34",
+   "remarks": ""
+  },
+  {
+   "filename": "page-128.jpeg",
+   "sha256": "5f3d60246bdb3d90ab518dd67d6626530b162481cf300ac3f93736a3816251e3",
+   "byte_size": 5834738,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "page",
+    "page_number": 128,
+    "label": null,
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "5f3d60246bdb3d90ab518dd67d6626530b162481cf300ac3f93736a3816251e3",
+   "remarks": ""
+  },
+  {
+   "filename": "page-129.jpeg",
+   "sha256": "251204579efa990cc838d7f9b8f0a80def873b36763a3ce190021c6dae141db0",
+   "byte_size": 6154725,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "page",
+    "page_number": 129,
+    "label": null,
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "251204579efa990cc838d7f9b8f0a80def873b36763a3ce190021c6dae141db0",
+   "remarks": ""
+  },
+  {
+   "filename": "page-130.jpeg",
+   "sha256": "07c9fe21c6fa0f8e1a4c39e56a6dbdeb27420ad499123aba99f0b44582b72e66",
+   "byte_size": 6489559,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "page",
+    "page_number": 130,
+    "label": null,
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "07c9fe21c6fa0f8e1a4c39e56a6dbdeb27420ad499123aba99f0b44582b72e66",
+   "remarks": ""
+  },
+  {
+   "filename": "page-131.jpeg",
+   "sha256": "15c5e038475ccc5e7f530b9270da7f55415ca7114c83619f2d5ef0545c30967b",
+   "byte_size": 6495731,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "page",
+    "page_number": 131,
+    "label": null,
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "15c5e038475ccc5e7f530b9270da7f55415ca7114c83619f2d5ef0545c30967b",
+   "remarks": ""
+  },
+  {
+   "filename": "page-132.jpeg",
+   "sha256": "d3e4cb0564f2924d8b1fe4f888507083dfd6d565c117f93cc99bf823fe3cd8ed",
+   "byte_size": 6745773,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "page",
+    "page_number": 132,
+    "label": null,
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "d3e4cb0564f2924d8b1fe4f888507083dfd6d565c117f93cc99bf823fe3cd8ed",
+   "remarks": ""
+  },
+  {
+   "filename": "page-133.jpeg",
+   "sha256": "7e557a14bba6ef8037c2087f7a14ffaa0ade4d6c9ec04e5feed028364b2bcd2d",
+   "byte_size": 5689226,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "page",
+    "page_number": 133,
+    "label": null,
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "7e557a14bba6ef8037c2087f7a14ffaa0ade4d6c9ec04e5feed028364b2bcd2d",
+   "remarks": ""
+  },
+  {
+   "filename": "page-134.jpeg",
+   "sha256": "c7c58ccee114e508548deaddce288b12df664aa6893088458e9b8d683bd4823e",
+   "byte_size": 6573738,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "page",
+    "page_number": 134,
+    "label": null,
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "c7c58ccee114e508548deaddce288b12df664aa6893088458e9b8d683bd4823e",
+   "remarks": ""
+  },
+  {
+   "filename": "page-135.jpeg",
+   "sha256": "7594821f38970d0aa908433009a58b26fb2a5189c4a5c6b4b081d3110fcaf1f6",
+   "byte_size": 7065349,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "page",
+    "page_number": 135,
+    "label": null,
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "7594821f38970d0aa908433009a58b26fb2a5189c4a5c6b4b081d3110fcaf1f6",
+   "remarks": ""
+  },
+  {
+   "filename": "page-136.jpeg",
+   "sha256": "02529a96924702c02f99f111937881d4607aff6a973a8c89dbb0b094a672961f",
+   "byte_size": 5568403,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "page",
+    "page_number": 136,
+    "label": null,
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "02529a96924702c02f99f111937881d4607aff6a973a8c89dbb0b094a672961f",
+   "remarks": ""
+  },
+  {
+   "filename": "page-137.jpeg",
+   "sha256": "0695248a4c4ce56713f192f8758bf68041f7d5a65ac830e88569272a23d2e5ab",
+   "byte_size": 6808055,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "page",
+    "page_number": 137,
+    "label": null,
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "0695248a4c4ce56713f192f8758bf68041f7d5a65ac830e88569272a23d2e5ab",
+   "remarks": ""
+  },
+  {
+   "filename": "page-138.jpeg",
+   "sha256": "1f658b104bfc82410a9719dfbe230a6b80dad9ea9d16ffeda4bc2fa7afd0481b",
+   "byte_size": 7037030,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "page",
+    "page_number": 138,
+    "label": null,
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "1f658b104bfc82410a9719dfbe230a6b80dad9ea9d16ffeda4bc2fa7afd0481b",
+   "remarks": ""
+  },
+  {
+   "filename": "page-139.jpeg",
+   "sha256": "8083109161feaae7175a5c7cdfe3b4acff1af0c6c0a34850a001564c73ec7ddc",
+   "byte_size": 7015954,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "page",
+    "page_number": 139,
+    "label": null,
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "8083109161feaae7175a5c7cdfe3b4acff1af0c6c0a34850a001564c73ec7ddc",
+   "remarks": ""
+  },
+  {
+   "filename": "page-140.jpeg",
+   "sha256": "3312a325c0a73e28085e2ffaf268389a5fbc8f32a29834cea1278137f38634a0",
+   "byte_size": 6426190,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "page",
+    "page_number": 140,
+    "label": null,
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "3312a325c0a73e28085e2ffaf268389a5fbc8f32a29834cea1278137f38634a0",
+   "remarks": ""
+  },
+  {
+   "filename": "page-141.jpeg",
+   "sha256": "893b2c3e703c427ede0492640d59c280faa2ccb2c5e9d8d3ae4e9442ea368a6a",
+   "byte_size": 5558802,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "page",
+    "page_number": 141,
+    "label": null,
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "893b2c3e703c427ede0492640d59c280faa2ccb2c5e9d8d3ae4e9442ea368a6a",
+   "remarks": ""
+  },
+  {
+   "filename": "page-142.jpeg",
+   "sha256": "923e21c55719244d69f2f12d6a45f29b5eb3f5e69f8671a1109e02a293bed6f8",
+   "byte_size": 7282338,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "page",
+    "page_number": 142,
+    "label": null,
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "923e21c55719244d69f2f12d6a45f29b5eb3f5e69f8671a1109e02a293bed6f8",
+   "remarks": ""
+  },
+  {
+   "filename": "page-142p1.jpeg",
+   "sha256": "0e89f4286bf2c267d21bf125692c0baef05109febf6ee2b14e02dcd2efea415b",
+   "byte_size": 10573025,
+   "width": 5096,
+   "height": 6600,
+   "colorspace": "sRGB",
+   "claimed_identity": {
+    "kind": "plate",
+    "page_number": null,
+    "label": null,
+    "linked_page": 142,
+    "plate_index": 1
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "0e89f4286bf2c267d21bf125692c0baef05109febf6ee2b14e02dcd2efea415b",
+   "remarks": ""
+  },
+  {
+   "filename": "page-142p2.jpeg",
+   "sha256": "bdd32c0dbe2c33c7c7be52fb888b1536e374cc94bd0cfbc8fb7f9eca206410bc",
+   "byte_size": 10566940,
+   "width": 5096,
+   "height": 6600,
+   "colorspace": "sRGB",
+   "claimed_identity": {
+    "kind": "plate",
+    "page_number": null,
+    "label": null,
+    "linked_page": 142,
+    "plate_index": 2
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "bdd32c0dbe2c33c7c7be52fb888b1536e374cc94bd0cfbc8fb7f9eca206410bc",
+   "remarks": ""
+  },
+  {
+   "filename": "page-143.jpeg",
+   "sha256": "79a70c807746b1a3d80de6b31109d8162f909bffb532a76137d369ec4bcaa859",
+   "byte_size": 6211226,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "page",
+    "page_number": 143,
+    "label": null,
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "79a70c807746b1a3d80de6b31109d8162f909bffb532a76137d369ec4bcaa859",
+   "remarks": ""
+  },
+  {
+   "filename": "page-144.jpeg",
+   "sha256": "54240eedc12e6357d109e889d469e594cdc3055aca0bffa7e4695d63a113da47",
+   "byte_size": 6338954,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "page",
+    "page_number": 144,
+    "label": null,
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "54240eedc12e6357d109e889d469e594cdc3055aca0bffa7e4695d63a113da47",
+   "remarks": ""
+  },
+  {
+   "filename": "page-145.jpeg",
+   "sha256": "b14f77590d58c0c35aafb9289443536d7d9b6ec92bffcaba3e95b3f48404d3cf",
+   "byte_size": 5627597,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "page",
+    "page_number": 145,
+    "label": null,
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "b14f77590d58c0c35aafb9289443536d7d9b6ec92bffcaba3e95b3f48404d3cf",
+   "remarks": ""
+  },
+  {
+   "filename": "page-146.jpeg",
+   "sha256": "c2e1c408283994dc67aecd57b30de1048ba7460fb34b8bf39f7e8035dc794a99",
+   "byte_size": 6656882,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "page",
+    "page_number": 146,
+    "label": null,
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "c2e1c408283994dc67aecd57b30de1048ba7460fb34b8bf39f7e8035dc794a99",
+   "remarks": ""
+  },
+  {
+   "filename": "page-147.jpeg",
+   "sha256": "d4dfdcb8dc096feb7c50d33ccf1fc663c572d26bb06269aaac39848b171a5378",
+   "byte_size": 6967483,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "page",
+    "page_number": 147,
+    "label": null,
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "d4dfdcb8dc096feb7c50d33ccf1fc663c572d26bb06269aaac39848b171a5378",
+   "remarks": ""
+  },
+  {
+   "filename": "page-148.jpeg",
+   "sha256": "36fe08087951b0fc84ae67305e8b0b74fd851e4a0eeb0f0a7d7042e1cba54890",
+   "byte_size": 6081446,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "page",
+    "page_number": 148,
+    "label": null,
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "36fe08087951b0fc84ae67305e8b0b74fd851e4a0eeb0f0a7d7042e1cba54890",
+   "remarks": ""
+  },
+  {
+   "filename": "page-149.jpeg",
+   "sha256": "4455ef8178d8b4b38cb937e270ecb27ec00397f8c5ad1b33e7b6d0c97f98a238",
+   "byte_size": 6987876,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "page",
+    "page_number": 149,
+    "label": null,
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "4455ef8178d8b4b38cb937e270ecb27ec00397f8c5ad1b33e7b6d0c97f98a238",
+   "remarks": ""
+  },
+  {
+   "filename": "page-150.jpeg",
+   "sha256": "e65a2d82f5451e69db13c703adc7d37842d9ff2744c8fef9205b1a7d0b2492bb",
+   "byte_size": 7661318,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "page",
+    "page_number": 150,
+    "label": null,
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "e65a2d82f5451e69db13c703adc7d37842d9ff2744c8fef9205b1a7d0b2492bb",
+   "remarks": ""
+  },
+  {
+   "filename": "page-151.jpeg",
+   "sha256": "189502b15c37d559f5ffb587d6c817abcd5de4a34f66eb3961edf75e10ab350e",
+   "byte_size": 7050274,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "page",
+    "page_number": 151,
+    "label": null,
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "189502b15c37d559f5ffb587d6c817abcd5de4a34f66eb3961edf75e10ab350e",
+   "remarks": ""
+  },
+  {
+   "filename": "page-152.jpeg",
+   "sha256": "5385ef370f569db48ea5eadba70a93d145837397f0f2806ed388a9d8ec891165",
+   "byte_size": 6242826,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "page",
+    "page_number": 152,
+    "label": null,
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "5385ef370f569db48ea5eadba70a93d145837397f0f2806ed388a9d8ec891165",
+   "remarks": ""
+  },
+  {
+   "filename": "page-153.jpeg",
+   "sha256": "9a794f550d238645074486638a1c7d8c90127f34736ea73ae40014755eff8ef7",
+   "byte_size": 6848316,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "page",
+    "page_number": 153,
+    "label": null,
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "9a794f550d238645074486638a1c7d8c90127f34736ea73ae40014755eff8ef7",
+   "remarks": ""
+  },
+  {
+   "filename": "page-154.jpeg",
+   "sha256": "cab593de41697d155077aa9f8b01142bf5db579efd3e288c4bb3d608749b9fb7",
+   "byte_size": 6923027,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "page",
+    "page_number": 154,
+    "label": null,
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "cab593de41697d155077aa9f8b01142bf5db579efd3e288c4bb3d608749b9fb7",
+   "remarks": ""
+  },
+  {
+   "filename": "page-155.jpeg",
+   "sha256": "977c5cb099b8db9c275a49ad98e350e040ac3b42eb7d1efe6ca1f84de85d1414",
+   "byte_size": 7020173,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "page",
+    "page_number": 155,
+    "label": null,
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "977c5cb099b8db9c275a49ad98e350e040ac3b42eb7d1efe6ca1f84de85d1414",
+   "remarks": ""
+  },
+  {
+   "filename": "page-156.jpeg",
+   "sha256": "e1c72d9c2787e205d83f52bfaa31fd627833ffbf29c64b4002e1782407c0defb",
+   "byte_size": 6763635,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "page",
+    "page_number": 156,
+    "label": null,
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "e1c72d9c2787e205d83f52bfaa31fd627833ffbf29c64b4002e1782407c0defb",
+   "remarks": ""
+  },
+  {
+   "filename": "page-157.jpeg",
+   "sha256": "20f16d36aa8d7c3caf6d626e1c28f059c84fb3e6df6d4a9f2fac9fbaebd24114",
+   "byte_size": 6376932,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "page",
+    "page_number": 157,
+    "label": null,
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "20f16d36aa8d7c3caf6d626e1c28f059c84fb3e6df6d4a9f2fac9fbaebd24114",
+   "remarks": ""
+  },
+  {
+   "filename": "page-158.jpeg",
+   "sha256": "09ee5f5b2fcf5b9b658fafba4fd6e480902633ccdc1cd5169b8adcad04e08037",
+   "byte_size": 6884497,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "page",
+    "page_number": 158,
+    "label": null,
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "09ee5f5b2fcf5b9b658fafba4fd6e480902633ccdc1cd5169b8adcad04e08037",
+   "remarks": ""
+  },
+  {
+   "filename": "page-158p1.jpeg",
+   "sha256": "1dcf6e5c942f6fc1abb8dcdd2b45ae8b8fa505db889e8247ffefc06f1b182168",
+   "byte_size": 14078029,
+   "width": 5096,
+   "height": 6600,
+   "colorspace": "sRGB",
+   "claimed_identity": {
+    "kind": "plate",
+    "page_number": null,
+    "label": null,
+    "linked_page": 158,
+    "plate_index": 1
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "1dcf6e5c942f6fc1abb8dcdd2b45ae8b8fa505db889e8247ffefc06f1b182168",
+   "remarks": ""
+  },
+  {
+   "filename": "page-158p2.jpeg",
+   "sha256": "0a73ff7b49f340d2b54555d489a7558f26eb34f96fec08d92bebabf66fc59858",
+   "byte_size": 12909698,
+   "width": 5096,
+   "height": 6600,
+   "colorspace": "sRGB",
+   "claimed_identity": {
+    "kind": "plate",
+    "page_number": null,
+    "label": null,
+    "linked_page": 158,
+    "plate_index": 2
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "0a73ff7b49f340d2b54555d489a7558f26eb34f96fec08d92bebabf66fc59858",
+   "remarks": ""
+  },
+  {
+   "filename": "page-159.jpeg",
+   "sha256": "c7e64f78ee194f0f26c3e4ab8104bf374d9ba5e7848370425b6fa6a87ffb78aa",
+   "byte_size": 6315521,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "page",
+    "page_number": 159,
+    "label": null,
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "c7e64f78ee194f0f26c3e4ab8104bf374d9ba5e7848370425b6fa6a87ffb78aa",
+   "remarks": ""
+  },
+  {
+   "filename": "page-160.jpeg",
+   "sha256": "b35c2244d26d80bcc9bc9d153f092f8dfc8929580bb4998db1aad3544552eef3",
+   "byte_size": 6252705,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "page",
+    "page_number": 160,
+    "label": null,
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "b35c2244d26d80bcc9bc9d153f092f8dfc8929580bb4998db1aad3544552eef3",
+   "remarks": ""
+  },
+  {
+   "filename": "page-161.jpeg",
+   "sha256": "7f7760a252d2e11ec5a4912cb3687bcbc349e0dc6db5aef8d26f2f2b1db3ad27",
+   "byte_size": 5258328,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "page",
+    "page_number": 161,
+    "label": null,
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "7f7760a252d2e11ec5a4912cb3687bcbc349e0dc6db5aef8d26f2f2b1db3ad27",
+   "remarks": ""
+  },
+  {
+   "filename": "page-162.jpeg",
+   "sha256": "84378a41399bee38bae9b9a5f72730341870c1c336cfe959dc2e95d950bdd468",
+   "byte_size": 6891386,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "page",
+    "page_number": 162,
+    "label": null,
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "84378a41399bee38bae9b9a5f72730341870c1c336cfe959dc2e95d950bdd468",
+   "remarks": ""
+  },
+  {
+   "filename": "page-163.jpeg",
+   "sha256": "91e2e1ddfb3a9d2580aefee026e2d7ca55bfd0e03235ad8b0dbbc15a8fb57fe5",
+   "byte_size": 5958111,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "page",
+    "page_number": 163,
+    "label": null,
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "91e2e1ddfb3a9d2580aefee026e2d7ca55bfd0e03235ad8b0dbbc15a8fb57fe5",
+   "remarks": ""
+  },
+  {
+   "filename": "page-164.jpeg",
+   "sha256": "0aacb43db9697794c3292719b6208821eb24b13d59da448b0fa0be75b6090961",
+   "byte_size": 5440617,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "page",
+    "page_number": 164,
+    "label": null,
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "0aacb43db9697794c3292719b6208821eb24b13d59da448b0fa0be75b6090961",
+   "remarks": ""
+  },
+  {
+   "filename": "page-165.jpeg",
+   "sha256": "daf6b83d8f4f84be0f5d0720a9f4c7bb0ec9b5805d0779cc386583e41df516ed",
+   "byte_size": 6638514,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "page",
+    "page_number": 165,
+    "label": null,
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "daf6b83d8f4f84be0f5d0720a9f4c7bb0ec9b5805d0779cc386583e41df516ed",
+   "remarks": ""
+  },
+  {
+   "filename": "page-166.jpeg",
+   "sha256": "46d15f39b62016caca094737613bed4d63bdefa61a1c7ce3d9b5dcaf54130693",
+   "byte_size": 7268888,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "page",
+    "page_number": 166,
+    "label": null,
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "46d15f39b62016caca094737613bed4d63bdefa61a1c7ce3d9b5dcaf54130693",
+   "remarks": ""
+  },
+  {
+   "filename": "page-166p1.jpeg",
+   "sha256": "100993b522a26d6641929a3718cd84adb20ec75dabe2d5cefa08b98f9499f6ac",
+   "byte_size": 12328133,
+   "width": 5096,
+   "height": 6600,
+   "colorspace": "sRGB",
+   "claimed_identity": {
+    "kind": "plate",
+    "page_number": null,
+    "label": null,
+    "linked_page": 166,
+    "plate_index": 1
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "100993b522a26d6641929a3718cd84adb20ec75dabe2d5cefa08b98f9499f6ac",
+   "remarks": ""
+  },
+  {
+   "filename": "page-166p2.jpeg",
+   "sha256": "77cadde117bae385f2e0284b68baaf958d83f3382231ad315f6d06e075d05bbd",
+   "byte_size": 10873761,
+   "width": 5096,
+   "height": 6600,
+   "colorspace": "sRGB",
+   "claimed_identity": {
+    "kind": "plate",
+    "page_number": null,
+    "label": null,
+    "linked_page": 166,
+    "plate_index": 2
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "77cadde117bae385f2e0284b68baaf958d83f3382231ad315f6d06e075d05bbd",
+   "remarks": ""
+  },
+  {
+   "filename": "page-167.jpeg",
+   "sha256": "4e688d25d2aee47c734fed250a086228582e1d7cfa07f1f31f64c224d1d377c3",
+   "byte_size": 7203213,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "page",
+    "page_number": 167,
+    "label": null,
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "4e688d25d2aee47c734fed250a086228582e1d7cfa07f1f31f64c224d1d377c3",
+   "remarks": ""
+  },
+  {
+   "filename": "page-168.jpeg",
+   "sha256": "8977aab680304973b9b072d477213a7ee94c933312817262bfc9ca656fb488ec",
+   "byte_size": 6354855,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "page",
+    "page_number": 168,
+    "label": null,
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "8977aab680304973b9b072d477213a7ee94c933312817262bfc9ca656fb488ec",
+   "remarks": ""
+  },
+  {
+   "filename": "page-169.jpeg",
+   "sha256": "808f93231a5ffc66934103adf99969fd62d168295d8e9794cb8d59523c940f1d",
+   "byte_size": 6183139,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "page",
+    "page_number": 169,
+    "label": null,
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "808f93231a5ffc66934103adf99969fd62d168295d8e9794cb8d59523c940f1d",
+   "remarks": ""
+  },
+  {
+   "filename": "page-170.jpeg",
+   "sha256": "964850b9af1dd390dc749b2b40f743b0fb29e0dd66d6765e696dd4019437d776",
+   "byte_size": 6286084,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "page",
+    "page_number": 170,
+    "label": null,
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "964850b9af1dd390dc749b2b40f743b0fb29e0dd66d6765e696dd4019437d776",
+   "remarks": ""
+  },
+  {
+   "filename": "page-171.jpeg",
+   "sha256": "9a48313c3afcde10a426f933aaee53d8ab1314f8aa6c995d48f7f3c7b710e148",
+   "byte_size": 6799141,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "page",
+    "page_number": 171,
+    "label": null,
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "9a48313c3afcde10a426f933aaee53d8ab1314f8aa6c995d48f7f3c7b710e148",
+   "remarks": ""
+  },
+  {
+   "filename": "page-172.jpeg",
+   "sha256": "cd1e2da8e84d25304d5a651b2bf9002030e639c6942a425b656b16634074fd70",
+   "byte_size": 6175366,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "page",
+    "page_number": 172,
+    "label": null,
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "cd1e2da8e84d25304d5a651b2bf9002030e639c6942a425b656b16634074fd70",
+   "remarks": ""
+  },
+  {
+   "filename": "page-173.jpeg",
+   "sha256": "6e54e397250cfd9889428e2bf0b10f344c17134112f5bc07694e3e8bc57fbe24",
+   "byte_size": 5717001,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "page",
+    "page_number": 173,
+    "label": null,
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "6e54e397250cfd9889428e2bf0b10f344c17134112f5bc07694e3e8bc57fbe24",
+   "remarks": ""
+  },
+  {
+   "filename": "page-174.jpeg",
+   "sha256": "715daab84b94ce3eabad6c63acd00989a0d32dd27e8f28a455fd8fb1a3912e4e",
+   "byte_size": 6584148,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "page",
+    "page_number": 174,
+    "label": null,
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "715daab84b94ce3eabad6c63acd00989a0d32dd27e8f28a455fd8fb1a3912e4e",
+   "remarks": ""
+  },
+  {
+   "filename": "page-174p1.jpeg",
+   "sha256": "73e71692b7db988fbca35aaf15831dbf829b52eb1b06c3a7615f8ecc5c1ee296",
+   "byte_size": 9594473,
+   "width": 5096,
+   "height": 6600,
+   "colorspace": "sRGB",
+   "claimed_identity": {
+    "kind": "plate",
+    "page_number": null,
+    "label": null,
+    "linked_page": 174,
+    "plate_index": 1
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "73e71692b7db988fbca35aaf15831dbf829b52eb1b06c3a7615f8ecc5c1ee296",
+   "remarks": ""
+  },
+  {
+   "filename": "page-174p2.jpeg",
+   "sha256": "dd6da015b0ef20f0f246842ae1ce0711dc29518f09ba9bd2e00ac89f2e83dedb",
+   "byte_size": 12262063,
+   "width": 5096,
+   "height": 6600,
+   "colorspace": "sRGB",
+   "claimed_identity": {
+    "kind": "plate",
+    "page_number": null,
+    "label": null,
+    "linked_page": 174,
+    "plate_index": 2
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "dd6da015b0ef20f0f246842ae1ce0711dc29518f09ba9bd2e00ac89f2e83dedb",
+   "remarks": ""
+  },
+  {
+   "filename": "page-175.jpeg",
+   "sha256": "e01f4f941bc41577110ae8f305379fb1beacbd6fbab93713172f93ed36eaa17f",
+   "byte_size": 6770102,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "page",
+    "page_number": 175,
+    "label": null,
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "e01f4f941bc41577110ae8f305379fb1beacbd6fbab93713172f93ed36eaa17f",
+   "remarks": ""
+  },
+  {
+   "filename": "page-176.jpeg",
+   "sha256": "aa4469c86d399a55bb77446bfc265056d07fefc9901d3b025bfa7afb6289a87d",
+   "byte_size": 6210596,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "page",
+    "page_number": 176,
+    "label": null,
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "aa4469c86d399a55bb77446bfc265056d07fefc9901d3b025bfa7afb6289a87d",
+   "remarks": ""
+  },
+  {
+   "filename": "page-177.jpeg",
+   "sha256": "eb53553a0c4dc6ec7f28254fe07970ad5b77fea0b91e662ec3337d4d8093d27d",
+   "byte_size": 5669527,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "page",
+    "page_number": 177,
+    "label": null,
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "eb53553a0c4dc6ec7f28254fe07970ad5b77fea0b91e662ec3337d4d8093d27d",
+   "remarks": ""
+  },
+  {
+   "filename": "page-178.jpeg",
+   "sha256": "d6b8fae580a56ac8d467eea0099240b2a88439eb1a70c90905bb96d6a0bff883",
+   "byte_size": 7081309,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "page",
+    "page_number": 178,
+    "label": null,
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "d6b8fae580a56ac8d467eea0099240b2a88439eb1a70c90905bb96d6a0bff883",
+   "remarks": ""
+  },
+  {
+   "filename": "page-179.jpeg",
+   "sha256": "f0f3a8b2cad46ceba1eab3b7e79c722fa2b233af26c6c978933a5247a2ec8468",
+   "byte_size": 6291315,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "page",
+    "page_number": 179,
+    "label": null,
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "f0f3a8b2cad46ceba1eab3b7e79c722fa2b233af26c6c978933a5247a2ec8468",
+   "remarks": ""
+  },
+  {
+   "filename": "page-180.jpeg",
+   "sha256": "eba2013694e64dcd5bde79b6b4d5821df7a57ced359b63ce2bfcf06d28dace3b",
+   "byte_size": 5208942,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "page",
+    "page_number": 180,
+    "label": null,
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "eba2013694e64dcd5bde79b6b4d5821df7a57ced359b63ce2bfcf06d28dace3b",
+   "remarks": ""
+  },
+  {
+   "filename": "page-181.jpeg",
+   "sha256": "58464c0cab38069d6ae2f25c1e025331857d1e6293a6a7a144ae94e356686c26",
+   "byte_size": 6165647,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "page",
+    "page_number": 181,
+    "label": null,
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "58464c0cab38069d6ae2f25c1e025331857d1e6293a6a7a144ae94e356686c26",
+   "remarks": ""
+  },
+  {
+   "filename": "page-182.jpeg",
+   "sha256": "fa5b87abc1d532a11da105f761bd1eae33c33f7ded0b281fb50517a1b4e7557d",
+   "byte_size": 6755209,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "page",
+    "page_number": 182,
+    "label": null,
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "fa5b87abc1d532a11da105f761bd1eae33c33f7ded0b281fb50517a1b4e7557d",
+   "remarks": ""
+  },
+  {
+   "filename": "page-182p1.jpeg",
+   "sha256": "852eefe7943e8196cee68cb968e19d7c37c033a3745800b20d0c64977899856e",
+   "byte_size": 9197256,
+   "width": 5096,
+   "height": 6600,
+   "colorspace": "sRGB",
+   "claimed_identity": {
+    "kind": "plate",
+    "page_number": null,
+    "label": null,
+    "linked_page": 182,
+    "plate_index": 1
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "852eefe7943e8196cee68cb968e19d7c37c033a3745800b20d0c64977899856e",
+   "remarks": ""
+  },
+  {
+   "filename": "page-182p2.jpeg",
+   "sha256": "0e36c9bfb82f8921c31a2dce7abd76d35d806e52bf7d4c7d1569fc28fc3951ac",
+   "byte_size": 7476966,
+   "width": 5096,
+   "height": 6600,
+   "colorspace": "sRGB",
+   "claimed_identity": {
+    "kind": "plate",
+    "page_number": null,
+    "label": null,
+    "linked_page": 182,
+    "plate_index": 2
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "0e36c9bfb82f8921c31a2dce7abd76d35d806e52bf7d4c7d1569fc28fc3951ac",
+   "remarks": ""
+  },
+  {
+   "filename": "page-183.jpeg",
+   "sha256": "bfb80d0547d206a3690e6e4412b3fe7d5bf1d30a0eacd7eaa28ad166f4c52b22",
+   "byte_size": 6573314,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "page",
+    "page_number": 183,
+    "label": null,
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "bfb80d0547d206a3690e6e4412b3fe7d5bf1d30a0eacd7eaa28ad166f4c52b22",
+   "remarks": ""
+  },
+  {
+   "filename": "page-184.jpeg",
+   "sha256": "4a9fa9e53cf552bfca7a0dd7c9a8d50be6efb9821ee3d04f1387af2816764de6",
+   "byte_size": 6274838,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "page",
+    "page_number": 184,
+    "label": null,
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "4a9fa9e53cf552bfca7a0dd7c9a8d50be6efb9821ee3d04f1387af2816764de6",
+   "remarks": ""
+  },
+  {
+   "filename": "page-185.jpeg",
+   "sha256": "27d9c936da32a8ecee9122c90184323b981f53c7050c97de6823dda4301cbac4",
+   "byte_size": 6184001,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "page",
+    "page_number": 185,
+    "label": null,
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "27d9c936da32a8ecee9122c90184323b981f53c7050c97de6823dda4301cbac4",
+   "remarks": ""
+  },
+  {
+   "filename": "page-186.jpeg",
+   "sha256": "6478fcd3bc14cb1fdaee1197f9c87d58b90132f33313b9cda96e4873c6b19d09",
+   "byte_size": 6033996,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "page",
+    "page_number": 186,
+    "label": null,
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "6478fcd3bc14cb1fdaee1197f9c87d58b90132f33313b9cda96e4873c6b19d09",
+   "remarks": ""
+  },
+  {
+   "filename": "page-187.jpeg",
+   "sha256": "87aca72f58e3ed795233645bf1175d1fdd9dc3ae52bbc0b519da5aaecc31c7fd",
+   "byte_size": 6288768,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "page",
+    "page_number": 187,
+    "label": null,
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "87aca72f58e3ed795233645bf1175d1fdd9dc3ae52bbc0b519da5aaecc31c7fd",
+   "remarks": ""
+  },
+  {
+   "filename": "page-188.jpeg",
+   "sha256": "92661d9dc8fea78e12643b6d5cf224d10c80882cd55b89a764e1f328d5ba792e",
+   "byte_size": 6203379,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "page",
+    "page_number": 188,
+    "label": null,
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "92661d9dc8fea78e12643b6d5cf224d10c80882cd55b89a764e1f328d5ba792e",
+   "remarks": ""
+  },
+  {
+   "filename": "page-189.jpeg",
+   "sha256": "81cfcc16edaf4bd22d0fba6320669818699f1980d2371ba3e1c34752455e3ec2",
+   "byte_size": 6209803,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "page",
+    "page_number": 189,
+    "label": null,
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "81cfcc16edaf4bd22d0fba6320669818699f1980d2371ba3e1c34752455e3ec2",
+   "remarks": ""
+  },
+  {
+   "filename": "page-190.jpeg",
+   "sha256": "723ae1540a5ff0fe34652021b2eef23ac15e4ef4773a181a95bd1b39add5fd36",
+   "byte_size": 5968727,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "page",
+    "page_number": 190,
+    "label": null,
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "723ae1540a5ff0fe34652021b2eef23ac15e4ef4773a181a95bd1b39add5fd36",
+   "remarks": ""
+  },
+  {
+   "filename": "page-190p1.jpeg",
+   "sha256": "bb29477af3510edef7e06f6eca83f7857f1ccdca4ced4fe368b5088bd1ee2687",
+   "byte_size": 11080825,
+   "width": 5096,
+   "height": 6600,
+   "colorspace": "sRGB",
+   "claimed_identity": {
+    "kind": "plate",
+    "page_number": null,
+    "label": null,
+    "linked_page": 190,
+    "plate_index": 1
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "bb29477af3510edef7e06f6eca83f7857f1ccdca4ced4fe368b5088bd1ee2687",
+   "remarks": ""
+  },
+  {
+   "filename": "page-190p2.jpeg",
+   "sha256": "6904e868ad7e46e0232651acb4e685989130ab8daa82e98dfc13a012070933e4",
+   "byte_size": 10027446,
+   "width": 5096,
+   "height": 6600,
+   "colorspace": "sRGB",
+   "claimed_identity": {
+    "kind": "plate",
+    "page_number": null,
+    "label": null,
+    "linked_page": 190,
+    "plate_index": 2
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "6904e868ad7e46e0232651acb4e685989130ab8daa82e98dfc13a012070933e4",
+   "remarks": ""
+  },
+  {
+   "filename": "preface-1.jpeg",
+   "sha256": "a0a9fbd8af28f377cedacf3ada1925eee1801a522dcac5db9eba909548e77ad5",
+   "byte_size": 6253903,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "front_matter",
+    "page_number": null,
+    "label": "preface-1",
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "a0a9fbd8af28f377cedacf3ada1925eee1801a522dcac5db9eba909548e77ad5",
+   "remarks": ""
+  },
+  {
+   "filename": "preface-2.jpeg",
+   "sha256": "6ef5797b4c03a0d245b23d880a67d5f0f7f1789aee24f3f167405f83f8bf6ebb",
+   "byte_size": 6029137,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "front_matter",
+    "page_number": null,
+    "label": "preface-2",
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "6ef5797b4c03a0d245b23d880a67d5f0f7f1789aee24f3f167405f83f8bf6ebb",
+   "remarks": ""
+  },
+  {
+   "filename": "titlepage.jpeg",
+   "sha256": "3809e74782922b34fcf89474c7acde4a6a4aa6681784d172e6d234d964e1883b",
+   "byte_size": 4904490,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "front_matter",
+    "page_number": null,
+    "label": "titlepage",
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "3809e74782922b34fcf89474c7acde4a6a4aa6681784d172e6d234d964e1883b",
+   "remarks": ""
+  },
+  {
+   "filename": "toc-1.jpeg",
+   "sha256": "c8b871888a3d667a9b552b404d999eedbfb638e777c458d237dc0e83e47cdb04",
+   "byte_size": 5490758,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "front_matter",
+    "page_number": null,
+    "label": "toc-1",
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "c8b871888a3d667a9b552b404d999eedbfb638e777c458d237dc0e83e47cdb04",
+   "remarks": ""
+  },
+  {
+   "filename": "toc-2.jpeg",
+   "sha256": "a69aee508f0b877acd2e068a15207f4956c9c6c99db8bfd68137af9d2b3da9a6",
+   "byte_size": 6313355,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "front_matter",
+    "page_number": null,
+    "label": "toc-2",
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "a69aee508f0b877acd2e068a15207f4956c9c6c99db8bfd68137af9d2b3da9a6",
+   "remarks": ""
+  },
+  {
+   "filename": "toc-3.jpeg",
+   "sha256": "4612d7434d4f2235555c84563234118a0b4273053f9cc731816f66005bebd67f",
+   "byte_size": 6402007,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "front_matter",
+    "page_number": null,
+    "label": "toc-3",
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "4612d7434d4f2235555c84563234118a0b4273053f9cc731816f66005bebd67f",
+   "remarks": ""
+  },
+  {
+   "filename": "toc-4.jpeg",
+   "sha256": "ddcd0adc53a1e68d203ad6bd380c9c28bb368c6103da4d71988a95a1e175d60c",
+   "byte_size": 5895192,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "front_matter",
+    "page_number": null,
+    "label": "toc-4",
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "ddcd0adc53a1e68d203ad6bd380c9c28bb368c6103da4d71988a95a1e175d60c",
+   "remarks": ""
+  },
+  {
+   "filename": "toc-5.jpeg",
+   "sha256": "77aa0b00dc5f6d1529d569f311fa7417d0ec6e403b22f8ef5373b8ceb9de4706",
+   "byte_size": 5377511,
+   "width": 4350,
+   "height": 6450,
+   "colorspace": "Gray",
+   "claimed_identity": {
+    "kind": "front_matter",
+    "page_number": null,
+    "label": "toc-5",
+    "linked_page": null,
+    "plate_index": null
+   },
+   "anomalies": [],
+   "review_status": "unreviewed",
+   "review_checksum": "77aa0b00dc5f6d1529d569f311fa7417d0ec6e403b22f8ef5373b8ceb9de4706",
+   "remarks": ""
+  }
+ ]
+}
