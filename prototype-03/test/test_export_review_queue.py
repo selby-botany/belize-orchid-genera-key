@@ -127,6 +127,30 @@ class QueueFromGeneraTest(unittest.TestCase):
         self.assertNotIn("named a different genus", rows[0]["detail"])
         self.assertIn("no genus header", rows[0]["detail"])
 
+    def test_numbered_species_list_unparsed_gets_its_own_detail_text(self) -> None:
+        # Distinct from both discontinuity and ambiguous_genus_boundary:
+        # a real header line was found, but suppressed because it named
+        # the genus already open (module docstring in parse_genus_page.py,
+        # finding 5) -- the detail text must say that, not claim a
+        # different genus or a missing running head.
+        records = [
+            {
+                "genus_id": "epidendrum",
+                "genus_name": "Epidendrum",
+                "fields": {},
+                "species": [],
+                "review_flags": [
+                    "numbered_species_list_unparsed:page-182.jpeg"
+                ],
+            }
+        ]
+        rows = MODULE.queue_from_genera(records)
+        self.assertEqual(len(rows), 1)
+        self.assertEqual(rows[0]["reason"], "numbered_species_list_unparsed")
+        self.assertNotIn("named a different genus", rows[0]["detail"])
+        self.assertNotIn("no genus header", rows[0]["detail"])
+        self.assertIn("internal species list", rows[0]["detail"])
+
     def test_uncertain_field_produces_a_row_scoped_to_its_owner(self) -> None:
         records = [
             {

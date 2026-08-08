@@ -159,6 +159,11 @@ def queue_from_genera(records: list[dict[str, Any]]) -> list[dict[str, Any]]:
                 "no genus header and no readable running head -- can't "
                 "confirm which genus's treatment this page continues"
             ),
+            "numbered_species_list_unparsed": (
+                "this genus numbers its own internal species list; the "
+                "page's text was captured as unsegmented continuation "
+                "prose rather than parsed into individual species"
+            ),
         }
         for flag in record.get("review_flags", []):
             reason, _, extra = flag.partition(":")

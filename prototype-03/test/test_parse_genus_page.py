@@ -80,6 +80,40 @@ class FindGenusHeadersTest(unittest.TestCase):
         lines = [_line("18 Psilochilus")]
         self.assertEqual(MODULE.find_genus_headers(lines), [])
 
+    def test_does_not_match_a_dichotomous_key_couplet(self) -> None:
+        # Real false positives from the full run (module docstring,
+        # finding 5): a key couplet has the same numbered/capitalized-word
+        # shape as a genus header, but descriptive prose in the author
+        # position gives it away.
+        lines = [
+            _line("1. Anther erect, or nearly so; pollinia soft."),
+            _line("12. Pollinia mealy, or pastelike ."),
+            _line("13. Plant terrestrial, erect, self-supporting."),
+        ]
+        self.assertEqual(MODULE.find_genus_headers(lines), [])
+
+    def test_matches_a_multi_word_author_citation_with_short_tokens(self) -> None:
+        # A longer, real author citation shouldn't be mistaken for prose
+        # just because it has several words.
+        lines = [_line("19. Epistephium R.O. Williams & Summerh.")]
+        matches = MODULE.find_genus_headers(lines)
+        self.assertEqual(len(matches), 1)
+        self.assertEqual(matches[0]["genus_name"], "Epistephium")
+
+    def test_does_not_match_a_terse_numeric_couplet_answer(self) -> None:
+        # Real residual false positives from the full run, found even
+        # after the prose-word fix (module docstring, finding 5): a
+        # couplet can answer with a bare count instead of prose, which has
+        # no long lowercase word for _PROSE_WORD_PATTERN to catch --
+        # "24. Pollinia 2" (page 10) and "70. Pollinia 2 or 4" (page 12).
+        # A real author citation always has at least one capital letter;
+        # these have none.
+        lines = [
+            _line("24. Pollinia 2"),
+            _line("70. Pollinia 2 or 4"),
+        ]
+        self.assertEqual(MODULE.find_genus_headers(lines), [])
+
 
 class CrossCheckRunningHeadTest(unittest.TestCase):
     """The running head is found by geometry, not by array position."""
@@ -311,6 +345,43 @@ class BuildGenusRecordsTest(unittest.TestCase):
         self.assertEqual(records[0]["extraction_status"], "needs_review")
         self.assertIn(
             "ambiguous_genus_boundary:synthetic-66.jpeg",
+            records[0]["review_flags"],
+        )
+
+    def test_numbered_species_list_does_not_open_a_second_genus_record(self) -> None:
+        # Real full-run case: Epidendrum ("one of the largest genera with
+        # several hundred" species, per its own page-181 text) numbers its
+        # own internal species list with the genus name repeated ("1.
+        # Epidendrum acuñae Dressler in Am. Orch. Soc. Bull. ..."), which
+        # is genuinely citation-shaped and so passes both header
+        # discriminators. Before this fix that produced a bogus second
+        # "genus 1 Epidendrum" record alongside the real "genus 70
+        # Epidendrum L." -- two records sharing one genus_id.
+        page_one = {
+            "source_image": "synthetic-181.jpeg",
+            "page_number": 181,
+            "lines": [
+                _line("70. Epidendrum L."),
+                _line("One of the largest genera with several hundred species."),
+            ],
+        }
+        page_two = {
+            "source_image": "synthetic-182.jpeg",
+            "page_number": 182,
+            "lines": [
+                _line("70 Epidendrum", mid_y=0.04),
+                _line("1. Epidendrum acuñae Dressler in Am. Orch. Soc."),
+                _line("Bull. 28: 358 (1959). Type: Cuba, C. Wright 3333."),
+            ],
+        }
+        records, discontinuities = MODULE.build_genus_records([page_one, page_two])
+        self.assertEqual(discontinuities, [])
+        self.assertEqual(len(records), 1)
+        self.assertEqual(records[0]["genus_id"], "epidendrum")
+        self.assertEqual(records[0]["source_pages"], [181, 182])
+        self.assertEqual(records[0]["extraction_status"], "needs_review")
+        self.assertIn(
+            "numbered_species_list_unparsed:synthetic-182.jpeg",
             records[0]["review_flags"],
         )
 

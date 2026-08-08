@@ -40,6 +40,19 @@ findings from that real page shaped the design directly:
    as silent-continue territory, because the first version of this code
    did silently continue and a real synonymy block for Clowesia vanished
    from the pilot run with no trace anywhere.
+5. The book's dichotomous key to genera (pages 9-12) is typeset as
+   "<number>. <Capitalized word> <descriptive prose>" -- structurally
+   identical to a genus header. The full 190-page run (which the pilot's
+   sample didn't happen to include) produced 481 "genus" records for 108
+   real genera before this was caught; see `_PROSE_WORD_PATTERN`. A second
+   pass on the same defect class found two residual cases even after that
+   fix: a terse comparative couplet answer with no prose word at all
+   ("24. Pollinia 2"; see `_AUTHOR_CAPITAL_PATTERN`), and a large genus
+   (Epidendrum) that numbers its own internal species list with the full
+   genus name repeated, which is genuinely citation-shaped text and so
+   passes both header discriminators -- caught instead by checking
+   whether the "new" genus name is the one already open (`build_genus_
+   records`).
 """
 
 from __future__ import annotations
@@ -102,6 +115,29 @@ SUMMARY_FIELD = "SUMMARY"
 # The period after the number is the discriminator against the running
 # head "18 Psilochilus", which has no period (finding 2).
 GENUS_HEADER_PATTERN = re.compile(r"^(\d+)\.\s+([A-Z][A-Za-z-]+)\s+(.+)$")
+
+# A real author citation ("Barb. Rodr.", "Kunth", "R.O. Williams & Summerh.")
+# is a handful of capitalized abbreviations/surnames; a dichotomous-key
+# couplet ("1. Anther erect, or nearly so; pollinia soft...") has the same
+# leading "<number>. Capitalized-word" shape but is followed by ordinary
+# descriptive prose. Found on the real full run: pages 9-10 (the book's
+# genus key) produced 373 spurious "genus" records this way, on top of the
+# real 108 -- every one of them had a common lowercase word in the author
+# position ("erect", "mealy", "terrestrial", ...), which no real author
+# citation does. Not airtight (an unusually long author string with a
+# stray lowercase word would still be rejected), but effective on every
+# false positive actually observed.
+_PROSE_WORD_PATTERN = re.compile(r"\b[a-z]{4,}\b")
+
+# A second, independent discriminator against the same key-couplet problem:
+# some couplets answer with terse comparative text that has no long
+# lowercase word at all ("24. Pollinia 2" / "70. Pollinia 2 or 4", found on
+# the real full run on pages 10 and 12 -- both still present after
+# _PROSE_WORD_PATTERN alone). A real author citation always contains at
+# least one capitalized surname/abbreviation; a couplet's numeric-only
+# answer never does. Required in addition to, not instead of,
+# _PROSE_WORD_PATTERN -- neither alone catches every case observed.
+_AUTHOR_CAPITAL_PATTERN = re.compile(r"[A-Z]")
 
 # The informative running-head variant: "<number> <Genus>", no period.
 RUNNING_HEAD_PATTERN = re.compile(r"^(\d+)\s+([A-Z][A-Za-z-]+)$")
@@ -204,6 +240,14 @@ def split_into_sentences(paragraph: str) -> list[str]:
 def find_genus_headers(lines: list[dict[str, Any]]) -> list[dict[str, Any]]:
     """Find numbered genus header lines among a page's OCR lines.
 
+    Excludes dichotomous-key couplets, which share the same
+    "<number>. Capitalized-word ..." shape as a real genus header (module
+    comments on `_PROSE_WORD_PATTERN` and `_AUTHOR_CAPITAL_PATTERN`) -- a
+    match is only kept when the text after the leading word reads like an
+    author citation: no long lowercase prose word, and at least one
+    capital letter (a couplet's terse numeric answer, e.g. "2 or 4", has
+    neither prose nor a capital).
+
     Args:
         lines: Per-line OCR records (`text`, `confidence`, ...).
     Returns:
@@ -215,12 +259,17 @@ def find_genus_headers(lines: list[dict[str, Any]]) -> list[dict[str, Any]]:
         match = GENUS_HEADER_PATTERN.match(line["text"].strip())
         if not match:
             continue
+        author = match.group(3).strip()
+        if _PROSE_WORD_PATTERN.search(author):
+            continue
+        if not _AUTHOR_CAPITAL_PATTERN.search(author):
+            continue
         matches.append(
             {
                 "index": index,
                 "genus_number": match.group(1),
                 "genus_name": match.group(2),
-                "author": match.group(3).strip(),
+                "author": author,
                 "confidence": line["confidence"],
             }
         )
@@ -449,6 +498,36 @@ def build_genus_records(pages: list[dict[str, Any]]) -> tuple[list[dict[str, Any
         lines = [dict(line, source_image=page["source_image"]) for line in page["lines"]]
         headers = find_genus_headers(lines)
         running_head = cross_check_running_head(lines)
+
+        # A header-shaped line whose genus name repeats the genus already
+        # open is not a new genus -- a book does not redeclare a genus
+        # mid-treatment. Found on the real full run: Epidendrum ("one of
+        # the largest genera with several hundred" species, per its own
+        # page-181 text) numbers its own species list ("1. Epidendrum
+        # acuñae Dressler in Am. Orch. Soc. Bull. ..."), which is
+        # genuinely citation-shaped (passes both _PROSE_WORD_PATTERN and
+        # _AUTHOR_CAPITAL_PATTERN) because it really is a citation -- just
+        # for the species, not the genus. `find_genus_headers` has no
+        # continuation state to catch this itself, so it is filtered here,
+        # where `open_record` already lives, rather than by trying to
+        # parse the numbered species list itself (out of scope for this
+        # prototype -- the page's text is still fully captured, just as
+        # unsegmented genus-level continuation prose rather than
+        # per-species fields; flagged so a reviewer knows why).
+        if open_record is not None and headers:
+            same_genus = [
+                h for h in headers
+                if h["genus_name"].lower() == open_record["genus_id"]
+            ]
+            if same_genus:
+                headers = [
+                    h for h in headers
+                    if h["genus_name"].lower() != open_record["genus_id"]
+                ]
+                open_record["extraction_status"] = "needs_review"
+                open_record["review_flags"].append(
+                    f"numbered_species_list_unparsed:{page['source_image']}"
+                )
 
         if headers:
             for position, header in enumerate(headers):
