@@ -12,6 +12,13 @@
 // pretty array, so a partial run is still readable and a large run never
 // needs the whole result set in memory at once.
 //
+// PageResult carries both a joined `text` string (for a human skimming the
+// output) and the underlying `lines` array with per-line confidence and
+// geometry -- Stage D's field segmentation works line-by-line and needs
+// that granularity preserved in the persisted JSON, not just folded into
+// one string (data document, §4). Field names are written snake_case
+// (JSONEncoder's `.convertToSnakeCase`) to match that document's schema.
+//
 // Language correction is disabled deliberately: this book is full of Latin
 // binomials and author abbreviations that a language model would "correct"
 // into ordinary English, silently corrupting the transcription.
@@ -48,12 +55,13 @@ struct Thresholds {
 }
 
 struct PageResult: Codable {
-    let image: String
+    let sourceImage: String
     let lineCount: Int
     let meanConfidence: Double
     let lowConfidenceCount: Int
     let columns: Int
     let text: String
+    let lines: [Line]
     let acceptStatus: String
     let rejectReasons: [String]
 }
@@ -174,23 +182,25 @@ for path in paths {
     let confidences = ordered.map { $0.confidence }
     let mean = confidences.isEmpty ? 0 : confidences.reduce(0, +) / Double(confidences.count)
     var result = PageResult(
-        image: url.lastPathComponent,
+        sourceImage: url.lastPathComponent,
         lineCount: ordered.count,
         meanConfidence: mean,
         lowConfidenceCount: confidences.filter { $0 < thresholds.lowConfidenceCutoff }.count,
         columns: Set(ordered.map { $0.column }).count,
         text: ordered.map { $0.text }.joined(separator: "\n"),
+        lines: ordered,
         acceptStatus: "accepted",
         rejectReasons: []
     )
     let (accept, reasons) = acceptPage(result, thresholds: thresholds)
     result = PageResult(
-        image: result.image,
+        sourceImage: result.sourceImage,
         lineCount: result.lineCount,
         meanConfidence: result.meanConfidence,
         lowConfidenceCount: result.lowConfidenceCount,
         columns: result.columns,
         text: result.text,
+        lines: result.lines,
         acceptStatus: accept ? "accepted" : "rejected",
         rejectReasons: reasons
     )
@@ -200,13 +210,14 @@ for path in paths {
 if wantJSON {
     let encoder = JSONEncoder()
     encoder.outputFormatting = [.sortedKeys]
+    encoder.keyEncodingStrategy = .convertToSnakeCase
     for result in results {
         let data = try encoder.encode(result)
         print(String(data: data, encoding: .utf8)!)
     }
 } else {
     for result in results {
-        print("=== \(result.image)  lines=\(result.lineCount) "
+        print("=== \(result.sourceImage)  lines=\(result.lineCount) "
               + "columns=\(result.columns) "
               + "mean_conf=\(String(format: "%.3f", result.meanConfidence)) "
               + "low_conf=\(result.lowConfidenceCount) "

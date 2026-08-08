@@ -38,9 +38,9 @@ printf '%s\n' "${output}" | "${jq}" -e . > /dev/null || {
     exit 1
 }
 
-# Every documented PageResult field is present.
-for field in image lineCount meanConfidence lowConfidenceCount columns \
-             text acceptStatus rejectReasons; do
+# Every documented PageResult field is present (data document, §4).
+for field in source_image line_count mean_confidence low_confidence_count \
+             columns text lines accept_status reject_reasons; do
     printf '%s\n' "${output}" | "${jq}" -e "has(\"${field}\")" > /dev/null || {
         echo "FAIL: missing field ${field}" >&2
         exit 1
@@ -54,11 +54,24 @@ columns="$(printf '%s\n' "${output}" | "${jq}" '.columns')"
     exit 1
 }
 
-# The fixture is real body text -- OCR must find some of it.
-line_len_count="$(printf '%s\n' "${output}" | "${jq}" '.lineCount')"
-[[ "${line_len_count}" -gt 0 ]] || {
-    echo "FAIL: lineCount=0 on a fixture with real text" >&2
+# The fixture is real body text -- OCR must find some of it, and each
+# line record must carry the per-line fields Stage D segments on.
+line_count_value="$(printf '%s\n' "${output}" | "${jq}" '.line_count')"
+[[ "${line_count_value}" -gt 0 ]] || {
+    echo "FAIL: line_count=0 on a fixture with real text" >&2
     exit 1
 }
+lines_array_length="$(printf '%s\n' "${output}" | "${jq}" '.lines | length')"
+[[ "${lines_array_length}" -eq "${line_count_value}" ]] || {
+    echo "FAIL: lines array length (${lines_array_length}) != line_count (${line_count_value})" >&2
+    exit 1
+}
+for field in text confidence column min_x mid_y; do
+    printf '%s\n' "${output}" \
+        | "${jq}" -e ".lines[0] | has(\"${field}\")" > /dev/null || {
+        echo "FAIL: lines[0] missing field ${field}" >&2
+        exit 1
+    }
+done
 
-echo "PASS: ocr_page.swift produced well-formed output for ${line_len_count} lines"
+echo "PASS: ocr_page.swift produced well-formed output for ${line_count_value} lines"
