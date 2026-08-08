@@ -32,6 +32,14 @@ findings from that real page shaped the design directly:
    paragraph, and OCR line breaks fall mid-sentence and mid-word
    (hyphenated). Finding them requires dehyphenating and rejoining the
    paragraph, then splitting on sentence boundaries, not scanning lines.
+4. A running head is not always one OCR line. On the real pilot page 66,
+   Vision split "28 Clowesia" into two separate line observations ("28"
+   and "Clowesia"), which defeats a pattern matched against one line's
+   full text. When that happens there is no continuity signal at all --
+   this is treated as a fact to surface (`ambiguous_genus_boundary`), not
+   as silent-continue territory, because the first version of this code
+   did silently continue and a real synonymy block for Clowesia vanished
+   from the pilot run with no trace anywhere.
 """
 
 from __future__ import annotations
@@ -490,11 +498,26 @@ def build_genus_records(pages: list[dict[str, Any]]) -> tuple[list[dict[str, Any
 
         # No header on this page: either a continuation of the open
         # record, or the page has no genus content at all (index pages,
-        # illustrations). Only treat it as a continuation when the running
-        # head actively confirms it -- an absent or bare-folio running
-        # head is not evidence either way, so nothing is merged on
-        # silence.
-        if open_record is None or running_head is None:
+        # illustrations). Only merge as a continuation when the running
+        # head actively confirms it.
+        if open_record is None:
+            continue
+
+        if running_head is None:
+            # No informative running head -- found on the real pilot page
+            # 66, where Vision split "28 Clowesia" into two separate line
+            # observations ("28" and "Clowesia"), neither of which matches
+            # the combined "<number> <Genus>" pattern. A page with
+            # substantive content and no way to confirm whose treatment it
+            # continues is not silently skipped: that produced a genuine
+            # data loss during the pilot run (a real synonymy block for
+            # Clowesia vanished with no trace anywhere). Flagged with
+            # doc4's own anticipated vocabulary term instead.
+            if len(_filter_furniture(lines)) >= 3:
+                open_record["extraction_status"] = "needs_review"
+                open_record["review_flags"].append(
+                    f"ambiguous_genus_boundary:{page['source_image']}"
+                )
             continue
 
         if running_head["genus_name"] == open_record["genus_name"]:

@@ -153,18 +153,23 @@ def queue_from_genera(records: list[dict[str, Any]]) -> list[dict[str, Any]]:
         genus_id = record["genus_id"]
         source_image = record["fields"].get("SUMMARY", {}).get("source_image", "")
 
+        review_flag_details = {
+            "discontinuity": "running head named a different genus than expected",
+            "ambiguous_genus_boundary": (
+                "no genus header and no readable running head -- can't "
+                "confirm which genus's treatment this page continues"
+            ),
+        }
         for flag in record.get("review_flags", []):
             reason, _, extra = flag.partition(":")
+            explanation = review_flag_details.get(reason, "flagged during parsing")
             rows.append(
                 _new_row(
                     item_id=f"parse_ambiguous:{genus_id}:{flag}",
                     kind="parse_ambiguous",
                     source_image=extra or source_image,
                     reason=reason,
-                    detail=(
-                        f"{record['genus_name']}: running head named a "
-                        f"different genus than expected"
-                    ),
+                    detail=f"{record['genus_name']}: {explanation}",
                 )
             )
 

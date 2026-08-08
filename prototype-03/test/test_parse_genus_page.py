@@ -282,6 +282,56 @@ class BuildGenusRecordsTest(unittest.TestCase):
         self.assertTrue(records[0]["review_flags"])
         self.assertNotIn("HABITAT", records[0]["fields"])
 
+    def test_split_running_head_flags_ambiguous_boundary_not_silent_drop(self) -> None:
+        # Real pilot-page-66 case: Vision split "28 Clowesia" into two
+        # separate line observations, so neither matches the combined
+        # "<number> <Genus>" pattern -- no continuity signal survives.
+        page_one = {
+            "source_image": "synthetic-65.jpeg",
+            "page_number": 65,
+            "lines": [
+                _line("28. Clowesia Testauthor"),
+                _line("Roots adventitious."),
+            ],
+        }
+        page_two = {
+            "source_image": "synthetic-66.jpeg",
+            "page_number": 66,
+            "lines": [
+                _line("28", mid_y=0.04),
+                _line("Clowesia", mid_y=0.041),
+                _line("Catasetum russellianum Hook. in Bot. Mag."),
+                _line("Catasetum calceolatum Lem. in Jard."),
+            ],
+        }
+        records, discontinuities = MODULE.build_genus_records([page_one, page_two])
+        self.assertEqual(discontinuities, [])
+        self.assertEqual(len(records), 1)
+        self.assertEqual(records[0]["source_pages"], [65])
+        self.assertEqual(records[0]["extraction_status"], "needs_review")
+        self.assertIn(
+            "ambiguous_genus_boundary:synthetic-66.jpeg",
+            records[0]["review_flags"],
+        )
+
+    def test_sparse_no_header_page_without_running_head_is_not_flagged(self) -> None:
+        # A near-empty page (an illustration with a caption fragment, say)
+        # isn't worth a review item on its own -- distinct from the
+        # substantive-content case above.
+        page_one = {
+            "source_image": "synthetic-70.jpeg",
+            "page_number": 70,
+            "lines": [_line("5. Epsilon Testauthor"), _line("Roots adventitious.")],
+        }
+        page_two = {
+            "source_image": "synthetic-71.jpeg",
+            "page_number": 71,
+            "lines": [_line("Fig. 5.")],
+        }
+        records, _ = MODULE.build_genus_records([page_one, page_two])
+        self.assertEqual(records[0]["extraction_status"], "complete")
+        self.assertEqual(records[0]["review_flags"], [])
+
 
 if __name__ == "__main__":
     unittest.main()

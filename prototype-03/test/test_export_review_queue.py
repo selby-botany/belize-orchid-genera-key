@@ -105,6 +105,27 @@ class QueueFromGeneraTest(unittest.TestCase):
         self.assertEqual(rows[0]["kind"], "parse_ambiguous")
         self.assertEqual(rows[0]["reason"], "discontinuity")
         self.assertEqual(rows[0]["source_image"], "page-021.jpeg")
+        self.assertIn("running head named a different genus", rows[0]["detail"])
+
+    def test_ambiguous_genus_boundary_gets_its_own_detail_text(self) -> None:
+        # Distinct from discontinuity: no running head was found at all,
+        # so the row must not claim one "named a different genus" --
+        # found as a real bug during the pilot run, where both cases
+        # shared one (wrong, for this one) detail message.
+        records = [
+            {
+                "genus_id": "clowesia",
+                "genus_name": "Clowesia",
+                "fields": {},
+                "species": [],
+                "review_flags": ["ambiguous_genus_boundary:page-066.jpeg"],
+            }
+        ]
+        rows = MODULE.queue_from_genera(records)
+        self.assertEqual(len(rows), 1)
+        self.assertEqual(rows[0]["reason"], "ambiguous_genus_boundary")
+        self.assertNotIn("named a different genus", rows[0]["detail"])
+        self.assertIn("no genus header", rows[0]["detail"])
 
     def test_uncertain_field_produces_a_row_scoped_to_its_owner(self) -> None:
         records = [
