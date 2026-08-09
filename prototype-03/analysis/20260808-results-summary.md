@@ -26,9 +26,9 @@ given fact.
   flowering season, notes, ...) the pipeline could confidently attribute.
   Every field carries the page image it came from and a confidence score
   — nothing in `analysis/genera.jsonl` is unsourced.
-- **51 of the 69** genus records are complete: no open questions, no
+- **59 of the 69** genus records are complete: no open questions, no
   flags.
-- **18 of the 69** carry at least one review flag (listed by name below)
+- **10 of the 69** carry at least one review flag (listed by name below)
   — not defects, but places where the pipeline found something it could
   not confidently resolve on its own, and said so rather than guessing.
 - The rendered document a person actually reads is
@@ -38,24 +38,34 @@ given fact.
 ## What still needs a human look
 
 `manifest/review_queue.csv` lists every item, one row per issue, each
-with a plain-language reason. As of this run: **114 open rows**.
+with a plain-language reason. As of this run: **101 open rows**.
 
 | Category | Count | What it means |
 | --- | --- | --- |
-| `uncertain_field` | 84 | A sentence was captured but the pipeline couldn't confidently label which field it belongs to (it's filed under a generic "SUMMARY" bucket instead). The text is present, just not sorted. |
-| `ambiguous_genus_boundary` | 13 | A page had real content and an open genus record, but neither a genus header nor a readable running head to confirm which genus it belongs to. Filed under the genus that was open going in — flagged so a person can confirm it. |
+| `uncertain_field` | 80 | A sentence was captured but the pipeline couldn't confidently label which field it belongs to (it's filed under a generic "SUMMARY" bucket instead). The text is present, just not sorted. |
 | `discontinuity` | 8 | A page's running head named a *different* genus than the one the pipeline had open. Something changed between pages that the pipeline couldn't account for on its own (a skipped page, a page out of order, or a genus treatment the pipeline mis-bounded). |
+| `ambiguous_genus_boundary` | 4 | A page had real content and an open genus record, but neither a genus header nor a readable running head to confirm which genus it belongs to. Filed under the genus that was open going in — flagged so a person can confirm it. |
 | `image_anomaly` | 4 | A source file itself has a naming or size problem (see below). |
 | `ocr_reject` | 4 | A page's text was too sparse or too low-confidence to accept (largely the 2 non-text plates, counted twice for two different reasons each). |
 | `numbered_species_list_unparsed` | 1 | Epidendrum, a genus with "several hundred" species per the book's own text, numbers its own internal species list. The pipeline correctly recognized this is still Epidendrum (not a separate genus) but did not attempt to parse the individual numbered species out of it — that would need its own dedicated logic, out of scope for this pass. The genus's full text is captured; it's just not split by species. |
 
-The 18 genus records carrying a flag, by name: Corymborkis, Pelexia,
-Liparis, Galeandra, Clowesia, Cycnoches, Huntleya, Xylobium, Maxillaria,
-Mormolyca, Ionopsis, Leucohyle, Psygmorchis, Bletia, Arpophyllum,
-Cattleya, Dimerandra, Epidendrum. Most (13 of 18) carry exactly one
-`ambiguous_genus_boundary` or `discontinuity` flag against a single page
-— a small, specific thing to check, not a wholesale re-review of the
-genus.
+The 10 genus records carrying a flag, by name: Arpophyllum, Corymborkis,
+Cycnoches, Epidendrum, Galeandra, Huntleya, Ionopsis, Liparis, Maxillaria,
+Mormolyca. Most carry exactly one `ambiguous_genus_boundary` or
+`discontinuity` flag against a single page — a small, specific thing to
+check, not a wholesale re-review of the genus.
+
+A note on `uncertain_field`, the largest category (80 rows): a second
+pass on the underlying pipeline found that a real share of what used to
+land in a genus's generic `SUMMARY` bucket was not unattributed McLeish
+prose at all, but plate-caption and photo-index text that had never been
+taught to the parser as page furniture — see
+`prototype-03/bin/parse_genus_page.py`'s module docstring, finding 7, for
+the detail. That fix (committed separately) cut the number of genus
+records affected from 36 of 65 down to 9 of 65; those 9 are documented,
+known residual cases (multi-line caption fragments split across a page
+boundary in a way the current furniture filter doesn't yet catch), not
+newly discovered gaps.
 
 ## Files that needed a closer look (Stage A)
 
@@ -88,7 +98,7 @@ without a trace.
 - `analysis/mcleish.genera.md` — the readable corpus.
 - `analysis/genera.jsonl` — the same data, machine-readable, with full
   provenance per field.
-- `manifest/review_queue.csv` — the 114 open items above; each row can be
+- `manifest/review_queue.csv` — the 101 open items above; each row can be
   marked `resolved` with a `resolution`/`resolved_by`/`resolved_date` and
   that resolution will be carried forward automatically the next time the
   pipeline runs.
