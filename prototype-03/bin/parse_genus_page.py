@@ -109,6 +109,22 @@ findings from that real page shaped the design directly:
    content` -- stopping the silent trust violation (a `complete` record
    with zero flags containing objectively wrong facts) without guessing
    at a repair the evidence doesn't fully support.
+9. Large, species-rich genera number their species list instead of
+   repeating the bare genus name ("1. Epidendrum acuñae Dressler in Am.
+   Orch. Soc. Bull. ...", "10. Habenaria quinqueseta (Michx.) Sw., Adnot.
+   Bot.: 46 (1829)."; confirmed on real full-run text for Dichaea,
+   Epidendrum, and Habenaria). `find_species_entries` previously only
+   matched the bare form; the numbered form fell through entirely, and
+   for Epidendrum specifically it also collided with the genus-header
+   pattern (finding 5's `_PROSE_WORD_PATTERN`/`_AUTHOR_CAPITAL_PATTERN`
+   fix only suppresses that false hit, it doesn't parse the list).
+   `_numbered_species_header_pattern` matches it directly, searched
+   alongside the bare pattern. A key couplet's abbreviated answer ("7. D.
+   panamensis", "9. H. novemfida") never repeats the full genus name, so
+   it doesn't collide with this; requiring text after the epithet also
+   rejects a bare, citation-less OCR artifact ("156. Epidendrum acuqae",
+   page 182 -- a typo'd duplicate of species 1 with nothing following it
+   on the line, not a genuine 156th entry).
 """
 
 from __future__ import annotations
@@ -223,6 +239,23 @@ TRIBE_HEADING_PATTERN = re.compile(r"^(TRIBE|SUBTRIBE)\s+.+$")
 # (requirements, §4 item 6).
 def _species_header_pattern(genus_name: str) -> re.Pattern[str]:
     return re.compile(rf"^{re.escape(genus_name)}\s+([a-z][a-z-]+)\s+(.+)$")
+
+
+# A numbered species entry: "1. Epidendrum acuñae Dressler in Am. Orch.
+# Soc. Bull. ...", "10. Habenaria quinqueseta (Michx.) Sw., Adnot. Bot.:
+# 46 (1829)." -- the shape large, species-rich genera use instead of the
+# bare form above (confirmed on real full-run text: Dichaea, Epidendrum,
+# Habenaria all number their species this way; module docstring finding
+# 9). Requires the genus name in full, which is what already lets
+# `find_genus_headers` tell this apart from a dichotomous-key couplet's
+# abbreviated answer ("7. D. panamensis", "9. H. novemfida" -- never the
+# full name). Requiring text after the epithet also rejects a bare,
+# citation-less fragment like the real "156. Epidendrum acuqae" (page
+# 182, an isolated OCR artifact duplicating species 1's epithet with a
+# typo, not a genuine 156th entry) -- there is nothing on that line past
+# the epithet for `(.+)$` to match.
+def _numbered_species_header_pattern(genus_name: str) -> re.Pattern[str]:
+    return re.compile(rf"^\d+\.\s+{re.escape(genus_name)}\s+([a-z][a-z-]+)\s+(.+)$")
 
 
 # Short abbreviations that precede a "." without ending a sentence, drawn
@@ -518,7 +551,12 @@ def find_species_entries(
     A species entry is recognized only when its header line repeats the
     owning genus's name verbatim (module docstring, requirements §4 item
     6) -- this is what distinguishes it from body prose that happens to
-    start with a capitalized word ("Plant terrestrial...").
+    start with a capitalized word ("Plant terrestrial..."). Both the bare
+    form ("Psilochilus macrophyllus ...") and the numbered form used by
+    large genera ("1. Epidendrum acuñae ...", module docstring finding 9)
+    are searched for and merged by position -- a genus can in principle
+    use either, and mixing them within one genus is treated as a real
+    possibility, not assumed away.
 
     A species block runs to the next species header (or `end`) -- it is
     *not* cut short at a FIELD_LABEL line. On the real pilot page,
@@ -552,12 +590,15 @@ def find_species_entries(
         header found, or None if there are none -- the boundary where the
         genus's own diagnostic paragraph ends).
     """
-    pattern = _species_header_pattern(genus_name)
+    bare_pattern = _species_header_pattern(genus_name)
+    numbered_pattern = _numbered_species_header_pattern(genus_name)
     headers = []
     for index in range(start, end):
-        match = pattern.match(lines[index]["text"].strip())
+        text = lines[index]["text"].strip()
+        match = bare_pattern.match(text) or numbered_pattern.match(text)
         if match:
             headers.append((index, match.group(1), match.group(2)))
+    headers.sort(key=lambda header: header[0])
 
     if not headers:
         return [], None

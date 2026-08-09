@@ -317,6 +317,62 @@ class FindSpeciesEntriesTest(unittest.TestCase):
         self.assertEqual(species[1]["_start"], 5)
         self.assertEqual(species[1]["_end"], len(lines))
 
+    def test_numbered_species_headers_are_recognized(self) -> None:
+        # Real full-run text, Dichaea (page-074.jpeg through page-078.jpeg):
+        # large, species-rich genera number their species list instead of
+        # using the bare "Genus epithet ..." form (module docstring
+        # finding 9).
+        lines = [
+            _line("1. Dichaea brachypoda Rchb. f. in Beitr. Orch."),
+            _line("Plant epiphytic, often adhering to tree trunk."),
+            _line("2. Dichaea glauca (Sw.) Lindl., Gen. Sp. Orch. Pl.:"),
+            _line("Plant epiphytic, small, hanging."),
+        ]
+        species, first_index = MODULE.find_species_entries(
+            lines, "Dichaea", 0, len(lines)
+        )
+        self.assertEqual(len(species), 2)
+        self.assertEqual(species[0]["species_name"], "Dichaea brachypoda")
+        self.assertEqual(species[1]["species_name"], "Dichaea glauca")
+        self.assertEqual(first_index, 0)
+
+    def test_numbered_species_header_does_not_match_a_key_couplet_answer(self) -> None:
+        # Real full-run text: key-couplet answers use the abbreviated
+        # genus form ("7. D. panamensis", "9. H. novemfida"), never the
+        # full genus name -- these must not be mistaken for species
+        # headers.
+        lines = [_line("7. D. panamensis"), _line("9. H. novemfida")]
+        species, first_index = MODULE.find_species_entries(
+            lines, "Dichaea", 0, len(lines)
+        )
+        self.assertEqual(species, [])
+        self.assertIsNone(first_index)
+
+    def test_numbered_species_header_rejects_a_citationless_fragment(self) -> None:
+        # Real full-run artifact, page-182.jpeg: "156. Epidendrum acuqae"
+        # is an isolated OCR fragment (a typo'd duplicate of species 1's
+        # epithet) with no citation text following it on the line -- not
+        # a genuine 156th species. Requiring trailing text after the
+        # epithet rejects it.
+        lines = [_line("156. Epidendrum acuqae")]
+        species, first_index = MODULE.find_species_entries(
+            lines, "Epidendrum", 0, len(lines)
+        )
+        self.assertEqual(species, [])
+        self.assertIsNone(first_index)
+
+    def test_bare_and_numbered_forms_can_be_mixed_within_one_genus(self) -> None:
+        lines = [
+            _line("Alpha minor (Test) Fakeauthor."),
+            _line("Plant small."),
+            _line("2. Alpha major Fakeauthor, Some Journal 1: 1 (1900)."),
+            _line("Plant large."),
+        ]
+        species, _ = MODULE.find_species_entries(lines, "Alpha", 0, len(lines))
+        self.assertEqual(len(species), 2)
+        self.assertEqual(species[0]["species_name"], "Alpha minor")
+        self.assertEqual(species[1]["species_name"], "Alpha major")
+
 
 class BuildGenusRecordsTest(unittest.TestCase):
     """Genus records are stitched across pages and never silently merged."""
