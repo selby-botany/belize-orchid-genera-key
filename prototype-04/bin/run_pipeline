@@ -1,0 +1,117 @@
+#!/usr/bin/env bash
+# Run prototype-04's key-generation pipeline: Stage C (matrix assembly)
+# through Stage F (review queue).
+#
+# Usage:
+#   prototype-04/bin/run_pipeline [--pilot GENUS_ID...]
+#
+# With no arguments, every genus in prototype-03/analysis/genera.jsonl
+# gets a matrix row and the key is built over all of them. With --pilot,
+# Phase 1's genus list is filtered down to just the named genus_ids
+# before Stage C runs, so Stages C-F all operate on that smaller set
+# end to end -- a pilot run exercises exactly the code path the full run
+# will, at a scale small enough to inspect by hand.
+#
+# Unlike prototype 03's pilot mode, this phase has no stage that stays
+# unconditionally full-scope the way Stage A's audit did there -- Stage C
+# is the first stage here, so pilot mode narrows the whole pipeline, not
+# just the expensive middle of it. This is a simplification from
+# prototype 03's own design, made because there is no equivalent "always
+# audit everything" stage in this phase to preserve (detailed design
+# document, §9).
+#
+# Stage A (character vocabulary) and Stage B (character proposals) are
+# committed, curated inputs, not steps this script regenerates -- see
+# detailed design document, §2, for why Stage B in particular is an
+# authoring activity rather than a rerunnable script.
+
+set -o errexit
+set -o nounset
+set -o pipefail
+
+PROTOTYPE="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd -P)"
+ROOT="$(cd "${PROTOTYPE}/.." && pwd -P)"
+BIN="${PROTOTYPE}/bin"
+DATA="${PROTOTYPE}/data"
+MANIFEST="${PROTOTYPE}/manifest"
+ANALYSIS="${PROTOTYPE}/analysis"
+PYTHON="${ROOT}/bin/python3"
+PHASE1_GENERA="${ROOT}/prototype-03/analysis/genera.jsonl"
+
+# Write a genera.jsonl filtered down to the named genus_ids to stdout.
+# Args:
+#   Genus IDs to keep
+# Returns:
+#   0, writes filtered JSONL to stdout
+filter-genera() {
+    "${PYTHON}" -c '
+import json, sys
+wanted = set(sys.argv[2:])
+with open(sys.argv[1], encoding="utf-8") as handle:
+    for line in handle:
+        line = line.strip()
+        if not line:
+            continue
+        record = json.loads(line)
+        if record["genus_id"] in wanted:
+            print(line)
+' "${PHASE1_GENERA}" "$@"
+}
+
+# Run Stages C, D, E, F in order.
+# Args:
+#   Command-line arguments: [--pilot GENUS_ID...]
+# Returns:
+#   0 on success; exits non-zero (via errexit) on any stage's failure
+main() {
+    mkdir -p "${ANALYSIS}" "${MANIFEST}"
+
+    local genera_file="${PHASE1_GENERA}"
+    if [[ "${1:-}" == "--pilot" ]]; then
+        shift
+        [[ $# -gt 0 ]] || {
+            echo "--pilot requires at least one genus_id" >&2
+            exit 1
+        }
+        genera_file="${ANALYSIS}/.pilot-genera.jsonl"
+        filter-genera "$@" > "${genera_file}"
+        local kept
+        kept="$(wc -l < "${genera_file}" | tr -d ' ')"
+        [[ "${kept}" -eq $# ]] || {
+            echo "expected $# pilot genus_id(s), matched ${kept}" >&2
+            exit 1
+        }
+    fi
+
+    echo "== Stage C: matrix assembly =="
+    "${PYTHON}" "${BIN}/build_character_matrix.py" \
+        --genera "${genera_file}" \
+        --vocabulary "${DATA}/character_vocabulary.json" \
+        --proposals "${ANALYSIS}/character_proposals.jsonl" \
+        --output "${ANALYSIS}/character_matrix.jsonl"
+
+    echo "== Stage D: key generation =="
+    "${PYTHON}" "${BIN}/generate_key.py" \
+        --matrix "${ANALYSIS}/character_matrix.jsonl" \
+        --vocabulary "${DATA}/character_vocabulary.json" \
+        --json-out "${ANALYSIS}/genus_key.json" \
+        --markdown-out "${ANALYSIS}/genus_key.md"
+
+    echo "== Stage E: validation analytics =="
+    "${PYTHON}" "${BIN}/validate_key.py" \
+        --matrix "${ANALYSIS}/character_matrix.jsonl" \
+        --key "${ANALYSIS}/genus_key.json" \
+        --vocabulary "${DATA}/character_vocabulary.json" \
+        --json-out "${ANALYSIS}/validation_report.json" \
+        --markdown-out "${ANALYSIS}/validation_report.md"
+
+    echo "== Stage F: review queue =="
+    "${PYTHON}" "${BIN}/export_review_queue.py" \
+        --matrix "${ANALYSIS}/character_matrix.jsonl" \
+        --validation "${ANALYSIS}/validation_report.json" \
+        --output "${MANIFEST}/review_queue.csv"
+
+    rm -f "${ANALYSIS}/.pilot-genera.jsonl"
+}
+
+main "$@"
