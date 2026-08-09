@@ -146,6 +146,44 @@ findings from that real page shaped the design directly:
    pages), or to the genus's own fields if none is open yet -- the same
    "species-level facts belong to the species" rule finding 3 already
    established for a single page, extended across a multi-page span.
+10. Finding 8's detector only catches the tab-column collision by its
+   layout signature, which on the real full run turns out to be a
+   minority of the cross-genus swaps actually present. A record's own
+   ETYMOLOGY field is a far better witness, and needs no layout evidence
+   at all: an etymology *states the word its genus was coined from*, so
+   an etymology filed under the wrong genus convicts itself. Erythrodes'
+   record derived "corymbos (a corymb)" -- Corymborkis, whose real
+   species citations ("Corymborkis forcipigera") sat in the same record;
+   Coryanthes' derived "trigonos (three-)" (Trigonidium); Clowesia's
+   derived "kata (down)" plus a seta gloss (Catasetum, whose "Catasetum
+   integerrimum" citation was likewise present); Coelia's derived "harpe
+   (sickle)" (Arpophyllum); Malaxis' derived "liparos (greasy)"
+   (Liparis) -- that last one being exactly the page-55 Malaxis/Liparis/
+   Vanilla interleaving that finding 8's detector was documented as
+   unable to see. `flag_foreign_genus_etymology` runs this as a corpus-
+   wide comparison after all records are built, flagging six records
+   where the old detector found three, and naming the suspected real
+   owner rather than only raising a doubt. Ordinary prose is *not* read
+   this way: genus descriptions legitimately name their neighbours
+   ("differs from Epidendrum in ..."), and on the real run 33 of the 69
+   records mention another captured genus somewhere in their text, so a
+   bare mention carries no signal. Two deliberate limits: the owner
+   match must be a leading-edge one (a generic interior element like
+   "anthos" fits Spiranthes, Elleanthus and Epidanthus equally and
+   identifies none of them), and a self-match of any strength clears the
+   record. Of the 43 records carrying an etymology, 10 derive their own
+   name, 6 derive another captured genus's (the flags), 1 derives
+   nothing, and 26 derive neither. That last group is *not* flagged,
+   because it is a different defect and the evidence does not identify
+   an owner: most of it is a *species*-level etymology sitting under the
+   genus heading ("From the Latin maculatus (spotted)" under
+   Platythelys, whose species is P. maculata), which misplaces text
+   within a genus rather than across two; a few name a person whose
+   eponymous genus is outside the captured range (Barkeria under
+   Notylia); and at least one (Eulophia, from eu + lophos) is correctly
+   filed and merely falls outside what the self-match recognizes -- a
+   recall limit that costs nothing here, since it can only withhold a
+   flag, never raise a wrong one.
 """
 
 from __future__ import annotations
@@ -153,6 +191,7 @@ from __future__ import annotations
 import argparse
 import json
 import re
+import unicodedata
 from pathlib import Path
 from typing import Any
 
@@ -252,6 +291,40 @@ BOTTOM_BAND_MID_Y = 0.94
 # between one genus's last field and the next genus's numbered header;
 # left unhandled, one bled into the prior genus's NOTE field.
 TRIBE_HEADING_PATTERN = re.compile(r"^(TRIBE|SUBTRIBE)\s+.+$")
+
+# An ETYMOLOGY field names the word a genus name was coined from, and the
+# book prints that word immediately before its parenthesized gloss --
+# "From the Greek onkos (a pad or mass)", "From the Greek kaulos (stem)
+# and arthron (joint)". A "Named after <Person>" etymology carries the
+# same information in the eponym instead. Both are the raw material for
+# `flag_foreign_genus_etymology` (module docstring, finding 10).
+ETYMOLOGY_ROOT_PATTERN = re.compile(r"\b([A-Za-z]{3,})\s*\(")
+ETYMOLOGY_EPONYM_PATTERN = re.compile(
+    r"[Nn]amed after\s+((?:[A-Z][\w.'-]*\s*){1,4})"
+)
+
+# Transliteration equivalences between the Greek/Latin root as the book
+# spells it and the genus name coined from it: kyknos -> Cycnoches,
+# harpe -> Arpophyllum, stefos -> Epistephium. Applied left to right, so
+# digraphs collapse before the single-letter substitutions.
+_ROOT_EQUIVALENCES = (
+    ("ph", "f"),
+    ("th", "t"),
+    ("ch", "c"),
+    ("k", "c"),
+    ("y", "i"),
+    ("ae", "e"),
+    ("oe", "e"),
+)
+
+# How much of a root must coincide with a genus name before that genus is
+# named as the etymology's likely real owner. Four characters, or the
+# whole root bar a trailing inflection ("harpe"/"Arpophyllum" share only
+# "arp"), both hold on every real instance; three characters alone does
+# not -- on the real full run it additionally proposes maculatus ->
+# Macradenia, plani -> Platythelys, cornutus -> Corymborkis and bractea
+# -> Brassia, none of which is a real relationship.
+_MIN_OWNER_ROOT_PREFIX = 4
 
 # A lowercase epithet character class covering plain ASCII plus the
 # accented Latin-1 lowercase range (à-ö, ø-ÿ -- skips the ÷ division sign
@@ -700,6 +773,179 @@ def _has_embedded_tribe_heading_before_next_header(
     return False
 
 
+def _etymology_roots(text: str) -> list[str]:
+    """Collect the words an ETYMOLOGY field derives a genus name from.
+
+    Args:
+        text: An ETYMOLOGY field's text, as segmented.
+    Returns:
+        Every glossed root word ("onkos" in "onkos (a pad or mass)") and
+        every capitalized word of a "Named after ..." eponym, in the
+        order they appear. Empty when the field derives nothing.
+    """
+    roots = [match.group(1) for match in ETYMOLOGY_ROOT_PATTERN.finditer(text)]
+    for match in ETYMOLOGY_EPONYM_PATTERN.finditer(text):
+        roots.extend(
+            word for word in match.group(1).split()
+            if len(word) > 2 and word[0].isupper()
+        )
+    return roots
+
+
+def _normalize_root(word: str) -> str:
+    """Fold a root or genus name to a spelling the two can be compared in.
+
+    Args:
+        word: A root word, eponym, or genus name.
+    Returns:
+        Lowercase letters only, diacritics stripped, a leading silent "h"
+        dropped, and `_ROOT_EQUIVALENCES` applied.
+    """
+    folded = unicodedata.normalize("NFKD", word.lower())
+    folded = "".join(c for c in folded if not unicodedata.combining(c))
+    folded = re.sub(r"[^a-z]", "", folded)
+    if folded.startswith("h"):
+        folded = folded[1:]
+    for source, replacement in _ROOT_EQUIVALENCES:
+        folded = folded.replace(source, replacement)
+    return folded
+
+
+def _root_owner_score(root: str, genus_name: str) -> int:
+    """Score a root as evidence that `genus_name` is what it derives.
+
+    Deliberately stricter than `_root_self_score`: this score is what
+    names a *different* genus as an etymology's real owner, so it takes
+    only a leading-edge coincidence (the position a coined name draws its
+    first element from), never an interior one -- "anthos" sits inside
+    Spiranthes, Elleanthus and Epidanthus alike and identifies none of
+    them.
+
+    Args:
+        root: A root word or eponym from an ETYMOLOGY field.
+        genus_name: The candidate owning genus name.
+    Returns:
+        The shared prefix length when it reaches `_MIN_OWNER_ROOT_PREFIX`
+        or covers all but a trailing inflection of the root; 0 otherwise.
+    """
+    folded_root = _normalize_root(root)
+    folded_name = _normalize_root(genus_name)
+    if len(folded_root) < 4 or len(folded_name) < 3:
+        return 0
+    shared = _shared_prefix_length(folded_root, folded_name)
+    if shared >= _MIN_OWNER_ROOT_PREFIX or shared >= len(folded_root) - 1:
+        return shared
+    return 0
+
+
+def _root_self_score(root: str, genus_name: str) -> int:
+    """Score a root as evidence that it derives the genus it is filed under.
+
+    Looser than `_root_owner_score` on purpose: a compound name's second
+    element sits in the *interior* of the name it helps coin (Eulophia
+    from eu + lophos, Psygmorchis from psygma + orchis), and any such
+    match is enough to conclude the etymology is already where it belongs
+    -- the conservative outcome, since it suppresses a flag rather than
+    raising one.
+
+    Args:
+        root: A root word or eponym from an ETYMOLOGY field.
+        genus_name: The genus whose record the etymology is filed under.
+    Returns:
+        A positive score when the root plausibly derives `genus_name`;
+        0 otherwise.
+    """
+    folded_root = _normalize_root(root)
+    folded_name = _normalize_root(genus_name)
+    if len(folded_root) < 3 or len(folded_name) < 3:
+        return 0
+    shared = _shared_prefix_length(folded_root, folded_name)
+    if shared >= 3:
+        return shared
+    if len(folded_root) >= 4 and folded_root[:4] in folded_name:
+        return 4
+    return 0
+
+
+def _shared_prefix_length(first: str, second: str) -> int:
+    """Count the characters two strings agree on from their start.
+
+    Args:
+        first: Left string.
+        second: Right string.
+    Returns:
+        The length of the common leading run, 0 when they differ at once.
+    """
+    length = 0
+    while length < min(len(first), len(second)) and first[length] == second[length]:
+        length += 1
+    return length
+
+
+def flag_foreign_genus_etymology(records: list[dict[str, Any]]) -> None:
+    """Flag records whose ETYMOLOGY derives a *different* genus's name.
+
+    A mechanical form of the read-it-and-see scan that originally caught
+    Cranichis holding Habenaria's description (module docstring, findings
+    8 and 10). An etymology is self-verifying evidence in a way ordinary
+    description is not: it states the word its genus was coined from, so
+    a record filed under Coryanthes whose etymology derives "trigonos"
+    is reporting, in its own text, that the text belongs to Trigonidium.
+    Cross-genus reference in ordinary prose ("differs from Epidendrum
+    in ...") is common and harmless, which is why only the etymology --
+    never a bare mention elsewhere -- is read this way.
+
+    Args:
+        records: All genus records for the corpus, mutated in place. The
+            whole corpus is needed at once: the evidence is a *comparison*
+            against every other genus name captured in this run.
+    Returns:
+        None. Affected records gain a `foreign_genus_etymology:<image>:
+        <suspected owner>` review flag and `needs_review` status.
+    """
+    genus_names = sorted({record["genus_name"] for record in records})
+
+    for record in records:
+        etymology = record["fields"].get("ETYMOLOGY")
+        if not etymology:
+            continue
+        roots = _etymology_roots(etymology["text"])
+        if not roots:
+            continue
+
+        # How well the etymology accounts for the name it is filed under.
+        # Any self-match at all clears the record: the question asked here
+        # is only whether some *other* genus explains the text better.
+        self_score = max(
+            (_root_self_score(root, record["genus_name"]) for root in roots),
+            default=0,
+        )
+
+        candidates = []
+        for candidate in genus_names:
+            if candidate == record["genus_name"]:
+                continue
+            score = max(
+                (_root_owner_score(root, candidate) for root in roots),
+                default=0,
+            )
+            if score > self_score:
+                candidates.append((score, candidate))
+        if not candidates:
+            continue
+
+        # Report only the best-supported owner. A weaker runner-up
+        # (Cattleya behind Catasetum for "kata") shares a prefix by
+        # coincidence and would only dilute the reviewer's lead.
+        best_score = max(score for score, _ in candidates)
+        owners = sorted(name for score, name in candidates if score == best_score)
+        record["extraction_status"] = "needs_review"
+        record["review_flags"].append(
+            f"foreign_genus_etymology:{etymology.get('source_image', '')}:"
+            f"{' or '.join(owners)}"
+        )
+
+
 def _merge_fields(target: dict[str, Any], additions: dict[str, Any]) -> None:
     """Merge freshly segmented fields into an already-open field dict.
 
@@ -1022,6 +1268,10 @@ def main() -> None:
     pages.sort(key=lambda page: page["page_number"])
 
     records, discontinuities = build_genus_records(pages)
+
+    # A corpus-wide pass, not a per-page one: it compares each record's
+    # etymology against every other genus name captured in this run.
+    flag_foreign_genus_etymology(records)
 
     arguments.genera_out.parent.mkdir(parents=True, exist_ok=True)
     with arguments.genera_out.open("w", encoding="utf-8") as handle:

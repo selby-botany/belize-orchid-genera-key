@@ -151,6 +151,47 @@ class QueueFromGeneraTest(unittest.TestCase):
         self.assertNotIn("no genus header", rows[0]["detail"])
         self.assertIn("internal species list", rows[0]["detail"])
 
+    def test_foreign_genus_etymology_row_names_the_suspected_owner(self) -> None:
+        # This flag carries a third segment the others don't: the genus
+        # the etymology actually derives. That lead is the whole value of
+        # the row, so it has to survive into the reviewer's detail text
+        # -- and the image must still land in source_image, not be
+        # swallowed along with it.
+        records = [
+            {
+                "genus_id": "coryanthes",
+                "genus_name": "Coryanthes",
+                "fields": {},
+                "species": [],
+                "review_flags": [
+                    "foreign_genus_etymology:page-107.jpeg:Trigonidium"
+                ],
+            }
+        ]
+        rows = MODULE.queue_from_genera(records)
+        self.assertEqual(len(rows), 1)
+        self.assertEqual(rows[0]["reason"], "foreign_genus_etymology")
+        self.assertEqual(rows[0]["source_image"], "page-107.jpeg")
+        self.assertIn("Trigonidium", rows[0]["detail"])
+        self.assertIn("derives a different genus's name", rows[0]["detail"])
+
+    def test_two_segment_flag_still_produces_a_row_without_a_note(self) -> None:
+        # Every pre-existing flag is `reason:image` with no third
+        # segment; widening the split must not leave them with a
+        # dangling, empty "evidence points to" clause.
+        records = [
+            {
+                "genus_id": "galeandra",
+                "genus_name": "Galeandra",
+                "fields": {},
+                "species": [],
+                "review_flags": ["discontinuity:page-064.jpeg"],
+            }
+        ]
+        rows = MODULE.queue_from_genera(records)
+        self.assertEqual(rows[0]["source_image"], "page-064.jpeg")
+        self.assertNotIn("evidence points to", rows[0]["detail"])
+
     def test_uncertain_field_produces_a_row_scoped_to_its_owner(self) -> None:
         records = [
             {

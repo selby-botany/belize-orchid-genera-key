@@ -170,10 +170,22 @@ def queue_from_genera(records: list[dict[str, Any]]) -> list[dict[str, Any]]:
                 "collision) -- check against the source image before "
                 "trusting any field here"
             ),
+            "foreign_genus_etymology": (
+                "this record's ETYMOLOGY derives a different genus's "
+                "name than the one it is filed under, so some of this "
+                "text likely belongs to that genus -- check against the "
+                "source image before trusting any field here"
+            ),
         }
+        # A flag is `reason`, an optional source image, and an optional
+        # note carrying whatever the detector concluded (the suspected
+        # owning genus, for `foreign_genus_etymology`). Older two-part
+        # flags still split correctly and leave the note empty.
         for flag in record.get("review_flags", []):
-            reason, _, extra = flag.partition(":")
+            reason, extra, note = (flag.split(":") + ["", ""])[:3]
             explanation = review_flag_details.get(reason, "flagged during parsing")
+            if note:
+                explanation = f"{explanation} (evidence points to {note})"
             rows.append(
                 _new_row(
                     item_id=f"parse_ambiguous:{genus_id}:{flag}",

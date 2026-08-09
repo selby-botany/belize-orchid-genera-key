@@ -676,5 +676,134 @@ class BuildGenusRecordsTest(unittest.TestCase):
         self.assertEqual(records[0]["review_flags"], [])
 
 
+def _etymology_record(genus_name, etymology_text, source_image="synthetic.jpeg"):
+    """Build a minimal genus record carrying only an ETYMOLOGY field."""
+    return {
+        "genus_id": genus_name.lower(),
+        "genus_name": genus_name,
+        "fields": {
+            "ETYMOLOGY": {
+                "text": etymology_text,
+                "source_image": source_image,
+                "confidence": 1.0,
+                "status": "scored",
+            }
+        },
+        "species": [],
+        "extraction_status": "complete",
+        "review_flags": [],
+    }
+
+
+class FlagForeignGenusEtymologyTest(unittest.TestCase):
+    """Cross-genus swaps caught by reading a record's own etymology."""
+
+    def test_etymology_deriving_another_genus_is_flagged_with_that_genus(self) -> None:
+        # Real page-107 text: Coryanthes' record derives "trigonos",
+        # which coins Trigonidium, not Coryanthes (korys, a helmet).
+        records = [
+            _etymology_record(
+                "Coryanthes",
+                "From the Greek trigonos (three-",
+                source_image="page-107.jpeg",
+            ),
+            _etymology_record("Trigonidium", "From the Greek trigonos (three-angled)."),
+        ]
+        MODULE.flag_foreign_genus_etymology(records)
+        self.assertEqual(records[0]["extraction_status"], "needs_review")
+        self.assertEqual(
+            records[0]["review_flags"],
+            ["foreign_genus_etymology:page-107.jpeg:Trigonidium"],
+        )
+        # The genus the text really belongs to is itself consistent.
+        self.assertEqual(records[1]["review_flags"], [])
+
+    def test_transliterated_root_still_identifies_its_genus(self) -> None:
+        # Real page-065/153 text. Greek as the book spells it does not
+        # match the Latinized genus letter for letter: kata -> Catasetum,
+        # harpe -> Arpophyllum (silent leading h, and only "arp" shared).
+        records = [
+            _etymology_record("Clowesia", "From the Greek kata (down) and seta (bristle)"),
+            _etymology_record("Catasetum", "Named after James Bateman (1811-"),
+            _etymology_record("Coelia", "From the Greek harpe (sickle) and"),
+            _etymology_record("Arpophyllum", "From the Latin mucronatus (with a"),
+        ]
+        MODULE.flag_foreign_genus_etymology(records)
+        flags = {r["genus_name"]: r["review_flags"] for r in records}
+        self.assertEqual(
+            flags["Clowesia"], ["foreign_genus_etymology:synthetic.jpeg:Catasetum"]
+        )
+        self.assertEqual(
+            flags["Coelia"], ["foreign_genus_etymology:synthetic.jpeg:Arpophyllum"]
+        )
+
+    def test_self_consistent_etymology_is_not_flagged(self) -> None:
+        # Real page text for four genera whose etymology is where it
+        # belongs, including two compounds whose matching element sits in
+        # the interior of the name (eu + lophos, psygma + orchis).
+        records = [
+            _etymology_record("Oncidium", "From the Greek onkos (a pad or mass)"),
+            _etymology_record("Eulophia", "From the Greek eu (well) and lophos (plume)"),
+            _etymology_record(
+                "Psygmorchis", "From the Greek psygma (fan) and orchis (an orchid)"
+            ),
+            _etymology_record(
+                "Comparettia", "Named after Andreo Comparetti, an eminent physiologist"
+            ),
+            _etymology_record("Cycnoches", "From the Greek kyknos (swan) and auchen (neck)"),
+        ]
+        MODULE.flag_foreign_genus_etymology(records)
+        for record in records:
+            self.assertEqual(record["review_flags"], [], record["genus_name"])
+            self.assertEqual(record["extraction_status"], "complete")
+
+    def test_generic_interior_root_names_no_owner(self) -> None:
+        # "anthos" (flower) sits inside Spiranthes, Elleanthus and
+        # Epidanthus alike; it identifies none of them, so a record whose
+        # etymology contains it must not be handed a made-up owner.
+        records = [
+            _etymology_record("Maxillaria", "From the Greek acis (a point) and anthos (a flower)."),
+            _etymology_record("Spiranthes", "From the Greek speira (a coil) and anthos (a flower)."),
+            _etymology_record("Elleanthus", "From the Latin bractea (a bract) and"),
+            _etymology_record("Epidanthus", "From the Greek epi (upon) and anthos (a flower)."),
+        ]
+        MODULE.flag_foreign_genus_etymology(records)
+        for record in records:
+            self.assertEqual(record["review_flags"], [], record["genus_name"])
+
+    def test_species_level_etymology_is_left_alone(self) -> None:
+        # Real page-016 text: a species etymology (P. maculata's) filed
+        # under the genus. Wrong, but a different defect -- text
+        # misplaced *within* a genus, not across two -- and no other
+        # genus in the corpus explains it, so nothing is flagged.
+        records = [
+            _etymology_record(
+                "Platythelys",
+                "From the Latin maculatus (spotted, blotched) in reference to the leaves.",
+            ),
+            _etymology_record("Macradenia", "From the Greek makros (long) and aden (gland)"),
+        ]
+        MODULE.flag_foreign_genus_etymology(records)
+        self.assertEqual(records[0]["review_flags"], [])
+
+    def test_record_without_an_etymology_field_is_skipped(self) -> None:
+        record = _etymology_record("Bletia", "")
+        record["fields"] = {}
+        records = [record]
+        MODULE.flag_foreign_genus_etymology(records)
+        self.assertEqual(records[0]["review_flags"], [])
+        self.assertEqual(records[0]["extraction_status"], "complete")
+
+    def test_etymology_that_derives_nothing_is_skipped(self) -> None:
+        # Real page-137 shape: an ETYMOLOGY field the parser filled with
+        # continuation prose carrying no glossed root and no eponym.
+        records = [
+            _etymology_record("Encyclia", "Flowers last several weeks. Uncommon."),
+            _etymology_record("Epidendrum", "From the Greek epi (upon) and dendron (tree)"),
+        ]
+        MODULE.flag_foreign_genus_etymology(records)
+        self.assertEqual(records[0]["review_flags"], [])
+
+
 if __name__ == "__main__":
     unittest.main()
