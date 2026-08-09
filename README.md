@@ -6,27 +6,44 @@ characteristic corpus.
 
 ## Project status
 
-The key itself does not exist yet. Work so far builds the pipeline and
-data a key will be generated from, across two prototypes:
+The key itself does not exist yet, but the structured genus data it will
+be built from does. Work so far spans four prototypes:
 
 - `prototype-01/` — a completed page-ordering and genus-characteristic
   pipeline: OCR-assisted page recovery for the source scan set, a
   hand-curated characteristic corpus for eight genera, and
   characteristic/morphological clustering analysis. See
   [prototype-01/README.md](prototype-01/README.md).
-- `prototype-02/` — in-progress capture auditing and OCR preprocessing
-  work, aimed at a higher-fidelity replacement for the raw scan set used
-  by prototype-01. See `prototype-02/doc/`.
+- `prototype-02/` — capture auditing and OCR preprocessing work that
+  proved the image-capture and OCR approach on a small sample, superseded
+  by prototype-03's larger capture set before running over the full book.
+  See `prototype-02/doc/`.
+- `prototype-03/` — **complete (Phase 1)**: a pipeline-driven extraction
+  that turned 190 contiguous captured pages into 69 structured,
+  provenance-carrying genus records, at the scale of the whole captured
+  treatment rather than a hand-picked sample. See
+  [prototype-03/README.md](prototype-03/README.md) and its
+  [results summary](prototype-03/analysis/20260808-results-summary.md).
+- `prototype-04/` — **planning (Phase 2)**: turning prototype-03's genus
+  records into a working identification key, plus analytics that measure
+  how well it performs. See
+  [prototype-04/README.md](prototype-04/README.md).
 
 ## Repository layout
 
 - `doc/` — project-level design documents
-- `mcleish/` — raw page-scan images of the source reference text; large
-  binary captures, excluded from version control (see `.gitignore`)
+- `prototype-01/mcleish/` — raw page-scan images used by prototype-01;
+  large binary captures, excluded from version control (see
+  `.gitignore`)
 - `prototype-01/` — page-mapping pipeline, genus corpus, and
   characteristic analysis (complete)
 - `prototype-02/` — image capture auditing and OCR extraction tooling
-  (in progress)
+  (superseded by prototype-03's capture set for full-book extraction)
+- `prototype-03/` — pipeline-driven genus/species extraction from a
+  190-page capture set (Phase 1, complete); its own `images/` directory
+  holds that capture set, also excluded from version control
+- `prototype-04/` — genus key and validation analytics, built from
+  prototype-03's output (Phase 2, planning)
 - `bin/` — shared Docker-backed tool wrappers (`imagemagick`, `jq`, `node`,
   `python3`)
 - `docker/` — build contexts for the locally built tool images
@@ -49,6 +66,10 @@ cannot be containerized and is not optional:
 | `prototype-01/bin/render_mcleish_review_sheets.swift` | CoreImage, AppKit |
 | `prototype-02/bin/extract_mcleish_page_text.swift` | Vision, AppKit |
 | `prototype-02/bin/ocr_page.swift` | Vision, AppKit |
+| `prototype-03/bin/ocr_page.swift` | Vision, AppKit |
+
+Prototype 04 has no OCR stage — it reads prototype-03's already-extracted
+text, not the scanned images, so it needs no macOS/Vision dependency.
 
 Vision, AppKit, and CoreImage are Apple frameworks. Swift itself runs on
 Linux, but those frameworks do not exist there, so no container can run these
@@ -64,11 +85,12 @@ of engine rather than of packaging and has not been evaluated.
 ## Source material
 
 The genus descriptions originate from scanned pages of *Native orchids of
-Belize*[^mcleish]. The raw scans live in `mcleish/` and
-are not committed to this repository. The curated, machine-readable
-output derived from that source — page-mapped images, extracted genus
-text, characteristic data — lives under `prototype-01/` and
-`prototype-02/`.
+Belize*[^mcleish]. The raw scans live under `prototype-01/mcleish/` and
+`prototype-03/images/`, neither committed to this repository (see
+`.gitignore`). The curated, machine-readable output derived from that
+source — page-mapped images, extracted genus text, characteristic data —
+lives under `prototype-01/`, `prototype-02/`, and, at Phase 1 completion,
+`prototype-03/analysis/`.
 
 ## License
 
