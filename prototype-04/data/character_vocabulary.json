@@ -1,0 +1,394 @@
+{
+  "schema_version": 1,
+  "characters": [
+    {
+      "character_id": "plant_habit",
+      "label": "Plant habit",
+      "source_fields": [
+        "SUMMARY",
+        "Roots",
+        "Rhizome"
+      ],
+      "states": [
+        {
+          "state_id": "terrestrial",
+          "label": "terrestrial"
+        },
+        {
+          "state_id": "epiphytic",
+          "label": "epiphytic"
+        },
+        {
+          "state_id": "terrestrial_or_epiphytic",
+          "label": "terrestrial or epiphytic"
+        },
+        {
+          "state_id": "not_stated",
+          "label": "not stated in the source text"
+        }
+      ]
+    },
+    {
+      "character_id": "growth_habit",
+      "label": "Growth habit (sympodial vs. monopodial)",
+      "source_fields": [
+        "SUMMARY",
+        "Stem",
+        "Stems",
+        "Rhizome"
+      ],
+      "states": [
+        {
+          "state_id": "sympodial",
+          "label": "sympodial, each growth of limited duration"
+        },
+        {
+          "state_id": "monopodial",
+          "label": "monopodial, indefinite terminal growth"
+        },
+        {
+          "state_id": "not_stated",
+          "label": "not stated in the source text"
+        }
+      ]
+    },
+    {
+      "character_id": "pseudobulb_presence",
+      "label": "Pseudobulb presence",
+      "source_fields": [
+        "SUMMARY",
+        "Stem",
+        "Stems"
+      ],
+      "states": [
+        {
+          "state_id": "present",
+          "label": "pseudobulbs present"
+        },
+        {
+          "state_id": "absent",
+          "label": "pseudobulbs absent"
+        },
+        {
+          "state_id": "not_stated",
+          "label": "not stated in the source text"
+        }
+      ]
+    },
+    {
+      "character_id": "leaf_vernation",
+      "label": "Leaf vernation (plicate vs. conduplicate)",
+      "source_fields": [
+        "Leaves"
+      ],
+      "states": [
+        {
+          "state_id": "plicate",
+          "label": "plicate (pleated)"
+        },
+        {
+          "state_id": "conduplicate",
+          "label": "conduplicate (folded lengthwise)"
+        },
+        {
+          "state_id": "not_stated",
+          "label": "not stated in the source text"
+        }
+      ]
+    },
+    {
+      "character_id": "leaf_texture",
+      "label": "Leaf texture",
+      "source_fields": [
+        "Leaves"
+      ],
+      "states": [
+        {
+          "state_id": "membranaceous",
+          "label": "membranaceous or thin"
+        },
+        {
+          "state_id": "leathery",
+          "label": "leathery or coriaceous"
+        },
+        {
+          "state_id": "not_stated",
+          "label": "not stated in the source text"
+        }
+      ]
+    },
+    {
+      "character_id": "inflorescence_position",
+      "label": "Inflorescence position",
+      "source_fields": [
+        "Inflorescence",
+        "Inflorescences"
+      ],
+      "states": [
+        {
+          "state_id": "terminal",
+          "label": "terminal"
+        },
+        {
+          "state_id": "basal_or_lateral",
+          "label": "basal or lateral (from the base of the stem/pseudobulb)"
+        },
+        {
+          "state_id": "not_stated",
+          "label": "not stated in the source text"
+        }
+      ]
+    },
+    {
+      "character_id": "inflorescence_flower_count",
+      "label": "Inflorescence flower count",
+      "source_fields": [
+        "Inflorescence",
+        "Inflorescences"
+      ],
+      "states": [
+        {
+          "state_id": "one_flowered",
+          "label": "one-flowered"
+        },
+        {
+          "state_id": "few_flowered",
+          "label": "few-flowered"
+        },
+        {
+          "state_id": "many_flowered",
+          "label": "many-flowered (racemose or paniculate)"
+        },
+        {
+          "state_id": "not_stated",
+          "label": "not stated in the source text"
+        }
+      ]
+    },
+    {
+      "character_id": "sepal_petal_torsion",
+      "label": "Sepal/petal torsion",
+      "source_fields": [
+        "Sepals",
+        "Petals",
+        "Flowers"
+      ],
+      "states": [
+        {
+          "state_id": "twisted",
+          "label": "twisted or contorted"
+        },
+        {
+          "state_id": "not_twisted",
+          "label": "not twisted or contorted"
+        },
+        {
+          "state_id": "not_stated",
+          "label": "not stated in the source text"
+        }
+      ]
+    },
+    {
+      "character_id": "lip_lobing",
+      "label": "Lip lobing",
+      "source_fields": [
+        "Lip"
+      ],
+      "states": [
+        {
+          "state_id": "entire",
+          "label": "entire, not lobed"
+        },
+        {
+          "state_id": "three_lobed",
+          "label": "3-lobed"
+        },
+        {
+          "state_id": "four_lobed",
+          "label": "4-lobed"
+        },
+        {
+          "state_id": "not_stated",
+          "label": "not stated in the source text"
+        }
+      ]
+    },
+    {
+      "character_id": "lip_attachment",
+      "label": "Lip attachment to the column",
+      "source_fields": [
+        "Lip",
+        "Column"
+      ],
+      "states": [
+        {
+          "state_id": "joined_to_column",
+          "label": "joined to the column or column-foot"
+        },
+        {
+          "state_id": "free",
+          "label": "free from the column"
+        },
+        {
+          "state_id": "not_stated",
+          "label": "not stated in the source text"
+        }
+      ]
+    },
+    {
+      "character_id": "lip_spur_or_sac",
+      "label": "Lip spur or saccate base",
+      "source_fields": [
+        "Lip"
+      ],
+      "states": [
+        {
+          "state_id": "present",
+          "label": "spurred or saccate"
+        },
+        {
+          "state_id": "absent",
+          "label": "not spurred or saccate"
+        },
+        {
+          "state_id": "not_stated",
+          "label": "not stated in the source text"
+        }
+      ]
+    },
+    {
+      "character_id": "column_shape",
+      "label": "Column wings",
+      "source_fields": [
+        "Column"
+      ],
+      "states": [
+        {
+          "state_id": "winged",
+          "label": "winged"
+        },
+        {
+          "state_id": "not_winged",
+          "label": "not winged"
+        },
+        {
+          "state_id": "not_stated",
+          "label": "not stated in the source text"
+        }
+      ]
+    },
+    {
+      "character_id": "column_torsion",
+      "label": "Column torsion",
+      "source_fields": [
+        "Column"
+      ],
+      "states": [
+        {
+          "state_id": "twisted",
+          "label": "twisted"
+        },
+        {
+          "state_id": "not_twisted",
+          "label": "not twisted, straight"
+        },
+        {
+          "state_id": "not_stated",
+          "label": "not stated in the source text"
+        }
+      ]
+    },
+    {
+      "character_id": "anther_position",
+      "label": "Anther position",
+      "source_fields": [
+        "Column"
+      ],
+      "states": [
+        {
+          "state_id": "incumbent",
+          "label": "incumbent"
+        },
+        {
+          "state_id": "erect",
+          "label": "erect"
+        },
+        {
+          "state_id": "not_stated",
+          "label": "not stated in the source text"
+        }
+      ]
+    },
+    {
+      "character_id": "rostellum_sensitivity",
+      "label": "Rostellum sensitivity",
+      "source_fields": [
+        "Column"
+      ],
+      "states": [
+        {
+          "state_id": "sensitive",
+          "label": "sensitive, moving when touched"
+        },
+        {
+          "state_id": "not_sensitive",
+          "label": "not sensitive"
+        },
+        {
+          "state_id": "not_stated",
+          "label": "not stated in the source text"
+        }
+      ]
+    },
+    {
+      "character_id": "pollinia_count",
+      "label": "Pollinia count",
+      "source_fields": [
+        "Column"
+      ],
+      "states": [
+        {
+          "state_id": "two",
+          "label": "2"
+        },
+        {
+          "state_id": "four",
+          "label": "4"
+        },
+        {
+          "state_id": "six",
+          "label": "6"
+        },
+        {
+          "state_id": "eight",
+          "label": "8"
+        },
+        {
+          "state_id": "not_stated",
+          "label": "not stated in the source text"
+        }
+      ]
+    },
+    {
+      "character_id": "pollinia_attachment",
+      "label": "Pollinia attachment (stipe/caudicle presence)",
+      "source_fields": [
+        "Column"
+      ],
+      "states": [
+        {
+          "state_id": "naked",
+          "label": "naked, without caudicle or stipe"
+        },
+        {
+          "state_id": "with_caudicle_or_stipe",
+          "label": "with a definite caudicle or stipe"
+        },
+        {
+          "state_id": "not_stated",
+          "label": "not stated in the source text"
+        }
+      ]
+    }
+  ]
+}
