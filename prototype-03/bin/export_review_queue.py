@@ -164,6 +164,12 @@ def queue_from_genera(records: list[dict[str, Any]]) -> list[dict[str, Any]]:
                 "page's text was captured as unsegmented continuation "
                 "prose rather than parsed into individual species"
             ),
+            "possible_cross_genus_content": (
+                "this genus's text may actually belong to the next genus "
+                "on the same page (a genus-header tab-column layout "
+                "collision) -- check against the source image before "
+                "trusting any field here"
+            ),
         }
         for flag in record.get("review_flags", []):
             reason, _, extra = flag.partition(":")

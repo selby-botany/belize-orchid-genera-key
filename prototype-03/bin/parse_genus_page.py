@@ -84,6 +84,31 @@ findings from that real page shaped the design directly:
    line truncates everything from that point to the end of the given
    span, since both kinds are always trailing content on a plate page in
    this book's layout).
+8. A genus header printed alone in its own narrow "tab" column can sit
+   physically *after* the next genus's real diagnostic paragraph in plain
+   (column, mid_y) reading order, silently attaching that paragraph to
+   the *wrong* genus -- not missing data, but a different genus's real
+   facts under the current genus's name. Found while extracting Phase 2
+   characters from real field text: `Cranichis`'s record contained
+   Habenaria's own genus-level description verbatim ("the flowers of
+   Habenaria are rather complex..."; its ETYMOLOGY explained "habena
+   (reins)", Habenaria's name, not Cranichis's) -- page 40 carries both
+   headers, with Habenaria's real paragraph in a column that sorts before
+   Habenaria's own header column. The same layout produced the page-142
+   Epidendrum-list case already handled (finding 5) and, on inspection,
+   likely misattributes part of Trichopilia/Bletia's own boundary the
+   same way. Both confirmed real instances share one narrow, specific
+   signature: the misattributed content's column is exactly the *next*
+   header's column minus one, and it contains a TRIBE/SUBTRIBE heading
+   line (finding on `TRIBE_HEADING_PATTERN`, page-050). An automatic fix
+   that reliably re-splices only the misattributed lines (not a
+   preceding genus's own legitimate trailing content mixed in the same
+   column) is a bigger, riskier change than this pass takes on; instead
+   `_has_embedded_tribe_heading_before_next_header` detects the exact
+   signature and flags the affected record `possible_cross_genus_
+   content` -- stopping the silent trust violation (a `complete` record
+   with zero flags containing objectively wrong facts) without guessing
+   at a repair the evidence doesn't fully support.
 """
 
 from __future__ import annotations
@@ -552,6 +577,50 @@ def find_species_entries(
     return species, headers[0][0]
 
 
+def _has_embedded_tribe_heading_before_next_header(
+    lines: list[dict[str, Any]],
+    block_start: int,
+    block_end: int,
+    next_header_column: int | None,
+) -> bool:
+    """Detect a specific tab-column layout collision (module docstring).
+
+    On at least two real pages (40: Cranichis/Habenaria; 142: Trichopilia/
+    Bletia), a genus header is typeset alone in its own narrow "tab"
+    column, while the *next* genus's real diagnostic paragraph sits in an
+    adjacent body-text column that sorts earlier in plain (column, mid_y)
+    reading order -- so it silently lands in the *current* genus's block
+    instead of the next one's. Both real instances share one exact,
+    narrow signature: the misattributed content's column is the next
+    header's own column minus one, and a TRIBE/SUBTRIBE heading line (Bletia's
+    own module comment on `TRIBE_HEADING_PATTERN`) appears within it.
+    This is deliberately narrow -- a tribe heading anywhere in a block is
+    common and usually harmless (already filtered as furniture); only
+    this exact column-adjacency combination is flagged, to avoid noising
+    up the review queue on the many ordinary single-column pages where a
+    tribe heading is not a sign of anything wrong.
+
+    Args:
+        lines: Full per-page OCR records.
+        block_start: Index of this genus's block start (exclusive of its
+            own header line).
+        block_end: Index one past this genus's block end.
+        next_header_column: The column of the next header found on this
+            same page, or None when this is the last header on the page.
+    Returns:
+        True when the collision signature is present.
+    """
+    if next_header_column is None:
+        return False
+    for line in lines[block_start:block_end]:
+        if (
+            TRIBE_HEADING_PATTERN.match(line["text"].strip())
+            and line["column"] == next_header_column - 1
+        ):
+            return True
+    return False
+
+
 def build_genus_records(pages: list[dict[str, Any]]) -> tuple[list[dict[str, Any]], list[dict[str, Any]]]:
     """Build genus records by stitching genus headers across pages.
 
@@ -635,6 +704,15 @@ def build_genus_records(pages: list[dict[str, Any]]) -> tuple[list[dict[str, Any
                         }
                     )
 
+                next_header_column = (
+                    lines[headers[position + 1]["index"]]["column"]
+                    if position + 1 < len(headers)
+                    else None
+                )
+                collision = _has_embedded_tribe_heading_before_next_header(
+                    lines, block_start, block_end, next_header_column
+                )
+
                 open_record = {
                     "genus_id": header["genus_name"].lower(),
                     "genus_name": header["genus_name"],
@@ -643,8 +721,12 @@ def build_genus_records(pages: list[dict[str, Any]]) -> tuple[list[dict[str, Any
                     "source_pages": [page["page_number"]],
                     "fields": fields,
                     "species": resolved_species,
-                    "extraction_status": "complete",
-                    "review_flags": [],
+                    "extraction_status": "needs_review" if collision else "complete",
+                    "review_flags": (
+                        [f"possible_cross_genus_content:{page['source_image']}"]
+                        if collision
+                        else []
+                    ),
                 }
                 records.append(open_record)
             continue

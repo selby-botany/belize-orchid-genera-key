@@ -512,6 +512,67 @@ class BuildGenusRecordsTest(unittest.TestCase):
         self.assertEqual(records[0]["extraction_status"], "complete")
         self.assertEqual(records[0]["review_flags"], [])
 
+    def test_tab_column_layout_flags_the_earlier_genus_not_silently_wrong(self) -> None:
+        # Real full-run case, page-040.jpeg: "16. Cranichis Sw." (its own
+        # narrow tab column) and "17. Habenaria Willd." (a later tab
+        # column) both on one page, with Habenaria's real diagnostic
+        # paragraph sitting in a body column that sorts before Habenaria's
+        # own header column -- so it silently landed in Cranichis's block.
+        # Cranichis's record ended up "complete", zero flags, while
+        # containing Habenaria's real facts under Cranichis's name.
+        page_one = {
+            "source_image": "synthetic-040.jpeg",
+            "page_number": 40,
+            "lines": [
+                _line("16. Alpha Testauthor", column=1),
+                _line("SUBTRIBE TESTINAE BENTH.", column=3, mid_y=0.1),
+                _line("Beta's own diagnostic paragraph.", column=3, mid_y=0.2),
+                _line("17. Beta Testauthor", column=4),
+            ],
+        }
+        records, _ = MODULE.build_genus_records([page_one])
+        alpha = next(r for r in records if r["genus_id"] == "alpha")
+        self.assertEqual(alpha["extraction_status"], "needs_review")
+        self.assertIn(
+            "possible_cross_genus_content:synthetic-040.jpeg", alpha["review_flags"]
+        )
+
+    def test_ordinary_single_column_tribe_heading_does_not_false_positive(self) -> None:
+        # The expected, harmless case (page-050's own finding): a tribe
+        # heading between two genera in a straightforward single-column
+        # layout is already excluded as furniture and needs no special
+        # flag -- the column-adjacency signature must not fire here.
+        page_one = {
+            "source_image": "synthetic-050.jpeg",
+            "page_number": 50,
+            "lines": [
+                _line("16. Alpha Testauthor", column=0),
+                _line("Roots adventitious.", column=0),
+                _line("SUBTRIBE TESTINAE BENTH.", column=0, mid_y=0.6),
+                _line("17. Beta Testauthor", column=0, mid_y=0.7),
+            ],
+        }
+        records, _ = MODULE.build_genus_records([page_one])
+        alpha = next(r for r in records if r["genus_id"] == "alpha")
+        self.assertEqual(alpha["extraction_status"], "complete")
+        self.assertEqual(alpha["review_flags"], [])
+
+    def test_last_header_on_page_is_never_flagged_by_this_check(self) -> None:
+        # No next header on the page -- next_header_column is None, and
+        # the check must not fire on a genus's own trailing content.
+        page_one = {
+            "source_image": "synthetic-060.jpeg",
+            "page_number": 60,
+            "lines": [
+                _line("16. Alpha Testauthor", column=1),
+                _line("SUBTRIBE TESTINAE BENTH.", column=3),
+                _line("Alpha's own trailing text.", column=3),
+            ],
+        }
+        records, _ = MODULE.build_genus_records([page_one])
+        self.assertEqual(records[0]["extraction_status"], "complete")
+        self.assertEqual(records[0]["review_flags"], [])
+
 
 if __name__ == "__main__":
     unittest.main()
