@@ -17,6 +17,8 @@ index, prepared for botanical review. Every morphological index line in §8
 is a confidence-coded hypothesis awaiting primary-source verification, not
 an established datum; §8.1 and §20 state exactly what is and is not data.
 
+---
+
 ## Introduction
 
 This document serves as an exploration of the potential key construction features (character), their data types, and potential analytic treatments.
@@ -42,7 +44,7 @@ Furthermore, the choice was made to employ the language and analytic treatments 
     - It is NOT a **design** specification
     - It is NOT a **implementation** specification
 
--- 
+---
 
 ## Contents
 
