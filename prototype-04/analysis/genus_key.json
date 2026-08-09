@@ -9,11 +9,113 @@
           "not_stated"
         ],
         "next": {
-          "type": "leaf",
-          "genus_ids": [
-            "corymborkis",
-            "sacoila",
-            "sarcoglottis"
+          "type": "split",
+          "character_id": "lip_attachment",
+          "branches": [
+            {
+              "state_ids": [
+                "not_stated"
+              ],
+              "next": {
+                "type": "split",
+                "character_id": "lip_spur_or_sac",
+                "branches": [
+                  {
+                    "state_ids": [
+                      "not_stated"
+                    ],
+                    "next": {
+                      "type": "leaf",
+                      "genus_ids": [
+                        "erythrodes",
+                        "corymborkis",
+                        "goodyera",
+                        "prescottia",
+                        "cyclopogon",
+                        "eurystyles",
+                        "lyroglossa",
+                        "mesadenella",
+                        "pseudogoodyera",
+                        "sacoila",
+                        "sarcoglottis",
+                        "spiranthes",
+                        "cranichis",
+                        "habenaria",
+                        "vanilla",
+                        "malaxis",
+                        "liparis",
+                        "eulophia",
+                        "cyrtopodium",
+                        "eriopsis",
+                        "catasetum",
+                        "galeandra",
+                        "clowesia",
+                        "cycnoches",
+                        "mormodes",
+                        "cryptarrhena",
+                        "dichaea",
+                        "galeottia",
+                        "koellensteinia",
+                        "huntleya",
+                        "lycaste",
+                        "teuscheria",
+                        "xylobium",
+                        "maxillaria",
+                        "mormolyca",
+                        "trigonidium",
+                        "coryanthes",
+                        "gongora",
+                        "lacaena",
+                        "stanhopea",
+                        "ornithocephalus",
+                        "brassia",
+                        "ionopsis",
+                        "lockhartia",
+                        "macradenia",
+                        "notylia",
+                        "oncidium",
+                        "trichopilia",
+                        "bletia",
+                        "chysis",
+                        "elleanthus",
+                        "sobralia",
+                        "coelia",
+                        "arpophyllum",
+                        "brassavola",
+                        "cattleya",
+                        "caularthron",
+                        "dimerandra",
+                        "encyclia",
+                        "epidanthus",
+                        "epidendrum"
+                      ]
+                    }
+                  },
+                  {
+                    "state_ids": [
+                      "present"
+                    ],
+                    "next": {
+                      "type": "leaf",
+                      "genus_ids": [
+                        "platythelys"
+                      ]
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "state_ids": [
+                "joined_to_column"
+              ],
+              "next": {
+                "type": "leaf",
+                "genus_ids": [
+                  "pelexia"
+                ]
+              }
+            }
           ]
         }
       },
@@ -25,6 +127,83 @@
           "type": "leaf",
           "genus_ids": [
             "psilochilus"
+          ]
+        }
+      },
+      {
+        "state_ids": [
+          "terrestrial"
+        ],
+        "next": {
+          "type": "leaf",
+          "genus_ids": [
+            "epistephium"
+          ]
+        }
+      },
+      {
+        "state_ids": [
+          "epiphytic"
+        ],
+        "next": {
+          "type": "split",
+          "character_id": "pseudobulb_presence",
+          "branches": [
+            {
+              "state_ids": [
+                "not_stated"
+              ],
+              "next": {
+                "type": "split",
+                "character_id": "leaf_texture",
+                "branches": [
+                  {
+                    "state_ids": [
+                      "leathery"
+                    ],
+                    "next": {
+                      "type": "leaf",
+                      "genus_ids": [
+                        "comparettia"
+                      ]
+                    }
+                  },
+                  {
+                    "state_ids": [
+                      "not_stated"
+                    ],
+                    "next": {
+                      "type": "leaf",
+                      "genus_ids": [
+                        "leucohyle"
+                      ]
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "state_ids": [
+                "present"
+              ],
+              "next": {
+                "type": "leaf",
+                "genus_ids": [
+                  "leochilus"
+                ]
+              }
+            },
+            {
+              "state_ids": [
+                "absent"
+              ],
+              "next": {
+                "type": "leaf",
+                "genus_ids": [
+                  "psygmorchis"
+                ]
+              }
+            }
           ]
         }
       }

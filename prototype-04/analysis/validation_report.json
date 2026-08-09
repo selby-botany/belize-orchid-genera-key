@@ -1,28 +1,92 @@
 {
   "schema_version": 1,
   "self_consistency": {
-    "total_genera": 4,
-    "resolved_cleanly": 1,
-    "in_ambiguous_leaf": 3,
+    "total_genera": 69,
+    "resolved_cleanly": 8,
+    "in_ambiguous_leaf": 61,
     "failed": 0,
     "failed_genus_ids": []
   },
   "depth": {
-    "mean": 1.0,
-    "max": 1
+    "mean": 2.898550724637681,
+    "max": 3
   },
   "character_usage": {
-    "plant_habit": 1
+    "plant_habit": 1,
+    "lip_attachment": 1,
+    "lip_spur_or_sac": 1,
+    "pseudobulb_presence": 1,
+    "leaf_texture": 1
   },
   "ambiguous_leaves": [
     {
       "genus_ids": [
+        "erythrodes",
         "corymborkis",
+        "goodyera",
+        "prescottia",
+        "cyclopogon",
+        "eurystyles",
+        "lyroglossa",
+        "mesadenella",
+        "pseudogoodyera",
         "sacoila",
-        "sarcoglottis"
+        "sarcoglottis",
+        "spiranthes",
+        "cranichis",
+        "habenaria",
+        "vanilla",
+        "malaxis",
+        "liparis",
+        "eulophia",
+        "cyrtopodium",
+        "eriopsis",
+        "catasetum",
+        "galeandra",
+        "clowesia",
+        "cycnoches",
+        "mormodes",
+        "cryptarrhena",
+        "dichaea",
+        "galeottia",
+        "koellensteinia",
+        "huntleya",
+        "lycaste",
+        "teuscheria",
+        "xylobium",
+        "maxillaria",
+        "mormolyca",
+        "trigonidium",
+        "coryanthes",
+        "gongora",
+        "lacaena",
+        "stanhopea",
+        "ornithocephalus",
+        "brassia",
+        "ionopsis",
+        "lockhartia",
+        "macradenia",
+        "notylia",
+        "oncidium",
+        "trichopilia",
+        "bletia",
+        "chysis",
+        "elleanthus",
+        "sobralia",
+        "coelia",
+        "arpophyllum",
+        "brassavola",
+        "cattleya",
+        "caularthron",
+        "dimerandra",
+        "encyclia",
+        "epidanthus",
+        "epidendrum"
       ],
       "shared_states": {
-        "plant_habit": "not_stated"
+        "plant_habit": "not_stated",
+        "lip_attachment": "not_stated",
+        "lip_spur_or_sac": "not_stated"
       }
     }
   ]
