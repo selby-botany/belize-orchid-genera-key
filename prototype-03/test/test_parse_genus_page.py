@@ -805,5 +805,50 @@ class FlagForeignGenusEtymologyTest(unittest.TestCase):
         self.assertEqual(records[0]["review_flags"], [])
 
 
+class RenderMarkdownTest(unittest.TestCase):
+    """The readable corpus must not present doubted text as settled."""
+
+    def test_review_flag_becomes_a_visible_caveat(self) -> None:
+        records = [
+            {
+                "genus_id": "coryanthes",
+                "genus_name": "Coryanthes",
+                "author": "Hook.",
+                "source_pages": [107],
+                "fields": {
+                    "ETYMOLOGY": {
+                        "text": "From the Greek trigonos (three-",
+                        "source_image": "page-107.jpeg",
+                        "confidence": 1.0,
+                        "status": "scored",
+                    }
+                },
+                "species": [],
+                "extraction_status": "needs_review",
+                "review_flags": [
+                    "foreign_genus_etymology:page-107.jpeg:Trigonidium"
+                ],
+            }
+        ]
+        markdown = MODULE.render_markdown(records)
+        self.assertIn("**Needs review** (foreign genus etymology", markdown)
+        self.assertIn("evidence points to Trigonidium", markdown)
+
+    def test_clean_record_carries_no_caveat(self) -> None:
+        records = [
+            {
+                "genus_id": "oncidium",
+                "genus_name": "Oncidium",
+                "author": "Sw.",
+                "source_pages": [130],
+                "fields": {},
+                "species": [],
+                "extraction_status": "complete",
+                "review_flags": [],
+            }
+        ]
+        self.assertNotIn("Needs review", MODULE.render_markdown(records))
+
+
 if __name__ == "__main__":
     unittest.main()

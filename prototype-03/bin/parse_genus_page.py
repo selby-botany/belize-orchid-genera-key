@@ -1199,6 +1199,18 @@ def render_markdown(records: list[dict[str, Any]]) -> str:
         lines.append(f"### Genus: {record['genus_name']} {record['author']}")
         lines.append(f"*Source: {pages}*")
         lines.append("")
+        # A flagged record reads exactly like a clean one otherwise, and
+        # this document -- not the JSONL or the review queue -- is what a
+        # botanist actually reads. Presenting a record the parser openly
+        # doubts as if it were settled is the same silent trust violation
+        # the flags exist to prevent (module docstring, findings 8 and
+        # 10), just moved one file downstream.
+        for flag in record["review_flags"]:
+            reason, _, note = (flag.split(":") + ["", ""])[:3]
+            caveat = f"**Needs review** ({reason.replace('_', ' ')}"
+            caveat += f", evidence points to {note})" if note else ")"
+            lines.append(f"> {caveat}")
+            lines.append("")
         for label, field in record["fields"].items():
             if not field["text"]:
                 continue
