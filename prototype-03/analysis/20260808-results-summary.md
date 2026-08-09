@@ -26,11 +26,22 @@ given fact.
   flowering season, notes, ...) the pipeline could confidently attribute.
   Every field carries the page image it came from and a confidence score
   — nothing in `analysis/genera.jsonl` is unsourced.
-- **56 of the 69** genus records are complete: no open questions, no
+- **57 of the 69** genus records are complete: no open questions, no
   flags.
-- **13 of the 69** carry at least one review flag (listed by name below)
+- **12 of the 69** carry at least one review flag (listed by name below)
   — not defects, but places where the pipeline found something it could
   not confidently resolve on its own, and said so rather than guessing.
+- **194 individual species entries** nested under 37 of the genera, each
+  with its own name, author citation, and field text. The book presents
+  species two different ways — a bare name (`Psilochilus macrophyllus
+  (Lindl.) Ames ...`) and a numbered list under a species-rich genus
+  (`1. Epidendrum acuñae Dressler in Am. Orch. Soc. ...`) — and both are
+  now parsed. Before this pass only the bare form was, and the corpus
+  held just 19 species entries under 13 genera: the largest genera in
+  the book (Epidendrum, now 30 species; Encyclia 26; Maxillaria 25;
+  Habenaria 24; Oncidium 10; Dichaea 8; ...) had **zero** entries each,
+  bar a single one under Epidendrum, their per-species text
+  concatenated together into genus-level fields.
 - The rendered document a person actually reads is
   `analysis/mcleish.genera.md` — one genus per section, species nested
   underneath, in the order the book presents them.
@@ -38,26 +49,36 @@ given fact.
 ## What still needs a human look
 
 `manifest/review_queue.csv` lists every item, one row per issue, each
-with a plain-language reason. As of this run: **104 open rows**.
+with a plain-language reason. As of this run: **268 open rows**.
 
 | Category | Count | What it means |
 | --- | --- | --- |
-| `uncertain_field` | 80 | A sentence was captured but the pipeline couldn't confidently label which field it belongs to (it's filed under a generic "SUMMARY" bucket instead). The text is present, just not sorted. |
+| `uncertain_field` | 245 | A sentence was captured but the pipeline couldn't confidently label which field it belongs to (it's filed under a generic "SUMMARY" bucket instead). The text is present, just not sorted. |
 | `discontinuity` | 8 | A page's running head named a *different* genus than the one the pipeline had open. Something changed between pages that the pipeline couldn't account for on its own (a skipped page, a page out of order, or a genus treatment the pipeline mis-bounded). |
 | `ambiguous_genus_boundary` | 4 | A page had real content and an open genus record, but neither a genus header nor a readable running head to confirm which genus it belongs to. Filed under the genus that was open going in — flagged so a person can confirm it. |
 | `image_anomaly` | 4 | A source file itself has a naming or size problem (see below). |
 | `ocr_reject` | 4 | A page's text was too sparse or too low-confidence to accept (largely the 2 non-text plates, counted twice for two different reasons each). |
 | `possible_cross_genus_content` | 3 | A rare page layout prints two genus headers side by side in their own narrow columns; the pipeline found a specific, confirmed pattern where one genus's real description can attach to the *other* genus's record. Flagged so a person checks the source image before trusting any field on the affected record. |
-| `numbered_species_list_unparsed` | 1 | Epidendrum, a genus with "several hundred" species per the book's own text, numbers its own internal species list. The pipeline correctly recognized this is still Epidendrum (not a separate genus) but did not attempt to parse the individual numbered species out of it — that would need its own dedicated logic, out of scope for this pass. The genus's full text is captured; it's just not split by species. |
 
-The 13 genus records carrying a flag, by name: Arpophyllum, Corymborkis,
-Cranichis, Cycnoches, Epidendrum, Eulophia, Galeandra, Huntleya, Ionopsis,
+The count of `uncertain_field` rows rose sharply this run — from 80 to
+245 — and that rise is a **consequence of the numbered-species-list fix
+above, not a regression**. Each of the 194 newly-separated species
+entries carries its own field text, and each unlabeled sentence in it now
+gets its own reviewable row, where previously that same text sat
+undifferentiated inside a single genus-level bucket and produced one row
+(or none). The other categories are unchanged: `discontinuity` 8,
+`ambiguous_genus_boundary` 4, `possible_cross_genus_content` 3, exactly
+as before. More rows here means more text has been resolved down to the
+species that owns it, not that more text became doubtful.
+
+The 12 genus records carrying a flag, by name: Arpophyllum, Corymborkis,
+Cranichis, Cycnoches, Eulophia, Galeandra, Huntleya, Ionopsis,
 Liparis, Maxillaria, Mormolyca, Trichopilia. Most carry exactly one
 `ambiguous_genus_boundary` or `discontinuity` flag against a single page
 — a small, specific thing to check, not a wholesale re-review of the
 genus.
 
-A note on `uncertain_field`, the largest category (80 rows): a second
+A note on `uncertain_field`, the largest category: a second
 pass on the underlying pipeline found that a real share of what used to
 land in a genus's generic `SUMMARY` bucket was not unattributed McLeish
 prose at all, but plate-caption and photo-index text that had never been
@@ -115,7 +136,7 @@ without a trace.
 - `analysis/mcleish.genera.md` — the readable corpus.
 - `analysis/genera.jsonl` — the same data, machine-readable, with full
   provenance per field.
-- `manifest/review_queue.csv` — the 104 open items above; each row can be
+- `manifest/review_queue.csv` — the 268 open items above; each row can be
   marked `resolved` with a `resolution`/`resolved_by`/`resolved_date` and
   that resolution will be carried forward automatically the next time the
   pipeline runs.
@@ -127,6 +148,6 @@ generator-name: Claude Code
 generator-version: Claude Sonnet 5
 generator-model-token: claude-sonnet-5
 generator-provider: Anthropic
-generation-date: 2026-08-08
+generation-date: 2026-08-09
 generator-responsibility: implementation
 ```
