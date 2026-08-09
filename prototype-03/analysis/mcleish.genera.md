@@ -149,7 +149,34 @@
 - From the Latin maculatus (spotted, blotched) in reference to the appearance of the leaves.
 
 **NOTE:**
-- Reported by Catling & Catling (1988) but not seen by us. 2. Platythelys querceticola (Lindl.) Garay in Bradea 2 (28) : 197 (1977). Type: New Orleans, Ingalls (holo. K-LINDL.!). Physurus querceticola Lindl., Gen. Sp. Orch.: 505 (1840). P. vaginatus Hook., Ic. Pl.: t.449 (1842). Erythrodes vaginata (Hook.) Ames, Orch. Fasc. 5: 29 (1915). E querceticola (Lindl.) Ames, Orchid. 5: 29 (1915). Physurus humidicola Schltr. in Fedde, Repert. Sp. Nov. 15: 198 (1918). P. trilobulatus Schltr.in Fedde, Repert. Sp. Nov. 15: 199(1918). Plant terrestrial, branching, up to 22 cm tall. Stems succulent, rooting from the nodes, erect or ascending. Leaves several, distichous, lanceolate, green with numerous silvery markings above, up to 8 cm long and 2 cm wide; leaf-sheaths and petiole translucent. Inflorescence terminal, unbranched, few- to manyflowered, up to 4 cm long; floral bracts lanceolate, acute, up to 7 mm long. Flowers white, not fragrant, up to 4 mm long; pedicellate ovary up to 5 mm long. Dorsal sepal lanceolate, up to 4 mm long and 2 mm wide; lateral sepals ovate to lanceolate. Petals linearlanceolate, up to 4.5 mm long and 1.4 mm wide. Lip up to 7 mm long including the sack-like spur; lamina violin- shaped, 3-lobed at the apex; spur saccate, descending. Column up to 2.5 mm long. (Fig. 2; Photo. 9,10).
+- Reported by Catling & Catling (1988) but not seen by us.
+
+#### Species: Platythelys querceticola
+*(Lindl.) Garay in Bra-*
+
+**SUMMARY:**
+- dea 2 (28) : 197 (1977). Type: New Orleans, Ingalls (holo. K-LINDL.!). Physurus querceticola Lindl., Gen. Sp. Orch.: 505 (1840). P. vaginatus Hook., Ic. Pl.: t.449 (1842). Erythrodes vaginata (Hook.) Ames, Orch. Fasc. 5: 29 (1915). E querceticola (Lindl.) Ames, Orchid. 5: 29 (1915). Physurus humidicola Schltr. in Fedde, Repert. Sp. Nov. 15: 198 (1918). P. trilobulatus Schltr.in Fedde, Repert. Sp. Nov. 15: 199(1918). Plant terrestrial, branching, up to 22 cm tall. Dorsal sepal lanceolate, up to 4 mm long and 2 mm wide; lateral sepals ovate to lanceolate. (Fig. 2; Photo. 9,10).
+
+**Stems:**
+- Stems succulent, rooting from the nodes, erect or ascending.
+
+**Leaves:**
+- Leaves several, distichous, lanceolate, green with numerous silvery markings above, up to 8 cm long and 2 cm wide; leaf-sheaths and petiole translucent.
+
+**Inflorescence:**
+- Inflorescence terminal, unbranched, few- to manyflowered, up to 4 cm long; floral bracts lanceolate, acute, up to 7 mm long.
+
+**Flowers:**
+- Flowers white, not fragrant, up to 4 mm long; pedicellate ovary up to 5 mm long.
+
+**Petals:**
+- Petals linearlanceolate, up to 4.5 mm long and 1.4 mm wide.
+
+**Lip:**
+- Lip up to 7 mm long including the sack-like spur; lamina violin- shaped, 3-lobed at the apex; spur saccate, descending.
+
+**Column:**
+- Column up to 2.5 mm long.
 
 ---
 
@@ -157,22 +184,43 @@
 *Source: page-017, page-018, page-019*
 
 **SUMMARY (uncertain):**
-- Prescottia tree) and cola (dwelling in) indicating its habitat in linated by bees though some show features consistent The majority of the Spiranthinae are probably polthere are representatives in all habitable continents Distribution is primarily tropical American but mealy; viscidium terminal; stigma entire or twothe rostellum; pollinia 2, deelpy-divided, soft and basally saccate. casionally epiphytic, with clustered, usually fleshy, Characteristics of this subtribe: terrestrial or ocfrom Cyclopogon, with which genus it has been Beadlea which we consider to be indistinguishable revision by Garay with the exception of the genus the classification. For this book we have followed the particularly by L.A. Garay (1980) when he revised dium. A few genera have been added since then marily on the nature of the rostellum and the viscigroup into 24 genera, basing his classification priNaturelle, Paris 1918. Schlechter (1920) divided this by L.C. Richard in Mémoires du Musée d'Histoire problem taxonomically. Spiranthes was established The subtribe Spiranthinae has always presented a spike) and odes (resembling) in reference to the shape
+- Prescottia tree) and cola (dwelling in) indicating its habitat in
 
 **ETYMOLOGY:**
-- From the Latin Quercus (an oak From the Greek oligo (few) and
+- From the Latin Quercus (an oak
 
 **FLOWERING SEASON:**
-- December and January. February and March. Flow-
+- December and January.
 
 **HABITAT:**
-- In dense moist limestone forest where it Under shrubs in open pine-ridge at
+- In dense moist limestone forest where it
 
 **DISTRIBUTION IN BELIZE:**
-- Cayo and Stann Creek West Indies, Mexico to northern South America. Cayo District (includ-
+- Cayo and Stann Creek West Indies, Mexico to northern South America.
 
 **GENERAL DISTRIBUTION:**
-- Florida to Texas, the Flowers individually last about a week. is shallowly rooted in leaf-humus. Districts. Uncommon. oak woods. Florida, the West Indies, Column laterally winged near the apex. (Fig. 3; Phoup to 1.5 mm long and 2 mm wide when spread. saccate, apiculate, with 2 lateral auricles at the base, 0.5 mm wide. Lip erect, subcircular, deeply concavepetals linear to narrowly ovate, up to 1.5 mm long and obtuse, up to 2 mm long and about 1.2 mm wide; 5 mm long. Sepals and petals recurved; sepals ovate, sometimes tinged with pink; pedicellate ovaries up to cm long; sheaths pale green. Flowers minute, white, spicate, densely many-flowered; peduncle up to 21 cm long and 2.7 cm wide; petiole short. Inflorescence or less elliptic, with a satin-like appearance, up to 6 thick, fleshy, fasciculate. Leaves up to 5, blade more Plant terrestrial, slender, up to 30 cm tall. Roots short, P. gracilis Schltr. in Fedde, Repert. Sp. Nov. Beih. 7: P. panamensis Schltr. in Fedde, Repert. Sp. Nov. ing the Mountain Pine Ridge Reserve). Rare. Mexico to Brazil, Paraguay and Argentina. ered this epithet is confusing. (1836). (1799). BM!). ers last about ten days. about 1000m. to.11). 51(1920). Beih. 7:50 (1920).
+- Florida to Texas, the Flowers individually last about a week. is shallowly rooted in leaf-humus. Districts. Uncommon. oak woods.
+
+#### Species: Prescottia is
+*a distinctive genus related to Cra-*
+
+**SUMMARY:**
+- nichis but is easily recognised by its spike of small globose non-resupinate flowers.
+
+**ETYMOLOGY:**
+- Named after John D. Prescott ( - 1837), a Russian-based English merchant and botanist who travelled widely in the northern regions of Asia. N°( Lip white, less than 2 mm long ... 1. P. oligantha Lip green, more than 4 mm long. . 2. P. stachyodes
+
+#### Species: Prescottia oligantha
+*(Sw.) Lindl., Gen. Sp. Orch.*
+
+**SUMMARY:**
+- PI.: 454 (1840). Type: Jamaica, Swartz (holo. BM!). Cranichis oligantha Sw., Prodr.: 120 (1788).
+
+#### Species: Prescottia tenuis
+*Lindl., Gen. Sp. Orch. Pl.: 454*
+
+**SUMMARY:**
+- (1840). P. myosurus Rchb. f. ex Griseb., Fl. Brit. W. Ind.: 640 (1864). P. viacola Barb. Rodr., Gen. Sp. Orch. Nov. 2: 279 (1881). KEY TO SPECIES linated by bees though some show features consistent The majority of the Spiranthinae are probably polthere are representatives in all habitable continents Distribution is primarily tropical American but mealy; viscidium terminal; stigma entire or twothe rostellum; pollinia 2, deelpy-divided, soft and basally saccate. casionally epiphytic, with clustered, usually fleshy, Characteristics of this subtribe: terrestrial or ocfrom Cyclopogon, with which genus it has been Beadlea which we consider to be indistinguishable revision by Garay with the exception of the genus the classification. For this book we have followed the particularly by L.A. Garay (1980) when he revised dium. A few genera have been added since then marily on the nature of the rostellum and the viscigroup into 24 genera, basing his classification priNaturelle, Paris 1918. Schlechter (1920) divided this by L.C. Richard in Mémoires du Musée d'Histoire problem taxonomically. Spiranthes was established The subtribe Spiranthinae has always presented a spike) and odes (resembling) in reference to the shape
 
 **Column:**
 - Column usually erect, subequal to sometimes with a prominent chin or spur.
@@ -186,6 +234,48 @@
 **Leaves:**
 - Leaves spiral, clustered, commonly petiolate.
 
+**ETYMOLOGY:**
+- From the Greek stachy (relating to a
+
+**FLOWERING SEASON:**
+- January and February. Flowdensely shaded situations, rooting shallowly into 100 and 400 m. P. stachyodes is usually found in
+
+**HABITAT:**
+- In moist broad-leaved forest between
+
+**DISTRIBUTION IN BELIZE:**
+- Cayo, Stann Creek and
+
+**GENERAL DISTRIBUTION:**
+- The West Indies, Meshort, up to 2 mm long. (Fig. 3; Photo. 12,13). 5 mm long and 4 mm wide when spread. Column with hummingbird pollination. apart from tropical and southern Africa. of the inflorescence. ers last about two weeks. decomposing leaf litter. Toledo Districts. Uncommon. xico to Brazil, Ecuador and Peru. incorporated. lobed. pressed, with an auricle on each side of the base, up to shaped, green, enclosing the column, laterally comsepals up to 1.5 mm wide. Lip suberect, helmetgether resembling a frill around the base of the lip; and petals revolute, pinkish, up to 5 mm long, tomm long, concealed by reddish floral bracts. Sepals Flowers strongly fragrant at night; ovaries up to 8 to 75 cm long; sheaths reddish or reddish-veined. Inflorescence densely many-flowered; peduncle up 9.5 cm wide; petiole grooved, up to 17 cm long. with minutely toothed margins, up to 24 cm long and Leaves up to four, blade elliptic, acute, rather glossy, Plant terrestrial, very variable in size, up to 95 cm tall.
+
+#### Species: Prescottia colorans
+*Lindl. in Bot. Reg 22: t.1916*
+
+**SUMMARY:**
+- Cranichis stachyodes Sw., Fl. Ind. Occ. 3: 1427 22: sub t.1916 (1836). Type: Jamaica, Swartz (holo.
+
+#### Species: Prescottia stachyodes
+*(Sw.) Lindl. in Bot. Reg.*
+
+**SUMMARY:**
+- anthos (flower), but since this plant is not few-flow-
+
+**ETYMOLOGY:**
+- From the Greek oligo (few) and
+
+**FLOWERING SEASON:**
+- February and March. Flow-
+
+**HABITAT:**
+- Under shrubs in open pine-ridge at
+
+**DISTRIBUTION IN BELIZE:**
+- Cayo District (includ-
+
+**GENERAL DISTRIBUTION:**
+- Florida, the West Indies, Column laterally winged near the apex. (Fig. 3; Phoup to 1.5 mm long and 2 mm wide when spread. saccate, apiculate, with 2 lateral auricles at the base, 0.5 mm wide. Lip erect, subcircular, deeply concavepetals linear to narrowly ovate, up to 1.5 mm long and obtuse, up to 2 mm long and about 1.2 mm wide; 5 mm long. Sepals and petals recurved; sepals ovate, sometimes tinged with pink; pedicellate ovaries up to cm long; sheaths pale green. Flowers minute, white, spicate, densely many-flowered; peduncle up to 21 cm long and 2.7 cm wide; petiole short. Inflorescence or less elliptic, with a satin-like appearance, up to 6 thick, fleshy, fasciculate. Leaves up to 5, blade more Plant terrestrial, slender, up to 30 cm tall. Roots short, P. gracilis Schltr. in Fedde, Repert. Sp. Nov. Beih. 7: P. panamensis Schltr. in Fedde, Repert. Sp. Nov. ing the Mountain Pine Ridge Reserve). Rare. Mexico to Brazil, Paraguay and Argentina. ered this epithet is confusing. (1836). (1799). BM!). ers last about ten days. about 1000m. to.11). 51(1920). Beih. 7:50 (1920).
+
 ---
 
 ### Genus: Cyclopogon Presl
@@ -198,22 +288,67 @@
 - Lip up to 8 mm long; apex dilated into a reniform Leaves small, usually less than 7 cm long, ovate...3.
 
 **ETYMOLOGY:**
-- From the Latin comosus (bearing a
+- From the Latin elatus (tall) referring
 
 **FLOWERING SEASON:**
-- March.
+- March and April. Flowers
+
+**DISTRIBUTION IN BELIZE:**
+- Toledo District. Rare.
+
+**GENERAL DISTRIBUTION:**
+- Florida, the West Indies, the column. Column up to 3 mm long. (Photo. 15). becoming white at base, with erect margins clasping long; terminal lobe white; lower portion green, the base and a prominent terminal lobe, up to 8.5 mm above the middle, with two incurved projections at upcurved at the tip, up to 6 mm long. Lip constricted brownish below, white above with a brown mid-vein, somewhat upcurved, up to 9 mm long. Petals slender, urved at the tip, up to 7 mm long; lateral sepals base; dorsal sepal concave above the middle, recing. Sepals dark green to pinkish, up to 2 mm wide at long, with several sheaths. Flowers numerous, noddscent above; peduncle pinkish-brown, up to 13 cm petiole grooved, up to 7 cm long. Inflorescence pubesilvery-green, up to 15 cm long and 3.2 cm wide; petiolate; blade dark green, variegated with pale Plant terrestrial, up to 25 cm tall. Leaves few, up to 4, Sarcoglottis elata (Sw.) P.N.Don in Hort. Cantabr. Beadlea elata (Sw.) Small ex Britton in Brooklyn Spiranthes elata (Sw.) L. C. Rich. in Mém. Mus. Par. Neottia minor Jacq., Ic. Pl. Rar. 3: t.601 (1793). Satyrium elatum Sw., Prodr.: 119 (1788). Sp. Nov., Beih. 6: 53 (1919). Type: Jamaica, Swartz
+
+#### Species: Cyclopogon elatus
+*(Sw.) Schltr. in Fedde, Repert.*
+
+**SUMMARY:**
+- ing a resemblance to) referring to the similarity of the genus) and the Greek adjectival suffix -oides (indicat-
+
+**ETYMOLOGY:**
+- From Cranichis (another orchid
+
+**FLOWERING SEASON:**
+- January and February.
+
+**DISTRIBUTION IN BELIZE:**
+- Toledo District. Rare. Indies, Belize, Guatemala and Venezuela.
+
+**GENERAL DISTRIBUTION:**
+- Florida, Cuba, the West column. Column white, up to 4 mm long. (Fig. 5; lateral lobes broad, erect, clasping and adherent to the curved, widest near the middle, up to 5.5 mm long; purple veins, up to 4.5 mm long. Lip white, 3-lobed, to the size of theplant. last about two weeks.
+
+**HABITAT:**
+- In dense wet forest. Photo. 14). tulate, spreading at the tip, white edged with green or with purple; lateral sepals spreading. Petals spamm long and 1.5 mm wide; dorsal sepal suffused small and inconspicuous. Sepals pale green, up to 6 with several white-spotted sheaths. Flowers rather brownish-purple, pubescent above, up to 20 cm long, long. Inflorescence many-flowered; peduncle pale long and 2.5 cm wide; petiole channelled, up to 4 cm broadly ovate in a rosette, petiolate; blade up to 6 cm Plant terrestrial, slender, up to 28 cm tall. Leaves few, Beadlea cranichoides (Griseb.) Small, Fl. Southeast Spiranthes cranichoides (Griseb.) Cogn. in Urb., Biol. Sauroglossum cranichoides Ames. in Proc. Pelexia cranichoides Griseb., Cat. Pl. Cub.: 269 Beih. Bot. Centralbl. 37 (2): 387 (1920). Type: Cuba,
+
+#### Species: Cyclopogon cranichoides
+*(Griseb.) Schltr. in*
+
+**SUMMARY:**
+- based on a specimen by Schipp S-833 (AMES).
+
+**NOTE:**
+- Reported by Catling & Catling (1988)
+
+**ETYMOLOGY:**
+- From the Latin comosus (bearing a
 
 **DISTRIBUTION IN BELIZE:**
 - Exact locality not
 
 **GENERAL DISTRIBUTION:**
-- Mexico, Belize and El two conspicuous whitish translucent calli. Column thickened margins, basal portion olive-green with apical portion white, dilated into a reniform lobe with a green nerve, up to 5 mm long. Lip up to 8 mm long, lateral sepals connate at base. Petals translucent with echinate. Sepals up to 7 mm long, olive-brown; attenuate, up to 10 mm long. Flowers small; ovary Inflorescence spicate, 5-to 10-flowered; floral bracts 2 cm long. Scape erect, up to 17 cm long. striped, up to 5 cm long and 1.7 cm wide; petiole up to Plant terrestrial. Leaves basal, dark green and silveryBeadlea comosa (Rchb.f.) Hamer & Garay, Orquid. Spiranthes comosa Rchb. f. in Linnaea 18: 408 Greenwood in Orquídea (Méx.), 10 (1): 92 (1986). 1. Cyclopogon comosus (Rchb.f.) Burns-Bal. & U. S. ed.2: 320 (1913). Symb. Antill. 6 : 338 (1909). Soc. Wash. 17:117 (1904). C. Wright 3293 (holo. GH; iso. K!). tuft of hairs or leaves).
+- Mexico, Belize and El two conspicuous whitish translucent calli. Column thickened margins, basal portion olive-green with apical portion white, dilated into a reniform lobe with a green nerve, up to 5 mm long. Lip up to 8 mm long, lateral sepals connate at base. Petals translucent with echinate. Sepals up to 7 mm long, olive-brown; attenuate, up to 10 mm long. Flowers small; ovary Inflorescence spicate, 5-to 10-flowered; floral bracts 2 cm long. Scape erect, up to 17 cm long. striped, up to 5 cm long and 1.7 cm wide; petiole up to Plant terrestrial. Leaves basal, dark green and silveryBeadlea comosa (Rchb.f.) Hamer & Garay, Orquid. Spiranthes comosa Rchb. f. in Linnaea 18: 408 Greenwood in Orquídea (Méx.), 10 (1): 92 (1986).
+
+#### Species: Cyclopogon comosus
+*(Rchb.f.) Burns-Bal. &*
+
+**SUMMARY:**
+- U. S. ed.2: 320 (1913). Symb. Antill. 6 : 338 (1909). Soc. Wash. 17:117 (1904). C. Wright 3293 (holo. GH; iso. K!). tuft of hairs or leaves).
+
+**FLOWERING SEASON:**
+- March.
 
 **HABITAT:**
 - In cloud forest. bifid at the apex, short, up to 2 mm long. El Salvador 3: 48 (1981). Type: Mexico, Leibold (holo. W!). (1866). known. Rare. Salvador. (1844).
-
-**NOTE:**
-- Reported by Catling & Catling (1988)
 
 ---
 
@@ -293,19 +428,133 @@
 *Source: page-028, page-030*
 
 **SUMMARY (uncertain):**
-- petals. Lateral sepals linear, decurrent at base, forming a spur-like mentum. A genus of about 50 species widely distributed in tropical and temperate Central and South America. Five are known from Belize. Catling & Catling (1988) reported P. laxa (Poepp. & Endl.) Lindl. as occuring from Belize but this specimen is referrable to Mesadenella petenensis (L.O.Williams) Garay. hooded in appearance, up to 3 mm wide; lateral sepals united at the back and fused with the ovary to form a spur of up to 6 mm long, free part recurved. (Fig. 9; Photo. 20).
+- petals. Lateral sepals linear, decurrent at base, forming a spur-like mentum. A genus of about 50 species widely distributed in tropical and temperate Central and South America. Five are known from Belize. Catling & Catling (1988) reported P. laxa (Poepp. & Endl.) Lindl. as occuring from Belize but this specimen is referrable to Mesadenella petenensis (L.O.Williams) Garay.
 
 **Lip:**
-- Lip attached to base of column, erect, linear, canaliculate below. Lip white, concave at the base, clasping and adherent to the column, constricted near the apex with the apical portion strongly reflexed, up to 7 mm long and 3 mm wide across the apical portion, somewhat fleshy, pubescent; spur adnate to the ovary almost to apex.
+- Lip attached to base of column, erect, linear, canaliculate below.
 
 **Column:**
-- Column short, lacking a foot; rostellum flat, membranaceous. Column pale greenish, up to 6 mm long.
+- Column short, lacking a foot; rostellum flat, membranaceous.
 
 **ETYMOLOGY:**
-- From the Greek pelex (a helmet) in reference to the appearance of the dorsal sepal which, together with the petals, form a helmet-like structure. 1. Petiole usually long, 15 cm or more 1. P. adnata Petiole usually short, less than 15 cm long . . . 2 2. Plant short, stem seldom more than 8 cm; inflorescence congested; flowers white; lateral sepals decurrent forming a spur of up to 10 mm long Plant usually tall, over 8 cm; inflorescence laxflowered; flowers green- yellow to green-white 3 3. Column up to 5 mm long; flowers yellow-green to brown; leaves often shrivelled when flowering Column up to 12 mm long; flowers green to greenish-white; leaves not shrivelled when flowering 4. Lateral sepals spreading-descending; flowers green; sepals and petals obtuse . . 3. P. funckiana Lateral sepals not spreading-descending; flowers greenish-white; sepals and petals acute 1. Pelexia adnata (Sw.) Spreng., Syst. Veg. 3: 704 (1826). Type: Jamaica, Swartz (holo. UPS). Satyrium adnatum Sw., Prodr: 118 (1788). Neottia adnata Sw., Fl. Ind. Occ. 3: 1409 (1806). Spiranthes adnata (Sw.) Benth. ex Fawc., Flow. Pl. Jam.: 40 (1893). Plant terrestrial, slender, up to 22 cm tall. Leaves few, elliptic-lanceolate, up to 12 cm long and 5 cm wide; petiole long and slender, sulcate, up to 12 cm long. Inflorescence several-flowered, spicate, up to 15 cm long with several sheaths; peduncle pale reddish below, greenish-pubescent above. Flowers rather small and inconspicuous, up to 2 cm long; floral bracts pubescent, linear-lanceolate. Sepals greenish, pubescent, free part up to 7 mm long; dorsal sepal KEY TO SPECIES 2. P. congesta 5. P. richardiana 4. P. olivacea Named after M. Funck, a plant collector for M. Linden.
+- From the Greek pelex (a helmet) in reference to the appearance of the dorsal sepal which, together with the petals, form a helmet-like structure. 1. Petiole usually long, 15 cm or more 1. P. adnata Petiole usually short, less than 15 cm long . . . 2 2. Plant short, stem seldom more than 8 cm; inflorescence congested; flowers white; lateral sepals decurrent forming a spur of up to 10 mm long Plant usually tall, over 8 cm; inflorescence laxflowered; flowers green- yellow to green-white 3 3. Column up to 5 mm long; flowers yellow-green to brown; leaves often shrivelled when flowering Column up to 12 mm long; flowers green to greenish-white; leaves not shrivelled when flowering 4. Lateral sepals spreading-descending; flowers green; sepals and petals obtuse . . 3. P. funckiana Lateral sepals not spreading-descending; flowers greenish-white; sepals and petals acute
+
+#### Species: Pelexia adnata
+*(Sw.) Spreng., Syst. Veg. 3: 704*
+
+**SUMMARY:**
+- (1826). Type: Jamaica, Swartz (holo. UPS). Satyrium adnatum Sw., Prodr: 118 (1788). Neottia adnata Sw., Fl. Ind. Occ. 3: 1409 (1806). Spiranthes adnata (Sw.) Benth. ex Fawc., Flow. Pl. Jam.: 40 (1893). Plant terrestrial, slender, up to 22 cm tall. P. congesta 5. P. richardiana 4. P. olivacea hooded in appearance, up to 3 mm wide; lateral sepals united at the back and fused with the ovary to form a spur of up to 6 mm long, free part recurved. (Fig. 9; Photo. 20).
+
+**Leaves:**
+- Leaves few, elliptic-lanceolate, up to 12 cm long and 5 cm wide; petiole long and slender, sulcate, up to 12 cm long.
+
+**Inflorescence:**
+- Inflorescence several-flowered, spicate, up to 15 cm long with several sheaths; peduncle pale reddish below, greenish-pubescent above.
+
+**Flowers:**
+- Flowers rather small and inconspicuous, up to 2 cm long; floral bracts pubescent, linear-lanceolate.
+
+**Sepals:**
+- Sepals greenish, pubescent, free part up to 7 mm long; dorsal sepal KEY TO SPECIES 2.
 
 **Petals:**
 - Petals whitish, fused to the dorsal sepal, up to 8 mm long and 1 mm wide.
+
+**Lip:**
+- Lip white, concave at the base, clasping and adherent to the column, constricted near the apex with the apical portion strongly reflexed, up to 7 mm long and 3 mm wide across the apical portion, somewhat fleshy, pubescent; spur adnate to the ovary almost to apex.
+
+**Column:**
+- Column pale greenish, up to 6 mm long.
+
+**GENERAL DISTRIBUTION:**
+- The West Indies, Mexico to Honduras, and Venezuela.
+
+**DISTRIBUTION IN BELIZE:**
+- Toledo District. Rare.
+
+**HABITAT:**
+- In dense forest.
+
+**FLOWERING SEASON:**
+- March and April.
+
+**ETYMOLOGY:**
+- From the Latin adnatus (joined together, adnate) in reference to the the spur which is joined to the ovary almost to its apex.
+
+#### Species: Pelexia congesta
+*Ames & Schweinf. in Ames,*
+
+**SUMMARY:**
+- Sched. Orch. 10: 5 (1930). Type: Costa Rica, Guanacaste, P.C. Standley & J. Valerio 45885 (holo. AMES 33212, photo. of holo. K!). Plant terrestrial, with large, tuberous roots. Lateral sepals linear, lower portion connate with the ovary, free part up to 1.8 cm long and 3.2 mm wide. Dorsal sepal oblong, up to 1.8 cm long and 5 mm wide.
+
+**Leaves:**
+- Leaves clustered in a basal rosette, petiolate, ellipticlanceolate, acute, up to 8 cm long and 2.7 cm wide; petiole short, up to 4 cm long.
+
+**Stem:**
+- Stem up to 9 cm tall, concealedby loose scarious sheaths.Inflorescence racemose, short, up to 7.7 cm long.
+
+**Flowers:**
+- Flowers up to 12, green and yellow; floral bracts lanceolate.
+
+**Petals:**
+- Petals similar to the lateral sepals.
+
+**Lip:**
+- Lip panduratelinear, up to 2.7 cm when extended; spur prominent.
+
+**Column:**
+- Column long and slender, up to 1.5 cm long, pubescent on the anterior surface; rostellum short.
+
+**GENERAL DISTRIBUTION:**
+- Belize, Nicaragua and Costa Rica.
+
+**DISTRIBUTION IN BELIZE:**
+- Stann Creek District. Rare.
+
+**HABITAT:**
+- Usually terrestrial but has been reported as epiphytic (Hamer, 1984). In wet tropical forest.
+
+**FLOWERING SEASON:**
+- February to April.
+
+**ETYMOLOGY:**
+- From the Latin congestus (crowded together) in reference to the clustered leaves.
+
+**NOTE:**
+- Reported by Hamer (1984) but not seen by US.
+
+#### Species: Pelexia funckiana
+*(A. Rich. & Gal.) Schltr. in*
+
+**SUMMARY:**
+- Fedde, Repert. Sp. Nov. 15: 197 (1918). Type: Mexico, without proper locality, H. Galeotti 5171 (holo. P). Spiranthes funckiana A. Rich. & Gal. in Ann. Sci. Nat. sér. 3(3): 32 (1845).
+
+#### Species: Pelexia guatemalensis
+*Schltr. in Fedde, Repert. Spec.*
+
+**SUMMARY:**
+- Nov. 15: 197 (1918). P. hondurensis Ames, Sched. Orch. 2: 4 (1923). P. subaequalis Ames, Sched. Orch. 2: 5 (1923). Plant terrestrial, slender, glabrous, up to 45 cm tall.
+
+**Leaves:**
+- Leaves basal, with slender petioles, elliptic-lanceolate, acuminate, up to 13 cm long and 5.5 cm wide; petiole up to 9.5 cm long.
+
+**Inflorescence:**
+- Inflorescence spicate, loosely few-flowered, up to 13 cm long; bracts linearlanceolate, up to 3 cm long.
+
+**Flowers:**
+- Flowers rather large, spreading, greenish white.
+
+**Sepals:**
+- Sepals pubescent on outer surface; dorsal sepal oblong-elliptic, obtuse, up to 1.9 cm long and 5 mm wide; lateral sepals spreading, linear-ligulate, obtuse, up to 2 cm long and 3 mm wide.
+
+**Petals:**
+- Petals linear-oblanceolate, obtuse, ciliate along outer margin, up to 1.9 cm long and 3 mm wide.
+
+**Lip:**
+- Lip sagittate, forming a tube, up to 2.3 cm long and 5 mm wide, constricted near the apex forming a reflexed apical nodule; disc pilose.
+
+**Column:**
+- Column up to 1.4 cm long; rostellum linear.
 
 **GENERAL DISTRIBUTION:**
 - Mexico, Belize, Guatemala and Panama.
@@ -318,6 +567,9 @@
 
 **FLOWERING SEASON:**
 - April.
+
+**ETYMOLOGY:**
+- Named after M. Funck, a plant collector for M. Linden.
 
 **NOTE:**
 - Reported by Siegerist (1984) and Catling & Catling (1988) as Pelexia cf. funckiana.
@@ -369,9 +621,6 @@
 ### Genus: Spiranthes L. C. Rich.
 *Source: page-038, page-039*
 
-**SUMMARY (uncertain):**
-- and lip, x 8; G: lip, x 8; H: anther cap, front view, x 16; J: anther cap, back view, x 16; K: pollinia, x 16. Drawn by Beverley
-
 #### Species: Spiranthes torta
 *(Thunb.) Garay & H.R.Sweet in*
 
@@ -382,7 +631,7 @@
 *(Sw.) L. C. Rich. in Mém. Mus.*
 
 **SUMMARY:**
-- Hist. Nat. Par. 4: 59 (1818). Plant terrestrial, arising from a cluster of fleshy roots. (Fig. 13; Photo. 27).
+- Hist. Nat. Par. 4: 59 (1818). Plant terrestrial, arising from a cluster of fleshy roots. (Fig. 13; Photo. 27). and lip, x 8; G: lip, x 8; H: anther cap, front view, x 16; J: anther cap, back view, x 16; K: pollinia, x 16. Drawn by Beverley
 
 **Leaves:**
 - Leaves basal, up to 3, leathery, strongly channelled, linear, usually present when flowering, up to 20 cm long and 0.4 cm wide.
@@ -458,49 +707,505 @@
 *Source: page-040, page-041, page-042, page-043, page-045, page-046, page-047, page-048, page-049*
 
 **SUMMARY (uncertain):**
-- KEY TO SPECIES S. H. floribunda 6. H. lankesteri 3. H. distans oaks or pine trees in cloud forest. H. tetrodon Kraenzl., Vidensk. Medd. Dansk. NaHabenaria herzogii Schltr. in Fedde, Repert. Sp. Nov. C Platanthera garberi (Porter) Chapman, Fl. Southeast H. odontopetala Rchb. f. in Linnaea 18: 407 (1844). this species were the basis of Correll's report (1965) that are easily overlooked. Collections referrable to 8. Habenaria monorrhiza (Sw.) Rchb. f. in Ber. Deutsch. Bot. Gesell. 3: 274 (1885). Type: Jamaica, Swartz (holo. BM!). Orchis monorrhiza Sw., Prodr.: 118 (1788). Habenaria brachyceratitis Willd., Sp. Pl. ed. 4: 44 (1805). H. speciosa Poepp. & Endl., Nov. Gen. Sp. 1: 44 (1835). H. maculosa Lindl., Gen. Sp. Orch. Pl.: 308 (1835). H. sodiroi Schltr. in Fedde, Repert. Sp. Nov. Beih. 14: 115 (1915). Plant terrestrial, rather stout, up to 80 cm tall, with an ovoid tuberoid at base. (Fig. 17K; Photo. 32, 33). its aquatic or semi- aquatic habit. Catling & Catling (1988) suggest that the plants found in Belize belong to var. repens. 12. Habenaris rodeiensis Barb. Rodr., Gen. Sp. Orch. Nov. 2: 256 (1882). Type: Brazil, Rodeio, J. Barbosa Rodrigues (holo. lost; painting from original plate t.799, photo. K!). Plant terrestrial, rather slender, up to 48 cm tall, with a tuberoid at the base. (Fig. 17G; Photo. 35). H. rodiensis. G: lip, x 8. H. mesodactyla. H: lip, x 6. H. novemfida. J: lip, × 2. H. monorrhiza. K: lip with spur, × 2. Drawn by
+- KEY TO SPECIES S. H. floribunda 6. H. lankesteri 3. H. distans
 
 **HABITAT:**
-- In poorly drained savannah below In moist soil of mixed pine-hardwood forests, grassy hillsides. In swampy woodland below 100m. On grassy slopes of open woods and scrub forest. In seasonal pools, swamps and ditches On stony or sandy soils in open pineridge between 50 and 1000m.
+- On mossy,rocky ground underneath
 
 **DISTRIBUTION IN BELIZE:**
-- Belize, Stann Creek Belize District. Rare. Orange Walk and Bel- Toledo District. Rare. Belize, Stann Creek Belize, Cayo ( Mountain Pine Ridge Reserve) and Toledo Districts. Locally common.
+- Toledo District. Rare.
 
 **GENERAL DISTRIBUTION:**
-- Mexico and Belize. Column greenish-white, up to 2 mm long. wide; spur slender, pale green, up to 2 cm long. cm long; mid-lobe linear, up to 1 cm long and 1.5 mm lobes widely diverging, upcurved, slender, up to 1.4 3-lobed, yellowish-green with a white base; lateral lobe upcurved, slender, up to 1.4 mm long. Lip deeply dorsal sepal, up to 8 mm long and 2 mm wide; lower Flowers last about three weeks. and Toledo Districts. Uncommon. Costa Rica and Panama. Nat. sér. 3(3): 28 (1845). 195 (1918). Reg. Monac.). repens. was selected. 100m. with a white base; upper lobe connivent with the Petals bilobed, almost to the base, yellowish-green urved at the apex, up to 1 cm long and 4 mm wide. wide; lateral sepals somewhat reflexed, keeled, recconcave; dorsal sepal up to 8 mm long and 6 mm pedicellate ovaries up to 2 cm long. Sepals green, many-flowered, up to 15 cm long. Flowers fragrant; 20 cm long and 1.2 cm wide. Inflorescence few- to somewhat folded lengthwise, yellowish-green, up to several, erect-spreading, linear-lanceolate to linear, an ellipsoid tuberoid at base. Stem leafy. Leaves Plant terrestrial, rather slender, up to 45 cm tall, with & V.R. Brownell B17.3 (holo. AMES; iso. DAO). 39(3): 402 (1987). Type: Belize, Toledo, P.M. Catling 1. Habenaria brownelliana Catling in Brittonia 9. H. novemfida Leaves spreading, the largest 2-4 cm wide 1. H. brownelliana 12. Leaves ascending, the largest less than 2 cm Plants not aquatic. Spur more than than 14 mm 11. H. repens 11. Plants more or less aquatic. Spur 9-12 mm long oped blades, the largest more than 7 cm long 11 Leaves relatively larger, always with well devel4. H. entomantha sheaths, the largest less than 7 cm long 10. Leaves small, sometimes nearly reduced to erect Plant more robust. Largest leaves more than 1 cm 7. H. mesodactyla 9. Plant very slender. Largest leaves less than 5 mm 2. H. clypeata Leaves without scarious margins; sheaths not 8. H. monorrhiza 8. Leaves with white scarious margins; sheaths Sepals green; petals and lip greenish-yellow, 10. H. quinqueseta cous. Lower lobe of petals 13-30 mm long Leaves spreading or erect-spreading, not glau12. H. rodeiensis 6. Leaves erect, glaucous. Lower lobe of petals up Inflorescence few-to many-flowered. Petals and 13. H. trifida 5. Inflorescence 1- or 2-flowered. Petals and lip Spur less than 3.3 cm long; pedicellate ovaries greenish-white or cream 7. Sepals, petals and lip white lip white or greenish-white. brown-spotted brown-spotted to 10 mm long . greenish-cream. 0.8-2.5 cm long. wide long• wide wide Mexico to Honduras, and Venezuela. Florida, the West Indies, spur slender, pale green, up to 3 cm long. Column side at the base, up to 1.1 cm long and 2 mm wide; 2 mm wide. Lip decurved, linear, with a tooth at each on the lower margin at the base, up to 6 mm long and oblong, shallowly 3-toothed at the apex, with a tooth mm long and 5 mm wide. Petals erect, more or less long and 6 mm wide; lateral sepals reflexed, up to 8 Sepals concave; dorsal sepal keeled, up to 6.5 mm pale green sepals; pedicellate ovaries up to 2 cm long. 30 cm long. Flowers fragrant, yellowish-green with sheaths. Inflorescence loosely many-flowered, up to stripe, up to 15 cm long and 3.2 cm wide; two basal pale to rather dark green, often with a darker midmore or less spreading, lanceolate to oblong-elliptic, an ovoid tuberoid at the base. Stem leafy. Leaves Plant terrestrial, rather slender, up to 85 cm tall, with H. dentifera C. Schweinf. in Bot. Mus. Leafl. Harvard L. O. Williams in Bot. Mus. Leafl. Harvard Univ. 7: H. strictissima Rchb. f. var. odontopetala (Rchb. f.) slender, up to 1 cm long. Flowers last about three weeks. ize Districts. Uncommon. Mexico to Brazil, Peru and Paraguay. stout. (Fig. 16; Photo. 30). Univ. 9:46, t. 5,6 (1941). turh. Foren. 7: 178 (1920). honeysuckle. sely flowering). 184 (1939). Mexico to Costa Rica. Throughout the Amerispur slender, pale green, up to 1.2 cm long. (Fig. mid-lobe linear, up to 7 mm long and 0.7 mm wide; diverging, upcurved, very slender, up to 1.1 cm long; Lip 3-lobed almost to the base; lateral lobes widely spreading-upcurved, very slender, up to 9 mm long. about 5 mm long and 1 mm wide; lower lobe base; upper lobe connivent with the dorsal sepal, long and 3 mm wide. Petals bilobed, almost to the wide; lateral sepals somewhat reflexed, up to 7 mm concave; dorsal sepal up to 6 mm long and 4.5 mm sepals; pedicellate ovaries up to 1.3 cm long. Sepals long. Flowers fragrant, yellowish-green with green cence rather densely many-flowered, up to 24 cm wise, up to 18 cm long and 1.4 cm wide. Infloresstem, lanceolate to linear, somewhat folded lengthascending, concentrated towards the middle of the ellipsoid tuberoid at base. Stem leafy. Leaves several, Plant terrestrial, up to 65 cm tall with an oblong or H. repens var. gracilis Hoehne, Fl. Brasil 12(1): 112 H. palustris Acuña in Estac. Exper. Agron. Bol. Tec. H. sampaioana Scgltr., in Fedde, Repert. Sp. Nov. H. polygonoides Schltr., Anex. Mem. Inst. Butan. H. pseudorepens Schltr. in Fedde, Repert. Sp. Nov. H. nuttallii Small, Fl. Southeast U.S.: 315 (1903). reference to its creeping growth pattern. vidually last about two and a half weeks. in savannah and pine ridge below 100m. and Toledo Districts. Uncommon. MARIE SELBY BOTANICAL GARDENS can tropics and subtropics. 60:15(1939). Beih. 27:299 (1930). 1(4): 14 (1922). Beih. 12:481 (1913). LIBRARY 40. Liparis elata 39. V. planifolia 38. V. pfaviana 37. Vanilla hartii 36. H. trifida Mexico to Brazil and Argentina.
+- Mexico to Honduras, clavate, up to 2.5 cm long. Column up to 3 mm long. lateral lobes filiform, up to 15 mm long; spur stout, linear, obtuse, up to 12 mm long and 2.5 mm wide; mm long and 3 mm wide. Lip 3-lobed; mid-lobe Petals 2-lobed, connivent with dorsal sepal, up to 10 oblong-elliptic, up to 9 mm long and 4.5 mm wide. up to 9 mm long and 6 mm wide; lateral sepals ovary. Flowers fragrant, white. Dorsal sepal elliptic, lanceolate, up to 3 cm long, clasping the pedicellate ovatemany-flowered raceme; bracts long, 7 cm long and 3 cm wide. Inflorescence a few- to Stem leafy. Leaves small, oblong-elliptic, acute, up to rounded tuberoid at the stem base, up to 50 cm tall. Plant terrestrial, small, slender, glabrous, with a H. spithamaea Schltr. in Fedde, Repert. Sp. Nov. 15:
+
+#### Species: Habenaria lactiflora
+*A. Rich. & Gal. in Ann. Sci.*
+
+**SUMMARY:**
+- 311 (1835). Type: Mexico, Karwinski (holo. in herb.
+
+#### Species: Habenaria clypeata
+*Lindl., Gen. Sp. Orch. Pl.:*
+
+**SUMMARY:**
+- species that Halcrow & Halcrow (1967) figured as H. collected. It was almost certainly a plant of this and was one of the first terrestrial orchids that we described, it has been known for a number of years shape and poise of the leaves. Although only recently H. novemfida Lindl., differing most obviously in the
 
 **NOTE:**
-- S. H. brownelliana is evidently very close to and discovered the population from which the type (1956-), who has collected Central American orchids s. H. entomantha was reported by Ames and Correll (1952), and several more recent authors, on the basis of a collection from north-west of Belize City. It is closely allied to H. novemfida but differing in having smaller leaves and a shorter spur. The scent of these flowers resembles that of S. An inconspicuous species remarkable for s. The short-lived and often more or less cleistogamous flowers are a distinctive feature of the Belize population. H. rodeiensis was not known from anywhere in Central America prior to our collections which were previouslyreported,incorrectly, as H. leprieurii Rchb. f. 13. Habenaria trifida Kunth, Nov. Gen. Sp. 1: 330 (1815). Type: Venezuela, San Miguel, Humbold & Bonpland (holo. P). Bonatea pauciflora Lindl., Gen. Sp. Orch. Pl.: 329 (1835). Habenaria setifera Lindl. in Ann. Nat. Hist. 4: 381 (1840). H. spathacea A. Rich. & Gal. in Ann. Sci. Nat. sér. 3(3): 29 (1845). H. pauciflora Rchb. f. in Bonplandia 2: 10 (1854). Н. Леха Rchb. f. ex Kraenzl. in Bot. Jahrb. Syst. 16: 97 (1892). H. lehmanniana Kraenzl. in Bot. Jahrb. Syst. 16: 97 (1892). H. caracasana Schltr. in Fedde, Repert. Sp. Nov. Beih. 6: 26 (1919). H. caucana Schltr. in Fedde, Repert. Nov. Beih. 7: 37 (1920). H. smithii Schltr. in Fedde, Repert. Nov. Beih. 7: 38 (1920). H. gehrtii Hoehne & Schltr., Anex. Mem. Inst. Butan. 1(2): 18 (1921). H. duckeaea Schltr. in Beih. Bot. Centralbl. 42(2): 71 (1925). H. kuhlmannii Schltr. in Beih. Bot. Centralbl. 42(2): 72(1925). H. pickelii Hoehne in Bot. Jahrb. Syst. 68: 129 (1937). H. dentrostris Pabst in Arqu. Bot. Estado Sao Paolo. f.m. 3:118 (1955). Plant terrestrial, up to 50 cm tall, with an ovoid tuberoid at base. Stem leafy. Leaves few, more or less erect, often clasping the stem, elliptic-lanceolate. acuminate, up to 11 cm long and 1.4 cm wide; sheaths on the lower part of the stem veined and spotted with dark brown. Inflorescence 1-or 2- flowered. Flowers greenish-cream with green sepals; pedicellate ovaries erect, somewhat curved, ribbed, up to 9 cm long. Sepals concave; dorsal sepal up to 1.2 cm long and 8 mm wide; lateral sepals reflexed, acute, up to 1.4 cm long and 6 mm wide. Petals bilobed almost to the base; upper lobe connivent with the dorsal sepal, up to 1.2 cm long and 4 mm wide; lower lobe spreading- upcurved, up to 1 cm long and 1.5 cm wide. Lip 3-lobed to the base, rather fleshy, with the lobes all more or less linear and up to 1.4 cm long and 3 mm wide; lateral lobes diverging; spur pale green, slender at base, somewhat swollen towards the apex, up to 6 cm long. (Fig. 17; Photo. 36).
+- S. H. brownelliana is evidently very close to and discovered the population from which the type (1956-), who has collected Central American orchids
 
 **ETYMOLOGY:**
-- Named after Vivian Rose Brownell From the Greek entomus (cut into pieces) and anthos (flower). From the Latin floribundus (profu- From the Latin novem (nine) and fida (cleft or divided) and refers to the filiform lateral lobes of the lip and petals. 10. Habenaria quinqueseta (Michx.) Sw., Adnot. Bot.: 46 (1829). Type: Carolina, Michaux s.n. (holo. Р). Orchis quinqueseta Michx., Fl. Bor.-Am. 2: 155 (1803). Habenaria macroceratitis Willd., Sp. Pl. ed. 4: 44 (1805). H. macroceratitis var. brevicalcarata Ames, Orchid. 4:224 (1910). Plant terrestrial, slender to stout, up to 80 cm tall. Stem leafy. Leaves oblong to lanceolate, broadly From the Latin repens (creeping) in Flowers open from the base of the raceme and indi- From the Latin trifida (divided into three) in reference to the lip shape.
+- Named after Vivian Rose Brownell
 
 **FLOWERING SEASON:**
-- September to December. June to September. December and January. August and September. September to November. June to September, and January.
+- September to December.
 
-**Stem:**
-- Stem leafy. Stem leafy.
+**HABITAT:**
+- In poorly drained savannah below
+
+**DISTRIBUTION IN BELIZE:**
+- Belize, Stann Creek
+
+**GENERAL DISTRIBUTION:**
+- Mexico and Belize. Column greenish-white, up to 2 mm long. wide; spur slender, pale green, up to 2 cm long. cm long; mid-lobe linear, up to 1 cm long and 1.5 mm lobes widely diverging, upcurved, slender, up to 1.4 3-lobed, yellowish-green with a white base; lateral lobe upcurved, slender, up to 1.4 mm long. Lip deeply dorsal sepal, up to 8 mm long and 2 mm wide; lower Flowers last about three weeks. and Toledo Districts. Uncommon. Costa Rica and Panama. Nat. sér. 3(3): 28 (1845). 195 (1918). Reg. Monac.). repens. was selected. 100m. with a white base; upper lobe connivent with the Petals bilobed, almost to the base, yellowish-green urved at the apex, up to 1 cm long and 4 mm wide. wide; lateral sepals somewhat reflexed, keeled, recconcave; dorsal sepal up to 8 mm long and 6 mm pedicellate ovaries up to 2 cm long. Sepals green, many-flowered, up to 15 cm long. Flowers fragrant; 20 cm long and 1.2 cm wide. Inflorescence few- to somewhat folded lengthwise, yellowish-green, up to several, erect-spreading, linear-lanceolate to linear, an ellipsoid tuberoid at base. Stem leafy. Leaves Plant terrestrial, rather slender, up to 45 cm tall, with & V.R. Brownell B17.3 (holo. AMES; iso. DAO). 39(3): 402 (1987). Type: Belize, Toledo, P.M. Catling
+
+#### Species: Habenaria brownelliana
+*Catling in Brittonia*
+
+**SUMMARY:**
+- 9. H. novemfida Leaves spreading, the largest 2-4 cm wide 1. H. brownelliana 12. Spur more than than 14 mm 11. H. repens 11. Plants more or less aquatic. Spur 9-12 mm long oped blades, the largest more than 7 cm long 11 Leaves relatively larger, always with well devel4. H. entomantha sheaths, the largest less than 7 cm long 10. Largest leaves more than 1 cm 7. H. mesodactyla 9. Plant very slender. Largest leaves less than 5 mm 2. H. clypeata Leaves without scarious margins; sheaths not 8. H. monorrhiza 8. H. quinqueseta cous. Lower lobe of petals 13-30 mm long Leaves spreading or erect-spreading, not glau12. H. rodeiensis 6. Lower lobe of petals up Inflorescence few-to many-flowered. H. trifida 5. brown-spotted brown-spotted to 10 mm long. greenish-cream. 0.8-2.5 cm long. wide long• wide wide oaks or pine trees in cloud forest.
 
 **Leaves:**
-- Leaves more or less spreading, narrowly ovate to lanceolate, with white scarious margins, up to 10 cm long and 2.8 cm wide; sheaths greenish-white with green veins and brown spots. Leaves several, erect and clasping the stem, narrowly lanceolate, glaucous, up to 9 cm long and 1.3 cm wide.
-
-**Inflorescence:**
-- Inflorescence rather densely manyflowered, up to 18 cm long. Inflorescence commonly about 10- to 12-flowered, up to 11 cm long.
-
-**Flowers:**
-- Flowers white; pedicellate ovaries up to 1.8 cm long. Flowers fragrant, often more or less cleistogamous; pedicellate ovaries up to 3.2 cm long.
-
-**Sepals:**
-- Sepals up to 7 mm long and 5 mm wide; dorsal sepal concave; lateral sepals reflexed. Sepals pale green with darker green veins, concave, up to 1.2 cm long; dorsal sepal up to 4 mm wide; lateral sepal up to 3 mm wide.
+- Leaves ascending, the largest less than 2 cm Plants not aquatic. Leaves small, sometimes nearly reduced to erect Plant more robust. Leaves with white scarious margins; sheaths Sepals green; petals and lip greenish-yellow, 10. Leaves erect, glaucous.
 
 **Petals:**
-- Petals bilobed almost to the base, up to 7 mm long; upper lobe connivent with the dorsal sepal, somewhat recurved, up to 2.3 mm wide; lower lobe often strongly recurved, very slender. Petals deeply bilobed, greenishwhite, up to 1 cm long; upper lobe connivent with the dorsal sepal, up to 4.5 mm long and 2.5 mm wide; lower lobe upcurved, slender, up to 2 mm long.
+- Petals and 13. Petals and lip Spur less than 3.3 cm long; pedicellate ovaries greenish-white or cream 7.
+
+**Inflorescence:**
+- Inflorescence 1- or 2-flowered.
+
+**Sepals:**
+- Sepals, petals and lip white lip white or greenish-white.
+
+**FLOWERING SEASON:**
+- August.
+
+**ETYMOLOGY:**
+- From the Latin clypeus (a round shield) perhaps in reference to the mid-lobe of the lip.
+
+**NOTE:**
+- H. clypeata was reported by Correll (1965). Although the specimen on which his report was based is apparently too poor to be accurately identified, we have included H. clypeata in the key since it is of widespread occurrence in Central America and thus could be expected from Belize.
+
+#### Species: Habenaria distans
+*Griseb., Cat. Pl. Cub.: 270*
+
+**SUMMARY:**
+- (1866). Type: Cuba, Wright 1481 (holo. AMES, photo. of holo.K!).
+
+#### Species: Habenaria tuerckheimii
+*Schltr. in Fedde, Repert. Sp.*
+
+**SUMMARY:**
+- Nov. Beih. 2: 129 (1906). H. jamaicensis Fawc. & Rendle in J. Bot. 47: 126 (1909). H. distans var. jamaicensis (Fawc. & Rendle) Cogn., Urb. Sym. Antill. 6: 300 (1909). Plant terrestrial, up to 40 cm tall, with an ellipsoid tuberoid at base. Dorsal sepal concave, up to 8 mm long and 6 mm wide. Lateral sepals reflexed, curved upwards towards the apex, up to 1 cm long and 4 mm wide. (Fig. 15: Photo. 29).
+
+**Stem:**
+- Stem angular, with leaves at the base and several lanceolate bracts above.
+
+**Leaves:**
+- Leaves in a more or less distinct rosette, 4 to 6, spreading, oblongelliptic, with undulate margins, up to 15 cm long and 5.8 cm wide.
+
+**Inflorescence:**
+- Inflorescence loosely few- to manyflowered, up to 15 cm long.
+
+**Flowers:**
+- Flowers yellowish-green with green sepals; pedicellate ovaries up to 1.6 cm long.
+
+**Petals:**
+- Petals bilobed, almost to the base, up to 1 cm long; upper lobe connivent with the dorsal sepal, up to 1.8 mm wide; lower lobe recurved, very slender.
 
 **Lip:**
-- Lip 3-lobed to the base; lateral lobes widely diverging, strongly recurved, very slender, up to 9 mm long; mid-lobe recurved, linear, up to 7 mm long and 1 mm wide; spur slender, green, up to 2.2 cm long. Lip deeply 3-lobed, pale green with a white base, up to 1.4 cm long; lateral lobes diverging, up to 3 mm long and 0.8 mm wide; mid-lobe linear, up to 4 mm long and 1.2 mm wide; spur slender, pale green with a white base, up to 3.8 cm long.
+- Lip 3-lobed almost to the base; lateral lobes widely diverging, recurved, very slender, up to 1.6 cm long; mid-lobe linear, up to 1.2 cm long and 1 mm wide; spur club-shaped, green, up to 1.5 cm long.
+
+**GENERAL DISTRIBUTION:**
+- Florida, Cuba, the West Indies, Mexico to Brazil and Bolivia.
+
+**DISTRIBUTION IN BELIZE:**
+- Cayo and Toledo Districts. Rare.
+
+**HABITAT:**
+- In moist broad-leaved forest between 200 and 700m.
+
+**FLOWERING SEASON:**
+- July to October. Flowers open from the base of the raceme and individually last about three weeks.
+
+**ETYMOLOGY:**
+- From the Latin distans (widely separated, distant) in reference to the scattered flowers of the inflorescence.
+
+**NOTE:**
+- H. distans is a species instantly recognised by its leaves, which are confined to the base of the stem and often lie flat on the ground.
+
+#### Species: Habenaria entomantha
+*(La Llave & Lex.) Lindl.,*
+
+**SUMMARY:**
+- Gen. Sp. Orch. Pl.: 311 (1835). Type: Mexico, La Llave & Lexarza s.n. (holo. G). Orchis entomantha Llave & Lex., Nov. Veg. Descr. (Orch. Opusc.) 2: 8 (1824).
+
+#### Species: Habenaria flexuosa
+*Lindl., Gen. Sp. Orch. Pl.: 311*
+
+**SUMMARY:**
+- (1835). H. acutiflora A. Rich. & Gal. in Ann. Sci. Nat. Bot. sér. 3(3): 29 (1845). H. orizabensis A. Rich. & Gal. in Ann. Sci. Nat. Bot. sér. 3(3): 29 (1845). H. guadalajarana S. Watson in Proc. Am. Acad. 22: 456 (1887). H. schaffneri S. Watson in Proc. Am. Acad. 23: 238 (1888). H. filifera S. Watson in Proc. Am. Acad. 26: 154 (1891). H. filipensis Ames, Orchid. 4: 251 (1910). H. tetranema Schltr. in Beih. Bot. Centralbl. 36: 373 (1918). H. ernestii Schltr. in Fedde, Repert. Sp. Nov. Beih. 6: 26 (1919). Plant terrestrial, slender, with a rounded tuber at the stem base. H. tetrodon Kraenzl., Vidensk. Medd. Dansk. Na-
+
+**Stem:**
+- Stem leafy.
+
+**Leaves:**
+- Leaves small, ovate, often reduced to bracteal-leaves, silvery beneath, up to 5 cm long and 2.5 cm wide.
+
+**Inflorescence:**
+- Inflorescence loosely racemose, few- to many- flowered.
+
+**Flowers:**
+- Flowers greenish-yellow; pedicellate ovaries up to 1.7 cm long.
+
+**Sepals:**
+- Sepals keeled along the mid-vein, ovate-oblong; dorsal sepal recurved at apex, up to 7 mm long and 3.5 mm wide; lateral sepals up to 7 mm long and 3 mm wide.
+
+**Petals:**
+- Petals 2-lobed.
+
+**Lip:**
+- Lip 3-lobed; mid-lobe linear, up to 12 mm long and 1 mm wide; lateral lobes filiform, up to 13 mm long; spur up to 1.7 cm long.
+
+**Column:**
+- Column up to 2 mm long
+
+**GENERAL DISTRIBUTION:**
+- Mexico to Honduras, and Venezuela.
+
+**DISTRIBUTION IN BELIZE:**
+- Belize District. Rare.
+
+**HABITAT:**
+- In moist soil of mixed pine-hardwood forests, grassy hillsides.
+
+**FLOWERING SEASON:**
+- June to September.
+
+**ETYMOLOGY:**
+- From the Greek entomus (cut into pieces) and anthos (flower).
+
+**NOTE:**
+- s. H. entomantha was reported by Ames and Correll (1952), and several more recent authors, on the basis of a collection from north-west of Belize City. It is closely allied to H. novemfida but differing in having smaller leaves and a shorter spur.
+
+#### Species: Habenaria herzogii
+*Schltr. in Fedde, Repert. Sp. Nov. C*
+
+**SUMMARY:**
+- Platanthera garberi (Porter) Chapman, Fl. Southeast H. odontopetala Rchb. f. in Linnaea 18: 407 (1844).
+
+#### Species: Habenaria petalodes
+*Lindl., Gen. Sp. Orch. Pl.: 316*
+
+**SUMMARY:**
+- 316 (1835). Type: Peru, Haenke (holo. M; drawing of
+
+#### Species: Habenaria floribunda
+*Lindl., Gen. Sp. Orch. Pl.:*
+
+**SUMMARY:**
+- 44-75 (1836). (1835). holo. AMES). this species were the basis of Correll's report (1965) that are easily overlooked. Collections referrable to
+
+**NOTE:**
+- s. These are extremely inconspicuous plants
+
+**ETYMOLOGY:**
+- From the Greek meso (middle) and
+
+**FLOWERING SEASON:**
+- July to October. Flowers last
+
+**HABITAT:**
+- In savannah and open pine-ridge, from 0
+
+**DISTRIBUTION IN BELIZE:**
+- Belize, Cayo, Stann
+
+**GENERAL DISTRIBUTION:**
+- Belize, northern South towards the apex, up to 1.2 cm long. (Fig. 17H; upcurved, slender, pale green, somewhat swollen up to 6 mm long and 0.7 mm wide; spur often commonly slender, up to 1 cm long; mid-lobe linear, base; lateral lobes curved in towards the mid-lobe, slender, up to 8 mm long. Lip 3-lobed almost to the long and 0.7 mm wide; lower lobe upcurved, very often connivent with the dorsal sepal, up to 5 mm wide. Petals deeply bilobed; upper lobe incurved, extended into a point, up to 7 mm long and 2.5 mm sepals spreading, keeled, with the apex of the keel sepal up to 5.5 mm long and 4 mm wide; lateral Sepals concave, with minutely ciliate margins; dorsal somewhat incurved, ribbed, about 1.7 cm long. green with green sepals; pedicellate ovaries erect, long. Flowers small and inconspicuous, yellowishInflorescence loosely 2- to 6-flowered, up to 12 cm linear, attenuate, up to 8 cm long and 4.5 mm wide. few, erect and clasping the stem, linear- lanceolate to two small tuberoids at the base. Stem leafy. Leaves Plant terrestrial, very slender, up to 50 cm tall, with Ind.: 644 (1864). Type: Trinidad, Crueger (holo.
+
+#### Species: Habenaria mesodactyla
+*Griseb., Fl. Brit. W.*
+
+**SUMMARY:**
+- steri is apparently allied to H. repens but differs in the and otherwise known only from Costa Rica. H. lanke-
+
+**NOTE:**
+- S. Reported by Standley and Record (1936) kester (1879-1969), an English coffee planter and
+
+**ETYMOLOGY:**
+- Named after Charles Herbert Lan-
+
+**DISTRIBUTION IN BELIZE:**
+- Cayo District (MounCreek and Toledo Districts. Locally common. of H. leprieurii Rchb. f. dactyl (finger). about three weeks. to 1000m. America and Trinidad. Photo. 31). К!). shape of the petals and lip. plant collector.
+
+**FLOWERING SEASON:**
+- Not known.
+
+**HABITAT:**
+- In open grassland. tain Pine Ridge Reserve). Rare.
+
+**GENERAL DISTRIBUTION:**
+- Belize and Costa Rica. shorter than mid-lobe, up to 4 mm long; spur pendent, mm wide. Lip fleshy, 3-lobed with lateral lobes triangular-oblong, fleshy, up to 3.5 mm long and 1.5 elliptic-ovate, erect, up to 4 mm long. Petals up to 4 mm long and 2 mm wide; dorsal sepal green. Lateral sepals pendent, ovate, fleshy, concave, cm long, lanceolate, appressed to ovary. Flowers or more flowers, pedicel short; floral bracts up to 1 long and 7 mm wide. Inflorescence racemose with 5 ximate, basal, elliptic-oblong, acuminate, up to 5 cm Plant terrestrial, up to 18 cm tall. Leaves appro342 (holo. AMES, photo. of holo. K!; iso. K!). (1923). Type: Costa Rica, Jocosal, C. H. Lankester
+
+#### Species: Habenaria lankesteri
+*Ames, Sched. Orch. 4: 2*
+
+**NOTE:**
+- The scent of these flowers resembles that of
+
+**ETYMOLOGY:**
+- From the Latin floribundus (profu-
+
+**FLOWERING SEASON:**
+- December and January.
+
+**HABITAT:**
+- In swampy woodland below 100m.
+
+**DISTRIBUTION IN BELIZE:**
+- Orange Walk and Bel-
+
+**GENERAL DISTRIBUTION:**
+- Florida, the West Indies, spur slender, pale green, up to 3 cm long. Column side at the base, up to 1.1 cm long and 2 mm wide; 2 mm wide. Lip decurved, linear, with a tooth at each on the lower margin at the base, up to 6 mm long and oblong, shallowly 3-toothed at the apex, with a tooth mm long and 5 mm wide. Petals erect, more or less long and 6 mm wide; lateral sepals reflexed, up to 8 Sepals concave; dorsal sepal keeled, up to 6.5 mm pale green sepals; pedicellate ovaries up to 2 cm long. 30 cm long. Flowers fragrant, yellowish-green with sheaths. Inflorescence loosely many-flowered, up to stripe, up to 15 cm long and 3.2 cm wide; two basal pale to rather dark green, often with a darker midmore or less spreading, lanceolate to oblong-elliptic, an ovoid tuberoid at the base. Stem leafy. Leaves Plant terrestrial, rather slender, up to 85 cm tall, with H. dentifera C. Schweinf. in Bot. Mus. Leafl. Harvard L. O. Williams in Bot. Mus. Leafl. Harvard Univ. 7: H. strictissima Rchb. f. var. odontopetala (Rchb. f.) slender, up to 1 cm long. Flowers last about three weeks. ize Districts. Uncommon. Mexico to Brazil, Peru and Paraguay. stout. (Fig. 16; Photo. 30). Univ. 9:46, t. 5,6 (1941). turh. Foren. 7: 178 (1920). honeysuckle. sely flowering). 184 (1939).
+
+#### Species: Habenaria monorrhiza
+*(Sw.) Rchb. f. in Ber.*
+
+**SUMMARY:**
+- Deutsch. Bot. Gesell. 3: 274 (1885). Type: Jamaica, Swartz (holo. BM!). Orchis monorrhiza Sw., Prodr.: 118 (1788).
+
+#### Species: Habenaria brachyceratitis
+*Willd., Sp. Pl. ed. 4: 44*
+
+**SUMMARY:**
+- (1805). H. speciosa Poepp. & Endl., Nov. Gen. Sp. 1: 44 (1835). H. maculosa Lindl., Gen. Sp. Orch. Pl.: 308 (1835). H. sodiroi Schltr. in Fedde, Repert. Sp. Nov. Beih. 14: 115 (1915). Plant terrestrial, rather stout, up to 80 cm tall, with an ovoid tuberoid at base. (Fig. 17K; Photo. 32, 33).
+
+**Stem:**
+- Stem leafy.
+
+**Leaves:**
+- Leaves more or less spreading, narrowly ovate to lanceolate, with white scarious margins, up to 10 cm long and 2.8 cm wide; sheaths greenish-white with green veins and brown spots.
+
+**Inflorescence:**
+- Inflorescence rather densely manyflowered, up to 18 cm long.
+
+**Flowers:**
+- Flowers white; pedicellate ovaries up to 1.8 cm long.
+
+**Sepals:**
+- Sepals up to 7 mm long and 5 mm wide; dorsal sepal concave; lateral sepals reflexed.
+
+**Petals:**
+- Petals bilobed almost to the base, up to 7 mm long; upper lobe connivent with the dorsal sepal, somewhat recurved, up to 2.3 mm wide; lower lobe often strongly recurved, very slender.
+
+**Lip:**
+- Lip 3-lobed to the base; lateral lobes widely diverging, strongly recurved, very slender, up to 9 mm long; mid-lobe recurved, linear, up to 7 mm long and 1 mm wide; spur slender, green, up to 2.2 cm long.
 
 **Column:**
 - Column up to 2.5 cm long.
+
+**GENERAL DISTRIBUTION:**
+- The West Indies, Belize to Peru and Bolivia.
+
+**DISTRIBUTION IN BELIZE:**
+- Cayo and Toledo Districts. Uncommon.
+
+**HABITAT:**
+- Along roadsides and in clearings in moist to wet broad-leaved forest between 550 and 750 m.
+
+**FLOWERING SEASON:**
+- November to January. Flowers open from the base of the raceme and individually last about a week.
+
+**ETYMOLOGY:**
+- From the Greek mono (one) and rrhiza (rooted) in reference to the single tuberoid.
+
+#### Species: Habenaria novemfida
+*Lindl. in Benth., Pl.*
+
+**SUMMARY:**
+- Hartw.: 94 (1842). Type: Guatemala, Hartweg (holo. K-LINDL.!).
+
+#### Species: Habenaria diffusa
+*A. Rich. & Gal. in Ann. Sci. Nat.*
+
+**SUMMARY:**
+- sér. 3, 3: 28 (1845). H. dipleura Schltr. in Fedde, Repert. Sp. Nov. 15: 194 (1918). H. quinquefila Schltr. in Fedde, Repert. Sp. Nov. 15: 195 (1918). Plant terrestrial, slender, glabrous, up to 75 cm tall. (Fig. 17J; Photo. 34).
+
+**Stem:**
+- Stem leafy.
+
+**Leaves:**
+- Leaves lanceolate, acute, up to 14 cm long and 4 cm wide.
+
+**Inflorescence:**
+- Inflorescence racemose, loosely fewto many-flowered; bracts lanceolate, acuminate, up to 23 mm long.
+
+**Flowers:**
+- Flowers greenish-yellow; pedicellate ovaries up to 2.5 cm long.
+
+**Sepals:**
+- Sepals elliptic, up to 10 mm long and 4 mm wide.
+
+**Petals:**
+- Petals 2-lobed; posterior lobe linear, falcate, up to 6 mm long; anterior lobe filiform, up to 10.5 mm long.
+
+**Lip:**
+- Lip 3- lobed; mid-lobe linear, up to 11 mm long and 1 mm wide; lateral lobes filiform, curved upwards, up to 15 mm long; spur slender, recurved, up to 3 cm long.
+
+**Column:**
+- Column up to 3 cm long.
+
+**GENERAL DISTRIBUTION:**
+- Mexico to Costa Rica.
+
+**DISTRIBUTION IN BELIZE:**
+- Toledo District. Rare.
+
+**HABITAT:**
+- On grassy slopes of open woods and scrub forest.
+
+**FLOWERING SEASON:**
+- August and September.
+
+**ETYMOLOGY:**
+- From the Latin novem (nine) and fida (cleft or divided) and refers to the filiform lateral lobes of the lip and petals.
+
+#### Species: Habenaria quinqueseta
+*(Michx.) Sw., Adnot.*
+
+**SUMMARY:**
+- Bot.: 46 (1829). Type: Carolina, Michaux s.n. (holo. Р). Orchis quinqueseta Michx., Fl. Bor.-Am. 2: 155 (1803).
+
+#### Species: Habenaria macroceratitis
+*Willd., Sp. Pl. ed. 4: 44*
+
+**SUMMARY:**
+- (1805). H. macroceratitis var. brevicalcarata Ames, Orchid. 4:224 (1910). Plant terrestrial, slender to stout, up to 80 cm tall. its aquatic or semi- aquatic habit. Catling & Catling
+
+**Stem:**
+- Stem leafy.
+
+**Leaves:**
+- Leaves oblong to lanceolate, broadly
+
+**NOTE:**
+- S. An inconspicuous species remarkable for
+
+**ETYMOLOGY:**
+- From the Latin repens (creeping) in Flowers open from the base of the raceme and indi-
+
+**FLOWERING SEASON:**
+- September to November.
+
+**HABITAT:**
+- In seasonal pools, swamps and ditches
+
+**DISTRIBUTION IN BELIZE:**
+- Belize, Stann Creek
+
+**GENERAL DISTRIBUTION:**
+- Throughout the Amerispur slender, pale green, up to 1.2 cm long. (Fig. mid-lobe linear, up to 7 mm long and 0.7 mm wide; diverging, upcurved, very slender, up to 1.1 cm long; Lip 3-lobed almost to the base; lateral lobes widely spreading-upcurved, very slender, up to 9 mm long. about 5 mm long and 1 mm wide; lower lobe base; upper lobe connivent with the dorsal sepal, long and 3 mm wide. Petals bilobed, almost to the wide; lateral sepals somewhat reflexed, up to 7 mm concave; dorsal sepal up to 6 mm long and 4.5 mm sepals; pedicellate ovaries up to 1.3 cm long. Sepals long. Flowers fragrant, yellowish-green with green cence rather densely many-flowered, up to 24 cm wise, up to 18 cm long and 1.4 cm wide. Infloresstem, lanceolate to linear, somewhat folded lengthascending, concentrated towards the middle of the ellipsoid tuberoid at base. Stem leafy. Leaves several, Plant terrestrial, up to 65 cm tall with an oblong or H. repens var. gracilis Hoehne, Fl. Brasil 12(1): 112 H. palustris Acuña in Estac. Exper. Agron. Bol. Tec. H. sampaioana Scgltr., in Fedde, Repert. Sp. Nov. H. polygonoides Schltr., Anex. Mem. Inst. Butan. H. pseudorepens Schltr. in Fedde, Repert. Sp. Nov. H. nuttallii Small, Fl. Southeast U.S.: 315 (1903). reference to its creeping growth pattern. vidually last about two and a half weeks. in savannah and pine ridge below 100m. and Toledo Districts. Uncommon. MARIE SELBY BOTANICAL GARDENS can tropics and subtropics. 60:15(1939). Beih. 27:299 (1930). 1(4): 14 (1922). Beih. 12:481 (1913). LIBRARY 40. Liparis elata 39. V. planifolia 38. V. pfaviana 37. Vanilla hartii 36. H. trifida
+
+#### Species: Habenaria radicans
+*Griseb., Cat. Pl. Cuba.: 271*
+
+**SUMMARY:**
+- Platanthera repens (Nutt.) Wood., Class-book 685
+
+#### Species: Habenaria tricuspis
+*A. Rich. in Sagra, Hist. Cuba 11:*
+
+**SUMMARY:**
+- Mesicera repens Raf., Fl. Tellur. 2: 39 (1836).
+
+#### Species: Habenaria maxillaria
+*Lindl. in Hook., Journ. Bot. 1:*
+
+**SUMMARY:**
+- Platanthera foliosa Brogn., Duperr., Bot. Voy. Cogn. Orchis repens (Nutt.) Raf., Neogen.: 4 (1925) nomen (1818). Type: U.S.A., Georgia, Nuttall s.n. (holo. 16K).
+
+#### Species: Habenaria repens
+*Nutt., Gen. N. Am. Pl. 2: 190*
+
+**SUMMARY:**
+- (1956). The species is noted for its large flowers and (1988) suggest that the plants found in Belize belong to var. repens. 12. Habenaris rodeiensis Barb. Rodr., Gen. Sp. Orch. Nov. 2: 256 (1882). Type: Brazil, Rodeio, J. Barbosa Rodrigues (holo. lost; painting from original plate t.799, photo. K!). Plant terrestrial, rather slender, up to 48 cm tall, with a tuberoid at the base. (Fig. 17G; Photo. 35).
+
+**NOTE:**
+- S. H. quinqueseta was reported by Williams and lower petal lobes, giving the flower a 5-bristled seta (bristle) in reference to the appearance of the lip s. The short-lived and often more or less cleistogamous flowers are a distinctive feature of the Belize population. H. rodeiensis was not known from anywhere in Central America prior to our collections which were previouslyreported,incorrectly, as H. leprieurii Rchb. f.
+
+**ETYMOLOGY:**
+- From the Latin quinque (five) and From Rodeio, in Brazil, where the type specimen was found.
+
+**FLOWERING SEASON:**
+- July and August. Throughout the year, flowering having been recorded in April, July, October and December. Flowers open, or at least mature, from the base of the raceme and individually last only a few days.
+
+**HABITAT:**
+- Sandy pine woods, open or shady places On well-drained slopes in open pineridge between 700 and 1000m.
+
+**DISTRIBUTION IN BELIZE:**
+- Exact locality unto Texas, the West Indies, Central America to north- Cayo District (Mountain Pine Ridge Reserve). Uncommon.
+
+**GENERAL DISTRIBUTION:**
+- South Carolina, Florida wide; spur slender to clavate, up to 18 cm long. (1940). lobe recurved, linear, up to 20 mm long and 3 mm slender, recurved at apex, up to 30 mm long; midup to 25 mm long. Lip 3-lobed, lateral lobes very 15 mm long and 2 mm wide; lower lobe thread-like, 7 mm wide. Petals bilobed, upper lobe falcate, up to Lateral sepals ovate to oblong, up to 16 mm long and elliptic, concave, up to 13 mm long and 10 mm wide. late ovaries up to 3 cm long. Dorsal sepal oblongup to 25 cm long. Flowers greenish-white; pedicelcm wide. Inflorescence few-to many-flowered, lax, rounded to acuminate at apex, up to 25 cm long and 6 37 38 (1866). (1861). 249(1850). 5 (1829). Phan.: 195 (1829). sub Mesicera PH). long spur. appearance. on dry hills, up to 2000m. known. Rare. ern South America. Belize, Venezuela and Brazil.
+
+**Stem:**
+- Stem leafy.
+
+**Leaves:**
+- Leaves several, erect and clasping the stem, narrowly lanceolate, glaucous, up to 9 cm long and 1.3 cm wide.
+
+**Inflorescence:**
+- Inflorescence commonly about 10- to 12-flowered, up to 11 cm long.
+
+**Flowers:**
+- Flowers fragrant, often more or less cleistogamous; pedicellate ovaries up to 3.2 cm long.
+
+**Sepals:**
+- Sepals pale green with darker green veins, concave, up to 1.2 cm long; dorsal sepal up to 4 mm wide; lateral sepal up to 3 mm wide.
+
+**Petals:**
+- Petals deeply bilobed, greenishwhite, up to 1 cm long; upper lobe connivent with the dorsal sepal, up to 4.5 mm long and 2.5 mm wide; lower lobe upcurved, slender, up to 2 mm long.
+
+**Lip:**
+- Lip deeply 3-lobed, pale green with a white base, up to 1.4 cm long; lateral lobes diverging, up to 3 mm long and 0.8 mm wide; mid-lobe linear, up to 4 mm long and 1.2 mm wide; spur slender, pale green with a white base, up to 3.8 cm long.
+
+#### Species: Habenaria trifida
+*Kunth, Nov. Gen. Sp. 1: 330*
+
+**SUMMARY:**
+- (1815). Type: Venezuela, San Miguel, Humbold & Bonpland (holo. P). Bonatea pauciflora Lindl., Gen. Sp. Orch. Pl.: 329 (1835).
+
+#### Species: Habenaria setifera
+*Lindl. in Ann. Nat. Hist. 4: 381*
+
+**SUMMARY:**
+- (1840). H. spathacea A. Rich. & Gal. in Ann. Sci. Nat. sér. 3(3): 29 (1845). H. pauciflora Rchb. f. in Bonplandia 2: 10 (1854). Н. Леха Rchb. f. ex Kraenzl. in Bot. Jahrb. Syst. 16: 97 (1892). H. lehmanniana Kraenzl. in Bot. Jahrb. Syst. 16: 97 (1892). H. caracasana Schltr. in Fedde, Repert. Sp. Nov. Beih. 6: 26 (1919). H. caucana Schltr. in Fedde, Repert. Nov. Beih. 7: 37 (1920). H. smithii Schltr. in Fedde, Repert. Nov. Beih. 7: 38 (1920). H. gehrtii Hoehne & Schltr., Anex. Mem. Inst. Butan. 1(2): 18 (1921). H. duckeaea Schltr. in Beih. Bot. Centralbl. 42(2): 71 (1925). H. kuhlmannii Schltr. in Beih. Bot. Centralbl. 42(2): 72(1925). H. pickelii Hoehne in Bot. Jahrb. Syst. 68: 129 (1937). H. dentrostris Pabst in Arqu. Bot. Estado Sao Paolo. f.m. 3:118 (1955). Plant terrestrial, up to 50 cm tall, with an ovoid tuberoid at base. acuminate, up to 11 cm long and 1.4 cm wide; sheaths on the lower part of the stem veined and spotted with dark brown. (Fig. 17; Photo. 36). H. rodiensis. G: lip, x 8. H. mesodactyla. H: lip, x 6. H. novemfida. J: lip, × 2. H. monorrhiza. K: lip with spur, × 2. Drawn by
+
+**Stem:**
+- Stem leafy.
+
+**Leaves:**
+- Leaves few, more or less erect, often clasping the stem, elliptic-lanceolate.
+
+**Inflorescence:**
+- Inflorescence 1-or 2- flowered.
+
+**Flowers:**
+- Flowers greenish-cream with green sepals; pedicellate ovaries erect, somewhat curved, ribbed, up to 9 cm long.
+
+**Sepals:**
+- Sepals concave; dorsal sepal up to 1.2 cm long and 8 mm wide; lateral sepals reflexed, acute, up to 1.4 cm long and 6 mm wide.
+
+**Petals:**
+- Petals bilobed almost to the base; upper lobe connivent with the dorsal sepal, up to 1.2 cm long and 4 mm wide; lower lobe spreading- upcurved, up to 1 cm long and 1.5 cm wide.
+
+**Lip:**
+- Lip 3-lobed to the base, rather fleshy, with the lobes all more or less linear and up to 1.4 cm long and 3 mm wide; lateral lobes diverging; spur pale green, slender at base, somewhat swollen towards the apex, up to 6 cm long.
+
+**GENERAL DISTRIBUTION:**
+- Mexico to Brazil and Argentina.
+
+**DISTRIBUTION IN BELIZE:**
+- Belize, Cayo ( Mountain Pine Ridge Reserve) and Toledo Districts. Locally common.
+
+**HABITAT:**
+- On stony or sandy soils in open pineridge between 50 and 1000m.
+
+**FLOWERING SEASON:**
+- June to September, and January.
+
+**ETYMOLOGY:**
+- From the Latin trifida (divided into three) in reference to the lip shape.
 
 ---
 
@@ -670,11 +1375,47 @@
 ### Genus: Vanilla Miller
 *Source: page-052, page-053, page-054*
 
-**SUMMARY (uncertain):**
-- Vanilla fragrans (Salisb.) Ames, Sched. Orch. 7: 36 Myrobroma fragrans Salisb., Parad. Lond. 2: t.82 Andrews' Bot. Rep. cited above). Greville (lecto. designated as plate associated with ford and flowered in the collection of the Rt. Hon. C. proper locality, introduced by the Marquis of BlandRep. 8: t.538 (1808). Type: West Indies, without 3. Vanilla planifolia G. Jackson in Andrews' Bot. H.G. Reichenbach with drawings of the plant.
+#### Species: Vanilla fragrans
+*(Salisb.) Ames, Sched. Orch. 7: 36*
+
+**SUMMARY:**
+- Myrobroma fragrans Salisb., Parad. Lond. 2: t.82 Andrews' Bot. Rep. cited above). Greville (lecto. designated as plate associated with ford and flowered in the collection of the Rt. Hon. C. proper locality, introduced by the Marquis of BlandRep. 8: t.538 (1808). Type: West Indies, without
+
+#### Species: Vanilla planifolia
+*G. Jackson in Andrews' Bot.*
+
+**SUMMARY:**
+- H.G. Reichenbach with drawings of the plant.
 
 **ETYMOLOGY:**
-- From the Spanish vanilla (a small language, meaning "black flower' in reference to the vanilla plant was named tlilxochitl, in the Náhuatl pared by a Mexican Indian in 1552. The drawing of a Badianus which contained drawings and texts preorchid in the New World was in the famous Codex cocoa. The first true pictorial representation of an give flavour and aroma to beverages made from Vanilla was first used by the Aztecs of Mexico to the plant and grow very long, branching freely when leaf. These roots are the main supporting organs of adventitious roots borne at each node opposite the Vanda and its allies, but is easily distinguished by the In its climbing habit Vanilla is comparable with widely throughout the tropics. Three are known from A genus of about 60 or more species distributed anther incumbent; pollen powdery or granular. Fruit adnate to column, entire or 3-lobed. Column slender; subequal, free, spreading. Lip with a distinct claw, Flowers large, showy, spreading. Sepals and petals cemose or spicate, axillary or subterminal, short. fleshy, leathery or membranous. Inflorescences raopposite the leaf. Leaves large or rarely scale-like, each node. Roots adventitious, borne at each node Type: Trinidad, Hart 6355 (holo. K!). Flowers white ...... 2. Flowers green; fruits fragrant. KEY TO SPECIES pod) referring to the long, slender pod. fruits (Escobar, 1990-1992). near the ground (Bechtel et al., 1992). a fleshy pod, long-cylindric. disc.... Belize.
+- Named after Mr Pfau, who provided
+
+**FLOWERING SEASON:**
+- Not known.
+
+**HABITAT:**
+- On trees in oak-pine forest.
+
+**DISTRIBUTION IN BELIZE:**
+- Toledo District. Rare.
+
+**GENERAL DISTRIBUTION:**
+- Mexico, Belize, Guatecallus. Column slender, arcuate, up to 2 cm long. with a pair of short keels and an elliptic thickened spread; mid-lobe subquadrate, margins crenate; disc the column, up to 3 cm long and 2.7 cm wide when long and 8 mm wide. Lip deeply 3-lobed, adnate to 1.3 cm wide; petals elliptic-lanceolate, up to 4.2 cm sepals elliptic-lanceolate, acute, up to 4 cm long and yellow in the throat. Sepals and petals contorted; large. Flowers green with a white lip and orangeracemose, terminal or lateral; floral bracts foliaceous, up to 21 cm long and 8 cm wide. Inflorescence Leaves oblong-elliptic, acuminate, fleshy, leathery, Plant epiphytic. Stem slender, leafy, up to 3 mm thick.
+
+#### Species: Vanilla preussii
+*Kraenzl. in Notizbl. Bot. Gart. Mus.*
+
+**SUMMARY:**
+- from Mr Pfau's collection, seen by Reichenbach 230 (1883). Type: Mexico, based upon drawings
+
+#### Species: Vanilla pfaviana
+*Rchb. f. in Gard. Chron. n.s. 20:*
+
+**SUMMARY:**
+- lector who collected the type specimen in Trinidad. 1911), an English landscape gardener and plant col-
+
+**ETYMOLOGY:**
+- Named after John Hart (1847-
 
 **FLOWERING SEASON:**
 - April to June.
@@ -686,7 +1427,43 @@
 - Toledo District. Rare.
 
 **GENERAL DISTRIBUTION:**
-- The West Indies, Belize spread; disc with thickened veins, tufted. Column lamina crenulate-erose, up to 1.5 cm wide when (1924). (1807) nom. illeg. mala and Costa Rica. (Photo. 38). Berlin 7: 320 (1919). (holo. W!). tions, often on ridges. to Honduras and Trinidad. thin. (Photo. 37). slightly inflated at base, up to 4 cm long, apical Lip attached to column almost to apex forming a tube, linear-oblanceolate, up to 4 cm long and 7 cm wide. Flowers white. Sepals and petals similar, narrowly flowered; bracts broadly ovate, up to 5 mm long. long. Inflorescence axillary, compactly fewand 3.5 cm wide; petiole short, twisted, up to 1 cm lanceolate, more or less acuminate, up to 11 cm long Plant epiphytic. Stem slender. Leaves elliptic1. Vanilla hartii Rolfe in Kew Bull.: 133 (1899). 1.V. hartii 3. V. planifolia ves; lip usually with a tuft of hairs or scales on the Floral bracts not foliaceous, dissimilar to the leascales on disc; fruit not fragrant . 2. V. pfaviana ally smaller;lip without a retrorsetuft of hairs or 1. Floral bracts foliaceous, similar to leaves but usu-
+- The West Indies, Belize spread; disc with thickened veins, tufted. Column lamina crenulate-erose, up to 1.5 cm wide when (1924). (1807) nom. illeg. mala and Costa Rica. (Photo. 38). Berlin 7: 320 (1919). (holo. W!). tions, often on ridges. to Honduras and Trinidad. thin. (Photo. 37). slightly inflated at base, up to 4 cm long, apical Lip attached to column almost to apex forming a tube, linear-oblanceolate, up to 4 cm long and 7 cm wide. Flowers white. Sepals and petals similar, narrowly flowered; bracts broadly ovate, up to 5 mm long. long. Inflorescence axillary, compactly fewand 3.5 cm wide; petiole short, twisted, up to 1 cm lanceolate, more or less acuminate, up to 11 cm long Plant epiphytic. Stem slender. Leaves elliptic-
+
+#### Species: Vanilla hartii
+*Rolfe in Kew Bull.: 133 (1899).*
+
+**SUMMARY:**
+- 1.V. hartii 3. V. planifolia ves; lip usually with a tuft of hairs or scales on the Floral bracts not foliaceous, dissimilar to the leascales on disc; fruit not fragrant. 2. V. pfaviana ally smaller;lip without a retrorsetuft of hairs or 1. Floral bracts foliaceous, similar to leaves but usu-
+
+**ETYMOLOGY:**
+- From the Spanish vanilla (a small language, meaning "black flower' in reference to the vanilla plant was named tlilxochitl, in the Náhuatl pared by a Mexican Indian in 1552. The drawing of a Badianus which contained drawings and texts preorchid in the New World was in the famous Codex cocoa. The first true pictorial representation of an give flavour and aroma to beverages made from
+
+#### Species: Vanilla was
+*first used by the Aztecs of Mexico to*
+
+**SUMMARY:**
+- the plant and grow very long, branching freely when leaf. These roots are the main supporting organs of adventitious roots borne at each node opposite the Vanda and its allies, but is easily distinguished by the In its climbing habit Vanilla is comparable with widely throughout the tropics. Three are known from A genus of about 60 or more species distributed anther incumbent; pollen powdery or granular. Fruit adnate to column, entire or 3-lobed. fleshy, leathery or membranous. K!). 2. KEY TO SPECIES pod) referring to the long, slender pod. fruits (Escobar, 1990-1992). near the ground (Bechtel et al., 1992). a fleshy pod, long-cylindric. disc.... Belize.
+
+**Column:**
+- Column slender; subequal, free, spreading.
+
+**Lip:**
+- Lip with a distinct claw, Flowers large, showy, spreading.
+
+**Sepals:**
+- Sepals and petals cemose or spicate, axillary or subterminal, short.
+
+**Inflorescences:**
+- Inflorescences raopposite the leaf.
+
+**Leaves:**
+- Leaves large or rarely scale-like, each node.
+
+**Roots:**
+- Roots adventitious, borne at each node Type: Trinidad, Hart 6355 (holo.
+
+**Flowers:**
+- Flowers white ...... Flowers green; fruits fragrant.
 
 ---
 
@@ -819,6 +1596,12 @@
 **SUMMARY (uncertain):**
 - EtymoloGgY. From the Greek kyrtos (curved) and the American tropics and subtropics. One is known A genus of about 15 species, widely distributed in or cleft, waxy, attached to a stipe by a circular visciumn basally extended into a foot; pollinia 2, notched
 
+#### Species: Cyrtopodium punctatum
+*(L) Lindl., Gen. Sp.*
+
+**SUMMARY:**
+- Orch. PI.: 188 (1833). Type: based upon Plumier's 'Helleborine ramosissima cauliculis et floribus maculosis' in Sp. Pl. Am.: t. 187 (1703).. Epidendrum punctatum L., Syst. Nat. ed. 10, 2: 1246 (1759). Plant terrestrial or semi-epiphytic, large, erect, up to
+
 ---
 
 ### Genus: Eriopsis Lindl.
@@ -839,7 +1622,7 @@
 - S. Plants are without leaves for a short period Orchidaceae of Mexico and Guatemala (1837- 1897), the English orchid collector and author of
 
 **ETYMOLOGY:**
-- From the Latin galea (helmet) American tropics. One is known from Belize. A small genus of about 20 species, all native to the into a short foot; pollinia 4, often in pairs, ovoid, prominent spur at the base. Column basally extended commonly tubular below, spreading above, with a petals free, spreading. Lip joined to the column-foot, few to several-flowered. Flowers showy. Sepals and Leaves distichous, plicate. Inflorescences terminal, jointed, several-leaved, enclosed in leaf-sheaths. Epiphytic or terrestrial herbs. Stems pseudobulbous,
+- Named after James Bateman (1811-
 
 **FLOWERING SEASON:**
 - May to November. Flowers seb. & Wendl.) Britton). Only occasionally seen on ticularly favouring palmetto (Paurotis wrightii (Gri-
@@ -851,7 +1634,28 @@
 - Belize, Cayo, Stann
 
 **GENERAL DISTRIBUTION:**
-- Mexico to Honduras, green, arcuate, up to 1 cm long. (Fig. 26; Photo. 46). spur horn-like, brown, up to 2.5 cm long. Column tube, up to 3.5 cm long and 4 cm wide when spread; last up to three weeks. ist (1983). orchid. 1843). other trees. and Nicaragua. 50. C. egertonianum (female form) 49. Cycnoches egertonianum (male form) 48. C. integerrimum (female form) 47. Catasetum integerrimum (male form) 46. Galeandra batemanii notched at the tip, with two parallel ridges inside the above, white and yellow below, brown at base, to 6 mm wide. Lip enclosing the column, purple up to 2.4 cm long; sepals up to 5 mm wide; petals up up to 2.8 cm long. Sepals and petals similar, brown, Flowers up to 8 together; pedicellate ovaries slender, 14cm long, enclosed in purple-spotted sheaths. branched with age, up to 30 cm long; peduncle up to a simple raceme, commonly becoming severalpale green, spotted with purple. Inflorescence at first deciduous, up to 30 cm long and 2 cm wide; sheaths diameter. Leaves thin in texture, distichous, plicate, leaves when young, up to 23 cm long and 2.5 cm in Pseudobulbs clustered, fusiform, bearing up to 8 Plant epiphytic, erect-spreading, up to 40 cm tall. 3, 18: 581 (1895). Type: Mexico, Oaxaca, Ross s.n. Galeandra batemanii Rolfe in Gard. Chron. series referring to the shape of the anther.
+- Mexico to Honduras, green, arcuate, up to 1 cm long. (Fig. 26; Photo. 46). spur horn-like, brown, up to 2.5 cm long. Column tube, up to 3.5 cm long and 4 cm wide when spread; last up to three weeks. ist (1983). orchid. 1843). other trees. and Nicaragua. 50. C. egertonianum (female form) 49. Cycnoches egertonianum (male form) 48. C. integerrimum (female form)
+
+#### Species: Catasetum integerrimum
+*(male form)*
+
+**SUMMARY:**
+- 46. Galeandra batemanii notched at the tip, with two parallel ridges inside the above, white and yellow below, brown at base, to 6 mm wide. branched with age, up to 30 cm long; peduncle up to a simple raceme, commonly becoming severalpale green, spotted with purple. 3, 18: 581 (1895). Type: Mexico, Oaxaca, Ross s.n. Galeandra batemanii Rolfe in Gard. Chron. series referring to the shape of the anther.
+
+**Lip:**
+- Lip enclosing the column, purple up to 2.4 cm long; sepals up to 5 mm wide; petals up up to 2.8 cm long.
+
+**Sepals:**
+- Sepals and petals similar, brown, Flowers up to 8 together; pedicellate ovaries slender, 14cm long, enclosed in purple-spotted sheaths.
+
+**Inflorescence:**
+- Inflorescence at first deciduous, up to 30 cm long and 2 cm wide; sheaths diameter.
+
+**Leaves:**
+- Leaves thin in texture, distichous, plicate, leaves when young, up to 23 cm long and 2.5 cm in Pseudobulbs clustered, fusiform, bearing up to 8 Plant epiphytic, erect-spreading, up to 40 cm tall.
+
+**ETYMOLOGY:**
+- From the Latin galea (helmet) American tropics. One is known from Belize. A small genus of about 20 species, all native to the into a short foot; pollinia 4, often in pairs, ovoid, prominent spur at the base. Column basally extended commonly tubular below, spreading above, with a petals free, spreading. Lip joined to the column-foot, few to several-flowered. Flowers showy. Sepals and Leaves distichous, plicate. Inflorescences terminal, jointed, several-leaved, enclosed in leaf-sheaths. Epiphytic or terrestrial herbs. Stems pseudobulbous,
 
 ---
 
@@ -908,7 +1712,28 @@
 - sickly-sweet fragrance Plants frequently produce both male and female flowers but usually in separate racemes and at different times. Mixed racemes and hermaphrodite flowers occasionally occur. In both this genus and Catasetum, light intensity has been shown to influence sex expression (Gregg, 1975). Plants in full sunlight are more likely to produce female inflorescences than those growing in shade. The pollination mechanism involves a bee, from the genus Euglossa, landing on the lip of a male flower. The lip, which has a flexible claw, swings down under the weight of the bee, causing the bee's abdomen to touch the anther-cap, which discharges the pollinia. When the bee then visits a female flower it lands on the lip, attracted by the odour located at the apex of the column, and when dropping off, the pollinia are caught by the finger-like rostellar processes of the column (van de Pijl & Dodson, 1966).
 
 **ETYMOLOGY:**
-- From the Greek kyknos (swan) and auchen (neck) referring to the slender, curved column of the male flower. 1. Flowers commonly purple-spotted; lip adorned with club-shaped processes Flowers not spotted; lip entire 2. Inflorescence 1 or 2-flowered; lip up to 3.8 cm long .... 1. C. egertonianum (female flowers) Inflorescence 1- to several-flowered; lip 4 to 5 cm long ••• 1. Cycnoches egertonianum Batem., Orchid. Mex. Guat.: t. 40 (1843). Type: Guatemala, Ure Skinner s.n. (holo.K!). Plant epiphytic, erect, up to 45 cm tall though commonly less. Pseudobulbs up to 30 cm long and 3 cm in diameter. Leaves narrowly elliptic, acuminate, up to 25 cm long and 8 cm wide. Male inflorescence slender, pendulous, up to 16-flowered, up to 80 cm long; peduncle purplish with pale green bracts at the base. Flowers pale green, commonly spotted with purple. Sepals and petals spreading to reflexed, becoming revolute with age, up to 2.2 cm long and 7.5 mm wide. Lip narrow at the base, up to 1.4 cm long; apical portion triangular, decurved; central portion sub-circular, concave, with 11 club-shaped processes around the margin. Column slender, up to 2.5 cm long. Female inflorescence erect, 1- or 2- flowered, up to 15 cm long. Flowers fleshy, very unlike the male flowers. Sepals and petals spreading, KEY TO SPECIES 1. C. egertonianum (male flowers) 2. C. ventricosum •. 2
+- From the Greek kyknos (swan) and auchen (neck) referring to the slender, curved column of the male flower. 1. Flowers commonly purple-spotted; lip adorned with club-shaped processes Flowers not spotted; lip entire 2. Inflorescence 1 or 2-flowered; lip up to 3.8 cm long .... 1. C. egertonianum (female flowers) Inflorescence 1- to several-flowered; lip 4 to 5 cm long •••
+
+#### Species: Cycnoches egertonianum
+*Batem., Orchid. Mex.*
+
+**SUMMARY:**
+- Guat.: t. 40 (1843). Type: Guatemala, Ure Skinner s.n. (holo.K!). Plant epiphytic, erect, up to 45 cm tall though commonly less. Pseudobulbs up to 30 cm long and 3 cm in diameter. Male inflorescence slender, pendulous, up to 16-flowered, up to 80 cm long; peduncle purplish with pale green bracts at the base. Female inflorescence erect, 1- or 2- flowered, up to 15 cm long. C. egertonianum (male flowers) 2. C. ventricosum •. 2
+
+**Leaves:**
+- Leaves narrowly elliptic, acuminate, up to 25 cm long and 8 cm wide.
+
+**Flowers:**
+- Flowers pale green, commonly spotted with purple. Flowers fleshy, very unlike the male flowers.
+
+**Sepals:**
+- Sepals and petals spreading to reflexed, becoming revolute with age, up to 2.2 cm long and 7.5 mm wide. Sepals and petals spreading, KEY TO SPECIES 1.
+
+**Lip:**
+- Lip narrow at the base, up to 1.4 cm long; apical portion triangular, decurved; central portion sub-circular, concave, with 11 club-shaped processes around the margin.
+
+**Column:**
+- Column slender, up to 2.5 cm long.
 
 ---
 
@@ -917,6 +1742,60 @@
 
 **SUMMARY (uncertain):**
 - KEY TO SPECIES ..... 1. M. buccinator x ⅔; F: lip, ¾ view, x ⅔; G: column, x 4; H: anther cap, x 6;J: pollinia, x 6. Drawn by Beverley Mears from the living collection
+
+#### Species: Mormodes buccinator
+*Lindl. in Bot. Reg. 26:*
+
+**SUMMARY:**
+- Misc.9 (1840). Type: Mexico, T. Williams (holo. K-LINDL.!). Plant epiphytic, up to 30 cm tall. Pseudobulbs several together, cylindrical, slightly compressed, elongate, tapering, up to 25 cm long and 3 cm wide, enclosed in leaf-sheaths when young which become papery with age as the leaves fall, leaving circular scars. (Fig. 31; Photo. 53).
+
+**Leaves:**
+- Leaves lanceolate, plicate, produced from the apex of the pseudobulb, up to 51 cm long and 4 cm wide; the lower leaves soon fall, leaving the upper leaves which fall before flowering.
+
+**Inflorescence:**
+- Inflorescence 1 to 2, arising from the base of the pseudobulb, racemose, up to 23 cm long.
+
+**Flowers:**
+- Flowers chocolate to red-brown, but can be variable in colour, with a slightly pungent fragrance; pedicellate ovaries up to 4 cm long.
+
+**Sepals:**
+- Sepals linear, acute with reflexed margins, up to 3 cm long and 1.1 cm wide; lateral sepal folded backwards, strongly veined.
+
+**Petals:**
+- Petals linear, up to 3 cm long and 1.2 cm wide.
+
+**Lip:**
+- Lip fleshy, folded and twisted, interior chocolate-brown within and strongly veined, pink on outside, up to 2.5 cm long and 3 cm wide.
+
+**Column:**
+- Column twisted, up to 1.8 cm long.
+
+**GENERAL DISTRIBUTION:**
+- Mexico to northern South America.
+
+**DISTRIBUTION IN BELIZE:**
+- Cayo (including the Mountain Pine Ridge Reserve) and Stann Creek Districts. Rare.
+
+**HABITAT:**
+- On rotten logs and trees in humid forest.
+
+**FLOWERING SEASON:**
+- January to April. Flowers last about a week.
+
+**ETYMOLOGY:**
+- From the Latin buccinatorius (trumpet-shaped, horn- shaped) in reference to the shape of the flower.
+
+#### Species: Mormodes warscewiczii
+*Klotzsch in Otto &*
+
+**SUMMARY:**
+- Dietr., Allg. Gartenz. 22: 65 (1854). Type: Peru, J. Warscewicz (holo. Bt).
+
+#### Species: Mormodes histrio
+*Linden & Rchb.f. in Otto, Hamb.*
+
+**SUMMARY:**
+- Gartenz. 25: 54 (1859).
 
 ---
 
@@ -950,7 +1829,7 @@
 *Source: page-074, page-075, page-076, page-077, page-078*
 
 **SUMMARY (uncertain):**
-- petals 9 mm long; petals are narrower than the sepals. 1.5 cm long and 8 mm in diameter. Dorsal sepals and peduncle up to 2.5 cm long; ovary and flower up to apparently fragrant and not opening widely; whitish spotted with yellow towards the base, not leaf axils and held below the leaves. Dichaeopsis glauca (Sw.) Schltr. in Beih. Bot. CenEpidendrum glaucum Sw., Prodr.: 124 (1788). 209 (1833). Type: Jamaica, Swartz (holo. BM!). 2. Dichaea glauca (Sw.) Lindl., Gen. Sp. Orch. Pl.: tified by the numerous hair-like projections on the vegatatively from D. panamensis but can be iden-
+- petals 9 mm long; petals are narrower than the sepals. 1.5 cm long and 8 mm in diameter. Dorsal sepals and peduncle up to 2.5 cm long; ovary and flower up to apparently fragrant and not opening widely; whitish spotted with yellow towards the base, not leaf axils and held below the leaves. Dichaeopsis glauca (Sw.) Schltr. in Beih. Bot. CenEpidendrum glaucum Sw., Prodr.: 124 (1788). 209 (1833). Type: Jamaica, Swartz (holo. BM!).
 
 **Flowers:**
 - Flowers fleshy, cm wide.
@@ -961,23 +1840,191 @@
 **Leaves:**
 - Leaves distichous, imbricating, numerous, Stems one to several, flattened, spreading, up to 3 mm Plant epiphytic, erect or pendant, up to 50 cm tall.
 
+#### Species: Dichaea glauca
+*(Sw.) Lindl., Gen. Sp. Orch. Pl.:*
+
+**SUMMARY:**
+- tified by the numerous hair-like projections on the vegatatively from D. panamensis but can be iden-
+
 **NOTE:**
-- D. brachypoda is almost indistinguishable poda (foot) in reference to the short column-foot. EymoLogY. From the Greek brachy (short) and Previously reported as D. muricata (Sw.) Lindl. from which it differs in having larger leaves and slightly larger flowers. 6. Dichaea muricata (Sw.) Lindl., Gen. Sp. Orch. Pl.: 209 (1833). Type: Jamaica, Swartz (holo. S). var. neglecta (Schltr.) Kraenzl. in Engler, Das Pflanzenr. 4, 50: Heft. 83: 38 (1923). Type: Mexico, Schiede 1053 (holo. Bt). Dichaea neglecta Schltr. in Beih. Bot. Centralbl. 36: 420 (1918). Plant epiphytic, often adhering to tree trunk, tufted. Stem branched, compressed, concealed by leafsheaths, up to 20 cm long and 2.5 mm in diameter; aerial roots produced freely along the stem. Leaves dictichous, persistent, elliptic, spreading, usually about 4-5 mm apart; leaf-sheaths clasping the stem, spotted with dark green; leaf blades up to 1.3 cm long and 5 mm wide, mid-vein prominent beneath. Inflorescence 1-flowered, produced from the base of the leaf axil towards the end of the stem; peduncle slender, up to 8 mm long. Flowers not fragrant; ovary muricate, partly obscured by a small floral bract, about 1 mm long. Sepals and petals similar, incurved, pale green spotted with dark purple sepals up to 1.1 cm long and 4 mm wide; petals narrower, up to 2.5 mm wide. Lip white, densely spotted with purple, narrow base, anchor-shaped with two slender lateral lobes slightly above the middle, incurved. Column
+- D. brachypoda is almost indistinguishable poda (foot) in reference to the short column-foot. EymoLogY. From the Greek brachy (short) and
 
 **FLOWERING SEASON:**
-- September and October. July to October. Flowers last a few days.
+- September and October.
 
 **HABITAT:**
-- On trees in dense wet forest. On trees in wet forest, often near rivers.
+- On trees in dense wet forest.
 
 **DISTRIBUTION IN BELIZE:**
-- Toledo District. Rare. nama, and Venezuela, Surinam and Brazil. Exact locality not Cayo (including the Mountain Pine Ridge Reserve) and Toledo Districts. Uncommon.
+- Toledo District. Rare. nama, and Venezuela, Surinam and Brazil.
 
 **GENERAL DISTRIBUTION:**
-- Belize, Nicaragua to Pa6 mm wide, curved inwards. Column with a short Lip triangular-saggitate, smooth, up to 5 mm long and up to 4 mm long and 1.5 mm long, curving inwards. mm long and 2.5 mm wide, curving inwards. Petals to 5 mm long and 2 mm wide; lateral sepals up to 7 ous translucent hair-like projections. Dorsal sepal up ovary up to 4 mm in diameter, subtended by numerlip spotted with purple, particularly on inner surface; fully, cream- coloured, not fragrant; sepals, petals and enclosed by leaf-sheath. Flowers single, not opening leaf-sheath; pedicel up to 1.7 cm long, partly base of the leaf-sheath. Inflorescence from base of fall; rarely, a short aerial root is produced from the stem, becoming brown and papery after the leaves apart; leaf sheaths green, clasping and concealing the up to 4 cm long and 6 mm wide and about 6 mm Leaves deciduous, numerous, distichous, pale green, bulbs. Stem several, flattened, up to 21 cm long. Plant epiphytic, small, hanging, without pseudotralbl. 36 (2): 519 (1918). Flowers last seven to ten days. foot. (Fig. 33L). ovary. Centr. Am.: 78 (1866). Type: Costa Rica, Wenland 1. Dichaea brachypoda Rchb. f. in Beitr. Orch. 7. D. panamensis 1. D. brachypoda 7. Ovary with numerous hair-like projections 2. D. glauca Leaves up to 1.5 cm apart, more than 5 mm wide 6. Leaves about 7 mm apart, less than 5 mm wide. 7 ...6 Lip with a cuneate claw; leaves glaucous; plant 3. D. graminoides glaucous; plant straggly, repent 5. Lip sessile, panduriform; leaves grass-green, not all, spotted with green.... 5. D. muricatoides Leaves up to 2 cm long; leaf-sheaths sparsely, if at 6. D. muricata var. neglecta densely spotted with dark green 4. Leaves usually less than 1.3 cm long; leaf-sheaths Leaves not prominently ciliate throughout 4. D. hystricina 3. Leaves 4mm apart, leafmargins prominently Ovary and capsule densely muricate; lip without 8. D. tuerckheimii callus at the base on each side of lamina 2. Ovary and capsule smooth; lip entire, with a small smooth (except for D. brachypoda).. rarely less than 2 cm long; ovary and capsule Leaves deciduous, jointed with the leaf-sheaths, .2 (except for D. tuerckheimii) . than 8 mm apart; ovary and capsule muricate sheaths, rarely more than 2 cm long, usually less 1. Leaves persistent, not jointed with the leafKEY TO SPECIES that are present in all the species. tichous) referring to the alternate, distichous, leaves The West Indies, Melateral lobes, up to 4.8 mm wide. Column short, lateral lobes small, incurved; mid-lobes larger than lowly 3-lobed, cordate at base, up to 6 mm long; 3 mm wide. Lip sessile, fleshy, panduriform, shalmm wide; petals oblong-elliptic, up to 8 mm long and nutely verrucose at apex, up to 8.5 mm long and 3.5 petals slightly spreading; sepals elliptic, usually miFlowers white; ovary smooth, short. Sepals and D. panamensis. K: lip, x 6. D. muricata var. neglecta. L: lip, x 4. Drawnby Beverley Mears from the living collection at Kew. The West Indies, Mexico to northern South America.
+- Belize, Nicaragua to Pa6 mm wide, curved inwards. Column with a short Lip triangular-saggitate, smooth, up to 5 mm long and up to 4 mm long and 1.5 mm long, curving inwards. mm long and 2.5 mm wide, curving inwards. Petals to 5 mm long and 2 mm wide; lateral sepals up to 7 ous translucent hair-like projections. Dorsal sepal up ovary up to 4 mm in diameter, subtended by numerlip spotted with purple, particularly on inner surface; fully, cream- coloured, not fragrant; sepals, petals and enclosed by leaf-sheath. Flowers single, not opening leaf-sheath; pedicel up to 1.7 cm long, partly base of the leaf-sheath. Inflorescence from base of fall; rarely, a short aerial root is produced from the stem, becoming brown and papery after the leaves apart; leaf sheaths green, clasping and concealing the up to 4 cm long and 6 mm wide and about 6 mm Leaves deciduous, numerous, distichous, pale green, bulbs. Stem several, flattened, up to 21 cm long. Plant epiphytic, small, hanging, without pseudotralbl. 36 (2): 519 (1918). Flowers last seven to ten days. foot. (Fig. 33L). ovary. Centr. Am.: 78 (1866). Type: Costa Rica, Wenland
+
+#### Species: Dichaea brachypoda
+*Rchb. f. in Beitr. Orch.*
+
+**SUMMARY:**
+- 7. D. panamensis 1. D. brachypoda 7. Ovary with numerous hair-like projections 2. D. glauca Leaves up to 1.5 cm apart, more than 5 mm wide 6. 7 ...6 Lip with a cuneate claw; leaves glaucous; plant 3. D. graminoides glaucous; plant straggly, repent 5. 5. D. muricatoides Leaves up to 2 cm long; leaf-sheaths sparsely, if at 6. D. muricata var. neglecta densely spotted with dark green 4. D. hystricina 3. D. tuerckheimii callus at the base on each side of lamina 2. Ovary and capsule smooth; lip entire, with a small smooth (except for D. brachypoda).. rarely less than 2 cm long; ovary and capsule Leaves deciduous, jointed with the leaf-sheaths, .2 (except for D. tuerckheimii). than 8 mm apart; ovary and capsule muricate sheaths, rarely more than 2 cm long, usually less 1. tichous) referring to the alternate, distichous, leaves
+
+**Leaves:**
+- Leaves about 7 mm apart, less than 5 mm wide. Leaves usually less than 1.3 cm long; leaf-sheaths Leaves not prominently ciliate throughout 4. Leaves 4mm apart, leafmargins prominently Ovary and capsule densely muricate; lip without 8. Leaves persistent, not jointed with the leafKEY TO SPECIES that are present in all the species.
+
+**Lip:**
+- Lip sessile, panduriform; leaves grass-green, not all, spotted with green....
 
 **ETYMOLOGY:**
-- From the Greek diche (double, disserved on the face of bees (R.L. Dressler, 1981). and the delicate Dichaea pollinaria have been obPollination has been observed by euglossine bees, pics. Eight are known from Belize. at high elevations in the American tropics and subtroA genus of about thirty-five species, usually found pollinia 4, waxy, with a distinct viscidium and stipe. very fleshy, simple or lobed. Column erect and stout; leaves. Flowers small. Sepals and petals similar. Lip cences one-flowered; peduncle in axil of the upper imbricating leaf-sheaths. Leaves distichous. Infloresmats. Stems leafy,erect or pendant, concealed by (holo. W, not located). Ovary smooth caespitose ....... ciliate throughout.. calli at base In reference to the similarity to D. muricata using the Greek suffix -oides (indicating a resemblance to).
+- From the Greek diche (double, disserved on the face of bees (R.L. Dressler, 1981). and the delicate Dichaea pollinaria have been obPollination has been observed by euglossine bees, pics. Eight are known from Belize. at high elevations in the American tropics and subtroA genus of about thirty-five species, usually found pollinia 4, waxy, with a distinct viscidium and stipe. very fleshy, simple or lobed. Column erect and stout; leaves. Flowers small. Sepals and petals similar. Lip cences one-flowered; peduncle in axil of the upper imbricating leaf-sheaths. Leaves distichous. Infloresmats. Stems leafy,erect or pendant, concealed by (holo. W, not located). Ovary smooth caespitose ....... ciliate throughout.. calli at base
+
+**DISTRIBUTION IN BELIZE:**
+- Exact locality not
+
+**GENERAL DISTRIBUTION:**
+- The West Indies, Melateral lobes, up to 4.8 mm wide. Column short, lateral lobes small, incurved; mid-lobes larger than lowly 3-lobed, cordate at base, up to 6 mm long; 3 mm wide. Lip sessile, fleshy, panduriform, shalmm wide; petals oblong-elliptic, up to 8 mm long and nutely verrucose at apex, up to 8.5 mm long and 3.5 petals slightly spreading; sepals elliptic, usually miFlowers white; ovary smooth, short. Sepals and D. panamensis. K: lip, x 6. D. muricata var. neglecta. L: lip, x 4. Drawnby Beverley Mears from the living collection at Kew.
+
+#### Species: Dichaea graminoides
+*(Sw.) Lindl., Gen. Sp. Orch.*
+
+**SUMMARY:**
+- column, × 4; G: lip, x 6; H: anther cap, x 214;J: pollinia, × 214. Centralbl. 36 (2): 519 (1918).
+
+**HABITAT:**
+- On trees or rocks in damp forest.
+
+**FLOWERING SEASON:**
+- June.
+
+**ETYMOLOGY:**
+- From the Latin graminoides (grasslike, resembling grass) in reference to the appearance of the leaves.
+
+**NOTE:**
+- Reported by Williams (1956).
+
+#### Species: Dichaea hystricina
+*Rchb. f. in Flora 48: 279*
+
+**SUMMARY:**
+- (1865). Type: Cuba, Wright (holo. K-LINDL.!). Plant epiphytic, small, creeping to hanging, often in clumps. (Fig. 33K; Photo. 56).
+
+**Stems:**
+- Stems freely to densely branched, leafy throughout and concealed by the imbricating leafsheaths, up to 12 cm long and 1.5 mm in diameter.
+
+**Leaves:**
+- Leaves distichous, persistent, prominently hairy along the margins, dark green with a prominent midvein beneath, 2-2.5 mm apart, up to 9 mm long (including the sheath), blade up to 6 mm long and 2 mm wide.
+
+**Inflorescence:**
+- Inflorescence 1-flowered, from the axils of the upper leaves; peduncle very slender, up to 6 mm long.
+
+**Flower:**
+- Flower not obviously scented, small, scarcely opening, greenish-yellow; ovary covered in white fleshy hairs and partly hidden by a small bract.
+
+**Sepals:**
+- Sepals and petals similar, pale green, up to 5.5 mm long and 2.5 mm wide.
+
+**Lip:**
+- Lip whitish with a slight purple suffusion, incurved, more or less anchor-shaped when flattened, with a narrow base and two slender backward-directed lateral lobes.
+
+**Column:**
+- Column long for the flower, up to 4 mm long.
+
+**GENERAL DISTRIBUTION:**
+- Cuba, the West Indies, Belize to Honduras, and Costa Rica.
+
+**DISTRIBUTION IN BELIZE:**
+- Toledo District. Rare.
+
+**HABITAT:**
+- On trees in wet evergreen forest.
+
+**FLOWERING SEASON:**
+- September and October.
+
+**ETYMOLOGY:**
+- From the Greek hystrix (a porcupine).
+
+#### Species: Dichaea muricatoides
+*Hamer & Garay in Hamer,*
+
+**SUMMARY:**
+- Orquid. El. Salvador 1: 148 (1974). Type: Guatemala, H. von Türckheim (holo. BT).
+
+#### Species: Dichaea türckheimii
+*Kraenzl. in Pflanzenr. 4, 50*
+
+**SUMMARY:**
+- (Heft. 83): 39 (1923), not Schltr. 1916. D. muricata var. muricata (Sw.) Lindl., Gen. Sp. Orch. Pl.: 209 (1833). Plant epiphytic, tufted, pendant, growing in clumps. (Fig. 33; Photo. 57).
+
+**Stem:**
+- Stem simple or branched, compressed, concealed by leaf-sheaths, up to 60 cm long; aerial roots may be produced from the leaf bases anywhere along the stem.
+
+**Leaves:**
+- Leaves distichous, persistent, about 7 mm apart, with imbricating leaf-sheaths, olive green, up to 2 cm long and 7 mm wide.
+
+**Inflorescence:**
+- Inflorescence 1- flowered, produced from the axil of the leaves towards the end of the stem.
+
+**Flowers:**
+- Flowers on slender peduncle of up to 1 cm long, slightly fragrant, up to 1.8 cm in diameter; ovary muricate, about 1 mm long.
+
+**Sepals:**
+- Sepals and petals similar; sepals orange, up to 1.4 cm long and 4.5 mm wide; petals pale orange spotted with reddish-purple, up to 1.2 cm long and 4 mm wide.
+
+**Lip:**
+- Lip blue-purple,incurved, saggitate, with 2 lateral lobes arrising from the middle of the lip, up to 8 mm long.
+
+**Column:**
+- Column short, fleshy, up to 3.5 mm long.
+
+**GENERAL DISTRIBUTION:**
+- The West Indies, Mexico to northern South America.
+
+**DISTRIBUTION IN BELIZE:**
+- Cayo (including the Mountain Pine Ridge Reserve) and Toledo Districts. Uncommon.
+
+**HABITAT:**
+- On trees in wet forest, often near rivers.
+
+**FLOWERING SEASON:**
+- July to October. Flowers last a few days.
+
+**ETYMOLOGY:**
+- In reference to the similarity to D. muricata using the Greek suffix -oides (indicating a resemblance to).
+
+**NOTE:**
+- Previously reported as D. muricata (Sw.) Lindl. from which it differs in having larger leaves and slightly larger flowers.
+
+#### Species: Dichaea muricata
+*(Sw.) Lindl., Gen. Sp. Orch.*
+
+**SUMMARY:**
+- Pl.: 209 (1833). Type: Jamaica, Swartz (holo. S). var. neglecta (Schltr.) Kraenzl. in Engler, Das Pflanzenr. 4, 50: Heft. 83: 38 (1923). Type: Mexico, Schiede 1053 (holo. Bt).
+
+#### Species: Dichaea neglecta
+*Schltr. in Beih. Bot. Centralbl. 36:*
+
+**SUMMARY:**
+- 420 (1918). Plant epiphytic, often adhering to tree trunk, tufted.
+
+**Stem:**
+- Stem branched, compressed, concealed by leafsheaths, up to 20 cm long and 2.5 mm in diameter; aerial roots produced freely along the stem.
+
+**Leaves:**
+- Leaves dictichous, persistent, elliptic, spreading, usually about 4-5 mm apart; leaf-sheaths clasping the stem, spotted with dark green; leaf blades up to 1.3 cm long and 5 mm wide, mid-vein prominent beneath.
+
+**Inflorescence:**
+- Inflorescence 1-flowered, produced from the base of the leaf axil towards the end of the stem; peduncle slender, up to 8 mm long.
+
+**Flowers:**
+- Flowers not fragrant; ovary muricate, partly obscured by a small floral bract, about 1 mm long.
+
+**Sepals:**
+- Sepals and petals similar, incurved, pale green spotted with dark purple sepals up to 1.1 cm long and 4 mm wide; petals narrower, up to 2.5 mm wide.
+
+**Lip:**
+- Lip white, densely spotted with purple, narrow base, anchor-shaped with two slender lateral lobes slightly above the middle, incurved.
+
+**Column:**
+- Column
 
 ---
 
@@ -1056,6 +2103,24 @@
 **GENERAL DISTRIBUTION:**
 - Belize and northern down-pointing wings at the apex. (Fig. 36; Photo. greenish-yellow with a purple foot, with two small erect, blunt, between the lateral lobes. Column mid-lobe spreading, blunt, up to 9 mm wide; callus lobed, up to 7 mm long; lateral lobes upturned; the column, white with several purple bands, 3- wide; petals slightly smaller. Lip hinged to the base of all incurving; sepals up to 1.5 cm long and 7 mm long. Sepals and petals similar, pale greenish-yellow, not fragrant, up to 15; pedicellate ovary about 1.5 cm with about 4 small sheaths up to 2.5 cm long. Flowers South America. 60).
 
+#### Species: Lycaste cochleata
+*Lindl. in Lindl. & Paxt. Fl.*
+
+**SUMMARY:**
+- Gard. 1: 126 (1850-51). Type: Country of origin unknown, collector unnamed (holo. K-LINDL! but specimen lacking provenance). Plant epiphytic or rarely terrestrial, often forming large clumps of pseudobulbs. Pseudobulbs ovateelliptic, up to 7cm long, subtended by sheaths.
+
+**Leaves:**
+- Leaves several, from apex of pseudobulb, ellipticlanceolate, acuminate.
+
+**Inflorescences:**
+- Inflorescences several, lateral, 1-flowered; peduncle slender, up to 12 cm long.
+
+**Flowers:**
+- Flowers small, showy.
+
+**Sepals:**
+- Sepals greenish-yellow, elliptic-lanceolate, acute, up to 3 cm long and 1.4 cm wide; lateral sepals joined at base forming a mentum.
+
 ---
 
 ### Genus: Teuscheria Garay
@@ -1117,40 +2182,715 @@
 *Source: page-089, page-090, page-091, page-092, page-094, page-095, page-096, page-098, page-099, page-100, page-101, page-103*
 
 **SUMMARY (uncertain):**
-- cence 1-flowered, several arising from the axils of bracts at the base of the pseudobulb. (Fig. 46K; Photo. 64). the Mountain Pine Ridge Reserve), Stann Creek and Toledo Districts. Common. cm wide; lateral lobes erect, glabrous; mid-lobe 3-lobed about the middle, up to 1.4 cm long and 0.6 lanceolate, up to 1.6 cm long and 0.3 cm wide. elatior. K: lip, x 2. M. tenuifolia. L: lip, x 2. Drawn by Beverley Mears from: A-J: the living collection at Kew; K: Adams cuneiform, up to 2 mm wide at base, with a thick villous line from the base to the apex. (Fig. 42; Photo. 70). half saccate, concave, up to 6 mm long and 2.5 mm wide; disc verrucose with a transverse callus at about the middle. (Fig. 43; Photo. 73). when spread. Drawn by Eleanor Catherine from cm long; flowering stem 1.7 cm long. InfloresLeaves linear, thick, rigid, leathery, channelled intervals, up to 9 mm long and 2 mm wide, unifoliate. diameter. Pseudobulbs born along the stems at close sheaths and often with aerial roots, up to 3 mm in straggly pendent stems; stems covered with brown Plant epiphytic, small, growing in dense clumps with M. striatella Kraenzl. in Fedde, Repert. Spec. Nov. Maxillaria macleei Batem. ex Lindl. in Bot. Reg. 26: 1986 (1837). Type: Guyana (Demerara), cult. Lod19. Maxillaria uncata Lindl. in Bot. Reg. 23: sub t. folius (leaf) in reference to the grass-like appearance M. rufescens. K: lip, x 2. M. crassifolia. L: lip, × 3. M. pulchra. M: lip, x 4. M. densa. N: lip, x 4. Drawn by Beverley Mears
+- cence 1-flowered, several arising from the axils of bracts at the base of the pseudobulb. (Fig. 46K; Photo. 64).
 
 **Flowers:**
-- Flowers not fragrant, up to 3 cm long; pedicellate ovary up to 4 cm long. Flowers not fragrant, 1.7 cence produced from the axil of a bract at the base of above, up to 5.5 cm long and 3.5 mm wide.
+- Flowers not fragrant, up to 3 cm long; pedicellate ovary up to 4 cm long.
 
 **Sepals:**
-- Sepals and petals similar, rigid, linearlanceolate, acuminate, pale greenish-yellow to yellow; dorsal sepal up to 3.2 mm long and 6 mm wide; lateral sepals up to 2.9 mm long and 6 mm wide; petals up to 2.5 mm long and 3.5 mm wide. Sepals elliptic-lanceolate, M. Sepals and the pseudobulb, 1-flowered.
+- Sepals and petals similar, rigid, linearlanceolate, acuminate, pale greenish-yellow to yellow; dorsal sepal up to 3.2 mm long and 6 mm wide; lateral sepals up to 2.9 mm long and 6 mm wide; petals up to 2.5 mm long and 3.5 mm wide.
 
 **Lip:**
-- Lip pinkish with dark red edging and tip, navicular, entire, with incurved edges, glossy, up to 21 mm long and 6 mm wide. Lip apiculate, up to 2 cm long and 0.6 cm wide. Lip pale yellow with purple pointed and incurved towards the apex, up to 4 cm foot to form a prominent mentum.
+- Lip pinkish with dark red edging and tip, navicular, entire, with incurved edges, glossy, up to 21 mm long and 6 mm wide.
 
 **Column:**
-- Column arcuate, the apex fringed, up to 2.2 cm long. Column rigid, arched, up to 1 cm long. Column swollen at base, stout, up to 2.5 mm long; column-foot up to 2 mm long. Column white, marked with purple at 3-lobed at the apex, up to 1.4 cm long and 5 mm wide veining on the lateral lobes, arcuate, more or less long and 4 mm wide.
+- Column arcuate, the apex fringed, up to 2.2 cm long.
 
 **GENERAL DISTRIBUTION:**
-- Belize, Nicaragua and Costa Rica. Belize, Panama to Venemargins, up to 3 mm long and 4 mm wide. Column up suborbicular with white, crenulate, fleshy, recurved 5 mm wide. Lip 3-lobed near the apex; mid-lobe lip, x 4; G: lip, x 4; H: column, × 4;J: anther cap, × 10; K: pollinia, x 16. Drawn by Beverley Mears from the living collection at Belize, Nicaragua, Costa Rica and Panama. Mexico to Honduras. Common throughout Central America. Mexico to Honduras. The West Indies, Belize oblong central ridge. Column arcuate, clavate, up to oblong to subquadrate, truncate; disc with a linearlobes, up to 2.1 cm long and 1.2 cm wide; mid-lobe with purple or red, with two sharply pointed lateral 3-lobed in middle, deep golden-orange and spotted 2 cm long and 0.9 cm wide, subacute. Lip erect, sepals up to 2.4 cm long and 0.9 cm wide; petals up to up to 2.5 cm in diameter. Sepals and petals cream; the ovary, up to 5 cm long. Flowers slightly fragrant, bases of the pseudobulbs; flowering stem, including growing from the axils of the sheaths around the long and 4.5 cm wide. Inflorescence 1-flowered, young. Leaves usually sessile, strap-like, up to 35 cm unifoliate, subtended by brown papery sheaths when cross section, up to 5 cm long and 3 cm wide, compressed and ridged,more or less 4-angled in duced in close succession on a creeping rhizome, Plant epiphytic, variable, tufted. Pseudobulbs proM. abelei Schltr. in Fedde, Repert. Spec. Nov. Beih. 9: M. rufescens var. flavida Rchb. f. in Saund. Ref. Bot.: M. vanillodora A. Rich. & Gal., Cat. Orch. Schiller M. articulata Klotzsch, Ind. Sem. Hort. Berol. 11 Maxillaria rugosa Scheidw. in Berliner. Gardenz. 11: associated with original description in Bot. Reg. cited 1848 (1836). Type: Trinidad, Low (holo. drawing 17. Maxillaria rufescens Lindl. in Bot. Reg. 22: t. turning red) in reference to the flower colour.
+- Belize, Guatemala, Nicaragua and Costa Rica.
 
 **DISTRIBUTION IN BELIZE:**
-- Toledo District. Rare. Toledo District. Uncommon. Cayo and Toledo Districts. Fairly common. Belize, Cayo (including the Mountain Pine Ridge Reserve), Stann Creek and Toledo Districts. Fairly common. Toledo District. Rare. Cayo (Mountain Pine
+- Cayo District (including the Mountain Pine Ridge Reserve). Uncommon.
 
 **HABITAT:**
-- On trees in wet forest. On trees in pastures and remnants of semi-evergreen forest. On trees in wet forest. On trees in moist to fairly dry open evergreen forest. On trees in wet forest. On trees in dense moist forest. to northern South America and Trinidad. 1.6 cm long. (Fig. 47K; Photo. 77,78). Flowers last about two weeks.
+- On trees in moist forest.
 
 **FLOWERING SEASON:**
-- September to December. July to October. December to March. Flowers last less than a week. November to February. Flowers last about two weeks. April. Flowers last about two days. & Catling 1988). Fairly common. 101(1921). 79(1869). 45 (1857). (1853). 101(1843) above).
+- October to March.
 
 **ETYMOLOGY:**
-- Named after Doña Amparo de Zeledon, who assisted C. Wercklé during his time collecting orchids in Costa Rica. From the Latin confusus (intricate, easily mistaken for another species). From the Latin densus (crowded, dense) in reference to the densely packed inflorescences. 10. Maxillaria discolor (Lodd. ex Lindl.) Rchb. f. in Walp. Ann. 6: 529 (1863). Type: Guyana, (Demerara), cult. Loddiges (holo. K!). Dicrypta discolor Lodd. ex Lindl. in Bot. Reg. 25: Misc. 91 (1839). Plant epiphytic, a cluster of strongly flattened pseudobulbs, up to 55 cm tall. Pseudobulbs up to 10 cm long and 4 cm wide, partially enclosed by leatsheaths, unifoliate. Leaves leathery, glossy, up to 50 Named after Herr Friedrichsthal, who collected the type specimen. From the Latin pulcher (beautiful, fair) in reference to the flowers. 16. Maxillaria ringens Rchb. f. in Walp. Ann. 6: 523 (1861). Types: Guatemala, Warsewicz and Mexico, Oaxaca, Karwinski (syn. W, not located; syn. KLINDL.!). Maxillaria yzabalana S. Watson in Proc. Am. Acad. 23:286(1888). M. rousseauae Schltr. in Beih. Bot. Centralbl. 36 (2): 413 (1918). M. lactea Schltr. in Fedde, Repert. Sp. Nov. Beih. 19: 233 (1923). Plant epiphytic, large, erect. Rhizome creeping with pseudobulbs arising in close succession. Pseudobulbs smooth, becoming wrinkled with age, up to 6.5 cm long and 2.5 cm wide, unifoliate, with brown papery sheaths when young. Leaves strap-like, leathery, arising from apex of pseudobulb, up to 50 cm long and 5 cm wide, with a distinct petiole of up to 8 From the Latin rufescens (reddish, December to March. Ridge Reserve), Stann Creek and Toledo Districts.
+- From the Greek acis (a point) and anthos (a flower).
 
 **NOTE:**
-- S. Reported by Catling & Catling (1988). M. amparoana is similar to M. ringens Rchb. f. but can be differentiated by the many short-peduncled flowers, the hairy lateral lobes of the lip, the petals which are white and not yellow and the flowers which are, in general, smaller and fragrant. 4. Maxillaria brunnea Linden & Rchb. f. in Bonplandia 2: 281 (1854). Type: Colombia, Ocaña, Wälder 1161 (holo. W, not located). Plant epiphytic, up to 40 cm tall. Pseudobulbs up to 5 cm tall and 3 cm wide, 1-leafed. Leaves leathery, subacute, ligulate, quadrate-elliptic, up to 35 cm long and 4 cm wide. Inflorescences from the base of the pseudobulb, 1- flowered, up to 12 cm long. Flowers Reported by Catling & Catling (1988). 7. Maxillaria crassifolia (Lindl.) Rchb. f. in Bonplandia 2: 16 (1854). Type: Jamaica, Lee s.n. (holo. K-LINDL.!). Heterotaxis crassifolia Lindl. in Bot. Reg. 12: t.1028 (1826). Plant epiphytic with a dense cluster of strongly bilaterally flattened, unifoliate pseudobulbs, concealed by overlapping cataphyll-sheaths. Pseudobulbs up to 5 cm long and 1.5 cm wide. Leaves leathery, linearoblong, single from the apex of the pseudobulb, up to 40 cm long and 2.2 cm wide; 2-4 poorly developed cataphylls arising from the base of the pseudobulb. Inflorescence 1-flowered, arising from the base of the pseudobulb, within the leaf-sheath. Flowers not opening widely, not fragrant. Sepals pale yellow, The flowers of M. crassifolia are much liked byants and often set seed without opening or only partially opening. 8. Maxillaria cucullata Lindl. in Bot. Reg. 26: t.12 (1840). Type: Central America, Henchman (lecto. K-LINDL.!). Maxillaria rhombea Lindl. in Bot. Reg. 26: sub. t.12 (1840). M. atrata Rchb.f., Beitr. Orch. Centr.-Am.: 31, t.6 (1866). M. obscura Lindl. & Rchb. f., Beitr. Orch. Centr.- Am.: 31 (1866). M. praestans Rchb. f. in Gard. Chron. 23: 566 (1885). Plant usually epiphytic, variable, in clumps, pseudobulbs produced in close succession from the creeping rhizome. Pseudobulbs grooved, somewhat flattened, subtended by papery sheaths, up to 5.5 cm long and 2.5 cm wide, unifoliate. Leaves strap-like, leathery, up to 40 cm long and 3.5 cm wide. Inflorescence 1 to 3, arising from the axils of the bracts surrounding the pseudobulbs, each inflorescence is 1-flowered, up to 12 cm long; peduncle partially enclosed by tubular bracts which are greenish, tinged with purple. Flowers fleshy, up to 2.5 cm long and 2.8 cm in diameter. Sepals somewhat fleshy, golden yellow to black, deep maroon spotting within, flushed with brownish red on the back, up to 3.8 cm long and 1.1 cm in diameter; lateral sepals forming a short mentum with the column-foot. Petals narrowly lanceolate, pale yellow with a reddish-brown tip, curved inwards with tips touching, forming a hood, up to 2.3 cm long and 0.4 cm wide. Lip 3-lobed about the middle, up to 3 cm long and 1 cm wide; side lobes short, bluntly triangular and clasping the column; callus between side lobes, sulcate. Column stout, up to 1.5 cm long. (Fig. 46M; Photo 68). In Guatemala it is commonly known as "Pico de pava'. 13. Maxillaria fulgens (Rchb. f.) LO.Williams in Ann. Missouri Bot. Gard. 28: 425 (1941). Type: Costa Rica, Naranjo, Wenland (holo. W!). Ornithidium fulgens Rchb. f., Beit. Orch. Centr. Am.: 76 (1866). Plant usually epiphytic, pendent. Stem one to several, woody, up to 17 cm long and 8 mm wide, segmented, covered with dark brown papery sheaths, even in old plants; a few short aerial roots arise from the base of the stems. Pseudobulb at end of stem, circular, very hard, with a roughtened surface when older; young pseudobulbs green, becoming dark brown, up to 4.5 cm long and 2.5 cm wide; new stems arise from the base of the pseudobulb, forming a chain of up to 4 pseudobulbs. Leaves one, terminal from the pseudo- Some of the earlier reports of M. rufescens may refer to this recently described, and very similar, species. witc Columl 15. Maxillaria pulchra (Schltr.) LO.Williams ex Correll in Lloydia 10: 212 (1948). Type: Guatemala, H. von Türckheim (holo. Bt). Camaridium pulchrum Schltr. in Fedde, Repert. Sp. Nov. 10: 251 (1911). Plant epiphytic, straggly, more or less hanging. Rhizomes up to 35 cm long; sheaths red-brown, fibrous, overlapping, close-fitting, the upper 6-9 bearing leaves on young growths. Pseudobulbs scattered, oval, strongly bilaterally flattened, glossy, up to 6.5 cm long and 2.5 cm wide, bearing 1 to 2 leaves. Leaves linear, gradually tapering to a point, up to 36 cm long and 9.5 mm wide. Inflorescence produced singly from the axils of the sheaths on new shoots, Iflowered; peduncle up to 4 cm long, concealed by tubular bracts. Flowers fragrant; pedicellate ovary up to 2.7 cm long. Sepals and petals white; sepals elliptic-oblong, up to 3.2 cm long and 1.1 cm wide; petals spreading above the middle, linear-oblong, up to 2.8 cm long. Lip small, continuous with the column-foot, cuneate-obovate, up to 8 mm long; lateral lobes rounded, upcurved, whitish marked with orange; mid-lobe almost semicircular, yellow; callus linear, white, covered with orange papillae at base. Column small, white, up to 8 mm long. (Fig. 47M; Photo. 74). S. M.rufescens is easily confused with M.
+- M. aciantha is very similar to M. friedrichsthalii Rchb. f. but the flowers are slightly larger, yellowish-orange and with a dark, reddish-purple lip.
+
+#### Species: Maxillaria alba
+*(Hook.) Lindl., Gen. Sp. Orch.*
+
+**SUMMARY:**
+- Pl.: 143 (1832). Type: Jamaica, Wiles (holo. BM). Dendrobium album Hook., Exot. Fl. 2: 142 (1825).
+
+#### Species: Maxillaria hedyosma
+*Schltr. in Fedde, Repert. Spec.*
+
+**SUMMARY:**
+- Nov. Beih. 8: 169 (1921). M. lactea Schltr. in Fedde, Repert. Sp. Nov. Beih. 42: 131 (1925). Plant epiphytic with one to several, straggly to hanging, rhizomes, covered with papery sheaths, bearing numerous pseudobulbs every 2-4 cm. Rhizome stout; sheaths have short blades when young, known as cataphylls, which soon fall off leaving the sheaths which are persistent. Pseudobulbs very strongly flattened, up to 6 cm tall and 3 cm wide, unifoliate. (Fig. 40; Photo. 65).
+
+**Leaves:**
+- Leaves linear-ligulate, up to 37 cm long and 2.5 cm wide.
+
+**Inflorescences:**
+- Inflorescences 1-flowered, from the axils of the cataphyll-sheaths, on new growth; pedicellate ovary 4.5 cm long.
+
+**Flowers:**
+- Flowers not fragrant, up to 2.5 cm in diameter.
+
+**Sepals:**
+- Sepals and petals similar, creamy-white, with out-curved tips; sepals slightly larger than petals, up to 2 cm long.
+
+**Lip:**
+- Lip paler yellow, obscurely 3-lobed, articulate with the column-foot, up to 1.4 cm long and 6 mm wide when spread; lateral lobes small, rounded-angular; mid-lobe very fleshy, suborbicularovate, obtuse, with a fleshy keel beneath; the middle of the lip occupied by a raised semiorbicular callus.
+
+**Column:**
+- Column white with a yellowish base, arcuate, up to 1.5 cm long.
+
+**GENERAL DISTRIBUTION:**
+- The West Indies, Belize to northern South America.
+
+**DISTRIBUTION IN BELIZE:**
+- Cayo, Stann Creek and Toledo Districts. Rare.
+
+**HABITAT:**
+- On trees in moist forest.
+
+**FLOWERING SEASON:**
+- October and November. Flowers last about two weeks.
+
+**ETYMOLOGY:**
+- From the Latin albus (white) in reference to the flower colour.
+
+#### Species: Maxillaria amparoana
+*Schltr. in Fedde, Repert.*
+
+**SUMMARY:**
+- Spec. Nov. Beih. 19: 54 (1923). Type: Costa Rica, San Jeronimo, C. Wercklé 4 (iso. AMES). Plant epiphytic, up to 30 cm tall. Pseudobulbs monophyllous.
+
+**Leaves:**
+- Leaves oblong-lanceolate, up to 30 cm long and 3.5 cm wide.
+
+**Inflorescences:**
+- Inflorescences several, 1- flowered, lateral on short peduncles, from axils of sheaths.
+
+**Flowers:**
+- Flowers with yellow sepals, white petals and white lip with red nerves on the lateral lobes.
+
+**Sepals:**
+- Sepals linearlanceolate; lateral sepals forming a mentum with column-foot, up to 27 mm long; dorsal sepal up to 25 mm long.
 
 **Petals:**
-- Petals stout, up to 2 cm long. Petals white, x 4; F: column and lip, x 5; G: column from below, × 5; H: anther cap, x 10; J: pollinia, × 10.
+- Petals up to 25 mm long and 4 mm wide.
+
+**Lip:**
+- Lip 3-lobed at apex, with the lateral lobes erect and covered with long soft hairs, mid-lobe with tuberculate margins; disc with yellow tuberculate, puberulent callus.
+
+**Column:**
+- Column stout with slender foot, up to 7 mm long.
+
+**GENERAL DISTRIBUTION:**
+- Belize, Nicaragua and Costa Rica.
+
+**DISTRIBUTION IN BELIZE:**
+- Toledo District. Rare.
+
+**HABITAT:**
+- On trees in wet forest.
+
+**FLOWERING SEASON:**
+- September to December.
+
+**ETYMOLOGY:**
+- Named after Doña Amparo de Zeledon, who assisted C. Wercklé during his time collecting orchids in Costa Rica.
+
+**NOTE:**
+- S. Reported by Catling & Catling (1988). M. amparoana is similar to M. ringens Rchb. f. but can be differentiated by the many short-peduncled flowers, the hairy lateral lobes of the lip, the petals which are white and not yellow and the flowers which are, in general, smaller and fragrant.
+
+#### Species: Maxillaria brunnea
+*Linden & Rchb. f. in*
+
+**SUMMARY:**
+- Bonplandia 2: 281 (1854). Type: Colombia, Ocaña, Wälder 1161 (holo. W, not located). Plant epiphytic, up to 40 cm tall. Pseudobulbs up to 5 cm tall and 3 cm wide, 1-leafed.
+
+**Leaves:**
+- Leaves leathery, subacute, ligulate, quadrate-elliptic, up to 35 cm long and 4 cm wide.
+
+**Inflorescences:**
+- Inflorescences from the base of the pseudobulb, 1- flowered, up to 12 cm long.
+
+**Flowers:**
+- Flowers
+
+**GENERAL DISTRIBUTION:**
+- Belize, Panama to Venemargins, up to 3 mm long and 4 mm wide. Column up suborbicular with white, crenulate, fleshy, recurved 5 mm wide. Lip 3-lobed near the apex; mid-lobe lip, x 4; G: lip, x 4; H: column, × 4;J: anther cap, × 10; K: pollinia, x 16. Drawn by Beverley Mears from the living collection at
+
+**DISTRIBUTION IN BELIZE:**
+- Toledo District. Uncommon.
+
+**HABITAT:**
+- On trees in wet forest.
+
+**FLOWERING SEASON:**
+- August to November.
+
+**ETYMOLOGY:**
+- From the Latin brunnea (brown) in reference to the floral colour.
+
+**NOTE:**
+- M. brunnea is very similar in flower shape to M. ringens but ditters by having an extremely thick apex of the lip with overhanging margins and its drab colour. S. Maxillaria conferta (Griseb.) C. Schweinf. ex León in Contrib. Ocas. Mus. Coleg. de la Salle 8: 395 (1946). Type: Trinidad, without proper locality, Bradford (holo. K, not located). Ornithidium confertum Griseb., Fl. Br. W. Ind. Isl.: 626 (1864). Epidendrum vestitum Sw., Nov. Gen. Sp. Pl. Prodr.: 124 (1788). Camaridium purpureum Spreng., Syst. Veg. 3: 735 (1826) nom. illeg. Ornithidium vestitum (Sw.) Rchb. f. in Walp. Ann. Bot. Syst. 6: 491 (1863).
+
+#### Species: Maxillaria purpurea
+*(Spreng.) Ames & Correll in*
+
+**SUMMARY:**
+- Bot. Mus. Leafl. Harvard Univ 11: 16 (1946) nom. illeg. M. simulans (Ames & Schweinf.) L.O. Williams in Ceiba 5: 207 (1956). Plant epiphytic, elongated, branching, up to 0.3 cm in diameter, completely concealed by a mass of fine roots and papery sheaths. Pseudobulbs produced every 2-7 cm on the rhizome, flattened, up to 3 cm long and 1 cm wide, subtended by green sheaths of up to 3 cm long, which become papery with age, unifoliate. (Fig. 41; Photo. 66).
+
+**Leaves:**
+- Leaves up to 15.5 cm long and 2 cm wide.
+
+**Inflorescence:**
+- Inflorescence short, produced from the base of the pseudobulb, fasciculate.
+
+**Flowers:**
+- Flowers faintly fragrant, cup-shaped, several in a short cluster, up to 0.4 cm long and 0.4 cm wide, usually enclosed by brown papery sheaths.
+
+**Sepals:**
+- Sepals and petals cream.
+
+**Lip:**
+- Lip yellow, ovate-elliptic, obscurely lobulate, up to 4 mm long; lateral lobes erect, rounded; mid-lobe porrect, fleshy, emarginate; disc with a transversely fleshy, escalloped ridge between the lateral lobes.
+
+**Column:**
+- Column short, stout, up to 0.75 mm long.
+
+**GENERAL DISTRIBUTION:**
+- The West Indies, Belize to Honduras, northern South America and Trinidad.
+
+**DISTRIBUTION IN BELIZE:**
+- Toledo District. Rare.
+
+**HABITAT:**
+- On trees in wet forest.
+
+**FLOWERING SEASON:**
+- December and January. Flowers last about two weeks. straggly, pendent. Rhizome
+
+**ETYMOLOGY:**
+- From the Latin confertus (crowded, pressed together) in reference, perhaps, to the clustered inflorescences.
+
+#### Species: Maxillaria confusa
+*Ames & Schweinf. in Ames,*
+
+**SUMMARY:**
+- Sched. Orch. 8: 57 (1925). Type: Costa Rica, Peralta, C. H. Lankester 908 (holo. AMES 28689). Plant epiphytic, small, up to 13 cm tall. Pseudobulbs up to 1.6 cm long, monophyllous, concealed by a pair of imbricating distichous leaf-bearing sheaths. Lateral sepals triangular-lanceolate, up to 2 cm long and 7.2 mm wide, many-nerved, forming a mentum with the column-foot; dorsal sepal up to 2 cm long and 4.9 mm wide.
+
+**Roots:**
+- Roots numerous, fibrous, branched.
+
+**Leaves:**
+- Leaves ellipticoblong, petioled, up to 10 cm long and 2.2 cm wide; petiole laterally flattened, up to 2.2 cm long.
+
+**Inflorescence:**
+- Inflorescence shorter than the leaves, 1-flowered; peduncle filiform, up to 4.5 cm long.
+
+**Flowers:**
+- Flowers large, erect, white, lateral lobes of lip with red-violet nerves on the upper half.
+
+**Petals:**
+- Petals lanceolate, up to 1.8 cm long and 3.7 mm wide.
+
+**Lip:**
+- Lip small, erect, 3-lobed at apex, up to 1.2 cm long and 6 mm wide, sides upcurving; callus lingulate.
+
+**Column:**
+- Column extended into a long foot, short, stout, up to 4 mm long.
+
+**GENERAL DISTRIBUTION:**
+- Belize, Nicaragua, Costa Rica and Panama.
+
+**DISTRIBUTION IN BELIZE:**
+- Toledo District. Uncommon.
+
+**HABITAT:**
+- On trees in pastures and remnants of semi-evergreen forest.
+
+**FLOWERING SEASON:**
+- July to October.
+
+**ETYMOLOGY:**
+- From the Latin confusus (intricate, easily mistaken for another species).
+
+**NOTE:**
+- Reported by Catling & Catling (1988).
+
+#### Species: Maxillaria crassifolia
+*(Lindl.) Rchb. f. in*
+
+**SUMMARY:**
+- Bonplandia 2: 16 (1854). Type: Jamaica, Lee s.n. (holo. K-LINDL.!). Heterotaxis crassifolia Lindl. in Bot. Reg. 12: t.1028 (1826). Plant epiphytic with a dense cluster of strongly bilaterally flattened, unifoliate pseudobulbs, concealed by overlapping cataphyll-sheaths. Pseudobulbs up to 5 cm long and 1.5 cm wide. the Mountain Pine Ridge Reserve), Stann Creek and Toledo Districts. Common.
+
+**Leaves:**
+- Leaves leathery, linearoblong, single from the apex of the pseudobulb, up to 40 cm long and 2.2 cm wide; 2-4 poorly developed cataphylls arising from the base of the pseudobulb.
+
+**Inflorescence:**
+- Inflorescence 1-flowered, arising from the base of the pseudobulb, within the leaf-sheath.
+
+**Flowers:**
+- Flowers not opening widely, not fragrant.
+
+**Sepals:**
+- Sepals pale yellow,
+
+**HABITAT:**
+- On trees in moist forest.
+
+**FLOWERING SEASON:**
+- August to October. Plowers last only a few days.
+
+**ETYMOLOGY:**
+- From the Latin crassus (thick, fleshy) and folius (leaved) in reference to the thick, fleshy leaves.
+
+**NOTE:**
+- The flowers of M. crassifolia are much liked byants and often set seed without opening or only partially opening.
+
+#### Species: Maxillaria cucullata
+*Lindl. in Bot. Reg. 26: t.12*
+
+**SUMMARY:**
+- (1840). Type: Central America, Henchman (lecto. K-LINDL.!).
+
+#### Species: Maxillaria rhombea
+*Lindl. in Bot. Reg. 26: sub. t.12*
+
+**SUMMARY:**
+- (1840). M. atrata Rchb.f., Beitr. Orch. Centr.-Am.: 31, t.6 (1866). M. obscura Lindl. & Rchb. f., Beitr. Orch. Centr.- Am.: 31 (1866). M. praestans Rchb. f. in Gard. Chron. 23: 566 (1885). Plant usually epiphytic, variable, in clumps, pseudobulbs produced in close succession from the creeping rhizome. Pseudobulbs grooved, somewhat flattened, subtended by papery sheaths, up to 5.5 cm long and 2.5 cm wide, unifoliate. (Fig. 46M; Photo 68).
+
+**Leaves:**
+- Leaves strap-like, leathery, up to 40 cm long and 3.5 cm wide.
+
+**Inflorescence:**
+- Inflorescence 1 to 3, arising from the axils of the bracts surrounding the pseudobulbs, each inflorescence is 1-flowered, up to 12 cm long; peduncle partially enclosed by tubular bracts which are greenish, tinged with purple.
+
+**Flowers:**
+- Flowers fleshy, up to 2.5 cm long and 2.8 cm in diameter.
+
+**Sepals:**
+- Sepals somewhat fleshy, golden yellow to black, deep maroon spotting within, flushed with brownish red on the back, up to 3.8 cm long and 1.1 cm in diameter; lateral sepals forming a short mentum with the column-foot.
+
+**Petals:**
+- Petals narrowly lanceolate, pale yellow with a reddish-brown tip, curved inwards with tips touching, forming a hood, up to 2.3 cm long and 0.4 cm wide.
+
+**Lip:**
+- Lip 3-lobed about the middle, up to 3 cm long and 1 cm wide; side lobes short, bluntly triangular and clasping the column; callus between side lobes, sulcate.
+
+**Column:**
+- Column stout, up to 1.5 cm long.
+
+**GENERAL DISTRIBUTION:**
+- Mexico to Honduras, and Costa Rica.
+
+**DISTRIBUTION IN BELIZE:**
+- Cayo District (including the Mountain Pine Ridge Reserve). Rare.
+
+**HABITAT:**
+- On trees in moist mountain forest, occasionally terrestrial or lithophytic.
+
+**FLOWERING SEASON:**
+- January to March. Flowers last about ten days.
+
+**ETYMOLOGY:**
+- From the Latin cucullatus (hooded) in reference to the hood that the petals form over the column.
+
+#### Species: Maxillaria densa
+*Lindl. in Bot. Reg 21: t.1804*
+
+**SUMMARY:**
+- (1836). Type: Mexico, cult. Loddiges (lecto. KLINDL.!). Ornithidium densum (Lindl.) Rchb. f. in Bonplandia 3: 217 (1855). Plant epiphytic, consisting of one to several long straggling rhizomes covered with brown sheaths and bearing numerous pseudobulbs. Pseudobulbs compressed, yellow-green, especially at ends of rhizome, up to 3.5 cm long and 1.3 cm broad, 1-leafed at apex. (Fig. 47N; Photo. 69).
+
+**Leaves:**
+- Leaves linear to linear-oblong, up to 20 cm long and 3 cm wide.
+
+**Inflorescences:**
+- Inflorescences densely fasciculate born in the axils of the basal cataphylls of new growth.
+
+**Flowers:**
+- Flowers fragrant, small, colour variable from cream to pale pink.
+
+**Sepals:**
+- Sepals linear-lanceolate, up to 0.9 cm long and 0.3 cm wide; lateral sepals forming a mentum with the column-foot.
+
+**Petals:**
+- Petals elliptic-lanceolate, up to 0.75 cm long and 0.25 cm wide.
+
+**Lip:**
+- Lip fleshy, continuous with column-foot, 3-lobed, up to 0.4 cm long and 0.3 cm wide; lateral lobes auriculate, rounded; mid-lobe suborbicular to ovate, rounded to obtuse; disc with a concave callus between sidelobes.
+
+**Column:**
+- Column short, forming a deep saddle with the column-foot, up to 4 mm long.
+
+**GENERAL DISTRIBUTION:**
+- Mexico to Honduras.
+
+**DISTRIBUTION IN BELIZE:**
+- Cayo and Toledo Districts. Fairly common.
+
+**HABITAT:**
+- On trees in wet forest.
+
+**FLOWERING SEASON:**
+- December to March. Flowers last less than a week.
+
+**ETYMOLOGY:**
+- From the Latin densus (crowded, dense) in reference to the densely packed inflorescences.
+
+#### Species: Maxillaria discolor
+*(Lodd. ex Lindl.) Rchb. f. in*
+
+**SUMMARY:**
+- Walp. Ann. 6: 529 (1863). Type: Guyana, (Demerara), cult. Loddiges (holo. K!). Dicrypta discolor Lodd. ex Lindl. in Bot. Reg. 25: Misc. 91 (1839). Plant epiphytic, a cluster of strongly flattened pseudobulbs, up to 55 cm tall. Pseudobulbs up to 10 cm long and 4 cm wide, partially enclosed by leatsheaths, unifoliate. cm wide; lateral lobes erect, glabrous; mid-lobe 3-lobed about the middle, up to 1.4 cm long and 0.6 lanceolate, up to 1.6 cm long and 0.3 cm wide. elatior. K: lip, x 2. M. tenuifolia. L: lip, x 2. Drawn by Beverley Mears from: A-J: the living collection at Kew; K: Adams cuneiform, up to 2 mm wide at base, with a thick villous line from the base to the apex. (Fig. 42; Photo. 70).
+
+**Leaves:**
+- Leaves leathery, glossy, up to 50
+
+**Lip:**
+- Lip apiculate, up to 2 cm long and 0.6 cm wide.
+
+**Petals:**
+- Petals stout, up to 2 cm long.
+
+**Sepals:**
+- Sepals elliptic-lanceolate, M.
+
+**Column:**
+- Column rigid, arched, up to 1 cm long.
+
+**GENERAL DISTRIBUTION:**
+- Belize, and northern South America.
+
+**DISTRIBUTION IN BELIZE:**
+- Cayo (including the Mountain Pine Ridge Reserve) and Toledo Districts. Rare.
+
+**HABITAT:**
+- On trees in moist forest.
+
+**FLOWERING SEASON:**
+- Throughout the year. Flowers last several days.
+
+**ETYMOLOGY:**
+- From the Latin discolor (of different colours) in reference to the flower colours.
+
+#### Species: Maxillaria elatior
+*(Rchb. f.) Rchb. f. in Walp.*
+
+**SUMMARY:**
+- Ann. 6: 532 (1861). Type: Mexico, Leibold (holo. W!). Dicrypta elatior Rchb. f. in Linnaea 18: 403 (1844).
+
+#### Species: Maxillaria triangularis
+*Lindl. in Bot. Reg. 31:*
+
+**SUMMARY:**
+- Misc.9 (1845). Plant usually epiphytic, large, tufted, straggly, pendent or erect-spreading. Pseudobulbs oval, bilaterally flattened, pale green, quite large, up to 5 cm tall and 2.5 cm wide. (Fig. 42K; Photo. 71).
+
+**Rhizome:**
+- Rhizome stout, creeping, covered with brown leaf-sheaths and bearing pseudobulbs at intervals.
+
+**Leaves:**
+- Leaves 1 to 2 from each pseudobulb and arising from the rhizome, linear-elliptic, up to 30 cm long and 3 cm wide.
+
+**Inflorescence:**
+- Inflorescence from the axil of the leaf-sheath on the rhizome, 1-flowered.
+
+**Flowers:**
+- Flowers not fragrant, up to 4.5 cm broad and 6 cm long; ovary up to 4 cm long.
+
+**Sepals:**
+- Sepals and petals similar, greenishyellow suffused with red-brown, up to 3 cm long and 1 cm wide; lateral sepal joined to the column-foot to form a short mentum.
+
+**Lip:**
+- Lip red-brown at the strongly decurved and rounded apex, orange at the base, broadly concave and arcuate, up to 2 cm long and 10 mm wide; disc with an oblong blackish callus.
+
+**Column:**
+- Column reddish on the anterior surface, semicylindrical, arcuate, up to 2 cm long.
+
+**GENERAL DISTRIBUTION:**
+- Mexico to Costa Rica.
+
+**DISTRIBUTION IN BELIZE:**
+- Cayo (including the Mountain Pine Ridge Reserve) and Toledo Districts. Fairly rare.
+
+**HABITAT:**
+- On trees in wet forest, occasionally terrestrial.
+
+**FLOWERING SEASON:**
+- November to February. Flowers last at least a week.
+
+**ETYMOLOGY:**
+- From the Latin elatior (taller) presumably in reference to the size in relation to other members of the species.
+
+**NOTE:**
+- M. elatior is similar to M. curtipes Hook. but is distinguished by its broader leaves and leaty rhizomes.
+
+#### Species: Maxillaria friedrichsthalii
+*Rchb. f. in Bot. Zeit.*
+
+**SUMMARY:**
+- 10: 858 (1852). Type: Guatemala, Chontales, Monte Aragua, Friedrichsthal (holo. W; iso. AMES).
+
+#### Species: Maxillaria turialvae
+*Schltr. in Beih. Bot. Centralbl.*
+
+**SUMMARY:**
+- 36:414-415 (1918). Plant epiphytic, straggly with an elongate rhizome on which are borne pseudobulbs at regular intervals of about 2 cm. Rhizome stout, concealed by brown to olive-green sheaths. Pseudobulbs bilaterally flattened and ridged,olive-green, up to 3 cm long and 1 cm wide. (Fig. 46L; Photo. 72).
+
+**Leaves:**
+- Leaves 2 to 4 from the apex of the pseudobulb, linear-elliptic, up to 15 cm long and 1 cm wide.
+
+**Inflorescence:**
+- Inflorescence from the axils of the rhizome-bracts; peduncle and ovary concealed by overlapping bracts.
+
+**Flowers:**
+- Flowers pale green, not opening widely, up to 2 cm long.
+
+**Sepals:**
+- Sepals lanceolate, up to 4 cm long and 1 cm wide; lateral sepals joined to the column-foot to form a short mentum.
+
+**Petals:**
+- Petals narrower than the sepals, up to 3 cm long and 4 mm wide.
+
+**Lip:**
+- Lip greenish-yellow, spotted with purple, erect-recurved, up to 2.5 cm long and 8 mm wide; disc with a yellow callus.
+
+**Column:**
+- Column light green, up to 2.2 cm long.
+
+**GENERAL DISTRIBUTION:**
+- Common throughout Central America.
+
+**DISTRIBUTION IN BELIZE:**
+- Belize, Cayo (including the Mountain Pine Ridge Reserve), Stann Creek and Toledo Districts. Fairly common.
+
+**HABITAT:**
+- On trees in moist to fairly dry open evergreen forest.
+
+**FLOWERING SEASON:**
+- November to February. Flowers last about two weeks.
+
+**ETYMOLOGY:**
+- Named after Herr Friedrichsthal, who collected the type specimen.
+
+**NOTE:**
+- In Guatemala it is commonly known as "Pico de pava'.
+
+#### Species: Maxillaria fulgens
+*(Rchb. f.) LO.Williams in*
+
+**SUMMARY:**
+- Ann. Missouri Bot. Gard. 28: 425 (1941). Type: Costa Rica, Naranjo, Wenland (holo. W!). Ornithidium fulgens Rchb. f., Beit. Orch. Centr. Am.: 76 (1866). Plant usually epiphytic, pendent. Pseudobulb at end of stem, circular, very hard, with a roughtened surface when older; young pseudobulbs green, becoming dark brown, up to 4.5 cm long and 2.5 cm wide; new stems arise from the base of the pseudobulb, forming a chain of up to 4 pseudobulbs. half saccate, concave, up to 6 mm long and 2.5 mm wide; disc verrucose with a transverse callus at about the middle. (Fig. 43; Photo. 73).
+
+**Stem:**
+- Stem one to several, woody, up to 17 cm long and 8 mm wide, segmented, covered with dark brown papery sheaths, even in old plants; a few short aerial roots arise from the base of the stems.
+
+**Leaves:**
+- Leaves one, terminal from the pseudo-
+
+**Column:**
+- Column swollen at base, stout, up to 2.5 mm long; column-foot up to 2 mm long.
+
+**GENERAL DISTRIBUTION:**
+- Belize, Nicaragua to northern South America.
+
+**DISTRIBUTION IN BELIZE:**
+- Cayo (including the Mountain Pine Ridge Reserve) and Toledo Districts. Uncommon.
+
+**HABITAT:**
+- On trees in dense wet and riverine forest. Occasionally on rocks in open mountain grassland.
+
+**FLOWERING SEASON:**
+- November.
+
+**ETYMOLOGY:**
+- From the Latin fulgens (shining, glistening, often with red flowers) in reference to the colour of the sepals and petals.
+
+#### Species: Maxillaria hedwigae
+*F. Hamer & Dodson in Ic.*
+
+**SUMMARY:**
+- Pl. Trop. 8: t.800 (1982). Type: Guatemala, Rio Dulce, A. Hamer 161 (holo. SEL). Plant epiphytic with approximate, compressed, rugose, monophyllous pseudobulbs. Pseudobulbs up to 4.5 cm tall and 3.5 cm wide. (Fig. 44, 41L).
+
+**Leaves:**
+- Leaves leathery, up to 35 cm long and 3.5 cm wide; petiole conduplicate, up to 3 cm long.
+
+**Inflorescence:**
+- Inflorescence 1-flowered from the base of the pseudobulb.
+
+**Flowers:**
+- Flowers showy, spreading with creamy white sepals and petals, an orange lip with a red-orange callus.
+
+**Sepals:**
+- Sepals elliptic, apiculate; dorsal sepal up to 1.8 cm long and 0.9 cm wide; lateral sepals up to 1.7 cm long and 0.8 cm wide.
+
+**Petals:**
+- Petals elliptic, up to 1.6 cm long and 0.6 cm wide.
+
+**Lip:**
+- Lip 3-lobed about the middle; lateral lobes, linearlanceolate, acuminate, erect and porrect in natural position; middle-lobe oblong, retuse, apex verrucose; disc with a prominent broad, spathulate, glossy callus with a triangular apex from the base to the middle of the lip, up to 1.3 cm long and 0.8 cm wide.
+
+**Column:**
+- Column clavate, up to 8 mm long.
+
+**GENERAL DISTRIBUTION:**
+- Belize to Honduras, and Nicaragua.
+
+**DISTRIBUTION IN BELIZE:**
+- Exact locality not known. Rare.
+
+**HABITAT:**
+- On trees in wet, low altitude elfin forest.
+
+**FLOWERING SEASON:**
+- Throughout the year.
+
+**ETYMOLOGY:**
+- Named after Mrs Hedwig Hamer, wife of the senior author, who helped to find the type specimen.
+
+**NOTE:**
+- Some of the earlier reports of M. rufescens may refer to this recently described, and very similar, species. witc Columl
+
+#### Species: Maxillaria pulchra
+*(Schltr.) LO.Williams ex*
+
+**SUMMARY:**
+- Correll in Lloydia 10: 212 (1948). Type: Guatemala, H. von Türckheim (holo. Bt). Camaridium pulchrum Schltr. in Fedde, Repert. Sp. Nov. 10: 251 (1911). Plant epiphytic, straggly, more or less hanging. Pseudobulbs scattered, oval, strongly bilaterally flattened, glossy, up to 6.5 cm long and 2.5 cm wide, bearing 1 to 2 leaves. (Fig. 47M; Photo. 74).
+
+**Rhizomes:**
+- Rhizomes up to 35 cm long; sheaths red-brown, fibrous, overlapping, close-fitting, the upper 6-9 bearing leaves on young growths.
+
+**Leaves:**
+- Leaves linear, gradually tapering to a point, up to 36 cm long and 9.5 mm wide.
+
+**Inflorescence:**
+- Inflorescence produced singly from the axils of the sheaths on new shoots, Iflowered; peduncle up to 4 cm long, concealed by tubular bracts.
+
+**Flowers:**
+- Flowers fragrant; pedicellate ovary up to 2.7 cm long.
+
+**Sepals:**
+- Sepals and petals white; sepals elliptic-oblong, up to 3.2 cm long and 1.1 cm wide; petals spreading above the middle, linear-oblong, up to 2.8 cm long.
+
+**Lip:**
+- Lip small, continuous with the column-foot, cuneate-obovate, up to 8 mm long; lateral lobes rounded, upcurved, whitish marked with orange; mid-lobe almost semicircular, yellow; callus linear, white, covered with orange papillae at base.
+
+**Column:**
+- Column small, white, up to 8 mm long.
+
+**GENERAL DISTRIBUTION:**
+- Mexico to Honduras.
+
+**DISTRIBUTION IN BELIZE:**
+- Toledo District. Rare.
+
+**HABITAT:**
+- On trees in wet forest.
+
+**FLOWERING SEASON:**
+- April. Flowers last about two days.
+
+**ETYMOLOGY:**
+- From the Latin pulcher (beautiful, fair) in reference to the flowers.
+
+#### Species: Maxillaria ringens
+*Rchb. f. in Walp. Ann. 6: 523*
+
+**SUMMARY:**
+- (1861). Types: Guatemala, Warsewicz and Mexico, Oaxaca, Karwinski (syn. W, not located; syn. KLINDL.!).
+
+#### Species: Maxillaria yzabalana
+*S. Watson in Proc. Am. Acad.*
+
+**SUMMARY:**
+- 23:286(1888). M. rousseauae Schltr. in Beih. Bot. Centralbl. 36 (2): 413 (1918). M. lactea Schltr. in Fedde, Repert. Sp. Nov. Beih. 19: 233 (1923). Plant epiphytic, large, erect. Pseudobulbs smooth, becoming wrinkled with age, up to 6.5 cm long and 2.5 cm wide, unifoliate, with brown papery sheaths when young. when spread. Drawn by Eleanor Catherine from cm long; flowering stem 1.7 cm long. InfloresLeaves linear, thick, rigid, leathery, channelled intervals, up to 9 mm long and 2 mm wide, unifoliate. diameter. Pseudobulbs born along the stems at close sheaths and often with aerial roots, up to 3 mm in straggly pendent stems; stems covered with brown Plant epiphytic, small, growing in dense clumps with M. striatella Kraenzl. in Fedde, Repert. Spec. Nov.
+
+**Rhizome:**
+- Rhizome creeping with pseudobulbs arising in close succession.
+
+**Leaves:**
+- Leaves strap-like, leathery, arising from apex of pseudobulb, up to 50 cm long and 5 cm wide, with a distinct petiole of up to 8
+
+**Column:**
+- Column white, marked with purple at 3-lobed at the apex, up to 1.4 cm long and 5 mm wide veining on the lateral lobes, arcuate, more or less long and 4 mm wide.
+
+**Lip:**
+- Lip pale yellow with purple pointed and incurved towards the apex, up to 4 cm foot to form a prominent mentum.
+
+**Petals:**
+- Petals white, x 4; F: column and lip, x 5; G: column from below, × 5; H: anther cap, x 10; J: pollinia, × 10.
+
+**Sepals:**
+- Sepals and the pseudobulb, 1-flowered.
+
+**Flowers:**
+- Flowers not fragrant, 1.7 cence produced from the axil of a bract at the base of above, up to 5.5 cm long and 3.5 mm wide.
+
+#### Species: Maxillaria macleei
+*Batem. ex Lindl. in Bot. Reg. 26:*
+
+**SUMMARY:**
+- 1986 (1837). Type: Guyana (Demerara), cult. Lod-
+
+#### Species: Maxillaria uncata
+*Lindl. in Bot. Reg. 23: sub t.*
+
+**SUMMARY:**
+- folius (leaf) in reference to the grass-like appearance
+
+**ETYMOLOGY:**
+- From the Latin tenui- (slender) and
+
+**FLOWERING SEASON:**
+- February to May. Flowers
+
+**HABITAT:**
+- On trees in damp or open forest. Creek and Toledo Districts. Fairly common. cluding the Mountain Pine Ridge Reserve), Stann
+
+**DISTRIBUTION IN BELIZE:**
+- Orange Walk, Cayo (in-
+
+**GENERAL DISTRIBUTION:**
+- Mexico to Nicaragua. erect; disc papillose. Column clavate, up to 1.5 cm apex, up to 2.2 cm long and 1.1 cm wide; side lobes arcuate-decurved, oblong-elliptic, acute to retuse at column-foot. Lip pale yellow with dark red spots, lateral sepals forming a short mentum with the tips, subsimilar, up to 2.8 cm long and 1 cm wide; Sepals and petals orange to dark red with yellowish flower stem, including the ovary, up to 4 cm long. bulb. Flowers fragrant, showy, up to 4 cm wide; from the axils of the bracts surrounding the pseudocm long and 8 mm wide. Inflorescence 1-flowered, leafed at the apex. Leaves linear, grass-like, up to 60 around young pseudobulbs up to 18 cm long, 1- to 5 cm long and 2.5 cm wide; leaf-bearing sheaths strongly compressed, become wrinkled with age, up intervals of between 4-6 cm. Pseudobulbs ovoid, dent rhizomes on which the pseudobulbs are born at Plant epiphytic, consisting of straggly and often pen(holo. drawing associated with original description in t. 1986 (1837). Type: Mexico, Vera Cruz, Hartweg
+
+#### Species: Maxillaria tenuifolia
+*Lindl. in Bot. Reg. 23: sub.*
+
+**SUMMARY:**
+- 24:359(1928). Misc. 70 (1840). diges (holo. K-LINDL.!). of the leaf. last about three weeks. long. (Fig. 42L; Photo. 79). Bot. Reg. cited above). ly described M. hedwigae Hamer & Dodson (Catling rufescens may refer to the closely related and recentringens when not in flower. Earlier collections of M.
+
+**NOTE:**
+- S. M.rufescens is easily confused with M.
+
+**ETYMOLOGY:**
+- From the Latin rufescens (reddish, December to March. Ridge Reserve), Stann Creek and Toledo Districts.
+
+**DISTRIBUTION IN BELIZE:**
+- Cayo (Mountain Pine
+
+**GENERAL DISTRIBUTION:**
+- The West Indies, Belize oblong central ridge. Column arcuate, clavate, up to oblong to subquadrate, truncate; disc with a linearlobes, up to 2.1 cm long and 1.2 cm wide; mid-lobe with purple or red, with two sharply pointed lateral 3-lobed in middle, deep golden-orange and spotted 2 cm long and 0.9 cm wide, subacute. Lip erect, sepals up to 2.4 cm long and 0.9 cm wide; petals up to up to 2.5 cm in diameter. Sepals and petals cream; the ovary, up to 5 cm long. Flowers slightly fragrant, bases of the pseudobulbs; flowering stem, including growing from the axils of the sheaths around the long and 4.5 cm wide. Inflorescence 1-flowered, young. Leaves usually sessile, strap-like, up to 35 cm unifoliate, subtended by brown papery sheaths when cross section, up to 5 cm long and 3 cm wide, compressed and ridged,more or less 4-angled in duced in close succession on a creeping rhizome, Plant epiphytic, variable, tufted. Pseudobulbs proM. abelei Schltr. in Fedde, Repert. Spec. Nov. Beih. 9: M. rufescens var. flavida Rchb. f. in Saund. Ref. Bot.: M. vanillodora A. Rich. & Gal., Cat. Orch. Schiller M. articulata Klotzsch, Ind. Sem. Hort. Berol. 11
+
+#### Species: Maxillaria rugosa
+*Scheidw. in Berliner. Gardenz. 11:*
+
+**SUMMARY:**
+- associated with original description in Bot. Reg. cited 1848 (1836). Type: Trinidad, Low (holo. drawing
+
+#### Species: Maxillaria rufescens
+*Lindl. in Bot. Reg. 22: t.*
+
+**SUMMARY:**
+- turning red) in reference to the flower colour. M. rufescens. K: lip, x 2. M. crassifolia. L: lip, × 3. M. pulchra. M: lip, x 4. M. densa. N: lip, x 4. Drawn by Beverley Mears
+
+**HABITAT:**
+- On trees in dense moist forest. to northern South America and Trinidad. 1.6 cm long. (Fig. 47K; Photo. 77,78). Flowers last about two weeks.
+
+**FLOWERING SEASON:**
+- & Catling 1988). Fairly common. 101(1921). 79(1869). 45 (1857). (1853). 101(1843) above).
 
 ---
 
@@ -1217,6 +2957,33 @@
 **GENERAL DISTRIBUTION:**
 - Mexico to Brazil, Peru umn arcuate, somewhat club-shaped, up to 2.5 cm base, decurved and long-acuminate at the apex. Colbristle-like projection; mid-lobe pouch-like at the truberance near the base and terminating in an erect wide; lateral lobes erect, each with an upturned proabout the middle, waxy, up to 2.2 cm long and 1.1 cm mm wide. Lip joined to the column-foot, 3-lobed spreading-incurved, acuminate, up to 1 cm long and 2 to the lower half of the column, the free parts long and 1.6 cm wide below the middle. Petals joined lateral sepals reflexed, concave at the base, up to 3 cm concave below, up to 2.2 cm long and 1 cm wide; column, the free part recurved at the apex, somewhat margins; dorsal sepal joined to the lower half of the spreading, up to 5 cm long. Sepals with revolute with pale brown spots; pedicellate ovaries slender, non-resupinate, fragrant, variable in colour, whitish peduncle up to 25 cm long; rachis angular. Flowers pendulous, loosely many-flowered, up to 75 cm long; blade elliptic, with undulate margins. Inflorescence wide; petiole grooved or channelled, up to 8 cm long; when young. Leaves up to 50 cm long and 16 cm long and 5 cm wide, subtendedby fibroussheaths strongly ridged, rather glossy, 2-leaved, up to 11 cm Pseudobulbs ovoid-conical to cylindric-conical, Plant epiphytic, erect-spreading, up to 50 cm tall. G. retrorsa Rchb. f. in Bonplandia 2: 19 (1854). G. nigrida Lindl. in Bot. Reg.: Misc.59 (1839). period of several months. nervis (nerved or veined). last about two weeks. forest between 50 and 900m. Toledo Districts. Uncommon. long. (Fig. 52; Photo. 87). and Trinidad. 90. Lacaena bicolor 89. G. unicolor 88. G. truncata 87. G. quinquenervis (habitat) 86. Gongora cassidea
 
+#### Species: Gongora maculata
+*Lindl. in Bot. Reg. 19: t. 1616*
+
+**SUMMARY:**
+- Veg.: 227 (1793). Type: Peru, Ruiz & Pavon (holo.
+
+#### Species: Gongora quinquenervis
+*Ruiz & Pav. in Syst.*
+
+**NOTE:**
+- The fragrance of the flowers closely reshaped) in reference to the appearance of the lip.
+
+**ETYMOLOGY:**
+- From the Latin cassideus (helmet-
+
+**FLOWERING SEASON:**
+- July to December. Flowers
+
+**HABITAT:**
+- On trees in wet broad-leaved forest be-
+
+**DISTRIBUTION IN BELIZE:**
+- Cayo and Toledo Dis-
+
+**GENERAL DISTRIBUTION:**
+- Belize to Nicaragua. arcuate, up to 1.5 cm long. (Fig. 51; Photo. 86). whitish spotted with maroon, winged near the apex, with a small tooth in the sinus. Column maroon or up to 8 mm long; mid- lobe concave at the base, bifid, undulate, with a foreward-pointing tooth at the base, from the margins of a pouch-like concavity, erect, apex and on the lateral lobes; lateral lobes arising and 6 mm wide, golden-yellow, often maroon at the the base, strongly curved above, up to 2.7 cm long column-foot, 3-lobed below the middle, slender at 1.2 cm long and 4.5 mm wide. Lip hinged to the the free parts triangular to S-shaped, acuminate, up to wide; petals joined to the lower third of the column, suborbicular-elliptic, up to 2.8 cm long and 2.1 cm sepals spreading, with the lower margin reflexed, 2.7 cm long and 2.5 cm wide when spread; lateral base of the column, hood-like, broadly elliptic, up to pinkish or brownish-pink; dorsal sepal joined at the deep yellow or greenish, more or less mottled with curved, up to 5.5 cm long. Sepals and petals pale to nonresupinate, variable in colour; pedicellate ovaries to 11 cm long; rachis more or less fractiflex. Flowers to 9-flowered, up to 25 cm long; peduncle slender, up margins. Inflorescence pendulous, rather loosely 2- narrowly elliptic, acuminate, often with undulate sembles that of freesias. last about five days. tween 600 and 750 m. (1813). tricts. Rare.
+
 ---
 
 ### Genus: Lacaena Lindl.
@@ -1243,31 +3010,40 @@
 **GENERAL DISTRIBUTION:**
 - Mexico, Belize and spots, up to 2.5 cm long. (Fig. 51K; Photo. 88). somewhat clavate, pale greenish with purple-brown pouch-like, decurved and acute at the apex. Column backwards-pointing bristle-like projection; mid-lobe base, erect above and joined at the tips, each with a mm wide; lateral lobes somewhat spreading at the brown or with a yellow base, up to 1.6 cm long and 7 middle, waxy-white, often marked with purpleLip joined to the column-foot, 3-lobed above the the free parts spreading, triangular, about 3 mm long. wide; petals joined to the lower third of the column, lateral sepals reflexed, up to 2.2 cm long and 1.7 cm apex, concave, up to 1.6 cm long and 1.1 cm wide; lower third of the column, the free part recurved at the strongly recurved margins; dorsal sepal joined to the pinkish-cream with purple-brown spots; sepals with spreading, up to 3.7 cm long. Sepals and petals nonresupinate, highly fragrant; pedicellate ovaries peduncle up to 30 cm long; rachis angular. Flowers rather loosely many-flowered, up to 55 cm long; ten with undulate margins. Inflorescence pendulous, long; blade elliptic to oblong-elliptic, acuminate, ofcm wide; petiole grooved or channelled, up to 5 cm sheaths when young. Leaves up to 45 cm long and 10 cm long and 3.5 cm wide, subtended by fibrous tened, strongly ridged, rather glossy, 2-leaved, up to 8 Pseudobulbs ovoid to oblong-ovoid, somewhat flatPlant epiphytic, erect-spreading, up to 40 cm tall. G. donckelaariana (Lem.) Rchb. f. in Walp. Ann. 3: G. truncata var. donckelaariana Lem. in Fl. des Ser42 (1843). Type: Mexico, Rucker, from Linden s.n. 3. Gongora truncata Lindl. in Bot. Reg. 29: Misc. We believe that both plants grow in Belize and have quenervis has a very wide range, including Belize. color in Nicaragua and Costa Rica whereas G. quinHamer (1982) reports the distribution of G. unitherefore included both in this book. tending into northern South America. ending abruptly). about two weeks. about 600 m. Honduras. 546 (1858). res 4: 336 (1848). (holo. K-LINDL.!).
 
+#### Species: Lacaena is
+*allied to Stanhopea, but is distin-*
+
+**SUMMARY:**
+- guished by its more numerous, smaller and simpler flowers reflecting a slightly different pollination syndrome (Bechtel et al., 1992). There are only two species, both Central American. One is known from Belize.
+
+**ETYMOLOGY:**
+- Named after the Greek Lakaina (a RADSORD
+
 ---
 
 ### Genus: Stanhopea Frost ex Hook.
 *Source: page-115, page-116, page-117*
 
 **SUMMARY (uncertain):**
-- wings broad.. pollinia 2, waxy. above). horns 1837. about 6 cm long. (Fig. 54J; Photo. 91). S. minor Schltr. in Notizbl. Königl. Bot. Gard. Berlin S. oculata var. geniculata Klotzsch, Act. Hort. PeStanhopea oculata var. crocea Regel., Ind. Sem.
+- wings broad.. pollinia 2, waxy. above). horns 1837. about 6 cm long. (Fig. 54J; Photo. 91).
 
 **NOTE:**
-- A rare plant throughout its range. (colour) in reference to the white and purple flowers. s. For many years S. graveolens was considered to be a synonym of the common S. oculata but Dodson (1975a) has clarified the distinction between the two. He has also clarified the distinction between the often confused S. graveolens and S. wardii, the latter having smaller flowers with a shorter lip and is not found further north than Nicaragua. 3. Stanhopea inodora Lodd. ex Lindl. in Bot. Reg. 31: t.65 (1845). Type: Mexico, Loddiges (holo. based on illustration in Bot. Reg. cited above). Plant epiphytic. Pseudobulbs heavily ribbed, monophyllous, up to 5 cm long and 3.5 cm wide. Leaves elliptic-lanceolate, up to 30 cm long and 11 cm wide; pedicel up to 4 cm long. Inflorescence pendent, several-flowered. Flowers showy with creamy white sepals and petals, lightly spotted red, the basal half of the hypochile orange with more or less distinct eyes; lip white with very faint spots on the epichile and at the base of the horn, not fragrant. Dorsal sepal lanceolate, apiculate, up to 8 cm long and 4.5 cm wide; lateral sepals broadly lanceolate, apiculate, up to 7.5 cm long and 4.5 cm wide. Petals linear-lanceolate with undulate margins, up to 7 cm long and 2 cm wide. Lip with a circular opening to the almost naked cavity, up to 3 cm long and 2 cm wide; epichile up to 3 cm long and wide. Column winged, up to 6 cm long and 2 cm wide; column-wings more than half as wide as the column.
+- A rare plant throughout its range. (colour) in reference to the white and purple flowers.
 
 **ETYMOLOGY:**
-- From the Latin bi (two) and color From the Latin in (not) and odorus (scented, smelling). 4. Stanhopea oculata (Lodd.) Lindl., Gen. Sp. Orch. Pl.: 158 (1832). Type: Mexico, Xalapa, Deppe (holo. K, not located). Ceratochilus oculatus Lodd., Bot. Cab. 18: t. 1764 (1831). Stanhopea bucephalus Lindl., Gen. Sp. Orch. Pl.: 157 (1833). S. lindleyi Zuccar. in Bot. Reg. 24: Misc.3 (1838). S. oculata var. barkeriana Lindl. in Bot. Reg. 25: Misc.69 (1839).
+- From the Latin bi (two) and color From the Latin e (without) and cornutus (horned) in reference to the fact that the mesochile is without horns, which differs from many
 
 **FLOWERING SEASON:**
-- May and June. Flowers last May to September.
+- May and June. Flowers last June to February.
 
 **HABITAT:**
-- On trees in rather wet broad-leaved and On trees in damp montane forest.
+- On trees in rather wet broad-leaved and On trees in wet broad-leaved forest at about 100 m.
 
 **DISTRIBUTION IN BELIZE:**
-- Cayo District (Moun- Cayo District (Mountain Pine Ridge Reserve). Rare.
+- Cayo District (Moun- Toledo District. Rare.
 
 **GENERAL DISTRIBUTION:**
-- Mexico to Nicaragua. above, up to 1.6 cm long. (Fig. 53; Photo. 90). lobes, deep purple. Column clavate, narrowly winged and apiculate at the apex; callus between the lateral mid-lobe deflexed, suborbicular-quadrate, recurved mid-lobe when spread; lateral lobes erect, rounded; 3-lobed, up to 2.5 cm long and 1.3 cm across the incurved, up to 2 cm long and 1.2 cm wide. Lip oblique, up 2.8 cm long and 1.5 cm wide. Petals up to 2.2 cm long and 1.5 cm wide; lateral sepals cave, with reflexed apices and margins; dorsal sepal ovaries brown-scurfy, up to 3.5 cm long. Sepals conrather strongly but unpleasantly scented; pedicellate creamy-white, marked and spotted with purple, stout, brown-scurfy, up to 25 cm long. Flowers flowered, up to 50 cm long, pendent; peduncle rather more or less acuminate. Inflorescence up to 25- oblanceolate to elliptic, prominently veined beneath, petiole grooved or channelled, up to 6 cm long; blade the pseudobulb, up to 45 cm long and 11 cm wide; sheaths when young. Leaves 3 to 4 from the apex of 11 cm long and 6 cm wide, subtended by fibrous Pseudobulbs elliptic-ovate, slightly flattened, up to Plant epiphytic, erect-spreading, up to 50 cm tall. Lueddemania sanderiana Kraenzl in Gard. Chron. A. wrightii Fraser, Gardening World: 5 (1889). A. hrubyana Rchb. f. in Gard. Chron. ser. 2, 28: 102 Acineta longiscapa (A. Rich. & Gal.) Rchb. f. in Bot. Peristeria longiscapa A. Rich. & Gal. in Ann. Sc. (1843). Type: Guatemala, Hartweg (holo. KLacaena bicolor Lindl. in Bot. Reg. 29: Misc. 68 Laconian woman), and an alternative name for Helen pine/oakforest at about 900 m. tain Pine Ridge Reserve). Very rare. about ten days. ser. 3, 22: 138 (1897). (1882). Zeit. 10: 706 (1852). Nat. sér. 3(3): 25 (1845). LINDL.!). of Troy. Mexico, Belize and Nicaragua.
+- Mexico to Nicaragua. above, up to 1.6 cm long. (Fig. 53; Photo. 90). lobes, deep purple. Column clavate, narrowly winged and apiculate at the apex; callus between the lateral mid-lobe deflexed, suborbicular-quadrate, recurved mid-lobe when spread; lateral lobes erect, rounded; 3-lobed, up to 2.5 cm long and 1.3 cm across the incurved, up to 2 cm long and 1.2 cm wide. Lip oblique, up 2.8 cm long and 1.5 cm wide. Petals up to 2.2 cm long and 1.5 cm wide; lateral sepals cave, with reflexed apices and margins; dorsal sepal ovaries brown-scurfy, up to 3.5 cm long. Sepals conrather strongly but unpleasantly scented; pedicellate creamy-white, marked and spotted with purple, stout, brown-scurfy, up to 25 cm long. Flowers flowered, up to 50 cm long, pendent; peduncle rather more or less acuminate. Inflorescence up to 25- oblanceolate to elliptic, prominently veined beneath, petiole grooved or channelled, up to 6 cm long; blade the pseudobulb, up to 45 cm long and 11 cm wide; sheaths when young. Leaves 3 to 4 from the apex of 11 cm long and 6 cm wide, subtended by fibrous Pseudobulbs elliptic-ovate, slightly flattened, up to Plant epiphytic, erect-spreading, up to 50 cm tall. Lueddemania sanderiana Kraenzl in Gard. Chron. A. wrightii Fraser, Gardening World: 5 (1889). A. hrubyana Rchb. f. in Gard. Chron. ser. 2, 28: 102 Acineta longiscapa (A. Rich. & Gal.) Rchb. f. in Bot. Peristeria longiscapa A. Rich. & Gal. in Ann. Sc. (1843). Type: Guatemala, Hartweg (holo. KLacaena bicolor Lindl. in Bot. Reg. 29: Misc. 68 Laconian woman), and an alternative name for Helen pine/oakforest at about 900 m. tain Pine Ridge Reserve). Very rare. about ten days. ser. 3, 22: 138 (1897). (1882). Zeit. 10: 706 (1852). Nat. sér. 3(3): 25 (1845). LINDL.!). of Troy. Belize to Honduras, and Nicaragua to Panama.
 
 **Flowers:**
 - Flowers unpleasantly scented; pedicellate ovaries stout, brown-scurfy, up to 7.5 cm long.
@@ -1280,6 +3056,102 @@
 
 **Column:**
 - Column white with red spots, concave on the lower side, up to 2.8 cm long.
+
+#### Species: Stanhopea species
+*where it is 2-horned.*
+
+#### Species: Stanhopea graveolens
+*Lindl. in Bot. Reg. 26:*
+
+**SUMMARY:**
+- Misc.59 (1840). Type: of uncertain provenance, cult. W. Herbert (holo. K-LINDL.!). Plant epiphytic or rarely lithophytic, medium-sized Pseudobulbs ovoid-conical to rhomboidal, sulcate, somewhat compressed, up to 7 cm long and 4 cm in diameter, 1-leaved at apex. Dorsal sepal reflexed, ovate-elliptic, rounded at apex, up to 6.3 cm long and 3.5 cm wide; lateral sepals reflexed, oblique, concave, up to 6.5 cm long and 4.5 cm wide, joined in the basal 1 cm. Petals recurved, narrowly oblong, acute, up to 5.5 cm long and 2.3 cm wide, with undulate margins.
+
+**Leaves:**
+- Leaves plicate, broadly elliptic-lanceolate to obovate-elliptic, acute, up to 50 cm long and 17.5 cm wide.
+
+**Inflorescence:**
+- Inflorescence pendulous, up to 9-flowered; peduncle terete, from base of pseudobulb; sheaths inflated, up to 6 cm long.
+
+**Flowers:**
+- Flowers large, showy, fragrant, hanging, cream or greenishwhite, spotted with purple on sepals and petals; epichile of lip with a large maroon spot on each side of hypochile.
+
+**Lip:**
+- Lip very fleshy, tripartite, up to 5 cm long; hypochile rectangular, saccate; mesochile of two fleshy porrect horns; epichile ovate-cordate, acute.
+
+**Column:**
+- Column arcuate, winged, up to 5 cm long.
+
+**GENERAL DISTRIBUTION:**
+- Mexico to Honduras and El Salvador.
+
+**DISTRIBUTION IN BELIZE:**
+- Cayo (Mountain Pine Ridge Reserve) and Toledo Districts. Uncommon.
+
+**HABITAT:**
+- On trees in riverine forest.
+
+**FLOWERING SEASON:**
+- November.
+
+**ETYMOLOGY:**
+- From the Latin graveolens (strong smelling) in reference to the powerful and rather offensive scent of the flowers.
+
+**NOTE:**
+- s. For many years S. graveolens was considered to be a synonym of the common S. oculata but Dodson (1975a) has clarified the distinction between the two. He has also clarified the distinction between the often confused S. graveolens and S. wardii, the latter having smaller flowers with a shorter lip and is not found further north than Nicaragua.
+
+#### Species: Stanhopea inodora
+*Lodd. ex Lindl. in Bot. Reg.*
+
+**SUMMARY:**
+- 31: t.65 (1845). Type: Mexico, Loddiges (holo. based on illustration in Bot. Reg. cited above). Plant epiphytic. Pseudobulbs heavily ribbed, monophyllous, up to 5 cm long and 3.5 cm wide. Dorsal sepal lanceolate, apiculate, up to 8 cm long and 4.5 cm wide; lateral sepals broadly lanceolate, apiculate, up to 7.5 cm long and 4.5 cm wide.
+
+**Leaves:**
+- Leaves elliptic-lanceolate, up to 30 cm long and 11 cm wide; pedicel up to 4 cm long.
+
+**Inflorescence:**
+- Inflorescence pendent, several-flowered.
+
+**Flowers:**
+- Flowers showy with creamy white sepals and petals, lightly spotted red, the basal half of the hypochile orange with more or less distinct eyes; lip white with very faint spots on the epichile and at the base of the horn, not fragrant.
+
+**Petals:**
+- Petals linear-lanceolate with undulate margins, up to 7 cm long and 2 cm wide.
+
+**Lip:**
+- Lip with a circular opening to the almost naked cavity, up to 3 cm long and 2 cm wide; epichile up to 3 cm long and wide.
+
+**Column:**
+- Column winged, up to 6 cm long and 2 cm wide; column-wings more than half as wide as the column.
+
+**GENERAL DISTRIBUTION:**
+- Mexico, Belize and Nicaragua.
+
+**DISTRIBUTION IN BELIZE:**
+- Cayo District (Mountain Pine Ridge Reserve). Rare.
+
+**HABITAT:**
+- On trees in damp montane forest.
+
+**FLOWERING SEASON:**
+- May to September.
+
+**ETYMOLOGY:**
+- From the Latin in (not) and odorus (scented, smelling).
+
+#### Species: Stanhopea oculata
+*(Lodd.) Lindl., Gen. Sp. Orch.*
+
+**SUMMARY:**
+- Pl.: 158 (1832). Type: Mexico, Xalapa, Deppe (holo. K, not located). Ceratochilus oculatus Lodd., Bot. Cab. 18: t. 1764 (1831).
+
+#### Species: Stanhopea bucephalus
+*Lindl., Gen. Sp. Orch. Pl.:*
+
+**SUMMARY:**
+- 157 (1833). S. lindleyi Zuccar. in Bot. Reg. 24: Misc.3 (1838). S. oculata var. barkeriana Lindl. in Bot. Reg. 25: Misc.69 (1839). S. minor Schltr. in Notizbl. Königl. Bot. Gard. Berlin S. oculata var. geniculata Klotzsch, Act. Hort. Pe-
+
+#### Species: Stanhopea oculata
+*var. crocea Regel., Ind. Sem.*
 
 ---
 
@@ -1305,6 +3177,12 @@
 
 **Leaves:**
 - Leaves oblong-elliptic, up to 30 cm long sheaths of which the uppermost sometimes bears a cm long and 3.5 cm wide, subtended by several ellipsoid, strongly flattened, 2- or 3-leaved, up to 12
+
+#### Species: Brassia lewisii
+*Rolfe in Orch. Rev. 1: 199 (1893).*
+
+**SUMMARY:**
+- Repert. Sp. Nov. Beih. 17: 80 (1922).
 
 ---
 
@@ -1338,15 +3216,6 @@
 **ETYMOLOGY:**
 - Named after Andreo Comparetti, an eminent 18th. century plant physiologist and Professor of Botany at the University of Padua, Italy.
 
-**FLOWERING SEASON:**
-- August to October and prob-
-
-**HABITAT:**
-- On trees in wet broad-leaved forest at
-
-**DISTRIBUTION IN BELIZE:**
-- Toledo District. Rare. basal spurs, x 3; G: column and mentum, × 4; H: column, × 6; J: anther cap, × 10; K: pollinia, x 10. Drawn by Beverley Mears
-
 #### Species: Comparettia falcata
 *Poepp. & Endl., Nov. Gen. Sp.*
 
@@ -1373,6 +3242,15 @@
 
 **Lip:**
 - Lip 3-lobed, white at the base, with a linear callus between the lateral lobes, up to 1.6 cm long; lateral lobes basal, small, erect; mid-lobe spreading, broadly kidney-shaped, deeply
+
+**FLOWERING SEASON:**
+- August to October and prob-
+
+**HABITAT:**
+- On trees in wet broad-leaved forest at
+
+**DISTRIBUTION IN BELIZE:**
+- Toledo District. Rare. basal spurs, x 3; G: column and mentum, × 4; H: column, × 6; J: anther cap, × 10; K: pollinia, x 10. Drawn by Beverley Mears
 
 ---
 
@@ -1404,7 +3282,13 @@
 - From the Greek satiros (satyr) and oides (indicating a resemblance to) in reference to the appearance of the flower.
 
 **NOTE:**
-- The inflorescence is often branched repeatedly to produce several flushes of flowers. 2. Ionopsis utricularioides (Sw.) Lindl. in Coll. Bot.: t. 39, Fig.A (1821). Type: Jamaica, Swartz (holo. S). Epidendrum utricularioides Sw., Prod. Veg. Ind. Осс.: 122 (1788). Dendrobium utricularioides Sw., Nov. Act. Ups. 6: 83 (1799).
+- The inflorescence is often branched repeatedly to produce several flushes of flowers.
+
+#### Species: Ionopsis utricularioides
+*(Sw.) Lindl. in Coll.*
+
+**SUMMARY:**
+- Bot.: t. 39, Fig.A (1821). Type: Jamaica, Swartz (holo. S). Epidendrum utricularioides Sw., Prod. Veg. Ind. Осс.: 122 (1788). Dendrobium utricularioides Sw., Nov. Act. Ups. 6: 83 (1799).
 
 #### Species: Ionopsis paniculata
 *Lindl. in Bot. Reg. 22: sub. t.*
@@ -1530,8 +3414,17 @@
 ### Genus: Leucohyle Klotzsch
 *Source: page-126, page-128*
 
-**SUMMARY (uncertain):**
-- Leucohyle subulata (Sw.) Schltr. in Orchideen: 469 (1914). Type: Jamaica, Swartz (holo. UPS). Epidendrum subulatum Sw., Prodr.: 123 (1788). Cymbidium subulatum Sw. in Nov. Act. Ups. 6: 73 (1799). Leucohyle warscewiczii Klotzsch, Ind. Sem. H. Bot. Ber. App. (1854). Trichopilia hymenantha Rchb. f. in Bonplandia 2: 90 (1854). T. subulata (Sw.) Rchb. f. in Flora 48: 278 (1865). T. jamaicensis Fawc. & Rendle in Journ. Bot. 48: 107 (1910). Plant epiphytic, more or less hanging. Pseudobulbs cylindrical, up to 2.7 cm long and 4 mm in diameter, enclosed in sheaths when young; sheaths papery, purple-spotted.
+#### Species: Leucohyle subulata
+*(Sw.) Schltr. in Orchideen: 469*
+
+**SUMMARY:**
+- (1914). Type: Jamaica, Swartz (holo. UPS). Epidendrum subulatum Sw., Prodr.: 123 (1788). Cymbidium subulatum Sw. in Nov. Act. Ups. 6: 73 (1799).
+
+#### Species: Leucohyle warscewiczii
+*Klotzsch, Ind. Sem. H. Bot.*
+
+**SUMMARY:**
+- Ber. App. (1854). Trichopilia hymenantha Rchb. f. in Bonplandia 2: 90 (1854). T. subulata (Sw.) Rchb. f. in Flora 48: 278 (1865). T. jamaicensis Fawc. & Rendle in Journ. Bot. 48: 107 (1910). Plant epiphytic, more or less hanging. Pseudobulbs cylindrical, up to 2.7 cm long and 4 mm in diameter, enclosed in sheaths when young; sheaths papery, purple-spotted.
 
 **Leaves:**
 - Leaves rigid, linear, acute, up to 28.5
@@ -1553,10 +3446,16 @@
 *Source: page-130, page-131*
 
 **SUMMARY (uncertain):**
-- differs in having a 3-lobed, rather than a 4-lobed, lip. A genus of about 12 species native to the American tropics and subtropics. One is known from Belize. Halcrow & Halcrow (1967) reported it from the
+- differs in having a 3-lobed, rather than a 4-lobed, lip. A genus of about 12 species native to the American tropics and subtropics. One is known from Belize.
 
 **ETYMOLOGY:**
 - From the Greek makros (long) and aden (gland) alluding to the long anther appendage.
+
+#### Species: Macradenia brassavolae
+*Rchb. f. in Bot. Zeit. 10:*
+
+**SUMMARY:**
+- 734 (1852). Type: Guatemala, Warszewicz (holo. W!). Serrastylis modesta Rolfe in Kew Bull.: 158 (1894). Halcrow & Halcrow (1967) reported it from the
 
 **DISTRIBUTION IN BELIZE:**
 - Toledo District.
@@ -1564,11 +3463,11 @@
 **GENERAL DISTRIBUTION:**
 - Belize to northern South 2-winged at apex, spreading, up to 6 mm long. (Fig. lobe ligulate, pointed. Column clavate, fleshy, white, 0.6 cm wide; lateral lobes rounded and upright; midmarkings, 3-lobed in basal half, up to 1.2 cm long and 1.7 cm long and 0.5 cm wide. Lip white with maroon shaped, reddish-brown edged with pale green, up to
 
-#### Species: Macradenia brassavolae
-*Rchb. f. in Bot. Zeit. 10:*
+#### Species: Macradenia modesta
+*(Rolfe) Rolfe in Orch. Rev. 4:*
 
 **SUMMARY:**
-- 734 (1852). Type: Guatemala, Warszewicz (holo. W!). Serrastylis modesta Rolfe in Kew Bull.: 158 (1894).
+- medium-sized. x 8. Drawn by Beverley Mears. Plant epiphytic, 357 (1896).
 
 ---
 
@@ -1576,7 +3475,7 @@
 *Source: page-132, page-133*
 
 **SUMMARY (uncertain):**
-- KEY TOSPECIES 2. N. wullschlaegeliana monly simple, occasionally becoming branched with age, racemose, many-flowered, up to 30 cm long; peduncle short, subtended by a leaf. (Fig. 63, 64J; Photo. 104). show anther bed, from side, x 21; F: column apex, 2 views, × 21; G: anther cap, from below, x 21; H: anther cap, from side;
+- KEY TOSPECIES 2. N. wullschlaegeliana monly simple, occasionally becoming branched with age, racemose, many-flowered, up to 30 cm long; peduncle short, subtended by a leaf. (Fig. 63, 64J; Photo. 104).
 
 **Flowers:**
 - Flowers in a cylindrical raceme, faintly fragrant; pedicellate ovaries slender, up to 6 mm long.
@@ -1594,7 +3493,7 @@
 - Column terete, glabrous, pale green, up to 3 mm long.
 
 **GENERAL DISTRIBUTION:**
-- Belize, Venezuela and
+- Mexico to Panama.
 
 **DISTRIBUTION IN BELIZE:**
 - Found in all districts. Common.
@@ -1609,7 +3508,37 @@
 - Named after George Barker (1776- 1845), who collected and sent the type specimen to John Lindley in 1837.
 
 **NOTE:**
-- S. N. barkeri is a variable species, often to be found in densely shaded situations shunned by most other epiphytic orchids. Material collected by Lundell (1940) and Spellman (1975) was reported as N. trisepala Lindl. & Paxt., a name treated as a synonym of N. barkeri by most recent authors. 2. Notylia wullschlaegeliana H. Focke in Bot. Zeit. 11: 343 (1853). Type: Guyana, Wullschlägel (holo. BREM). Plant epiphytic, very small, up to 3.5 cm tall. Pseudobulbs flattened, about 2 mm long, concealed by several leaf-bearing sheaths. Leaves narrowly oblong-elliptic, laterally flattened, somewhat obliquely acute at the apex, up to 2.5 cm long and 2.5 mm wide; sheaths overlapping, with conspicuous translucent margins. Inflorescence spreading to hanging, several-flowered, up to 2.5 cm long; peduncle filiform. Flowers in a very short raceme. Sepals white, tinged with purple, somewhat translucent, up to 6 mm long and 1.5 mm wide; lateral sepals united at base. Petals pale purple with darker purple spots, up to 5.5 mm long and 1.5 mm wide. Lip purple, linear, with a narrowly triangular apical lobe, sagittate, and a pair of backward-pointing projections near the middle, about 4.5 mm long. Column filiform, recurved at apex, pale green, up to 5 mm long. (Fig. 64; Photo. 105).
+- S. N. barkeri is a variable species, often to be found in densely shaded situations shunned by most other epiphytic orchids. Material collected by Lundell (1940) and Spellman (1975) was reported as N. trisepala Lindl. & Paxt., a name treated as a synonym of N. barkeri by most recent authors.
+
+#### Species: Notylia wullschlaegeliana
+*H. Focke in Bot. Zeit.*
+
+**SUMMARY:**
+- 11: 343 (1853). Type: Guyana, Wullschlägel (holo. BREM). Plant epiphytic, very small, up to 3.5 cm tall. Pseudobulbs flattened, about 2 mm long, concealed by several leaf-bearing sheaths. (Fig. 64; Photo. 105). show anther bed, from side, x 21; F: column apex, 2 views, × 21; G: anther cap, from below, x 21; H: anther cap, from side;
+
+**Leaves:**
+- Leaves narrowly oblong-elliptic, laterally flattened, somewhat obliquely acute at the apex, up to 2.5 cm long and 2.5 mm wide; sheaths overlapping, with conspicuous translucent margins.
+
+**Inflorescence:**
+- Inflorescence spreading to hanging, several-flowered, up to 2.5 cm long; peduncle filiform.
+
+**Flowers:**
+- Flowers in a very short raceme.
+
+**Sepals:**
+- Sepals white, tinged with purple, somewhat translucent, up to 6 mm long and 1.5 mm wide; lateral sepals united at base.
+
+**Petals:**
+- Petals pale purple with darker purple spots, up to 5.5 mm long and 1.5 mm wide.
+
+**Lip:**
+- Lip purple, linear, with a narrowly triangular apical lobe, sagittate, and a pair of backward-pointing projections near the middle, about 4.5 mm long.
+
+**Column:**
+- Column filiform, recurved at apex, pale green, up to 5 mm long.
+
+**GENERAL DISTRIBUTION:**
+- Belize, Venezuela and
 
 ---
 
@@ -1617,43 +3546,232 @@
 *Source: page-134, page-135, page-136, page-137, page-138, page-139*
 
 **SUMMARY (uncertain):**
-- A large genus of over 400 species native to the American tropics and subtropics. Eight are known from Belize. Many species of Oncidium are pollinated by anthrophorid bees of the genus Centris, many of which gather oil from the flower instead of, or as well as, pollen. These bees display strong territorial behaviour. Male bees set up territories and drive away other flying insects which invade their territory. When the flowers of an Oncidium, which resemble insects, move, the bees attack them, striking the flowers with their heads. The viscidium attaches to the front of the bee, between the compound eyes, and the stipe depresses holding the pollinia in front of the bee. This pollination mechanism is called pseudoantagonism (van de Pijl & Dodson, 1966). branched, up to 100 cm long. groove runs the whole length of the leaf which tapers dark brownish-green and obscurely spotted, a single wide, concealed by scarious sheaths. Pseudobulbs O. helicanthum Kraenzl. in Engler, Pflanzenr. Heft. Oncidium subulifolium Schltr. in Fedde, Repert. Sp. sub.t.4 (1842). Type: Guatemala, Hartweg (holo. K2. Oncidium ascendens Lindl. in Bot. Reg. 28: this book we have decided to retain the most commит (Sauleda & Adams, 1991). For the purpose of Sloane type specimen actually relates to O. altissiIn addition there is some dispute as to whether the Stacy, but this has not been accepted by all botanists. the new name O. jacquinianum (Jacq.) Garay & O. altissimum and O. luridum Lindl. and suggested Garay & Stacy (1974) reevaluated the synonomy genense and indistinguishable when not in flower. sheaths when young, up to 1.5 cm long. Pseudobulbs O. humboldtii Schltr. in Fedde, Repert. Spec. Nov. O. vittii Oppenheim in Engl., Pflanzenr. 2(50): 96 O. glaziovii Cogn. in Mart., Fl. Braz. 3(6): 440 O. sprucei Lindl., Folia Orch. Oncidium: 14 (1855). O. sepula Hoffmanns. in Bot. Zeit. 1: 833 (1843). O. brachyphyllum Lindl. in Bot. Reg. 28: sub.t. O. lingifolium Lindl. in Bot. Reg 27: Misc. 22 Oncidium juncifolium (L.) Lindl., Coll. Bot.: 27 Cymbidium juncifolium (L.) Willd., Sp. Pl. ed. 4: 102 Epidendrum juncifolium L., Sp. Pl. ed.2: 1351 Dendrobium cebolleta Jacq., Enum. Pl. Carib.: 30 designated as illustration associated with Select. Type: Colombia, Cartagena, Jacquin s.n. (holo. Amer. Hist. ed. icon arch. pict. 111, t.217 (1781). Stockh. Nya. Handl. 21: 240 (1800) and Select. Stirp. 4. Oncidium cebolleta (Jacq.) Sw. in K. Vet. Akad. carthagenense is one of the 'Mule Ear' orchids. mid-lobe lip equals the width across the side lobes. O. mum but the flowers are somewhat smaller and the fleshy, deeply channelled, up to 30 cm long and 1.1 cm wide, tapering to a sharp point, dark green with purple spots. (Photo. 110). and callus, x 3; F: column and callus with anther cap, x 3; G: anther cap, 2 views, x 10; H: pollinia, x 10. Drawn by Susanna
+- A large genus of over 400 species native to the American tropics and subtropics. Eight are known from Belize. Many species of Oncidium are pollinated by anthrophorid bees of the genus Centris, many of which gather oil from the flower instead of, or as well as, pollen. These bees display strong territorial behaviour. Male bees set up territories and drive away other flying insects which invade their territory. When the flowers of an Oncidium, which resemble insects, move, the bees attack them, striking the flowers with their heads. The viscidium attaches to the front of the bee, between the compound eyes, and the stipe depresses holding the pollinia in front of the bee. This pollination mechanism is called pseudoantagonism (van de Pijl & Dodson, 1966). branched, up to 100 cm long. groove runs the whole length of the leaf which tapers dark brownish-green and obscurely spotted, a single wide, concealed by scarious sheaths. Pseudobulbs O. helicanthum Kraenzl. in Engler, Pflanzenr. Heft.
 
 **ETYMOLOGY:**
-- From the Greek onkos (a pad or mass) referring to the fleshy warty callus on the lip of many species. 1. Leaves terete, fleshly-thickened Leaves flat, fleshly-thickened or chartaceous .. 3 2. Lateral lobes of lip orbicular, less than 5.5 mm KEY TO SPECIES From the Latin altissimus (the hi- From the Latin ascendens (ascend- Named after Jean Linden (1817- 1898), a Luxemburg born botanical explorer, orchid collector, nurseryman at Ghent and founder of the Horticulture Internationale in Brussels, who found the type specimen. 7. Oncidium sphacelatum Lindl., Sert. Orch.: sub.t.48 (1841). Type: Mexico, Hartweg (holo. KLINDL.! but specimen lacking provenance). Plant epiphytic, in large clumps, often extremely large masses. Pseudobulbs flattened, somewhat ridged, up to 20 cm long and 5 cm wide, bearing either one, or more usually two, leaves. Leaves rigid, erect, up to 70 cm long and 5 cm wide, light green. Inflorescence from the base of the pseudobulb, paniculate, much branched and many-flowered, up to
+- From the Greek onkos (a pad or mass) referring to the fleshy warty callus on the lip of many species. 1. Leaves terete, fleshly-thickened Leaves flat, fleshly-thickened or chartaceous .. 3 2. Lateral lobes of lip orbicular, less than 5.5 mm KEY TO SPECIES
 
 **Sepals:**
-- Sepals and petals spreading-reflexed, yellowishshowy, fairly numerous, up to 2 cm in diameter. Sepals and petals similar, curved forewards at the tip, greenish-yellow blotched with red-brown, margins yellow and undulate; sepals up to 1.4 cm long and 0.8 cm wide, spathulate; petals up to 1.3 cm long and 0.6 cm wide, oblong.
+- Sepals and petals spreading-reflexed, yellowishshowy, fairly numerous, up to 2 cm in diameter.
 
 **Flowers:**
-- Flowers not fragrant, Inflorescence from base of the pseudobulb, often to a sharp point, up to 75 cm long and 1 cm wide. Flowers not fragrant, clustered, small, on the upper third of the inflorescence, up to 2.5 cm long and 2 cm wide.
+- Flowers not fragrant, Inflorescence from base of the pseudobulb, often to a sharp point, up to 75 cm long and 1 cm wide.
 
 **Leaves:**
-- Leaves terete, small, usually unifoliate, up to 2 cm long and 1 cm Plant epiphytic, tufted, often pendent. Leaves thick, crowded, small, unifoliate, covered by papery Plant epiphytic, variable, often pendent.
+- Leaves terete, small, usually unifoliate, up to 2 cm long and 1 cm Plant epiphytic, tufted, often pendent.
+
+#### Species: Oncidium subulifolium
+*Schltr. in Fedde, Repert. Sp.*
+
+**SUMMARY:**
+- sub.t.4 (1842). Type: Guatemala, Hartweg (holo. K-
+
+#### Species: Oncidium ascendens
+*Lindl. in Bot. Reg. 28:*
+
+**SUMMARY:**
+- this book we have decided to retain the most commит (Sauleda & Adams, 1991). For the purpose of Sloane type specimen actually relates to O. altissiIn addition there is some dispute as to whether the Stacy, but this has not been accepted by all botanists. the new name O. jacquinianum (Jacq.) Garay & O. altissimum and O. luridum Lindl. and suggested Garay & Stacy (1974) reevaluated the synonomy genense and indistinguishable when not in flower.
 
 **NOTE:**
-- S. This species is closely allied to O. carthaghest) in reference to the height of the plant. S. This is one of the "rat-tail' or 'onion-leaf" ing) in reference to the ascending growth habit of this This species is unique among Belizean Oncidiums in its obligate terrestrial habitat. 6. Oncidium lindenii Brongn. in Lem., Hort. Univ. 3: 372 (1842). Type: Mexico, Campeche, Linden s.n. (holo. BR). O. lindenii Lodd. ex Lindl., Sert. Orch.: sub.t.48, n.101 (1841) nom. illeg. Plant epiphytic, tall. Pseudobulbs small, often covered with scarious sheaths, unifoliate. Leaves thickened, ridgid, leathery, dark green and indistinctly spotted and blotched with purple, up to 30 cm long and 7 cm wide. Inflorescence arising from the base of the pseudobulb, up to 110 cm long, paniculate with one or more small branches, each with several flowers; peduncle slender and wiry. Flowers not fragrant, up to 2 cm in diameter. Sepals and petals similar, brown with a greenish-white patch at the base or spotted with brown on pale green. Lip with a golden yellow base, side lobes glossy, very dark magenta appearing almost black. Column short, winged, up to 5 mm long. (Photo. 112)
+- S. This species is closely allied to O. carthaghest) in reference to the height of the plant.
+
+**ETYMOLOGY:**
+- From the Latin altissimus (the hi-
 
 **FLOWERING SEASON:**
-- January to May. Flowers last January to May. Flowers last March to June. Flowers last three to five weeks.
+- January to May. Flowers last
 
 **HABITAT:**
-- On trees in damp forest and citrus plan- On trees in swamp, open mountain fordiinae 4, 50 : 112 (1922). Bras. 3(6): 411 (1906). Petrop.: 22 (1856). Oncidium: 41 (1855). Oncidium: 40 (1855) Oncidium: 40 (1855). (1816). 30 (1762). plant. one to two weeks. est and pasture. On isolated trees and in riverine forest.
+- On trees in damp forest and citrus plan-
 
 **DISTRIBUTION IN BELIZE:**
-- Found in all districts. Mexico to Honduras and northern South America. Orange Walk, Cayo and Cayo District. Rare.
+- Found in all districts. Mexico to Honduras and northern South America.
 
 **GENERAL DISTRIBUTION:**
-- Florida, the West Indies, with a bilobed wing on each side. (Fig. 65K; Photo. umn pale mauve to white, short, up to 0.5 cm long, walnut-like, mauve, between the lateral lobes. Colculate, yellow with brown spots; callus tuberculate, with a short broad claw; lateral lobes small, aurilong and 0.9 cm wide; mid-lobe large coffee-brown, to 2 cm long and 1.2 cm wide. Lip 3-lobed, up to 2 cm strongly blotched with brown, with a narrow claw, up diameter. Sepals and petals similar, pale greenish Flowers not fragrant, numerous, up to 3.5 cm in arching, arrising from the base of the pseudobulb. flowered, much branched, often up to 2.5m long, 80:95 (1922). Nov. Beih. 10: 79 (1922). LINDL.!). monly accepted name. one to two weeks. tations. Fairly common. 106). 13.5 cm wide. Inflorescence paniculate, manyflushed or spotted with purple, up to 65 cm long and mule's ear, oblong, often bending over at the base, unifoliate. Leaves thickened, leathery, resembling a to 1.5 cm long, concealed by overlapping sheaths, Plant epiphytic, tall. Pseudobulbs small, obscure, up O. jacquinianum (Jacq.) Garay & Stacy in Bradea O. maculatum (Aubl.) Urb. in Fedde, Repert. Sp. Nov. O. wydleri Rchb. f. in Ber. Deutsch. Bot. Ges. 3: 276 O. guttatum Rchb. f. in Ann. Bot. Syst. 6: 782 luridum Lindl. in Bot. Reg. 9: t.727 E. crispum Lam., Encycl. 1: 186 (1783). Epidendrum altissimum Jacq., Enum Syst. Pl. 30 (holo. BM.). Not Jacq., Select. Stirp. Am. (1763). to, in Sloane, Hist. Jamaica 1: 250, t.148, f.1 (1707) bosa majus & elatius, delphinii flore furrgineo guttaJamaica, Sloane 177, based on 'Viscum radice bulAkad. Stockh. Nya. Handl. 21: 240 (1800). Type: 1. Oncidium altissimum (Jacq.) Sw. in K. Vet. . 7. O. sphacelatum Column-wings auriculate; sepals and petals gol.. 5. O. ensatum 6. Column-wings dolabriform; sepals and petals lateral lobes dark magenta-black . 6. O. lindenii Flowers with mid-lobe of lip golden yellow; 3. O. carthagenense 5. Flowers pale yellow to white, blotched with redLip as wide across the lateral lobes as across the 1. O. altissimum across the lateral lobes; flower brown-green 4. Lip much broader across the large mid-lobe than .. 6 pseudobulbs usually 2-leaves; bracts often promisides essentially parallel, usually much elongate; Leaves linear to narrowly lanceolate, with the iaceous; pseudobulbs usually 1-leaved .. with the sides distinctly rounded, not parallel, cor3. Leaves broadly elliptic, short or rarely elongate 4. O. cebolleta mm long; column-wings subquadrate, spreading Lateral lobes of lip porrect or erect, more than 5.5 2. O. ascendens long; column-wings linear- oblong, falcate, probrown, magenta or lavender 1(40): 407 (1974). 15: 306 (1918). (1885). (1863). (1823). Oncidium (1760). den yellow chocolate-brown.. mid-lobe. nent jecting Florida, the West Indies, fleshy. Column short, up to 4 mm long, with 3 wings separated from side lobes by a broad claw; callus cm wide; side lobes with recurved margins; mid-lobe Lip 3-lobed, violin-shaped, up to 1.6 cm long and 1.4 similar to sepals, up to 1.2 cm long and 0.6 cm wide. cm long and 0.8 cm wide. Petals broadly clawed, notched at the apex, margins convoluted, up to 1.3 bia, where the type specimen was found. Stann Creek Districts. Uncommon. Mexico to northern South America. Regni. Veg. 23: 65 (1926). Stirp. cited above!). last about two weeks. at the apex. (Photo. 109). (1922). (1906). (1842). (1841). (1821). (1805). (1763). (1760). tations. red-brown or magenta. Sepals clawed, rounded or cm in diameter, pale yellow or white, blotched with by scarious sheath. Flowers showy, small, up to 2.5 many-flowered, up to 1.2m long; peduncle subtended spotted with purple. Inflorescence erect, paniculate, 35 cm long and 10cm wide, usually flushed or from the apex. Leaves elliptic, oblong, leathery, up to 2.5 cm long, concealed by scarious sheaths, 1-leafed Plant epiphytic, large. Pseudobulbs very small, up to de, Repert. Sp. Nov. Beih. 17: 85 (1922). O. oerstedi Rchb. f. var. crispiflorum Schltr. in FedO. kymatoides Kraenzl. in Engler, Pflanzenr., OnciO. carthagenense var. andreanum Cogn. in Mart. Fl. O. sanguineum var. roseum Regel, Ind. Sem. Hort. O. obsoletum A. Rich. & Gal. ex Lindl., Folia Orch. O. carthagenense var. klotzschii Lindl., Folia Orch. Folia Orch. Oncidium: 40 (1855). O. carthagenense var. sanguineum (Lindl.) Lindl., Folia Orch. Oncidium: 40 (1855). O. carthagenense var. oerstedii (Rchb. f.) Lindl., O. carthagenense var. swartzii Lindl., Folia Orch. O. oerstedii Rchb. f. in Bonplandia 2: 91 (1854). O. henchmannii Lodd., Cat. Orch. ed.2: 1323 (1842). O. roseum Lodd., Cat. Orch. ed.2: 1382 (1842). O. huntianum Hook. in Bot. Mag. 67: t.3806 (1841). O. sanguineum Lindl., Sert. Orch.: t.27 (1838). Oncidium panduriferum Kunth, Nov. Gen. Sp. 1: 346 Epidendrum carthagenense Jacq., Enum. Pl. Carib.: Colombia, Cartagena, Jacquin s.n. (holo. BM). Akad. Stockh. Nya. Handl. 21: 240 (1800). Type: 3. Oncidium carthagenense (Jacq.) Sw. in K. Vet. wings are porrect and linear-oblong. are terete and fleshly-thickened and the column O. cebolleta (Jacq.) Sw. but differ in that the leaves Oncidiums. The plant and flower are very similar to Mexico to Honduras.
+- Florida, the West Indies, with a bilobed wing on each side. (Fig. 65K; Photo. umn pale mauve to white, short, up to 0.5 cm long, walnut-like, mauve, between the lateral lobes. Colculate, yellow with brown spots; callus tuberculate, with a short broad claw; lateral lobes small, aurilong and 0.9 cm wide; mid-lobe large coffee-brown, to 2 cm long and 1.2 cm wide. Lip 3-lobed, up to 2 cm strongly blotched with brown, with a narrow claw, up diameter. Sepals and petals similar, pale greenish Flowers not fragrant, numerous, up to 3.5 cm in arching, arrising from the base of the pseudobulb. flowered, much branched, often up to 2.5m long, 80:95 (1922). Nov. Beih. 10: 79 (1922). LINDL.!). monly accepted name. one to two weeks. tations. Fairly common. 106). 13.5 cm wide. Inflorescence paniculate, manyflushed or spotted with purple, up to 65 cm long and mule's ear, oblong, often bending over at the base, unifoliate. Leaves thickened, leathery, resembling a to 1.5 cm long, concealed by overlapping sheaths, Plant epiphytic, tall. Pseudobulbs small, obscure, up O. jacquinianum (Jacq.) Garay & Stacy in Bradea O. maculatum (Aubl.) Urb. in Fedde, Repert. Sp. Nov. O. wydleri Rchb. f. in Ber. Deutsch. Bot. Ges. 3: 276 O. guttatum Rchb. f. in Ann. Bot. Syst. 6: 782 luridum Lindl. in Bot. Reg. 9: t.727 E. crispum Lam., Encycl. 1: 186 (1783). Epidendrum altissimum Jacq., Enum Syst. Pl. 30 (holo. BM.). Not Jacq., Select. Stirp. Am. (1763). to, in Sloane, Hist. Jamaica 1: 250, t.148, f.1 (1707) bosa majus & elatius, delphinii flore furrgineo guttaJamaica, Sloane 177, based on 'Viscum radice bulAkad. Stockh. Nya. Handl. 21: 240 (1800). Type:
+
+#### Species: Oncidium altissimum
+*(Jacq.) Sw. in K. Vet.*
+
+**SUMMARY:**
+- . 7. O. sphacelatum Column-wings auriculate; sepals and petals gol.. 5. O. ensatum 6. Column-wings dolabriform; sepals and petals lateral lobes dark magenta-black. 6. O. lindenii Flowers with mid-lobe of lip golden yellow; 3. O. carthagenense 5. O. altissimum across the lateral lobes; flower brown-green 4. 6 pseudobulbs usually 2-leaves; bracts often promisides essentially parallel, usually much elongate; Leaves linear to narrowly lanceolate, with the iaceous; pseudobulbs usually 1-leaved .. with the sides distinctly rounded, not parallel, cor3. O. cebolleta mm long; column-wings subquadrate, spreading Lateral lobes of lip porrect or erect, more than 5.5 2. O. ascendens long; column-wings linear- oblong, falcate, probrown, magenta or lavender 1(40): 407 (1974). 15: 306 (1918). (1885). (1863). (1823). Oncidium (1760). den yellow chocolate-brown.. mid-lobe. nent jecting sheaths when young, up to 1.5 cm long. Pseudobulbs O. humboldtii Schltr. in Fedde, Repert. Spec. Nov. O. vittii Oppenheim in Engl., Pflanzenr. 2(50): 96 O. glaziovii Cogn. in Mart., Fl. Braz. 3(6): 440 O. sprucei Lindl., Folia Orch. Oncidium: 14 (1855). O. sepula Hoffmanns. in Bot. Zeit. 1: 833 (1843). O. brachyphyllum Lindl. in Bot. Reg. 28: sub.t. O. lingifolium Lindl. in Bot. Reg 27: Misc. 22
+
+**Flowers:**
+- Flowers pale yellow to white, blotched with redLip as wide across the lateral lobes as across the 1.
+
+**Lip:**
+- Lip much broader across the large mid-lobe than ..
+
+**Leaves:**
+- Leaves broadly elliptic, short or rarely elongate 4. Leaves thick, crowded, small, unifoliate, covered by papery Plant epiphytic, variable, often pendent.
+
+#### Species: Oncidium juncifolium
+*(L.) Lindl., Coll. Bot.: 27*
+
+**SUMMARY:**
+- Cymbidium juncifolium (L.) Willd., Sp. Pl. ed. 4: 102 Epidendrum juncifolium L., Sp. Pl. ed.2: 1351 Dendrobium cebolleta Jacq., Enum. Pl. Carib.: 30 designated as illustration associated with Select. Type: Colombia, Cartagena, Jacquin s.n. (holo. Amer. Hist. ed. icon arch. pict. 111, t.217 (1781). Stockh. Nya. Handl. 21: 240 (1800) and Select. Stirp.
+
+#### Species: Oncidium cebolleta
+*(Jacq.) Sw. in K. Vet. Akad.*
+
+**SUMMARY:**
+- carthagenense is one of the 'Mule Ear' orchids. mid-lobe lip equals the width across the side lobes. O. mum but the flowers are somewhat smaller and the
+
+**NOTE:**
+- S. This species is closely allied to O. altissi-
+
+**ETYMOLOGY:**
+- Named from Cartagena, in Colom-
+
+**FLOWERING SEASON:**
+- March to August. Flowers
+
+**HABITAT:**
+- On trees in damp forest and citrus plan-
+
+**DISTRIBUTION IN BELIZE:**
+- Orange Walk, Cayo and
+
+**GENERAL DISTRIBUTION:**
+- Florida, the West Indies, fleshy. Column short, up to 4 mm long, with 3 wings separated from side lobes by a broad claw; callus cm wide; side lobes with recurved margins; mid-lobe Lip 3-lobed, violin-shaped, up to 1.6 cm long and 1.4 similar to sepals, up to 1.2 cm long and 0.6 cm wide. cm long and 0.8 cm wide. Petals broadly clawed, notched at the apex, margins convoluted, up to 1.3 bia, where the type specimen was found. Stann Creek Districts. Uncommon. Mexico to northern South America. Regni. Veg. 23: 65 (1926). Stirp. cited above!). last about two weeks. at the apex. (Photo. 109). (1922). (1906). (1842). (1841). (1821). (1805). (1763). (1760). tations. red-brown or magenta. Sepals clawed, rounded or cm in diameter, pale yellow or white, blotched with by scarious sheath. Flowers showy, small, up to 2.5 many-flowered, up to 1.2m long; peduncle subtended spotted with purple. Inflorescence erect, paniculate, 35 cm long and 10cm wide, usually flushed or from the apex. Leaves elliptic, oblong, leathery, up to 2.5 cm long, concealed by scarious sheaths, 1-leafed Plant epiphytic, large. Pseudobulbs very small, up to de, Repert. Sp. Nov. Beih. 17: 85 (1922). O. oerstedi Rchb. f. var. crispiflorum Schltr. in FedO. kymatoides Kraenzl. in Engler, Pflanzenr., OnciO. carthagenense var. andreanum Cogn. in Mart. Fl. O. sanguineum var. roseum Regel, Ind. Sem. Hort. O. obsoletum A. Rich. & Gal. ex Lindl., Folia Orch. O. carthagenense var. klotzschii Lindl., Folia Orch. Folia Orch. Oncidium: 40 (1855). O. carthagenense var. sanguineum (Lindl.) Lindl., Folia Orch. Oncidium: 40 (1855). O. carthagenense var. oerstedii (Rchb. f.) Lindl., O. carthagenense var. swartzii Lindl., Folia Orch. O. oerstedii Rchb. f. in Bonplandia 2: 91 (1854). O. henchmannii Lodd., Cat. Orch. ed.2: 1323 (1842). O. roseum Lodd., Cat. Orch. ed.2: 1382 (1842). O. huntianum Hook. in Bot. Mag. 67: t.3806 (1841). O. sanguineum Lindl., Sert. Orch.: t.27 (1838).
+
+#### Species: Oncidium panduriferum
+*Kunth, Nov. Gen. Sp. 1: 346*
+
+**SUMMARY:**
+- Epidendrum carthagenense Jacq., Enum. Pl. Carib.: Colombia, Cartagena, Jacquin s.n. (holo. BM). Akad. Stockh. Nya. Handl. 21: 240 (1800). Type:
+
+#### Species: Oncidium carthagenense
+*(Jacq.) Sw. in K. Vet.*
+
+**SUMMARY:**
+- wings are porrect and linear-oblong. are terete and fleshly-thickened and the column O. cebolleta (Jacq.) Sw. but differ in that the leaves Oncidiums. The plant and flower are very similar to fleshy, deeply channelled, up to 30 cm long and 1.1 cm wide, tapering to a sharp point, dark green with purple spots. (Photo. 110).
+
+**NOTE:**
+- S. This is one of the "rat-tail' or 'onion-leaf" ing) in reference to the ascending growth habit of this
+
+**ETYMOLOGY:**
+- From the Latin ascendens (ascend- Derivation not known.
+
+**FLOWERING SEASON:**
+- January to May. Flowers last February. Flowers last about three weeks.
+
+**HABITAT:**
+- On trees in swamp, open mountain fordiinae 4, 50 : 112 (1922). Bras. 3(6): 411 (1906). Petrop.: 22 (1856). Oncidium: 41 (1855). Oncidium: 40 (1855) Oncidium: 40 (1855). (1816). 30 (1762). plant. one to two weeks. est and pasture. On trees in wet riverine forest.
 
 **Inflorescence:**
 - Inflorescence from base of pseudobulb, more or less erect, racemose, up to 16-flowered.
+
+**Flowers:**
+- Flowers not fragrant, clustered, small, on the upper third of the inflorescence, up to 2.5 cm long and 2 cm wide.
+
+**Sepals:**
+- Sepals and petals similar, curved forewards at the tip, greenish-yellow blotched with red-brown, margins yellow and undulate; sepals up to 1.4 cm long and 0.8 cm wide, spathulate; petals up to 1.3 cm long and 0.6 cm wide, oblong.
 
 **Lip:**
 - Lip 3-lobed, with the mid-lobe the largest, yellow spotted with red-brown, up to 2 cm long and 2.5 cm wide; callus between the side lobes, walnut-like with a prominent central ridge, white spotted with red-brown.
 
 **Column:**
 - Column short, stout, whitish with purple spots, two small wings at the apex, up to 5 mm long.
+
+**GENERAL DISTRIBUTION:**
+- The West Indies, Mexico to Paraguay.
+
+**DISTRIBUTION IN BELIZE:**
+- Cayo District (Mountain Pine Ridge Reserve). Very rare.
+
+#### Species: Oncidium ensatum
+*Lindl. in Bot. Reg. 28: Misc.*
+
+**SUMMARY:**
+- 17 (1842). Type: Guatemala, cult. Loddiges (holo. K, not located). Plant terrestrial, usually tall and graceful. Pseudobulbs in a small clump, flattened, up to 10 cm long and 4 cm wide, bifoliate, subtended by broad overlapping sheaths. (Photo. 111).
+
+**Leaves:**
+- Leaves erect, linear-ensiform, up to 90 cm long and 3.5 cm wide, yellow-green, keeled.
+
+**Inflorescence:**
+- Inflorescence from the base of the pseudobulb, enclosed in sheathing bracts, paniculate, up to 2.5 m tall with numerous widely spaced branches.
+
+**Flowers:**
+- Flowers slightly fragrant, numerous, small, up to 2.8 cm long and 2.2 cm wide.
+
+**Sepals:**
+- Sepals and petals similar, chocolate-brown, tipped and edged with greenishyellow and with occasional yellow spotting, somewhat reflexed with an undulate margin, up to 1.6 cm long and 7 mm wide.
+
+**Lip:**
+- Lip bright yellow, side lobes with a brown base, broadly violin-shaped, 3-lobed, up to 1.8 cm long and 1.3 cm wide, mid-lobe separated from side lobes by a broad isthmus; callus at the base of the lip, tuberculate, fleshy.
+
+**Column:**
+- Column short, fleshy, up to 5 mm long.
+
+**GENERAL DISTRIBUTION:**
+- Mexico to Honduras.
+
+**DISTRIBUTION IN BELIZE:**
+- Belize, Cayo (including the Mountain Pine Ridge Reserve) and Toledo Districts. Fairly common.
+
+**HABITAT:**
+- In open grassy areas (savanna), mountain and coastal pine ridge areas, often in dense grass associated with small bushes.
+
+**FLOWERING SEASON:**
+- December to May. Flowers last two to three weeks.
+
+**ETYMOLOGY:**
+- From the Latin ensatus (swordshaped) in reference to the sword-shaped leaves.
+
+**NOTE:**
+- This species is unique among Belizean Oncidiums in its obligate terrestrial habitat.
+
+#### Species: Oncidium lindenii
+*Brongn. in Lem., Hort. Univ.*
+
+**SUMMARY:**
+- 3: 372 (1842). Type: Mexico, Campeche, Linden s.n. (holo. BR). O. lindenii Lodd. ex Lindl., Sert. Orch.: sub.t.48, n.101 (1841) nom. illeg. Plant epiphytic, tall. Pseudobulbs small, often covered with scarious sheaths, unifoliate. (Photo. 112)
+
+**Leaves:**
+- Leaves thickened, ridgid, leathery, dark green and indistinctly spotted and blotched with purple, up to 30 cm long and 7 cm wide.
+
+**Inflorescence:**
+- Inflorescence arising from the base of the pseudobulb, up to 110 cm long, paniculate with one or more small branches, each with several flowers; peduncle slender and wiry.
+
+**Flowers:**
+- Flowers not fragrant, up to 2 cm in diameter.
+
+**Sepals:**
+- Sepals and petals similar, brown with a greenish-white patch at the base or spotted with brown on pale green.
+
+**Lip:**
+- Lip with a golden yellow base, side lobes glossy, very dark magenta appearing almost black.
+
+**Column:**
+- Column short, winged, up to 5 mm long.
+
+**GENERAL DISTRIBUTION:**
+- Mexico to Honduras.
+
+**DISTRIBUTION IN BELIZE:**
+- Cayo District. Rare.
+
+**HABITAT:**
+- On isolated trees and in riverine forest.
+
+**FLOWERING SEASON:**
+- March to June. Flowers last three to five weeks.
+
+**ETYMOLOGY:**
+- Named after Jean Linden (1817- 1898), a Luxemburg born botanical explorer, orchid collector, nurseryman at Ghent and founder of the Horticulture Internationale in Brussels, who found the type specimen.
+
+#### Species: Oncidium sphacelatum
+*Lindl., Sert. Orch.:*
+
+**SUMMARY:**
+- sub.t.48 (1841). Type: Mexico, Hartweg (holo. KLINDL.! but specimen lacking provenance). Plant epiphytic, in large clumps, often extremely large masses. Pseudobulbs flattened, somewhat ridged, up to 20 cm long and 5 cm wide, bearing either one, or more usually two, leaves. and callus, x 3; F: column and callus with anther cap, x 3; G: anther cap, 2 views, x 10; H: pollinia, x 10. Drawn by Susanna
+
+**Leaves:**
+- Leaves rigid, erect, up to 70 cm long and 5 cm wide, light green.
+
+**Inflorescence:**
+- Inflorescence from the base of the pseudobulb, paniculate, much branched and many-flowered, up to
 
 ---
 
@@ -1785,55 +3903,193 @@
 **GENERAL DISTRIBUTION:**
 - Mexico, Belize and 1.5 cm long. (Fig. 70; Photo. 117). concave lower surface, with a prominent foot, up to Column white above, yellow below, pubescent on the the apex; callus of 7-8 plates, densely pubescent. large, erect-incurved to touch the column, notched at
 
+#### Species: Elleanthus cynarocephalus
+*(Rchb.f.) Rchb.f. in*
+
+**SUMMARY:**
+- Walp. Ann. 6: 476 (1862). Type: Mexico, Sessé & Moçiño (holo. W!; iso. BM!). Evelyna cynarocephala Rchb. f. in Bonplandia 4: 216 (1856). Epidendrum capitatum Sessé & Moç., Fl. Mex., ed. 2: 202 (1894). 0000. Plant terrestrial, large, more or less erect, up to 1.7 m tall.
+
+**Stems:**
+- Stems partly concealed by sheaths, leafy almost throughout, up to 5 mm in diameter; stems and sheaths finely purple-spotted.
+
+**Leaves:**
+- Leaves lanceolate, plicate, prominently veined, long-acuminate, up to 24 cm long and 8 cm wide.
+
+**Inflorescence:**
+- Inflorescence a many-
+
 ---
 
 ### Genus: Sobralia Ruiz & Pav.
 *Source: page-149, page-150, page-151, page-152*
 
 **SUMMARY (uncertain):**
-- authors in treating them as conspecific. leaved) in reference to the leaf shape. forest between 50 and 900 m. Toledo Districts. Uncommon. co to Peru and Bolivia. Belize. hummingbirds. when in flower. Photo. 120). cate apex, with a transverse ridge about the middle, fan-shaped, toothed to minutely fringed at the trunup to 4 mm long and 1.3 mm wide. Inflores0.8 mm wide. (1830). Type: Peru, Haenke s.n. (holo. PRC). 3. Elleanthus linifolius Presl, Rel. Haenk.: 97 basis of its differently shaped lip and the basally but recently distinguished by Garay (1978) on the capitatus (Poepp. & Endl.) Rchb. f. by most authors E. cynarocephalus has been included under E Non-flowering plants closely resemble the more this mucilage and are pollinated by hummingbirds. flower buds. When mature the flowers push through copious jelly-like mucilage over the developing probably unique in the orchid family in producing 1. 2. . Lip less than 6 cm long, not bilobed at the apex. 3 3. 1. Sobralia decora Batem., Orch. Mex. & Guat.: t. 26 (1841). Type: Guatemala, Ure Skinner s.n. (holo. K-LINDL.! but specimen lacking provenance). Plant epiphytic or terrestrial, erect, up to 1.3 m tall. (Fig. 72; Photo. 121).
+- authors in treating them as conspecific. leaved) in reference to the leaf shape. forest between 50 and 900 m. Toledo Districts. Uncommon. co to Peru and Bolivia. Belize. hummingbirds. when in flower. Photo. 120). cate apex, with a transverse ridge about the middle, fan-shaped, toothed to minutely fringed at the trunup to 4 mm long and 1.3 mm wide. Inflores0.8 mm wide. (1830). Type: Peru, Haenke s.n. (holo. PRC). 3. Elleanthus linifolius Presl, Rel. Haenk.: 97 basis of its differently shaped lip and the basally but recently distinguished by Garay (1978) on the capitatus (Poepp. & Endl.) Rchb. f. by most authors E. cynarocephalus has been included under E Non-flowering plants closely resemble the more this mucilage and are pollinated by hummingbirds. flower buds. When mature the flowers push through copious jelly-like mucilage over the developing probably unique in the orchid family in producing 1. 2. . Lip less than 6 cm long, not bilobed at the apex. 3 3.
 
 **Flowers:**
-- Flowers last about four days. Flowers in a short spike, white, opening in lapping, brownish and papery when mature, up to 1 bent, up to 8 mm long; floral bracts distichous, overcence several-flowered, up to 2.3 cm long; peduncle the apex, up to 5.5 cm long and 3 mm wide. Flowers produced in succession, showy; pedicellate ovaries up to 4.5 cm long.
+- Flowers last about four days. Flowers in a short spike, white, opening in lapping, brownish and papery when mature, up to 1 bent, up to 8 mm long; floral bracts distichous, overcence several-flowered, up to 2.3 cm long; peduncle the apex, up to 5.5 cm long and 3 mm wide.
 
 **Lip:**
-- Lip more or less up to 1.7 cm wide. Lip more than 7cm long, deeply bilobed at the apex. Lip pale to dark rose-purple, marked with yellow and red within the tubular portion, with the apical margins irregularly undulate and divided, up to 5.8 cm long and 3 cm wide when spread; calli 2, white.
+- Lip more or less up to 1.7 cm wide. Lip more than 7cm long, deeply bilobed at the apex.
 
 **Petals:**
 - Petals narrowly spatula-shaped, about 1.3 mm wide; lateral sepals keeled, acuminate, the outer surface, up to 3.5 mm long; dorsal sepal long.
 
 **Sepals:**
-- Sepals concave, sparingly brown-pubescent on succession; ovaries brown-pubescent, up to 2.5 cm cm long. Sepals and petals pale mauve to almost white; sepals recurved at the apex, up to 6 cm long and 1.7 cm wide; petals up to 5.2 cm long and 1.8 cm wide.
+- Sepals concave, sparingly brown-pubescent on succession; ovaries brown-pubescent, up to 2.5 cm cm long.
 
 **Leaves:**
-- Leaves linear, unevenly 3-toothed at concealed by sheaths, leafy almost throughout, up to Stems numerous, in a dense tuft, somewhat flattened, Plant epiphytic, erect-spreading, up to 20 cm tall. Leaves lanceolate, long-acuminate, up to 24 cm long and 10 cm wide.
+- Leaves linear, unevenly 3-toothed at concealed by sheaths, leafy almost throughout, up to Stems numerous, in a dense tuft, somewhat flattened, Plant epiphytic, erect-spreading, up to 20 cm tall.
 
 **NOTE:**
 - S. E. cynarocephalus and allied species are
 
 **ETYMOLOGY:**
-- From the Greek cynarion (little dog, From the Latin fragrans (fragrant) in reference to the fragrant flowers. 3. Sobralia macrantha Lindl., Sert. Orch.: sub. t.29 (1836). Type: Mexico, Oaxaca, Count Karwinski (holo. K-LINDL.!). Plant terrestrial, large, erect, up to 1.8 m tall. Stem partly concealed by sheaths, leafy almost throughout, up to 6 mm in diameter. Leaves lanceolate, longacuminate, rigid, up to 35 cm long and 10 cm wide. Inflorescence terminal, several-flowered; peduncle short, enclosed in the sheath of the uppermost leaf; floral bracts large, overlapping. Flowers in a short raceme, produced in succession, large and very showy, faintly fragrant, variable in colour; pedicellate ovaries up to 3 cm long. Sepals and petals pale pinkish-mauve to rose purple or lavender, more or less recurved; sepals up to 10 cm long and 3.2 cm wide; petals with undulate marging above the middle, up to 9.5 cm long and 4 cm wide. Lip similar in colour to the petals above, white below, marked and veined with golden-yellow within the tubular portion, deeply bilobed at the apex, with the lobes and margins undulate, up to 11 cm long and 7 cm wide when spread; calli 2, white. Column club-shaped, white, often marked with yellow, up to 4 cm long. (Fig. 73F; Photo. 123, 124). From the Latin macranthus (large-
+- From the Greek cynarion (little dog,
 
 **FLOWERING SEASON:**
-- August and September. August to November. Flowers last only a day. Throughout the year. outcrops in open pine-ridge between 50 and 1000 m.
+- August and September.
 
 **HABITAT:**
-- In wet broad-leaved forest at about On trees in moist to wet broad-leaved forest between 50 and 500 m.
+- In wet broad-leaved forest at about
 
 **DISTRIBUTION IN BELIZE:**
-- Cayo District. Rare. Cayo (including the Mountain Pine Ridge Reserve), Stann Creek and Toledo Districts. Uncommon.
+- Cayo District. Rare.
 
 **GENERAL DISTRIBUTION:**
-- Mexico to Panama. the lower side, up to 7 mm long. (Fig. 71L; Photo. white. Column white, with a chin-like projection on up to 1.3 cm long and wide when spread; calli ovoid, wide. Lip subcircular, minutely fringed at the apex, Petals linear-oblong, up to 1.1 cm long and 2 mm wide; lateral sepals concave, joined at the base. 1.5 cm long. Sepals up to 1.2 cm long and 3.5 mm successive whorls; pedicellate ovaries white, up to to 7.5 cm long. Flowers rose-purple, opening in long-acuminate, the outer ones largest and sterile, up cm in diameter; floral bracts overlapping, green, flowered head with flowers set in mucilage, up to 5 common Sobralia decora Batem. puppy) and cephale (head). connate sepals. 950 m. 119). Belize to Venezuela.
+- Mexico to Panama. the lower side, up to 7 mm long. (Fig. 71L; Photo. white. Column white, with a chin-like projection on up to 1.3 cm long and wide when spread; calli ovoid, wide. Lip subcircular, minutely fringed at the apex, Petals linear-oblong, up to 1.1 cm long and 2 mm wide; lateral sepals concave, joined at the base. 1.5 cm long. Sepals up to 1.2 cm long and 3.5 mm successive whorls; pedicellate ovaries white, up to to 7.5 cm long. Flowers rose-purple, opening in long-acuminate, the outer ones largest and sterile, up cm in diameter; floral bracts overlapping, green, flowered head with flowers set in mucilage, up to 5 common Sobralia decora Batem. puppy) and cephale (head). connate sepals. 950 m. 119).
 
 **Stems:**
-- Stems flattened, 1- or 2-leaved Stems not flattened, more than 2-leaved. Stems and sheaths with numerous short black hairs; lip rose-purple Stems and sheaths without hairs; lip white and yellow. Stems partly concealed by sheaths, leafy above the base, occasionally branching, up to 5 mm in diameter; stems and sheaths with numerous short black hairs.
+- Stems flattened, 1- or 2-leaved Stems not flattened, more than 2-leaved. Stems and sheaths with numerous short black hairs; lip rose-purple Stems and sheaths without hairs; lip white and yellow .
+
+#### Species: Sobralia decora
+*Batem., Orch. Mex. & Guat.: t.*
+
+**SUMMARY:**
+- 26 (1841). Type: Guatemala, Ure Skinner s.n. (holo. K-LINDL.! but specimen lacking provenance). Plant epiphytic or terrestrial, erect, up to 1.3 m tall. (Fig. 72; Photo. 121).
+
+**Stems:**
+- Stems partly concealed by sheaths, leafy above the base, occasionally branching, up to 5 mm in diameter; stems and sheaths with numerous short black hairs.
+
+**Leaves:**
+- Leaves lanceolate, long-acuminate, up to 24 cm long and 10 cm wide.
 
 **Inflorescence:**
 - Inflorescence a very short terminal raceme, several-flowered, basally enclosed in the sheath, or sheaths, of the uppermost 1 or 2 leaves; floral bracts overlapping.
 
+**Flowers:**
+- Flowers produced in succession, showy; pedicellate ovaries up to 4.5 cm long.
+
+**Sepals:**
+- Sepals and petals pale mauve to almost white; sepals recurved at the apex, up to 6 cm long and 1.7 cm wide; petals up to 5.2 cm long and 1.8 cm wide.
+
+**Lip:**
+- Lip pale to dark rose-purple, marked with yellow and red within the tubular portion, with the apical margins irregularly undulate and divided, up to 5.8 cm long and 3 cm wide when spread; calli 2, white.
+
 **Column:**
 - Column club-shaped, white, up to 3.6 cm long.
+
+**GENERAL DISTRIBUTION:**
+- Mexico to Nicaragua.
+
+**DISTRIBUTION IN BELIZE:**
+- Cayo, Stann Creek and Toledo Districts. Fairly common.
+
+**HABITAT:**
+- On trees and logs in moist forest between 50 and 600m, occasionally terrestrial.
+
+**FLOWERING SEASON:**
+- June to December. Flowers last only a day.
+
+**ETYMOLOGY:**
+- From the Latin decorus (handsome, elegant) in reference to the appearance of the flower.
+
+#### Species: Sobralia fragrans
+*Lindl. in Gard. Chron. n.s.: 598*
+
+**SUMMARY:**
+- (1853). Type: Country of origin unknown, cult. R. Hanbury (holo. K-LINDL.!).
+
+#### Species: Sobralia eublepharis
+*Rchb. f. ex Kraenzl. in Fedde,*
+
+**SUMMARY:**
+- Repert. Sp. Nov. 26: 255, t.78 (1929). Plant epiphytic, erect-spreading, up to 35 cm tall. KEY TO SPECIES 2. S. fragrans ...2 3. S. macrantha 1. S. decora 4. S. mucronata Stem strongly flattened, rather weak, partly concealed by sheaths, 1- or 2-leaved about the middle. (Fig. 73; Photo. 122).
+
+**Leaves:**
+- Leaves narrowly elliptic, up to 20 cm long and 5 cm wide.
+
+**Inflorescence:**
+- Inflorescence a very short terminal raceme, up to 3-flowered, basally enclosed in the sheath of a terminal leaflet; floral bracts overlapping.
+
+**Flowers:**
+- Flowers produced in succession or 2 opening together, fragrant; pedicellate ovaries up to 2.5 cm long.
+
+**Sepals:**
+- Sepals and petals greenish-white, not spreading widely, up to 9 mm wide; sepals often tinged with pink, up to 4.5 cm long; petals up to 4.2 cm long.
+
+**Lip:**
+- Lip white, provided with several orange-yellow veins which are finely yellow-fringed above, with the apical margins reflexed and deeply fringed, up to 3.8 cm long and 1.8 cm wide when spread; calli 2, orange-yellow.
+
+**Column:**
+- Column club-shaped, white, up to 1.8 cm long.
+
+**GENERAL DISTRIBUTION:**
+- Belize to Venezuela.
+
+**DISTRIBUTION IN BELIZE:**
+- Cayo (including the Mountain Pine Ridge Reserve), Stann Creek and Toledo Districts. Uncommon.
+
+**HABITAT:**
+- On trees in moist to wet broad-leaved forest between 50 and 500 m.
+
+**FLOWERING SEASON:**
+- August to November. Flowers last only a day.
+
+**ETYMOLOGY:**
+- From the Latin fragrans (fragrant) in reference to the fragrant flowers.
+
+#### Species: Sobralia macrantha
+*Lindl., Sert. Orch.: sub. t.29*
+
+**SUMMARY:**
+- (1836). Type: Mexico, Oaxaca, Count Karwinski (holo. K-LINDL.!). Plant terrestrial, large, erect, up to 1.8 m tall. (Fig. 73F; Photo. 123, 124).
+
+**Stem:**
+- Stem partly concealed by sheaths, leafy almost throughout, up to 6 mm in diameter.
+
+**Leaves:**
+- Leaves lanceolate, longacuminate, rigid, up to 35 cm long and 10 cm wide.
+
+**Inflorescence:**
+- Inflorescence terminal, several-flowered; peduncle short, enclosed in the sheath of the uppermost leaf; floral bracts large, overlapping.
+
+**Flowers:**
+- Flowers in a short raceme, produced in succession, large and very showy, faintly fragrant, variable in colour; pedicellate ovaries up to 3 cm long.
+
+**Sepals:**
+- Sepals and petals pale pinkish-mauve to rose purple or lavender, more or less recurved; sepals up to 10 cm long and 3.2 cm wide; petals with undulate marging above the middle, up to 9.5 cm long and 4 cm wide.
+
+**Lip:**
+- Lip similar in colour to the petals above, white below, marked and veined with golden-yellow within the tubular portion, deeply bilobed at the apex, with the lobes and margins undulate, up to 11 cm long and 7 cm wide when spread; calli 2, white.
+
+**Column:**
+- Column club-shaped, white, often marked with yellow, up to 4 cm long.
+
+**ETYMOLOGY:**
+- From the Latin macranthus (large-
+
+**FLOWERING SEASON:**
+- Throughout the year. outcrops in open pine-ridge between 50 and 1000 m.
+
+#### Species: Sobralia mucronata
+*Ames & C. Schweinf.,*
+
+**SUMMARY:**
+- Sched. Orch. 8: 54 (1925). Type: Costa Rica, C. H. Lankester 746 (holo. AMES). Plant epiphytic, erect, up to 50 cm tall.
+
+**Stems:**
+- Stems partly
 
 ---
 
@@ -1890,7 +4146,7 @@
 *Source: page-156, page-157, page-158, page-159*
 
 **SUMMARY (uncertain):**
-- KEY TO SPECIES 4. B. nodosa var. grandiflora 1. B. acaulis 2. B. cucullata 3. B. nodosa fragrant at night; pedicellate ovaries slender, up to 5 long; peduncle up to 20 cm long. B. scaposa Schltr. in Orchis 13: 57 (1919). Brassavola nodosa var. rhopalorrhachis (Rchb. f.) Bletia nodosa (L.) Rchb. f. in Ann. Bot. Syst. 6: 437 B. rhopalorrhachis Rchb. f. in Bot. Zeit. 10 : 855 Brassavola venosa Lindl. in Bot. Reg. 26: t.39 Cymbidium nodosum (L.) Sw. in Nov. Act. Upps. 6: Epidendrum nodosum L., Sp. Pl. 2: 953 (1753). Pl.: 114 (1831). Type: based on Linn., Acta Soc. 3. Brassavola nodosa (L) Lindl. in Gen. Sp. Orch. common Oncidium ascendens when not flowering. Rhyncolaelia digbyana. L: lip, x ⅓. R. glauca: M: lip, x 3. Drawn by Beverley Mears from: A-K: the living collection at Kew; side, x 1; F: lip, x 3; G: column, × 6; H: anther cap from underneath, × 12;J: anther cap from above, x 12; K: pollinia, x 12.
+- KEY TO SPECIES 4. B. nodosa var. grandiflora 1. B. acaulis 2. B. cucullata 3. B. nodosa fragrant at night; pedicellate ovaries slender, up to 5 long; peduncle up to 20 cm long. B. scaposa Schltr. in Orchis 13: 57 (1919).
 
 **Flowers:**
 - Flowers strongly cm wide.
@@ -1903,6 +4159,60 @@
 
 **Stems:**
 - Stems 1-2 cm apart, somewhat Plant epiphytic, erect to spreading, up to 40 cm tall.
+
+#### Species: Brassavola nodosa
+*var. rhopalorrhachis (Rchb. f.)*
+
+**SUMMARY:**
+- Bletia nodosa (L.) Rchb. f. in Ann. Bot. Syst. 6: 437 B. rhopalorrhachis Rchb. f. in Bot. Zeit. 10 : 855
+
+#### Species: Brassavola venosa
+*Lindl. in Bot. Reg. 26: t.39*
+
+**SUMMARY:**
+- Cymbidium nodosum (L.) Sw. in Nov. Act. Upps. 6: Epidendrum nodosum L., Sp. Pl. 2: 953 (1753). Pl.: 114 (1831). Type: based on Linn., Acta Soc.
+
+#### Species: Brassavola nodosa
+*(L) Lindl. in Gen. Sp. Orch.*
+
+**SUMMARY:**
+- common Oncidium ascendens when not flowering.
+
+**NOTE:**
+- S. B cucullata resembles the much more
+
+**ETYMOLOGY:**
+- From the Latin cucullatus (hood-
+
+**FLOWERING SEASON:**
+- August to October. Flowers
+
+**HABITAT:**
+- On trees in moist to wet broad-leaved
+
+**DISTRIBUTION IN BELIZE:**
+- Cayo and Toledo Disco to Honduras, El Salvador, Venezuela and Colom-
+
+**GENERAL DISTRIBUTION:**
+- The West Indies, MexiColumn club-shaped, white, up to 1.8 cm long. (Fig. slender, resembling the petals in shape and colour. rounded, white, with fringed margins; mid-lobe and 2.4 cm wide across the lateral lobes; lateral lobes petals up to 4 mm wide. Lip 3-lobed, up to 8 cm long 11.5 cm long; sepals up to 8 mm wide near the base; on the outer surface and margins, attenuate, up to ing, creamy-white to yellowish, often tinged with red cm long. Sepals and petals linear-lanceolate, droopnight; pedicellate ovary swollen at the base, up to 25 terete, up to 1.5 cm long. Flowers showy, fragrant at 5 mm wide. Inflorescence 1-flowered; peduncle above, tapering to a sharp point, up to 36 cm long and Schltr. in Orchis 13: 77 (1919). (1861). (1852). (1840). 33 (1799). Regiae Sci. Ups.: 34 (1740). like. hooded). last two to three weeks. forest below 100 m. tricts. Rare. bia. 76; Photo. 128). linear, almost terete, dark green, deeply grooved diameter; sheaths brown, papery. Leaves narrowly clustered, few-jointed, up to 15 cm long and 3 mm in terete, Stem erect-ascending, slender, loosely Plant epiphytic, erect to hanging. Rhizome short.
+
+#### Species: Brassavola cucullata
+*var. elegans Schltr. in Orchis*
+
+**SUMMARY:**
+- Bletia cucullata (L.) Rchb. f. in Walp. Ann. Bot. Syst. B. odoratissima Regel in Gartenz. 1: 325, t.33 B. appendiculata A. Rich. & Gal. in Ann. Sci. Nat.
+
+#### Species: Brassavola cuspidata
+*Hook. in Bot. Mag. 66 : t.3722*
+
+**SUMMARY:**
+- Cymbidium cucullatum (L.) Sw. in Nov. Act. Upsal. Epidendrum cucullatum L., Sp. Pl. ed. 2: 1350 Cat. 9 (1703) & Icon. Burm. t.179, t.1 (1759). on Plumier's 'Helleborine floribus albis cucullatis' Kew. ed. 2, 5: 216 (1813). Type: West Indies, based
+
+#### Species: Brassavola cucullata
+*(L) R. Br. in Ait., Hort.*
+
+**SUMMARY:**
+- possible to verify the herbarium specimen. Hook. but without site record and it has not been Rhyncolaelia digbyana. L: lip, x ⅓. R. glauca: M: lip, x 3. Drawn by Beverley Mears from: A-K: the living collection at Kew; side, x 1; F: lip, x 3; G: column, × 6; H: anther cap from underneath, × 12;J: anther cap from above, x 12; K: pollinia, x 12.
 
 **NOTE:**
 - Reported by Jones (1974) as B. lineata
@@ -1997,49 +4307,775 @@
 *Source: page-165, page-166, page-167, page-168, page-169, page-170, page-171, page-172, page-173, page-174, page-175, page-176, page-177, page-178*
 
 **ETYMOLOGY:**
-- From Flowers last several weeks. Creek and Toledo Districts. Uncommon. co to northern South America. basally adnate to column, Holland (holo. GOET). lobes of the clinandrium. plantations. Photo. 133). t.3410 (1835). 259 (1818). apex. From the Latin alatus (winged) in From the Latin asperulus (little rough one) in reference to the strong wartiness of the rachis, pedicel and ovary and, being a diminutive, to the small size of the plant. From the Latin baculus (a staff, a Named after William Beattie Booth From the Greek chloro (yellowishgreen) and leuco (white) in reference to the flower colour. From the Latin cochleatus (coiled Named after Stirling Dickinson, an orchid collector and grower from Mexico and a friend of Withner. Named from Guatemala, the coun- From the Greek neurum (a nerve or fibre) in reference to the purple veins on the lip. 20. Encyclia polybulbon (Sw.) Dressler in Brittonia 13: 264 (1961). Type: Jamaica, Swartz s.n. (holo. UPS). Epidendrum polybulbon Sw., Prodr. Veg. Ind. Occ.: 124 (1788). Bulbophyllum occidentale Spreng., Syst. Veg. 3: 732 (1826). Dinema polybulbon (Sw.) Lindl., Gen. Sp. Orch. Pl. : 111 (1831). Epidendrum polybulbon var. luteo-album Miethe in Orchis 8: 33, t.1 (1914). Plant epiphytic, dwarf, low-growing with a creeping rhizome. Pseudobulbs ovoid, 2-3 cm apart on the rhizome, pale yellowish-green, up to 2 cm long and 2 mm in diameter at the widest point, normally two apical leaves. Leaves elliptic-lanceolate, dark green, up to 3 cm long and 1 cm wide. Inflorescence 1- From the Greek poly (many) and From the Latin radiatus (radiating outwards).
+- From Flowers last several weeks. Creek and Toledo Districts. Uncommon. co to northern South America. basally adnate to column, Holland (holo. GOET). lobes of the clinandrium. plantations. Photo. 133). t.3410 (1835). 259 (1818). apex.
 
 **SUMMARY (uncertain):**
-- fleshily thickened at the apex Sepals and petals without blotches. Pseudobulbs clustered. flowered .... Pseudobulbs spaced along a creeping rhizome. . 20. E. polybulbon 10. Pseudobulbs spaced along a creeping rhizome, stalked Pseudobulbs clustered, not stalked 11. Plant terrestrial. Lateral lobes of lip upcurved but not in contact with the column Plant commonly epiphytic. Lateral lobes of lip clasping the column, at least basally 12. Mid-lobe of lip appearing pink, more or less notched at the apex Mid-lobe of lip white to yellow or pale green, more or less purple-veined, rounded to acute at the apex• 13. 14. Lateral lobes of lip more than 8 mm long; midlobe with warty veins Lateral lobes of lip less than 8 mm long; mid-lobe with smooth veins 15. 7. E. belizensis subsp. belizensis Lip more than 1.8 cm long; mid-lobe edged with golden-yellow 16. Lateral lobes of lip broadest near the apex; column-wings wider than long ... Lateral lobes of lip constricted at base, broadest near base or the same width throughout; columnwings longer than wide.... 17. 19 8. E boothiana subsp. boothiana Inflorescence many• 15. E. distantiflora 17. E livida 18. E. michuacana 9. E. bractescens 13. E. cordigera 2. E. alata. 4. E. ambigua. 14 18. Ovary verrucose; lip white ... 5. E. asperula Ovary smooth; lip light yellow. . 3. E. amanda 19. Lateral lobes of lip with purple spots Lateral lobes of lip without purple spots 21. Ovary smooth Ovary warty 22. Encyclia adenocarpon (Llave & Lex.) Schltr., Die Orchideen: 207 (1914). Type: Mexico, Michoacán, La Llave (no type specimen known). Epidendrum adenocarpon Llave & Lex., Nov. Veg. Descr. Orch. Opusc.: 24 (1825). E papillosum Batem. in Bot. Reg. 24: Misc.7 (1838). E. adenocarpon var. rosei Ames, Hubb. & Schweinf. in Bot. Mus. Leafl. 3: 61 (1935). Plant epiphytic. Pseudobulbs clustered, conicalovoid, up to 8 mm long and 4.5 cm wide. and 3 mm wide. to 6 cm long. Pseudobulbs Epidendrum amandum Ames, Sched. Orchid. 4: 36 21 (7): 440 (1971). Type: Panama, C.W. Powell 271 3. Encyclia amanda (Ames) Dressler in Phytologia zensis. The third may be Encyclia dickensoniana. Epidendrum alatum, shows a plant of Encyclia belijus'. The second,which is illustrated and captioned described under the name Epidendrum alatum 'mawas under Epidendrum alatum. This species Halcrow & Halcrow (1967) described three species and 4 mm wide. Epidendrum boothianum Lindl. in Bot. Reg. 24: flowered by Sir Charles Lemon (holo. K-LINDL.!). 13: 264 (1961). Type: Cuba, Capt. Sutton s.n., 8. Encyclia boothiana (Lindl.) Dressler in Brittonia allied E. alata and included within that species by spreading to recurved above, up to 1.8 cm long and 8 wide; lateral sepals concave; petals erect at base, below the middle; sepals up to 2 cm long and 8 mm Sepals and petals pale green, with recurved margins heavily fragrant; pedicellate ovaries about 2 cm long. peduncle up to 6 cm long. Infloresby papery sheaths when young. Pseudobulbs loosely clustered, ovoid Plant epiphytic, erect-spreading, up to 30 cm tall. E. madrense Schltr. in Beih. Bot. Centralbl. 36(2): E. pachycarpum Schltr. in Fedde, Repert. Sp. Nov. 3: E. ionophlebium Rchb. f., Beitr. Orch. Centr.-Am.: Epidendrum chacaoense Rchb. f. in Bonplandia 2:20 Venezuela, Wagener s.n. (holo. W!). G. E. Pollard in Phytologia, 21(7): 436 (1971). Type: 10. Encyclia chacaoensis (Rchb. f.) Dressler & escens (not fully achieved or developed). mm wide above the middle. (Fig. 82G; Photo. 141). E. baculus. F: lip, x 2. E. chacaoensis. G: lip, x 2. E. neurosa. H: lip, × 2. E. radiata. J: lip, × 2. Drawn by Beverley Mears like a snail's shell) in reference to the shape of the 13. Encyclia cordigera (Kunth) Dressler in Taxon. 13: 247 (1964). Type: Venezuela, Bonpland s.n. (holo. P). Cymbidium cordigerum Kunth, Nov. Gen. Sp. 1: 341, (1815). Epidendrum macrochilum Hook. in Bot. Mag. 63: t. 3534 (1836). E macroclinum var. roseum Batem., Orch. Méx. & Guatem. t.17 (1839). Encyclia atropurpurea var. rhodoglossa Schltr. in Fedde, Repert. Sp. Nov. Beih. 17:45 (1922). Epidendrum atropurpurea var. laciniatum Ames, Hubb. & Schweinf. in Bot. Mus. Leafl. 3: 63 (1935). Encyclia doeringii Hoehne, Arq. Bot. Est. S. Paulo 2(2): 24, t.11 (1946). Plant epiphytic, up to 70 cm tall. Pseudobulbs clustered, ovoid, up to 6 cm long and 4 cm broad, more or less naked and shiny when young. (Photo. 144). to 10.5 mm long. PseudoE. dasytaenia Schltr. in Fedde, Repert. Sp. Nov. Beih. E. deamii Schltr. in Beih. Bot. Centralb. 36 (2): 402 E. henrici Schltr. in Fedde, Repert. Sp. Nov. Beih. 3: E condylochilum Lehm. & Kraenzl. in Engl., Bot. E. articulatum Klotzsch in Alleg. Gartenz. 6: 297 Batem. ex Lindl. in Bot. Reg. 24: Epidendrum lividum Lindl. in Bot. Reg. 24: Misc. 51 264 (1961). Type: Colombia, Loddiges s.n. (holo. 17. Encyclia livida (Lindl.) Dressler in Brittonia 13: up to 5.5 mm long. (Fig. 81G; Photo. 148). cm, enclosed in fibrous-scarious sheaths when clustered, pyriform. 2- or 3- leaved, about 3.5 x 2.5 Plant epiphytic, up to 80 cm tall. Pseudobulbs Kew Bull., 40(3): 638 (1985). Type: Belize, Cayo 21. Encyclia porrecta B.R.Adams & P.J.Cribb in bulbon (bulb) in reference to the many small bulbs. young. (Fig. 81M; Photo. 151).
+- fleshily thickened at the apex Sepals and petals without blotches. Pseudobulbs clustered. flowered .... Pseudobulbs spaced along a creeping rhizome. . 20. E. polybulbon 10. Pseudobulbs spaced along a creeping rhizome, stalked Pseudobulbs clustered, not stalked 11. Plant terrestrial. Lateral lobes of lip upcurved but not in contact with the column Plant commonly epiphytic. Lateral lobes of lip clasping the column, at least basally 12. Mid-lobe of lip appearing pink, more or less notched at the apex Mid-lobe of lip white to yellow or pale green, more or less purple-veined, rounded to acute at the apex• 13. 14. Lateral lobes of lip more than 8 mm long; midlobe with warty veins Lateral lobes of lip less than 8 mm long; mid-lobe with smooth veins 15. 7. E. belizensis subsp. belizensis Lip more than 1.8 cm long; mid-lobe edged with golden-yellow 16. Lateral lobes of lip broadest near the apex; column-wings wider than long ... Lateral lobes of lip constricted at base, broadest near base or the same width throughout; columnwings longer than wide.... 17. 19 8. E boothiana subsp. boothiana Inflorescence many• 15. E. distantiflora 17. E livida 18. E. michuacana 9. E. bractescens 13. E. cordigera 2. E. alata. 4. E. ambigua. 14 18. Ovary verrucose; lip white ... 5. E. asperula Ovary smooth; lip light yellow. . 3. E. amanda 19. Lateral lobes of lip with purple spots Lateral lobes of lip without purple spots 21. Ovary smooth Ovary warty 22.
 
 **Lip:**
-- Lip not thickened at the apex 8. Lip simple Lip distinctly 3-lobed 9. Lip less than 1.8 cm long; mid lobe without a yellow edge. Lip up to 10 mm long; petals porrect Lip 14 to 16 mm long; petals not porrect 1. Lip adnate to basal third of column, 3-lobed, up to 16 mm long; lateral lobes oblique-triangular, up to 7 mm long and 2 mm wide; mid-lobe suborbicular, undulate, up to 7 mm long and 9 mm wide; callus large, obovate-oblong, sulcate. Lip 3-lobed, almost free from the column, up to 11 mm long, lateral lobes appressed to side of the column; disc thickened between lateral lobes. Lip uppermost in the flower, joined to the base of the column, broadly ovate, white with purple veins, concave, with a short point, up to 1.7 cm long and 1.6 cm wide when spread; callus rectangular, pubescent. Lip cream to pale purple with three darker purple lines; lateral lobes fold up and over the column, up to 15 mm long and 6 mm wide; mid-lobe suborbicular, veined, up to 32 mm long and 34 mm wide; callus elliptic. Lip weakly 3-lobed, cream to mm wide; petals oblong-oblanceolate, up to 10 mm on the inside; sepals oblong, up to 11 mm long and 5 subsimilar, greenish-yellow on the outside and brown non-resupinate, 1.5 cm in diameter. Lip basally adnate to the column, 3-lobed, up to 10 mm long; lateral lobes oblong, clasping the column, white above, purple below, up to 5.5 x 2.3 mm; mid-lobe suborbicular with lateral margins upcurved, white marked with purple on about 12 raised veins in the centre, undulate margins, up to 5 mm long and 6 mm wide when spread; callus of four ridges.
+- Lip not thickened at the apex 8. Lip simple Lip distinctly 3-lobed 9. Lip less than 1.8 cm long; mid lobe without a yellow edge. Lip up to 10 mm long; petals porrect Lip 14 to 16 mm long; petals not porrect
 
 **Inflorescence:**
-- Inflorescence 1-flowered.. Inflorescence simple, 2- to 6-flowered Leaves more than 9 mm wide. Inflorescence branched, several- to many- flowered..... Inflorescence 2- to 4-flowered, up tapering, up to 15 cm long and 1 cm wide; peduncle from the summit of the pseudobulb, ligulate, leathery, caespitose, pyriform, up to 2 cm long. Inflorescence mose, with up to 12 large showy flowers, up to 60 cm long. Inflorescence apically from the pseudothe pseudobulb, broad-linear, up to 22 cm long and 2 top of the primary one. Inflorescence erect, loosely paniculate, manyflowered, up to 80 cm long; peduncle provided with many sheathing bracts.
+- Inflorescence 1-flowered.. Inflorescence simple, 2- to 6-flowered Leaves more than 9 mm wide. Inflorescence branched, several- to many- flowered.....
 
 **Leaves:**
-- Leaves less than 7 mm wide. Leaves less than 9 mm wide. Leaves linear-ligulate, 2 to 3 per pseudobulb, up to 45 cm long and 19mm wide.Inflorescence simple or branched, up to 40 flowers. Leaves 1 to 2 Plant epiphytic. Leaves narrowly leaved, up to 10 cm long and 3 cm wide, subtended to fusiform, somewhat flattened, grey-green, 2- Rhizome short. Leaves 1 to 3, from the pseudobulb, up to 30 cm long and 3 cm broad, strap-shaped, leathery. Leaves 2 to 3 apically from wide; occasionally a small secondary pseudobulb on segmented rhizome, up to 7 cm long and 2.5 cm bulbs flattened, stalked, up to 3.5 cm apart on a Plant epiphytic, creeping, up to 30 cm tall. Leaves linear-lanceolate to linear, rigid, coriaceous, dark green, up to 21 cm long and 2.7 cm wide.
+- Leaves less than 7 mm wide. Leaves less than 9 mm wide.
 
 **Column:**
-- Column with a triangular wing on each side near the apex Leaves more than 1.5 cm wide. Column wingless. Column clavate, up to 10 mm long, winged. Column up to 7 mm long with two conspicuous incurved, subquadrate, obtuse wings or auricles. Column rather stout, pale green, up to 12 mm long. Column wingless, up to 17 mm long. Column stout, mid-tooth truncate, on mid-lobe consisting of three verrucose ridges, up yellowish, lateral lobes with red-brown veins; callus long and 4 mm wide. Column slightly bowed, winged, green edged with white, up to 4.5 mm long; wings subquadrate, incurved.
+- Column with a triangular wing on each side near the apex Leaves more than 1.5 cm wide. Column wingless.
 
 **Sepals:**
-- Sepals more than 5mm wide, suffused with purple brown Sepals less than 5 mm wide, green to yellowgreen 20. Sepals oblanceolate, obtuse, up to 20 mm long and 4.5 mm wide. Sepals and petals similar, green overlayed with reddish-brown; sepals up to 35 mm long and 11 mm wide; petals up to 33 mm long and 11 mm wide. Sepals and petals bulb, up to 10 cm long, several-flowered. Sepals spreading, elliptic-lanceolate, olive-green, dorsally somewhat suffused with purple, up to 11 mm long and 3 mm wide.
+- Sepals more than 5mm wide, suffused with purple brown Sepals less than 5 mm wide, green to yellowgreen 20.
+
+#### Species: Encyclia adenocarpon
+*(Llave & Lex.) Schltr.,*
+
+**SUMMARY:**
+- Die Orchideen: 207 (1914). Type: Mexico, Michoacán, La Llave (no type specimen known). Epidendrum adenocarpon Llave & Lex., Nov. Veg. Descr. Orch. Opusc.: 24 (1825). E papillosum Batem. in Bot. Reg. 24: Misc.7 (1838). E. adenocarpon var. rosei Ames, Hubb. & Schweinf. in Bot. Mus. Leafl. 3: 61 (1935). Plant epiphytic. Pseudobulbs clustered, conicalovoid, up to 8 mm long and 4.5 cm wide. and 3 mm wide. to 6 cm long. Pseudobulbs Epidendrum amandum Ames, Sched. Orchid. 4: 36 21 (7): 440 (1971). Type: Panama, C.W. Powell 271
+
+**Leaves:**
+- Leaves linear-ligulate, 2 to 3 per pseudobulb, up to 45 cm long and 19mm wide.Inflorescence simple or branched, up to 40 flowers. Leaves 1 to 2 Plant epiphytic.
 
 **Flowers:**
-- Flowers with light green to yellowish-green sepals and petals, streaked with brown or red-brown, lip cream to yellow with purple veins in centre of mid-lobe; pedicel and ovary warty. Flowers about 2 cm apart, olive green, up to 15 cm long. Flowers in a short raceme, cence 2- to several-flowered, up to 10 cm long; elliptic, up to 28 cm long and 3.5 cm wide. Flowers fragrant, up to 7 cm from the tip of the dorsal sepal to the tip of the lip. Flowers cm wide. Flowers faintly fragrant; pedicel and ovary somewhat verrucose.
+- Flowers with light green to yellowish-green sepals and petals, streaked with brown or red-brown, lip cream to yellow with purple veins in centre of mid-lobe; pedicel and ovary warty. Flowers about 2 cm apart, olive green, up to 15 cm long.
+
+**Sepals:**
+- Sepals oblanceolate, obtuse, up to 20 mm long and 4.5 mm wide.
 
 **Petals:**
-- Petals spatulate-oblanceolate, obtuse, up to 19 mm long and 4 mm wide. Petals spatulate, up to 11 mm long 4 mm wide; dorsal sepal obtuse, up to 11 mm long Lateral sepals oblong-elliptic, up to 11 mm long and lip light yellow with purple stripes; ovary smooth. Petals porrect, oblanceolate, green with more or less undulate margins, up to 11 mm long and 4 mm wide.
+- Petals spatulate-oblanceolate, obtuse, up to 19 mm long and 4 mm wide. Petals spatulate, up to 11 mm long 4 mm wide; dorsal sepal obtuse, up to 11 mm long Lateral sepals oblong-elliptic, up to 11 mm long and lip light yellow with purple stripes; ovary smooth.
+
+**Lip:**
+- Lip adnate to basal third of column, 3-lobed, up to 16 mm long; lateral lobes oblique-triangular, up to 7 mm long and 2 mm wide; mid-lobe suborbicular, undulate, up to 7 mm long and 9 mm wide; callus large, obovate-oblong, sulcate.
+
+**Column:**
+- Column clavate, up to 10 mm long, winged.
 
 **GENERAL DISTRIBUTION:**
-- Mexico to Nicaragua. Mexico to Costa Rica. side near the apex, up to 12 mm long. (Fig. 84K; pale yellow, with an oblong incurved wing on each kled with purple. Column stout, greenish-white or ridges enclosing an obovate concavity, white, specwith undulate margins, up to 1.8 cm wide; callus of 4 purple along the veins which are raised and warty, greenish, edged with golden yellow,marked with 1.4 cm long; mid-lobe subcircular, pale yellow or pale yellow, purple-veined below the middle, up to clasping the column, more or less spreading above, reference to the winged column. forest between 50 and 600 m. Toledo Districts. Uncommon. last about three weeks. (1923). (holo. AMES). Photo. 134). 140. E. bractescens 139. E. boothiana subsp. boothiana 138. E. belizensis subsp. belizensis (habitat) 137. E. belizensis subsp. belizensis 136. E. baculus Mexico and Belize. Mexico to Nicaragua, central groove. Column stout, pale greenish, up to 10 1.8 cm wide when spread; callus oblong, with a lobes embracing the column, up to 2.6 cm long and acuminate, prominently lobed at the base with the triangular-ovate, white with purple veins, concave, flower, joined to the lower half of the column, 3.8 cm long and 1 cm wide. Lip uppermost in the sepals up to 4.3 cm long and 1.1 cm wide; petals up to at the tip, with reflexed margins below the middle; Sepals and petals greenish-white to cream, recurved fragrant, pedicellate ovaries rough, up to 2 cm long. to 4.5 cm long, enclosed in 2-3 large sheaths. Flowers sometimes 1- flowered, up to 9 cm long; peduncle up 2.7 cm wide. Inflorescence commonly 2-flowered, Leaves linear-elliptic, leathery, up to 25 cm long and by sheaths when young; sheaths red-brown, rough. leaved, up to 30 cm long and 1.2 cm wide, subtended apart, narrowly fusiform, somewhat flattened, 2- Rhizome stout, creeping. Pseudobulbs 1.5 to 2.5 cm Plant epiphytic, more or less erect, up to 45 cm tall. E. beyrodtianum Schltr. in Orchis 9: 49, t.4 (1915). E. acuminatum Sessé & Moç., Fl. Mex. ed. 2: 202 E. pentotis Rchb. f. in Linnaea 41: 81 (1876). E. fragrans Sw. var. megalanthum Lindl. in Journ. Epidendrum baculus Rchb.f. in Bonplandia 4: 214 bly Sessé & Moçiño in Pavón, herb. Boissier (holo. 152 (1850), non Hoffmans (1842).* Sci. Nat. Bot. 4(6): 374 (1856). forest between 600 and 750 m. mm long. (Fig. 82F; Photo. 136). Hort. Soc. London 4: 223 (1849). slender pseudobulbs. last about three weeks. Colombia and Brazil. (holo. W!). stick). tricts. Rare. (1894). (1856). G). Southern Florida, Cuba, blotched with purple at the base, up to 5.5 mm long. umn arcuate, greenish, tipped with pale yellow, toothed at the apex, grooved below the middle. Collobe fleshy-thickened; callus oblanceolate, white, 3- when spread; lateral lobes deflexed, triangular; midgreenish-yellow, up to 9 mm long and 7 mm wide third of the column, obscurely 3-lobed, pale 1.2 cm long and 4.5 mm wide. Lip joined to the lower blotches, with more or less recurved margins, up to Sepals and petals greenish-yellow with brown cuously 3-winged capsules before the flowers fade. about 1.5 cm long, often developing into conspiFlowers in a raceme; pedicellate ovaries slender, flattened, up to 6 cm long; peduncle up to 8 cm long. nent sheath, few-flowered, up to 18 cm long; sheath long and 1.7 cm wide. Inflorescence from a prominarrowly elliptic to oblanceolate, glossy, up to 13 cm subtended by sheaths when young. Leaves recurved, flattened, 2- or 3-leaved, up to 3 cm long and wide, Pseudobulbs clustered, ovoid to subcircular, strongly Plant epiphytic, more or less erect, up to 22 cm tall. (1851). 46 (1841). Misc. 58 (1840). Hartweg s.n. (holo. K-LINDL.!). account of the coin- shaped pseudobulbs. tion Lindley based his report. last about three weeks. and shrub below 100 m. and Cayo Districts. Uncommon. Belize and Guyana. Belize to Nicaragua. Mexico to El Salvador. try of origin of the type specimen. 8:71 (1921). (1918). 108 (1906). Jahrb. 26: 459 (1918). (1838) Misc.7 (1938). E. tesselatum (1838). К!). two to three weeks. tricts. Uncommon. 152. E. pygmaea 151. E. porrecta 150. E polybulbon 149. E. neurosa 148. E. livida 147. E. guatemalensis Mexico to Honduras, and Costa Rica. Mexico to Costa Rica, and Venezuela.
+- Mexico to Nicaragua.
+
+**Inflorescence:**
+- Inflorescence 2- to 4-flowered, up tapering, up to 15 cm long and 1 cm wide; peduncle from the summit of the pseudobulb, ligulate, leathery, caespitose, pyriform, up to 2 cm long.
 
 **Roots:**
 - Roots coarse, whitish.
 
+#### Species: Encyclia amanda
+*(Ames) Dressler in Phytologia*
+
+**SUMMARY:**
+- zensis. The third may be Encyclia dickensoniana. Epidendrum alatum, shows a plant of Encyclia belijus'. The second,which is illustrated and captioned described under the name Epidendrum alatum 'mawas under Epidendrum alatum. This species Halcrow & Halcrow (1967) described three species
+
 **NOTE:**
-- S. An attractive large-flowered species. Described as recently as 1973 and only previously recorded from Chiapas in Mexico. 6. Encyclia baculus (Rchb.f.) Dressler & Pollard in Phytologia 21(7): 436 (1971). Type: Mexico, proba- E. baculus is easily recognised by the long, Commonly known as the 'Dollar' orchid on (1804-1879) an English botanist from whose descrip- S. The plants we found resembled E. belizensis with flowers similar to those of E asperula. Running them through Dressler and Pollard's key, we consistently arrived at E. ceratistes (Lindl.) Schltr., butthe flowers are small for that species and the column-wings well developed rather than rudimentary and tooth-like. Of all the material we have seen, they appear nearest to the type of E. chloroleuca and we believe they can be referred to that species, despite the fact that it is otherwise only known from northeastern South America. 12. Encyclia cochleata (L) Lemée in Flore de la Guyane Francaise, 1: 418 (1955). Type: based on Plumier's 'Helleborine cochleato flore' in Pl. Am. Gen.: t.185 (1703)!. Epidendrum cochleatum L., Sp. Pl. ed. 2: 1351 (1763). Anacheilium cochleatum (L.) Hoffmg., Verz. Orch.: 21 (1842). Epidendrum cochleatum var. triandrum Ames, Contrib. Ames Bot. Lab. 1: 16 (1904). E. cochleatum var. costaricense Schltr. in Fedde, Repert. Sp. Nov. Beih. 19: 118 (1923). Plant epiphytic, erect-spreading, up to 50 cm tall. Rhizome short clustered, ovoid to pear-shaped or fusiform, somewhat stalked, flattened, 2- or 3-leaved, up to 20 cm long and 5cm wide, subtended by papery sheaths when young. Leaves lanceolate to linear-elliptic, up to 42 cm long and 5.5 cm wide. Inflorescence from a prominent sheath, simple or occasionally branched, few to many-flowered, up to 45 cm long; sheath flattened, up to 12 cm long; peduncle up to 21 cm long. Flowers faintly fragrant; pedicellate ovaries up to 3.2 cm long. Sepals and petals reflexed, pale green to yellowish-green. twisted, somewhat thickened at the acute apex, more or less purple-spotted near the base; sepals up to 5.5 cm long and 8 mm wide; petals up to 4 cm long. Lip uppermost in the flower, up to 21 mm long and 26 mm wide, shaped like a cockleshell (cochleate); dark purple with a whitish base and dark purple veins; on the tip of the lip the dark purple is overlayed with yellow, particularly on the veins. Column up to 9 mm long, stout, broadest near the middle; and stout. Pseudobulbs loosely S. This species has been separated from E. guatemalensis by Hamer (1985) on the basis of a lip that is longer than broad. Catling & Catling (1988) have recorded E. dickinsoniana from Cayo District (Mountain Pine Ridge Reserve). 15. Encyclia distantiflora (A Rich. & Gal.) Dressler & Pollard in Phytologia 21(7): 437 (1971). Type: Mexico, Galeotti 5250 (holo. W!) fide Dressler & Pollard (1974). Epidendrum distantiflorum A. Rich. & Gal. in Ann. Sc. Nat. ser. 3(3): 22 (1845). Plant epiphytic. Pseudobulbs clustered, rounded, covered with successive papery sheaths when young, up to 4 cm long and 3 cm wide with circular scars left as the sheaths fall off. Leaves 2 to 3 from the top of the pseudobulb, up to 20 cm long and 1.1 cm wide. Inflorescence terminal, up to 55 cm long, branched When not in flower E. Pygmaea may be confused with E polybulbon which, however, is a smaller plant and occurs in dryer environments. 23. Encyclia radiata (Lindl.) Dressler in Brittonia 4: 214 (1856). Type: Mexico, cult. Loddiges (holo. К.). Epidendrum radiatum Lindl. in Bot. Reg. 27: Misc. 58 (1841). Plant epiphytic, low growing, creeping. Rhizome bearing erect pseudobulbs 2.5 cm apart. Pseudobulbs ellipsoid, ribbed and flattened, 2- to 3-leaves, up to 16 cm long and 4 cm wide. Leaves lanceolate-elliptic, acute, up to 30 cm long and 2.8 cm wide. Inflorescence apically from the pseudobulb, 2- to 8-flowers together in a cluster, up to 20 cm long. Flowers 3 cm in diameter, strongly fragrant, non-resupinate; flowers yellow with age. Sepals and petals subsimilar, pale green, up to 20 mm long; sepals up to 7 mm wide; petals up to 1 mm wide. Lip triangularreniform, concave, whitish to pale yellow and veined with purple, up to 13 mm long and 20 mm wide; callus quadrate, smooth. Column stout with a fanshaped ligule, up to 10 mm long. (Fig. 82J; Photo. 153).
+- S. An attractive large-flowered species.
+
+**ETYMOLOGY:**
+- From the Latin alatus (winged) in
 
 **FLOWERING SEASON:**
-- December to July. Flowers January to March. Flowers last about three weeks. March and April. Flowers August to October. Flowers November to February. Plowers last up to a month. Intermittent throughout the February and March. May and June. Flowers last January and February. Flowers last two to three weeks. July to November. Flowers Intermittent throughout the year. Flowers last several weeks.
+- December to July. Flowers
 
 **HABITAT:**
-- On trees in moist to wet broad-leaved On trees in moist broad-leaved forest between 550 and 650 m. On trees in moist to wet broad-leaved On trees and shrubs in rather dry forest Belize On trees in moist forest and citrus plantations between 100 and 1000 m. On trees in low montane forest. On trees in open forest up to 700 m. Mountain Pine Ridge Reserve) and Stann Creek Dis- On trees in moist forest up to 1,200 m. On trees and fallen logs in open moist Usually on oaks in broken forest.
+- On trees in moist to wet broad-leaved
 
 **DISTRIBUTION IN BELIZE:**
-- Orange Walk, Cayo and Cayo District. Rare. Cayo and Toledo Dis- Orange Walk, the West Indies, Mexico and Belize. (Fig. 83L; Photo. 139). subsp. boothiana Cayo and Stann Creek Districts. Uncommon. Cayo District. Uncommon. Cayo (including the Cayo and Toledo Districts. Uncommon. Cayo (including the Mountain Pine Ridge Reserve) and Stann Creek Districts. Uncommon.
+- Orange Walk, Cayo and
+
+**GENERAL DISTRIBUTION:**
+- Mexico to Costa Rica. side near the apex, up to 12 mm long. (Fig. 84K; pale yellow, with an oblong incurved wing on each kled with purple. Column stout, greenish-white or ridges enclosing an obovate concavity, white, specwith undulate margins, up to 1.8 cm wide; callus of 4 purple along the veins which are raised and warty, greenish, edged with golden yellow,marked with 1.4 cm long; mid-lobe subcircular, pale yellow or pale yellow, purple-veined below the middle, up to clasping the column, more or less spreading above, reference to the winged column. forest between 50 and 600 m. Toledo Districts. Uncommon. last about three weeks. (1923). (holo. AMES). Photo. 134). 140. E. bractescens 139. E. boothiana subsp. boothiana 138. E. belizensis subsp. belizensis (habitat) 137. E. belizensis subsp. belizensis 136. E. baculus
+
+#### Species: Encyclia alata
+*(Batem.) Schltr. in Orchideen: 207*
+
+**SUMMARY:**
+- Moloney s.n. and D.R. Hunt 7039). basis of two specimens in the Kew Herbarium (A. reported from Belize. It has been included on the and 4 mm wide.
+
+**NOTE:**
+- E. adenocarpon has not previously been glandular-warty fruit. and carpon (relating to the fruit) in reference to the Reported by Catling & Catling (1988) from two collections: Stann Creek District (P.M. Catling, B9.10) and Toledo District (P.H. Gentle 3857, MICH!). They feel this may be similar to material we have described as E. chloroleuca. We have examined the specimen from Toledo District and although the floral measurements agree with Ames original description, the leaves, rachis, pedicel and ovary are all larger and the ovary is rather rough.
+
+**ETYMOLOGY:**
+- From the Greek adeno (glandular) Derivation not known.
+
+**FLOWERING SEASON:**
+- March to July. January and February.
+
+**HABITAT:**
+- In deciduous forest and warm coastal (Mountain Pine Ridge Reserve) Districts. Rare. In citrus plantations.
+
+**DISTRIBUTION IN BELIZE:**
+- Belize and Cayo 140l 136 137 (1853). (1941). LINDL.!). areas. Stann Creek and Toledo Districts. Uncommon.
+
+**Lip:**
+- Lip 3-lobed, almost free from the column, up to 11 mm long, lateral lobes appressed to side of the column; disc thickened between lateral lobes.
+
+**Column:**
+- Column up to 7 mm long with two conspicuous incurved, subquadrate, obtuse wings or auricles.
+
+**GENERAL DISTRIBUTION:**
+- Central America and Panama.
+
+#### Species: Encyclia ambigua
+*(Lindl.) Schltr., Die Orchi-*
+
+**SUMMARY:**
+- deen: 208 (1914). Type: Guatemala, cult. Rucker (holo. K!). Epidendrum ambiguum Lindl., Folia Orch. Epidendrum: 18 (1853). E. trachychilum Lindl., Folia Orch. Epidendrum: 19 (1853). Plant epiphytic. Pseudobulbs clustered, conic-ovoid, up to 8 cm long and 2.4 cm wide.
+
+**Leaves:**
+- Leaves 2 to 3 per pseudobulb, linear-ligulate, acute, up to 37 cm long and 3.1 cm wide.
+
+**Inflorescence:**
+- Inflorescence usually branched few- to many-flowered, up to 80 cm long; peduncle warty.
+
+**Flowers:**
+- Flowers cream, pale green to greenish- yellow with a creamlip with veins streaked and spotted red.
+
+**Sepals:**
+- Sepals lanceolate, acute, up to 30 mm long and 7 mm wide.
+
+**Petals:**
+- Petals elliptic, somewhat clawed, slightly falcate, acute, up to 28 mm long and 9 mm wide.
+
+**Lip:**
+- Lip basally adnate to the column, 3-lobed, up to 25 mm long; lateral lobes oblong, obtuse, basally clasping the column, up to 13 mm long and 7 mm wide, separated by mid-lobe by sinuses of up to 2.5 mm; mid-lobe ovate, margins undulate, up to 17 mm long and 15 mm wide; callus elliptic, sulcate.
+
+**Column:**
+- Column clavate, winged, up to 12 mm long.
+
+**Capsule:**
+- Capsule ellipsoid, up to 30 mm long and 16 mm wide.
+
+**GENERAL DISTRIBUTION:**
+- Mexico to Honduras.
+
+**DISTRIBUTION IN BELIZE:**
+- Exact locality not known.
+
+**HABITAT:**
+- On trees in rather dry oak forest.
+
+**FLOWERING SEASON:**
+- May to July.
+
+**ETYMOLOGY:**
+- From the Latin ambiguus (uncertain, doubtful).
+
+**NOTE:**
+- S. Reported by Siegerist (1984). However the specimen could not be found at the Marie Selby Botanical Gardens (SEL). This species has been confused with E. alata but differs in having abruptly constricted lateral lobes of lip at base, lines on the lip broken into spots and short streaks, less conspicuous warts on lip and column wings that are longer than wide.
+
+#### Species: Encyclia asperula
+*Dressler & Pollard in Orquí-*
+
+**SUMMARY:**
+- dea (Méx.) 3(9): 272 (1973). Type: Mexico, G.E. Pollard E-55 (holo. MEXU). Plant epiphytic, erect-spreading, up to 25 cm tall. Pseudobulbs clustered, ovoid to pear-shaped, dark green, wrinkled, 1- or 2-leaved, up to 2.2 cm long and 1.3 cm wide, enclosed in fibrous sheaths when young. (Fig. 81K; Photo. 135).
+
+**Leaves:**
+- Leaves linear, rigid, dark green, leathery to fleshy, more or less channelled, folded at the base to form a stout petiole, up to 30 cm long and 8 mm wide.
+
+**Inflorescence:**
+- Inflorescence 2- to 6- flowered, up to 8 cm long; peduncle short; rachis fractiflex, warty.
+
+**Flowers:**
+- Flowers in a raceme, faintly fragrant; pedicellate ovaries warty, up to 2.3 cm long.
+
+**Sepals:**
+- Sepals and petals green, sometimes purple-veined; sepals up to 1.7 cm long and 4 mm wide; petals up to 1.5 cm long and 3.5 mm wide above the middle.
+
+**Lip:**
+- Lip joined to the base of the column, 3-lobed, white, up to 1.5 cm long; lateral lobes oblong, clasping the column, apically more or less spreading, purple-veined below the middle, about 6 mm long; mid-lobe subcircular, more or less folded, marked with purple on three veins near the centre, with undulate margins, about 8 mm wide when spread; callus elliptic, concave.
+
+**Column:**
+- Column green, tipped with white, with a subquadrate incurved wing on each side near the apex, up to 7 mm long.
+
+**GENERAL DISTRIBUTION:**
+- Mexico and Belize.
+
+**DISTRIBUTION IN BELIZE:**
+- Cayo District. Rare.
+
+**HABITAT:**
+- On trees in moist broad-leaved forest between 550 and 650 m.
+
+**FLOWERING SEASON:**
+- January to March. Flowers last about three weeks.
+
+**ETYMOLOGY:**
+- From the Latin asperulus (little rough one) in reference to the strong wartiness of the rachis, pedicel and ovary and, being a diminutive, to the small size of the plant.
+
+**NOTE:**
+- Described as recently as 1973 and only previously recorded from Chiapas in Mexico.
+
+#### Species: Encyclia baculus
+*(Rchb.f.) Dressler & Pollard in*
+
+**SUMMARY:**
+- Phytologia 21(7): 436 (1971). Type: Mexico, proba- Epidendrum boothianum Lindl. in Bot. Reg. 24: flowered by Sir Charles Lemon (holo. K-LINDL.!). 13: 264 (1961). Type: Cuba, Capt. Sutton s.n.,
+
+#### Species: Encyclia boothiana
+*(Lindl.) Dressler in Brittonia*
+
+**SUMMARY:**
+- allied E. alata and included within that species by
+
+**NOTE:**
+- For many years confused with the closely
+
+**ETYMOLOGY:**
+- Named from Belize, the country of vember. Less frequently in most other months of the
+
+**FLOWERING SEASON:**
+- Usually September to Noor shrubs in coastal savannah, pine ridge and scrub
+
+**HABITAT:**
+- Terrestrial or on granite outcrops, trees Cayo, Stann Creek and Toledo Districts. Common.
+
+**DISTRIBUTION IN BELIZE:**
+- Orange Walk, Belize,
+
+**GENERAL DISTRIBUTION:**
+- Mexico to Honduras. apex, up to 10 mm long. (Fig. 81; Photo. 137, 138). subquadrate incurved wing on each side near the white, more or less streaked with purple, with a streaked with purple. Column clavate, greenishridges enclosing an obovate concavity, white, undulate margins, up to 1.2 cm wide; callus of 6 veins which are raised and minutely warty, with cular, white or cream, marked with purple along the below the middle, about 1 cm long; mid-lobe subcircolumn, spreading above, cream, purple-veined 1.7 cm long; lateral lobes oblong, basally clasping the Lip joined to the base of the column, 3-lobed, up to up to 2.3 cm long and 6 mm wide above the middle. gins; sepals up to 2.5 cm long and 7 mm wide; petals purple-veined above the base, with recurved marlong. Sepals and petals whitish-green, more or less strongly fragrant; pedicellate ovaries up to 3.5 cm peduncle up to 50 cm long. Flowers scentless to branched, few to many-flowered, up to 1 m long; wide. Inflorescence commonly erect, simple or fewgreen or purplish, leathery, up to 45 cm long and 4 cm in fibrous sheaths when young. Leaves linear, dark or 3-leaved, up to 9 cm long and 4 cm wide, enclosed commonly ovoid, green or purple-brown, glossy, 2- Pseudobulbs clustered, very variable in shape but Plant epiphytic, erect spreading, up to 80 cm tall. E. alata (Batem.) Schltr. subsp. virella Dressler &
+
+#### Species: Encyclia virens
+*(Lindl. & Paxton) Schltr., Die Orchi-*
+
+**SUMMARY:**
+- year. Pollard in Phytologia 21: 436 (1971). Misc. 5 (1838). most authors. origin of the type specimen. forest, from 0-1000 m. subsp. belizensis deen: 212 (1914). E. virens Lindl. & Paxton in Paxton, Flower Gard. 1: E. belizense Rchb.f. in Linnaea 41: 78 (1877). Epidendrum alatum var. viridiflorum Regel in Ann. Centralbl. 36(2): 471 (1918). Type: Belize, cult. Day
+
+**Flowers:**
+- Flowers last up to five weeks.
+
+#### Species: Encyclia belizensis
+*(Rchb. f.) Schltr. in Beih. Bot.*
+
+**NOTE:**
+- E. baculus is easily recognised by the long,
+
+**ETYMOLOGY:**
+- From the Latin baculus (a staff, a
+
+**FLOWERING SEASON:**
+- March and April. Flowers
+
+**HABITAT:**
+- On trees in moist to wet broad-leaved
+
+**DISTRIBUTION IN BELIZE:**
+- Cayo and Toledo Dis-
+
+**GENERAL DISTRIBUTION:**
+- Mexico to Nicaragua, central groove. Column stout, pale greenish, up to 10 1.8 cm wide when spread; callus oblong, with a lobes embracing the column, up to 2.6 cm long and acuminate, prominently lobed at the base with the triangular-ovate, white with purple veins, concave, flower, joined to the lower half of the column, 3.8 cm long and 1 cm wide. Lip uppermost in the sepals up to 4.3 cm long and 1.1 cm wide; petals up to at the tip, with reflexed margins below the middle; Sepals and petals greenish-white to cream, recurved fragrant, pedicellate ovaries rough, up to 2 cm long. to 4.5 cm long, enclosed in 2-3 large sheaths. Flowers sometimes 1- flowered, up to 9 cm long; peduncle up 2.7 cm wide. Inflorescence commonly 2-flowered, Leaves linear-elliptic, leathery, up to 25 cm long and by sheaths when young; sheaths red-brown, rough. leaved, up to 30 cm long and 1.2 cm wide, subtended apart, narrowly fusiform, somewhat flattened, 2- Rhizome stout, creeping. Pseudobulbs 1.5 to 2.5 cm Plant epiphytic, more or less erect, up to 45 cm tall. E. beyrodtianum Schltr. in Orchis 9: 49, t.4 (1915). E. acuminatum Sessé & Moç., Fl. Mex. ed. 2: 202 E. pentotis Rchb. f. in Linnaea 41: 81 (1876). E. fragrans Sw. var. megalanthum Lindl. in Journ. Epidendrum baculus Rchb.f. in Bonplandia 4: 214 bly Sessé & Moçiño in Pavón, herb. Boissier (holo. 152 (1850), non Hoffmans (1842).* Sci. Nat. Bot. 4(6): 374 (1856). forest between 600 and 750 m. mm long. (Fig. 82F; Photo. 136). Hort. Soc. London 4: 223 (1849). slender pseudobulbs. last about three weeks. Colombia and Brazil. (holo. W!). stick). tricts. Rare. (1894). (1856). G).
+
+**SUMMARY:**
+- spreading to recurved above, up to 1.8 cm long and 8 wide; lateral sepals concave; petals erect at base, below the middle; sepals up to 2 cm long and 8 mm Sepals and petals pale green, with recurved margins heavily fragrant; pedicellate ovaries about 2 cm long. peduncle up to 6 cm long. Infloresby papery sheaths when young. Pseudobulbs loosely clustered, ovoid Plant epiphytic, erect-spreading, up to 30 cm tall. E. madrense Schltr. in Beih. Bot. Centralbl. 36(2): E. pachycarpum Schltr. in Fedde, Repert. Sp. Nov. 3: E. ionophlebium Rchb. f., Beitr. Orch. Centr.-Am.: Epidendrum chacaoense Rchb. f. in Bonplandia 2:20 Venezuela, Wagener s.n. (holo. W!). G. E. Pollard in Phytologia, 21(7): 436 (1971). Type:
+
+**Flowers:**
+- Flowers in a short raceme, cence 2- to several-flowered, up to 10 cm long; elliptic, up to 28 cm long and 3.5 cm wide.
+
+**Leaves:**
+- Leaves narrowly leaved, up to 10 cm long and 3 cm wide, subtended to fusiform, somewhat flattened, grey-green, 2- Rhizome short.
+
+#### Species: Encyclia chacaoensis
+*(Rchb. f.) Dressler &*
+
+**SUMMARY:**
+- escens (not fully achieved or developed).
+
+**ETYMOLOGY:**
+- From the Latin bractea (bract) and
+
+**FLOWERING SEASON:**
+- January to May. Flowers last leaved forest between 50 and 700 m.
+
+**HABITAT:**
+- On trees in moist pine/oak and broadCreek and Toledo Districts. Fairly common.
+
+**DISTRIBUTION IN BELIZE:**
+- Belize, Cayo, Stann
+
+**GENERAL DISTRIBUTION:**
+- Mexico to Honduras. to 11 mm long. (Fig. 81L; Photo. 140). small triangular wing on each side near the apex, up slender, greenish, marked with dark purple, with a with a central groove, minutely pubescent. Column toothed margins, up to 1.6 cm wide; callus oblong, notched at the apex, with undulate and minutely to 1 cm long; mid-lobe subcircular, more or less oblong, clasping the column, apically spreading, up purple veins, up to 2.2 cm long; lateral lobes linearof the column, 3-lobed, white with numerous rosepetals up to 2.5 cm long. Lip joined to the lower half mm wide above the middle; sepals up to 2.7 cm long; petals yellowish-brown to purple-brown, up to 3.5 late ovaries slender, up to 1.7 cm long. Sepals and peduncle up to 15 cm long. Flowers showy; pedicelfew-branched, 2- to 12-flowered, up to 35 cm long; cm long and 6 mm wide. Inflorescence simpleor white, fibrous. Leaves linear, rigid, leathery, up to 26 405 (1918). 109 (1906). 103(1866). (1854). up to four weeks. enclosed in sheaths when young; sheaths greyish3-leaved, up to 3 cm long and 2.2 cm in diameter, more or less suffused with purple, wrinkled, 2-or Pseudobulbs clustered, ovoid-conical, green, often Plant epiphytic, erect spreading, up to 35 cm tall. E. linearifolium Hook. in Bot. Mag. 77: t. 4572 E. aciculare Batem. ex Lindl. in Bot. Reg. 27: Misc. Epidendrum bractescens Lindl. in Bot. Reg. 26: Bot. Estad. S. Paulo, 2: 150 (1952). Type: Mexico,
+
+#### Species: Encyclia bractescens
+*(Lindl.) Hoehne in Arquiv.*
+
+**NOTE:**
+- Commonly known as the 'Dollar' orchid on (1804-1879) an English botanist from whose descrip- E. chacaoensis resembles the more common E. cochleata when not flowering, but is easily distinguished by the grey-green pseudobulbs.
+
+**ETYMOLOGY:**
+- Named after William Beattie Booth Named from Chacao, a place in Venezuela.
+
+**FLOWERING SEASON:**
+- August to October. Flowers January to April. Flowers last up to a month.
+
+**HABITAT:**
+- On trees and shrubs in rather dry forest Belize On trees in moist pine/oak and broadleaved forest between 70 and 600 m.
+
+**GENERAL DISTRIBUTION:**
+- Southern Florida, Cuba, blotched with purple at the base, up to 5.5 mm long. umn arcuate, greenish, tipped with pale yellow, toothed at the apex, grooved below the middle. Collobe fleshy-thickened; callus oblanceolate, white, 3- when spread; lateral lobes deflexed, triangular; midgreenish-yellow, up to 9 mm long and 7 mm wide third of the column, obscurely 3-lobed, pale 1.2 cm long and 4.5 mm wide. Lip joined to the lower blotches, with more or less recurved margins, up to Sepals and petals greenish-yellow with brown cuously 3-winged capsules before the flowers fade. about 1.5 cm long, often developing into conspiFlowers in a raceme; pedicellate ovaries slender, flattened, up to 6 cm long; peduncle up to 8 cm long. nent sheath, few-flowered, up to 18 cm long; sheath long and 1.7 cm wide. Inflorescence from a prominarrowly elliptic to oblanceolate, glossy, up to 13 cm subtended by sheaths when young. Leaves recurved, flattened, 2- or 3-leaved, up to 3 cm long and wide, Pseudobulbs clustered, ovoid to subcircular, strongly Plant epiphytic, more or less erect, up to 22 cm tall. (1851). 46 (1841). Misc. 58 (1840). Hartweg s.n. (holo. K-LINDL.!). account of the coin- shaped pseudobulbs. tion Lindley based his report. last about three weeks. and shrub below 100 m. and Cayo Districts. Uncommon. Mexico to Venezuela.
+
+**DISTRIBUTION IN BELIZE:**
+- Orange Walk, the West Indies, Mexico and Belize. (Fig. 83L; Photo. 139). subsp. boothiana Cayo, Stann Creek and Toledo Districts. Uncommon.
+
+**SUMMARY:**
+- mm wide above the middle. (Fig. 82G; Photo. 141).
+
+**Lip:**
+- Lip uppermost in the flower, joined to the base of the column, broadly ovate, white with purple veins, concave, with a short point, up to 1.7 cm long and 1.6 cm wide when spread; callus rectangular, pubescent.
+
+**Column:**
+- Column rather stout, pale green, up to 12 mm long.
+
+#### Species: Encyclia chloroleuca
+*(Hook.) Neum. in Rev.*
+
+**SUMMARY:**
+- Hortic. ser. 2, 4: 138 (1845-6). Type: Guyana, J. Allcard s.n. (holo. K!). Epidendrum chloroleucum Hook. in Bot. Mag. 64: t. 3557 (1837). Plant epiphytic, more or less erect, up to 65 cm tall. Pseudobulbs clustered, ovoid to pear-shaped, dark green, rather glossy, 1- to 3-leaved, up to 7 cm long and 4.5 cm wide, enclosed in fibrous sheaths when young. (Fig. 81J; Photo. 142).
+
+**Leaves:**
+- Leaves linear, rigid, dark green, leathery, up to 35 cm long and 4 cm wide.
+
+**Inflorescence:**
+- Inflorescence branched, several to many-flowered, up to 70 cm long.
+
+**Flowers:**
+- Flowers faintly fragrant; pedicellate ovaries up to 2.5 cm long.
+
+**Sepals:**
+- Sepals and petals yellowish-green, sometimes slightly markedor suffused with purple, with recurved margins, up to 1.4 cm long; sepals up to 4.5 mm wide; petals up to 4 mm wide above the middle.
+
+**Lip:**
+- Lip joined to the base of the column, 3-lobed, cream or very pale green, up to 1.3 cm long; lateral lobes oblonglanceolate, clasping the column, apically somewhat spreading, purple-veined below the middle, up to 7 mm long; mid-lobe subcircular, somewhat folded, marked with purple on 3-5 raised veins in the centre, with undulate margins, up to 6.5 mm wide when spread; callus of 4 ridges enclosing an elliptic concavity, white.
+
+**Column:**
+- Column green, tipped with white, more or less marked with purple, with a subquadrate incurved wing on each side near the apex.
+
+**GENERAL DISTRIBUTION:**
+- Belize and Guyana.
+
+**DISTRIBUTION IN BELIZE:**
+- Cayo and Stann Creek Districts. Uncommon.
+
+**HABITAT:**
+- On trees in moist forest and citrus plantations between 100 and 1000 m.
+
+**FLOWERING SEASON:**
+- November to February. Plowers last up to a month.
+
+**ETYMOLOGY:**
+- From the Greek chloro (yellowishgreen) and leuco (white) in reference to the flower colour.
+
+**NOTE:**
+- S. The plants we found resembled E. belizensis with flowers similar to those of E asperula. Running them through Dressler and Pollard's key, we consistently arrived at E. ceratistes (Lindl.) Schltr., butthe flowers are small for that species and the column-wings well developed rather than rudimentary and tooth-like. Of all the material we have seen, they appear nearest to the type of E. chloroleuca and we believe they can be referred to that species, despite the fact that it is otherwise only known from northeastern South America.
+
+#### Species: Encyclia cochleata
+*(L) Lemée in Flore de la*
+
+**SUMMARY:**
+- Guyane Francaise, 1: 418 (1955). Type: based on Plumier's 'Helleborine cochleato flore' in Pl. Am. Gen.: t.185 (1703)!. Epidendrum cochleatum L., Sp. Pl. ed. 2: 1351 (1763). Anacheilium cochleatum (L.) Hoffmg., Verz. Orch.: 21 (1842). Epidendrum cochleatum var. triandrum Ames, Contrib. Ames Bot. Lab. 1: 16 (1904). E. cochleatum var. costaricense Schltr. in Fedde, Repert. Sp. Nov. Beih. 19: 118 (1923). Plant epiphytic, erect-spreading, up to 50 cm tall. twisted, somewhat thickened at the acute apex, more or less purple-spotted near the base; sepals up to 5.5 cm long and 8 mm wide; petals up to 4 cm long. Pseudobulbs loosely E. baculus. F: lip, x 2. E. chacaoensis. G: lip, x 2. E. neurosa. H: lip, × 2. E. radiata. J: lip, × 2. Drawn by Beverley Mears like a snail's shell) in reference to the shape of the
+
+**Rhizome:**
+- Rhizome short clustered, ovoid to pear-shaped or fusiform, somewhat stalked, flattened, 2- or 3-leaved, up to 20 cm long and 5cm wide, subtended by papery sheaths when young.
+
+**Leaves:**
+- Leaves lanceolate to linear-elliptic, up to 42 cm long and 5.5 cm wide.
+
+**Inflorescence:**
+- Inflorescence from a prominent sheath, simple or occasionally branched, few to many-flowered, up to 45 cm long; sheath flattened, up to 12 cm long; peduncle up to 21 cm long.
+
+**Flowers:**
+- Flowers faintly fragrant; pedicellate ovaries up to 3.2 cm long.
+
+**Sepals:**
+- Sepals and petals reflexed, pale green to yellowish-green.
+
+**Lip:**
+- Lip uppermost in the flower, up to 21 mm long and 26 mm wide, shaped like a cockleshell (cochleate); dark purple with a whitish base and dark purple veins; on the tip of the lip the dark purple is overlayed with yellow, particularly on the veins.
+
+**Column:**
+- Column up to 9 mm long, stout, broadest near the middle; and stout.
+
+**ETYMOLOGY:**
+- From the Latin cochleatus (coiled
+
+**FLOWERING SEASON:**
+- Intermittent throughout the
+
+#### Species: Encyclia cordigera
+*(Kunth) Dressler in Taxon.*
+
+**SUMMARY:**
+- 13: 247 (1964). Type: Venezuela, Bonpland s.n. (holo. P). Cymbidium cordigerum Kunth, Nov. Gen. Sp. 1: 341, (1815). Epidendrum macrochilum Hook. in Bot. Mag. 63: t. 3534 (1836). E macroclinum var. roseum Batem., Orch. Méx. & Guatem. t.17 (1839).
+
+#### Species: Encyclia atropurpurea
+*var. rhodoglossa Schltr. in*
+
+**SUMMARY:**
+- Fedde, Repert. Sp. Nov. Beih. 17:45 (1922). Epidendrum atropurpurea var. laciniatum Ames, Hubb. & Schweinf. in Bot. Mus. Leafl. 3: 63 (1935).
+
+#### Species: Encyclia doeringii
+*Hoehne, Arq. Bot. Est. S. Paulo*
+
+**SUMMARY:**
+- 2(2): 24, t.11 (1946). Plant epiphytic, up to 70 cm tall. Pseudobulbs clustered, ovoid, up to 6 cm long and 4 cm broad, more or less naked and shiny when young. (Photo. 144).
+
+**Leaves:**
+- Leaves 1 to 3, from the pseudobulb, up to 30 cm long and 3 cm broad, strap-shaped, leathery.
+
+**Inflorescence:**
+- Inflorescence mose, with up to 12 large showy flowers, up to 60 cm long.
+
+**Flowers:**
+- Flowers fragrant, up to 7 cm from the tip of the dorsal sepal to the tip of the lip.
+
+**Sepals:**
+- Sepals and petals similar, green overlayed with reddish-brown; sepals up to 35 mm long and 11 mm wide; petals up to 33 mm long and 11 mm wide.
+
+**Lip:**
+- Lip cream to pale purple with three darker purple lines; lateral lobes fold up and over the column, up to 15 mm long and 6 mm wide; mid-lobe suborbicular, veined, up to 32 mm long and 34 mm wide; callus elliptic.
+
+**Column:**
+- Column wingless, up to 17 mm long.
+
+**GENERAL DISTRIBUTION:**
+- Mexico to northern South America.
+
+**DISTRIBUTION IN BELIZE:**
+- Cayo District. Rare.
+
+**HABITAT:**
+- On trees in moist broad-leaved forest.
+
+**FLOWERING SEASON:**
+- January to May. Flowers last several weeks.
+
+**ETYMOLOGY:**
+- From the Latin cordatus (heartshaped) and gerens (bearing) in reference to the shape of the lip.
+
+#### Species: Encyclia dickinsoniana
+*(Withner) F. Hamer in*
+
+**SUMMARY:**
+- Ic. Pl. Trop. 13 (Orch. Nicaragua, pt.6): t.1215 race(1985). Type: Honduras, Edwards (holo. AMES). Epidendrum dickinsoniaum Withner in Orchid Digest 34: 254 (1970). Plant epiphytic. Pseudobulbs bifoliate, green, up to 4 cm tall and 3 cm wide. Inforescence terminal, many-flowered, paniculate; peduncle purple, up to 30 cm long.
+
+**Leaves:**
+- Leaves conduplicate, up to 25 cm long and 1.7 cm wide.
+
+**Flowers:**
+- Flowers up to 3 cm in diameter; pedicellate ovary up to 2 cm long.
+
+**Sepals:**
+- Sepals and petals similar, shiny, dark purple with a green apex; sepals up to 15 mm long and 6 mm wide; petals up to 14 mm long and 7 mm wide.
+
+**Lip:**
+- Lip 3-lobed, adnate to base of column, green-yellow, up to 6 mm long and wide; lateral lobes with purple spots and a whitish mid-lobe with raised, smooth, purple nerves and undulate margins.
+
+**Column:**
+- Column up to 7 mm long, dilated at apex.
+
+**GENERAL DISTRIBUTION:**
+- Belize to Nicaragua.
+
+**DISTRIBUTION IN BELIZE:**
+- Cayo District. Uncommon.
+
+**HABITAT:**
+- On trees in low montane forest.
+
+**FLOWERING SEASON:**
+- February and March.
+
+**ETYMOLOGY:**
+- Named after Stirling Dickinson, an orchid collector and grower from Mexico and a friend of Withner.
+
+**NOTE:**
+- S. This species has been separated from E. guatemalensis by Hamer (1985) on the basis of a lip that is longer than broad. Catling & Catling (1988) have recorded E. dickinsoniana from Cayo District (Mountain Pine Ridge Reserve).
+
+#### Species: Encyclia distantiflora
+*(A Rich. & Gal.)*
+
+**SUMMARY:**
+- Dressler & Pollard in Phytologia 21(7): 437 (1971). Type: Mexico, Galeotti 5250 (holo. W!) fide Dressler & Pollard (1974). Epidendrum distantiflorum A. Rich. & Gal. in Ann. Sc. Nat. ser. 3(3): 22 (1845). Plant epiphytic. Pseudobulbs clustered, rounded, covered with successive papery sheaths when young, up to 4 cm long and 3 cm wide with circular scars left as the sheaths fall off. to 10.5 mm long. PseudoE. dasytaenia Schltr. in Fedde, Repert. Sp. Nov. Beih. E. deamii Schltr. in Beih. Bot. Centralb. 36 (2): 402 E. henrici Schltr. in Fedde, Repert. Sp. Nov. Beih. 3: E condylochilum Lehm. & Kraenzl. in Engl., Bot. E. articulatum Klotzsch in Alleg. Gartenz. 6: 297 Batem. ex Lindl. in Bot. Reg. 24: Epidendrum lividum Lindl. in Bot. Reg. 24: Misc. 51 264 (1961). Type: Colombia, Loddiges s.n. (holo.
+
+**Leaves:**
+- Leaves 2 to 3 from the top of the pseudobulb, up to 20 cm long and 1.1 cm wide. Leaves 2 to 3 apically from wide; occasionally a small secondary pseudobulb on segmented rhizome, up to 7 cm long and 2.5 cm bulbs flattened, stalked, up to 3.5 cm apart on a Plant epiphytic, creeping, up to 30 cm tall.
+
+**Inflorescence:**
+- Inflorescence terminal, up to 55 cm long, branched Inflorescence apically from the pseudothe pseudobulb, broad-linear, up to 22 cm long and 2 top of the primary one.
+
+**Column:**
+- Column stout, mid-tooth truncate, on mid-lobe consisting of three verrucose ridges, up yellowish, lateral lobes with red-brown veins; callus long and 4 mm wide.
+
+**Lip:**
+- Lip weakly 3-lobed, cream to mm wide; petals oblong-oblanceolate, up to 10 mm on the inside; sepals oblong, up to 11 mm long and 5 subsimilar, greenish-yellow on the outside and brown non-resupinate, 1.5 cm in diameter.
+
+**Sepals:**
+- Sepals and petals bulb, up to 10 cm long, several-flowered.
+
+**Flowers:**
+- Flowers cm wide.
+
+#### Species: Encyclia livida
+*(Lindl.) Dressler in Brittonia 13:*
+
+**ETYMOLOGY:**
+- Named from Guatemala, the coun-
+
+**FLOWERING SEASON:**
+- May and June. Flowers last
+
+**HABITAT:**
+- On trees in open forest up to 700 m. Mountain Pine Ridge Reserve) and Stann Creek Dis-
+
+**DISTRIBUTION IN BELIZE:**
+- Cayo (including the
+
+**GENERAL DISTRIBUTION:**
+- Mexico to El Salvador. try of origin of the type specimen. 8:71 (1921). (1918). 108 (1906). Jahrb. 26: 459 (1918). (1838) Misc.7 (1938). E. tesselatum (1838). К!). two to three weeks. tricts. Uncommon. 152. E. pygmaea 151. E. porrecta 150. E polybulbon 149. E. neurosa 148. E. livida 147. E. guatemalensis
+
+#### Species: Encyclia guatemalensis
+*(Klotzsch) Dressler &*
+
+**SUMMARY:**
+- separated) and flos (flower) in reference to the form up to 5.5 mm long. (Fig. 81G; Photo. 148).
+
+**ETYMOLOGY:**
+- From the Latin distans (widely From the Latin lividus (leadcoloured, bluish-green).
+
+**FLOWERING SEASON:**
+- April and May. February to October. Flowers last several weeks.
+
+**HABITAT:**
+- On trees in open and moist broad-leaved cluding Mountain Pine Ridge Reserve). Rare. (in- On trees in humid forest.
+
+**DISTRIBUTION IN BELIZE:**
+- Cayo District Cayo District. Rare.
+
+**GENERAL DISTRIBUTION:**
+- Mexico and Belize. long. (Fig. 84M; Photo. 145, 146). white with purple veining and edging, up to 3.5 mm purple, up to 16 mm long and 4 mm wide. Column lar, white with yellow streaking and spotted with and 1.8 mm wide. Lip curving outwards and navicu18 mm long and 2 mm wide; petals up to 17 mm long yellow, with the petals being narrower; sepals up to spidery appearance. Sepals and petals greenishproviding a showy spray, 3 cm in diameter, with a and many-flowered. Flowers out at the same time tenz. 20: 250 (1852). of the inflorescence. 151|152 149 150 147 148 147). forest. Belize to Venezuela.
+
+#### Species: Encyclia michuacana
+*(La Llave & Lex.) Schltr.*
+
+**SUMMARY:**
+- in Beih. Bot. Centralbl. 36(2): 472 (1918). Type: Mexico, Michoacán, La Llave s.n. (no type specimen known). Epidendrum michuacanum La Llave & Lex., Nov. Veg. Desc., fasc. 2 (Orch. Opusc.): 26 (1825). E virgatum Lindl. in Hook., Journ. Bot. 3: 83 E tchyphylum Ames, Sched. Orch. 2: 28 (1923). Plant terrestrial. Pseudobulbs clustered, pyriform, up to 17 cm long and 10 cm across, surrounded by leaf-sheaths when young which later become papery and drop off. (Fig. 84L).
+
+**Leaves:**
+- Leaves 2 to 7 from the pseudobulb, linear-lanceolate, up to 85 cm long and 8 cm wide.
+
+**Inflorescence:**
+- Inflorescence terminal, up to 2.35 m long, branched and many-flowered.
+
+**Flowers:**
+- Flowers 2.5 cm in diameter.
+
+**Sepals:**
+- Sepals and petals subsimilar, yellowish-brown to dark brown; sepals and petals up to 1.4 cm long; sepals up to 4 mm wide and petals up to 2.5 mm wide.
+
+**Lip:**
+- Lip adnate to the column, 3-lobed with a large midLobe with two small upturned lateral lobes, white with minute purplish spots, up to 1 cm long and 8 mm wide.
+
+**Column:**
+- Column green with a purple tip, up to 6.5 mm long.
+
+**GENERAL DISTRIBUTION:**
+- Mexico to Honduras.
+
+**DISTRIBUTION IN BELIZE:**
+- Cayo District (Mountain Pine Ridge Reserve). Rare.
+
+**HABITAT:**
+- In open montane forest, often growing on fallen trees.
+
+**FLOWERING SEASON:**
+- February to May. Flowers last two to three weeks.
+
+**ETYMOLOGY:**
+- Named from Michoacán, the district in Mexico where the type specimen was found.
+
+#### Species: Encyclia neurosa
+*(Ames) Dressler & Pollard in*
+
+**SUMMARY:**
+- Phytologia 21(7): 437 (1971). Type: Guatemala, Alta Verapaz, Finca Mocca, H. Johnson 141 (holo. US; iso. AMES). Epidendrum neurosum Ames, Sched. Orch. 1: 17 (1922). Plant epiphytic, up to 30 cm tall. Pseudobulbs slender, shortly stalked, tapered, flattened with a slightly roughtened surface, up to 12 cm long and 1.5 cm across below the middle, light green. (Fig. 82H; Photo. 149).
+
+**Rhizomes:**
+- Rhizomes in dense masses, stout and creeping, 0.6 cm in diameter, from which the pseudobulbous stems arrise at intervals of 4-6 cm, enclosed in brown papery sheaths when young.
+
+**Leaves:**
+- Leaves two apically from the pseudobulb, linear-ligulate, narrowly obtuse, coriaceous, up to 22 cm long and 1.7 cm wide.
+
+**Inflorescence:**
+- Inflorescence short, apically from the pseudobulb, up to 4 cm long, usually two flowered, large brown papery spathaceous bracts enclose the base of the inflorescence.
+
+**Flowers:**
+- Flowers cream-white, strongly fragrant, back to back; pedicellate ovary up to 1.1 cm long.
+
+**Sepals:**
+- Sepals and petals subsimilar, slightly pubescent, sepals up to 2.2 cm long and 0.4 mm wide, recurved with a central vein; petals slightly shorter, spathulate.
+
+**Lip:**
+- Lip simple, adnate to the lower half of the column, concave, creamy-white with 9 short purplish veins; two short lateral lobes point upwards and forewards; central lobe curving upwards, acuminate, with two falcate whitish calli; up to 18.5 mm long.
+
+**Column:**
+- Column with prominent downward pointing wings, greenish-white with a bright yellow apex, up to 5.5 mm long.
+
+**GENERAL DISTRIBUTION:**
+- Mexico to Honduras, and Costa Rica.
+
+**DISTRIBUTION IN BELIZE:**
+- Cayo and Toledo Districts. Uncommon.
+
+**HABITAT:**
+- On trees in moist forest up to 1,200 m.
+
+**FLOWERING SEASON:**
+- January and February. Flowers last two to three weeks.
+
+**ETYMOLOGY:**
+- From the Greek neurum (a nerve or fibre) in reference to the purple veins on the lip.
+
+#### Species: Encyclia polybulbon
+*(Sw.) Dressler in Brittonia*
+
+**SUMMARY:**
+- 13: 264 (1961). Type: Jamaica, Swartz s.n. (holo. UPS). Epidendrum polybulbon Sw., Prodr. Veg. Ind. Occ.: 124 (1788). Bulbophyllum occidentale Spreng., Syst. Veg. 3: 732 (1826). Dinema polybulbon (Sw.) Lindl., Gen. Sp. Orch. Pl. : 111 (1831). Epidendrum polybulbon var. luteo-album Miethe in Orchis 8: 33, t.1 (1914). Plant epiphytic, dwarf, low-growing with a creeping rhizome. Pseudobulbs ovoid, 2-3 cm apart on the rhizome, pale yellowish-green, up to 2 cm long and 2 mm in diameter at the widest point, normally two apical leaves. cm, enclosed in fibrous-scarious sheaths when clustered, pyriform. 2- or 3- leaved, about 3.5 x 2.5 Plant epiphytic, up to 80 cm tall. Pseudobulbs Kew Bull., 40(3): 638 (1985). Type: Belize, Cayo
+
+**Leaves:**
+- Leaves elliptic-lanceolate, dark green, up to 3 cm long and 1 cm wide.
+
+**Inflorescence:**
+- Inflorescence 1-
+
+#### Species: Encyclia porrecta
+*B.R.Adams & P.J.Cribb in*
+
+**SUMMARY:**
+- bulbon (bulb) in reference to the many small bulbs. young. (Fig. 81M; Photo. 151).
+
+**ETYMOLOGY:**
+- From the Greek poly (many) and From the Latin porrectus (streched outwards) in reference to the petal attitude.
+
+**FLOWERING SEASON:**
+- July to November. Flowers August to November.
+
+**HABITAT:**
+- On trees and fallen logs in open moist In wet broadleaved forest between 700 and 950 m.
+
+**Leaves:**
+- Leaves linear-lanceolate to linear, rigid, coriaceous, dark green, up to 21 cm long and 2.7 cm wide.
+
+**Inflorescence:**
+- Inflorescence erect, loosely paniculate, manyflowered, up to 80 cm long; peduncle provided with many sheathing bracts.
+
+**Flowers:**
+- Flowers faintly fragrant; pedicel and ovary somewhat verrucose.
+
+**Sepals:**
+- Sepals spreading, elliptic-lanceolate, olive-green, dorsally somewhat suffused with purple, up to 11 mm long and 3 mm wide.
+
+**Petals:**
+- Petals porrect, oblanceolate, green with more or less undulate margins, up to 11 mm long and 4 mm wide.
+
+**Lip:**
+- Lip basally adnate to the column, 3-lobed, up to 10 mm long; lateral lobes oblong, clasping the column, white above, purple below, up to 5.5 x 2.3 mm; mid-lobe suborbicular with lateral margins upcurved, white marked with purple on about 12 raised veins in the centre, undulate margins, up to 5 mm long and 6 mm wide when spread; callus of four ridges.
+
+**Column:**
+- Column slightly bowed, winged, green edged with white, up to 4.5 mm long; wings subquadrate, incurved.
+
+**GENERAL DISTRIBUTION:**
+- Belize.
+
+**DISTRIBUTION IN BELIZE:**
+- Cayo (Mountain Pine Ridge Reserve) and Toledo Districts. Rare.
+
+**NOTE:**
+- S. E porrecta is closely related to E. ceratistes (Lindl.) Schltr. & E chloroleuca (Hook.) Neum. but differsin having exceptionallysmall flowers with porrect petals. It is further distinguished from E. ceratistes by having well developed subquadrate wings on a short column and from E. chloroleuca by the verrucose inflorescence branches and ovaries.
+
+#### Species: Encyclia pygmaea
+*(Hook.) Dressler in Brittonia*
+
+**SUMMARY:**
+- 13: 264 (1961). Type: Brazil, A. Harrison s.n. (holo. K!). Epidendrum pygmaeum Hook. in Bot. Mag. 60: t. 3233 (1833). E. caespitosum Poepp. & Endl., Nov. Gen. Sp. 2: 1, t.101(1838). Hormidium pygmaeum (Hook.) Benth. & Hook. in Biol. Centr.-Am. Bot. 3: 218 (1883). H. tripterum (Brongn.) Cogn. in Mart., Fl. Bras. 3, pt.S : 29 (1898). Microstylis humilis Cogn. in Mart., Fl. Bras. 3(6): 550, t.114 (1906). Plant epiphytic, low growing, creeping, rhizomatous. Pseudobulbs 3-5 cm apart on the rhizome, ovoid, up to 5 cm long and 8 mm in diameter, normally two apical leaves. (Fig. 84; Photo. 152).
+
+**Rhizome:**
+- Rhizome branching.
+
+**Leaves:**
+- Leaves narrowly ovate, up to 5.5 cm long and 1.5 cm wide.
+
+**Inflorescence:**
+- Inflorescence terminal, 1-flowered.
+
+**Flowers:**
+- Flowers up to 1.2 cm in diameter, fragrant.
+
+**Sepals:**
+- Sepals and petals similar, cream to pale green, lanceolate, up to 6 mm long and 3 mm wide.
+
+**Lip:**
+- Lip 3-lobed, adnate to the base of the column, free part clawed, white with 1-3 purple streaks, up to 4.5 mm long.
+
+**Column:**
+- Column short, up to 3 mm long.
+
+**GENERAL DISTRIBUTION:**
+- Florida, the West Indies, Mexico to Peru, Bolivia and Brazil.
+
+**DISTRIBUTION IN BELIZE:**
+- Cayo (including Mountain Pine Ridge Reserve) and Toledo Districts. Fairly common.
+
+**HABITAT:**
+- On trees in dense, often moist forest.
+
+**FLOWERING SEASON:**
+- July to February.
+
+**ETYMOLOGY:**
+- From the Latin pygmeus (dwarf) in reference to the dwarf growth habit.
+
+**NOTE:**
+- When not in flower E. Pygmaea may be confused with E polybulbon which, however, is a smaller plant and occurs in dryer environments.
+
+#### Species: Encyclia radiata
+*(Lindl.) Dressler in Brittonia*
+
+**SUMMARY:**
+- 4: 214 (1856). Type: Mexico, cult. Loddiges (holo. К.). Epidendrum radiatum Lindl. in Bot. Reg. 27: Misc. 58 (1841). Plant epiphytic, low growing, creeping. Pseudobulbs ellipsoid, ribbed and flattened, 2- to 3-leaves, up to 16 cm long and 4 cm wide. (Fig. 82J; Photo. 153).
+
+**Rhizome:**
+- Rhizome bearing erect pseudobulbs 2.5 cm apart.
+
+**Leaves:**
+- Leaves lanceolate-elliptic, acute, up to 30 cm long and 2.8 cm wide.
+
+**Inflorescence:**
+- Inflorescence apically from the pseudobulb, 2- to 8-flowers together in a cluster, up to 20 cm long.
+
+**Flowers:**
+- Flowers 3 cm in diameter, strongly fragrant, non-resupinate; flowers yellow with age.
+
+**Sepals:**
+- Sepals and petals subsimilar, pale green, up to 20 mm long; sepals up to 7 mm wide; petals up to 1 mm wide.
+
+**Lip:**
+- Lip triangularreniform, concave, whitish to pale yellow and veined with purple, up to 13 mm long and 20 mm wide; callus quadrate, smooth.
+
+**Column:**
+- Column stout with a fanshaped ligule, up to 10 mm long.
+
+**GENERAL DISTRIBUTION:**
+- Mexico to Costa Rica, and Venezuela.
+
+**DISTRIBUTION IN BELIZE:**
+- Cayo (including the Mountain Pine Ridge Reserve) and Stann Creek Districts. Uncommon.
+
+**HABITAT:**
+- Usually on oaks in broken forest.
+
+**FLOWERING SEASON:**
+- Intermittent throughout the year. Flowers last several weeks.
+
+**ETYMOLOGY:**
+- From the Latin radiatus (radiating outwards).
 
 ---
 
@@ -2055,60 +5091,555 @@
 *Source: page-181, page-182, page-183, page-184, page-185, page-186, page-187, page-188, page-189, page-190*
 
 **ETYMOLOGY:**
-- Perhaps from the Greek para (near, Named after Galé Acuña who first named the species but gave it an invalid name. 2. Epidendrum ciliare L., Syst. Nat. ed. 10, Vol. 2: 1246 (1759). Type: based on Plumier's 'Epidendrum foliis oblongis arvensis', Pl. Am. Fasc. t. 179, f.2 (1757)!. Auliza ciliaris (L.) Salisb. in Trans. Hort. Soc. London 1: 294 (1812). From the Latin ciliaris (fringed with From the Greek cysto (hollow, pouched) in reference to the concave lip. 6. Epidendrum difforme Jacq., Enum. Pl. Carib.: 29 (1760). Type: Martinique, Jacquin (holo. BM!). Epidendrum umbellatum Sw., Prod. Veg. Ind. Occ. 121 (1788). E. latilabrum Lindl. in Bot. Reg. 31: Misc.77 (1841). Neolehmannia difformis (Jacq.) Pabst in Bradea 2 (46): 306 (1978). Plant epiphytic, erect, spreading or pendent, in clumps. Stem reed-like, flexuous, somewhat flattened near the apex and concealed by the leaf-sheath, up to 60 cm long. Leaves distichous, every 4-6 cm, thick and fleshy, elliptic-lanceolate, up to 10 cm long and 3 cm wide. Inflorescence terminal, subumbellate, 1- to 18-flowered, with all the flowers opening together. Flowers strongly fragrant, pale green or whitish, up to 2.8 cm in diameter; bracts hyaline; pedicellate ovaries up to 4 cm long. Sepals and petals similar, slender, up to 3.2 cm long and 8 mm wide. Lip adnate to the column-apex; lamina simple to 3-lobed, up to 1.8 cm long and 3.4 cm wide, transversely kidneyshaped; disc with two small calli at base. Column dilated above, up to 10 mm long. (Fig. 92J; Photo. 159). From the Latin difformis (of From the Greek macro (large) and cline (a bed or couch) in reference to the large clinandrium. From the Latin nitens (shiny, glossy) Flowers last individually two to three weeks.
+- Perhaps from the Greek para (near,
 
 **FLOWERING SEASON:**
-- July and August. Flowers May and June. Flowers last about two weeks. June to August. April. May and June. Flowers last A. D. Hawkes 8344 (holo. F). culate inflorescence. Flowers last several weeks. December to March. Flowers last one to two weeks. September and October.
+- July and August. Flowers
 
 **HABITAT:**
-- On trees in rather wet broad-leaved cluding the Mountain Pine Ridge Reserve). Rare. On trees in moist forest. On trees in humid oak forest. On trees in damp forest. On trees in open forest. On trees in moist forest. On trees in dense wet forest.
+- On trees in rather wet broad-leaved cluding the Mountain Pine Ridge Reserve). Rare.
 
 **DISTRIBUTION IN BELIZE:**
-- Cayo District (in- Cayo District. Rare. Exact locality not Cayo (including the Mountain Pine Ridge Reserve) and Toledo Districts. Uncommon. Cayo District (includ- Cayo and Toledo Districts. Very rare. Toledo District. Un-
+- Cayo District (in-
 
 **GENERAL DISTRIBUTION:**
-- Mexico to Panama. about 1 mm long, fleshy. (Fig. 85; Photo. 154, 155). with a fleshy callus on the central portion. Column rounded; mid-lobe very slender, antenna-like; disc mm wide; lateral lobes erect, clasping the column, and 1 mm wide. Lip 3-lobed, up to 3 mm long and 3 sepals spreading. Petals recurved, up to 3 mm long long and 1.5 mm wide; dorsal sepal recurved; lateral ries up to 2.5 cm long. Sepals keeled, about 3 mm greenish-yellow, somewhat fleshy; pedicellate ovaflowered, up to 4 cm long; peduncle slender. Flowers and 1.5 mm wide. Inflorescence loosely 5- to 7- Leaves terete, somewhat recurved, up to 2.5 cm long slightly flattened, up to 9-leaved, up to 10 cm long. sheaths, up to 60 cm long. Stem about 2.5 cm apart, masses. Rhizome slender, branching, enclosed in Plant creeping to hanging, often forming dense Florida, Cuba, Mexico, Belize, Guatemala, Costa Rica and Panama. Mexico, Belize, Guatemid-lobe. Column dilated at apex, up to 6 mm long, with a central keel extending to the apex of the lobe oblong-quadrate, bifurcate at apex; disc venose suborbicular-quadrate, with crenulate margins; midlobed, up to 10 mm wide when spread; lateral lobes 1.5 mm wide. Lip white, adnate to the column, 3- oblique. Petals linear, obtuse, up tp 10 mm long and mm long and 4 mm wide; lateral sepals somewhat up to 1.5 cm long. Sepals elliptic-spatulate, up to 13 Flowers yellowish white, small; pedicellate ovaries short or elongate; floral bracts up to 6 mm long. cence racemose, loosely many-flowered; peduncle elliptic, up to 15 cm long and 4.5 cm wide. Infloressheaths. Leaves sessile, erect-spreading, oblongStem stout, terete below, concealed by scarious Plant epiphytic, erect, caespitose, up to 60 cm tall. E. piestocaulon Schltr. in Fedde, Repert. Sp. Nov. 15: E chlorops Rchb. f. in Gard. Chron. n.s. 14: 524 Epidendrum flavovirens Rchb. f., Beitr. Orch. Centr.- Reg. 30: Misc. 16 (1844). Type: Guatemala, Bateman 3. Epidendrum clowesii Batem. ex Lindl. in Bot. hairs, ciliate) in reference to the fringed outer mar- Florida, the West Indies, Mexico to northern South America. Cuba, the West Indies, disc with a 3-pronged callus. Column greenish, up to pointed at the apex, up to 7 mm long and 5 mm wide; wide. Lip adnate with the column,heart-shaped, form, reflexed, up to 8 mm long and less than 1 mm mm long and 2.3 mm wide. Petals spreading, filiries up to 5 mm long. Sepals lanceolate, acute, up to 9 to 1 cm in diameter, reddish-brown; pedicellate ovamany-flowered, up to 27 cm long. Flowers small, up wide. Inflorescence terminal, diffuse, branched, the edges and beneath, up to 7 cm long and 2.5 cm leathery, dark green, strongly tinged with purple on to 16 on the upper part of the stem, oblong-elliptic, ered with papery leaf-sheaths. Leaves distichous, up reed-like, reddish-purple, flattened, lower part covPlant epiphytic or terrestrial, erect-spreading. Stem Seraphyta diffusa (Sw.) Pfitzer ex Fawc. & Rendle, 7. Epidendrum diffusum Sw., Prod. Veg. Ind. Occ.: Mexico to Panama. Mexico, Belize, Guateapex, up to 6 mm long. (Photo. 166). wide; disc bicallose at base. Column bilobed at the the middle of each side, up to 8 mm long and 7 mm wide. Lip adnate to the column, slightly contracted in against the lip. Petals up to 1.1 cm long and 1 mm and 4 mm wide, keeled at the apex, clasping the petals opening upwards. Lateral sepals up to 1.2 cm long Dorsal sepal up to 1.2 cm long and 4 mm wide, fragrant, sessile; pedicellate ovary up to 8 mm long. floral-bracts. Flowers fleshy, entirely greenish, not lower parts of flower concealed by fleshy green long, with up to 11 distichous flowers; ovaries and 2.5 cm wide. Inflorescence terminal, up to 15 cm 3-4 cm apart, thickened, shiny, up to 15.5 cm long and after the leaf-blades have fallen. Leaves distichous, which are green at first, becoming brown and papery 21 cm long, almost totally covered with leaf-sheaths give rise to several erect stems. Stems flattened, up to Plant epiphytic, creeping, branched rhizomes which Epidendrum johannis Schltr. in Fedde, Repert. Sp. Jahrb. 26: 470 (1899). mala and Costa Rica. Nov. 16:444 (1920). (1859). 22 (1845). 2 (1838). (1783). above !). common.
-
-**SUMMARY (uncertain):**
-- cm wide Plant smaller; peduncle up to 12 cm long, often pendent; flowers rose-pink, up to 1 cm long 12. Lateral lobes of lip large, asymmetrically bilobed; mid-lobe of lip bilobed, lobules more or less porrect; petals filiform. 15. E polyanthum Lateral lobes of lip serrate; mid-lobe of lip bilobed, widely divaricate or serrate 13. 18. E. scriptum Inflorescence loosely flowered, erect; lip with a definite claw 14. Lamina of lip tubular.. Lamina of lip not tubular 15. 7. E. diffusum Inflorescence racemose or paniculate; if paniculate, panicle simple. 16. 1. E acuñae Stems much-branched, wiry; leaves long-linear, pointed; lip oblanceolate. 18. Plant erect; lip cordate Plant often oblanceolate with incurved edges 20. 21. E. hawkesii 20. E. secundum 4. E. cristatum •. 14. E. paniculatum 11. E macroclinium 10. E isomerum • ..22. E. strobiliferum liplongly 19. E sculptum ascending; •. 5. E cystosum •. 16. E. ramosum linearfewflowered, flowers alternate on rachis; lip cordate 1. Epidendrum acuñae Dressler in Am. Orch. Soc. Bull. 28: 358 (1959). Type: Cuba, C. Wright 3333 (holo. MO; iso. AMES, G, K, P, W). Spathiger roigii Acuña in Estac. Exper. Agron. Bot. Tec. 60:93 (1939) nom. illeg. Plant epiphytic, with one to several segmented stems, somewhat- to much-branched, up to 2-3 m long and 4-5 mm wide, with persistent brown sheaths. (Fig. 86K; Photo. 156). (1777-1846), an orchid collector and friend of John 4. Epidendrum cristatum Ruiz & Pav., Syst. Veg.: 243 (1798). Type: Peru, Pozuzo, Ruiz and Pavon s.n. (holo. MA). Epidendrum raniferum Lindl., Gen. Sp. Orch. Pl.: 109 (1831). E. calliferum Lem. in Jard. Fl. 4: Misc.65 (1853). E. hexadactylum Barb. Rod., Gen. Sp. Orch. Nov. 1: 56 (1877). E. longovarium Barb. Rodr., Gen. Sp. Orch. Nov. 1: 57 (1877). E. millei Schltr. in Fedde, Repert. Sp. Nov. Beih. 15: 54(1917). E. bathyschistum Schltr. in Fedde, Repert. Sp. Nov. 6: 36 (1919). E validum Schltr. in Fedde Repert Beih. 9: 15 (1921). E. alexandri Schltr., Anex. Mem. Inst. Butantan 1(4): E. rantierium Lindl. ex Sanchez., Orq. Mex. 47 (1930). Plant epiphytic or terrestrial, erect, growing in clumps, up to 1.3 m tall. (Photo. 158). ous, falling from the bottom of the stem first leaving pale green, up to 15 cm long and 3 cm wide, decidupseudobulbs. lorifolium Schltr. in Fedde, Repert. Sp. Nov. Beih. E. palmigerum Rchb. f. in Gard. Chron. n.s. 12: 40 Epidendrum imetrophyllum Lindl. & Paxton in Bot. Orch. PL.: 106 (1831). Type: Guyana, Parkin s.n. 9. Epidendrum imatophyllum Lindl., Gen. Sp. moid keel extending from the base to the apex of the flap-like calli at the base and a prominent erect sig3-lobed and basally truncate, a disc with 2 prominent dark yellow calli and column apex, a lip that is deeply divergent shape, flowers of a vivid carmine-lake with ing roots that are basal only, rather larger leaves of a similar E. hawkesii differs from E ibaguense in havling & Catling, 1988). Although these plants are reports were a misidentification of E. hawkesii (Catspecimens cannot be found. It is thought that these from Belize by Correll (1965) but the supporting from above, x 13; F: anther cap, 2 views, x 13; G: pollinia, x 13; H: fruit, x ⅓. Drawn by Susanna Stuart-Smith from R.H. the sheaths which later fall to leave a circular leafscar; leaf-sheaths up to 6 cm long enveloping the stem. (Fig. 87; Photo. 162, 163). up to 18 cm long and 5 cm wide, with leaf-sheaths up bulbs. in Bot. Mag. 66: Epidendrum floribundum Kunth, Nov. Gen. Sp. 1: Veg.: 243 (1798). Type: Peru, Muña, Pavon (holo. 14. Epidendrum paniculatum Ruiz & Pav., Syst. 'Butterfly orchid' (Halcrow & Halcrow, 1967).
-
-**Inflorescence:**
-- Inflorescence densely many-flowered, sometimes pendent; lip not clawed. Inflorescence a lax or widely spreading manyflowered (usually more than 25) panicle; lip ovate or triangular-ovate; stems reed-like, bilaterally flattened, reddish-purple. Inflorescence terminal, flowers born singly on short side branches. Inflorescence terminal, racemose, pendulous, up to 30 cm long; peduncle covered with large papery spathe-like bracts. Inflorescence terminal, may be branched, flattopped, up to 70 cm long; flowers opening in succession with about 10-12 open at any one time.
-
-**Flowers:**
-- Flowers born singly. Flowers born in groups of 2 or more 17. Flowers hardly opening; raceme compact, fewflowered Flowers opening fully 19. Flowers fragrant during the day, up to 1.3 cm long and 1.8 cm wide; pedicellate ovary covered with overlapping bracts which are finely purple-spotted. Flowers several, opening together, slightly fragrant, up to 3 cm in diameter. Flowers pinkish-purple, non-resupinate, densely clustered, from 2 to 2.5 cm in diameter.
-
-**Stems:**
-- Stems much-branched, thick; leaf linear-ovate, notched at apex; lip obovate ....
-
-**Leaves:**
-- Leaves flowered, usually only one flower opening at a time Leaves broadly ovate, notched at apex; more than one flower open at a time. Leaves up to 4.5 cm long and 0.6 cm wide, tinged with red; inflorescence usually up to 4-flowered; lip arrow-shaped...... Leaves up to 9 cm long and 2.5 cm wide; stems flattened; inflorescence usually up to 12- pendent; linear-lanceolate, 8. Leaves produced distichously, 2.5-3 cm apart, lower leaves deciduous with age, leathery, strap-shaped, slightly notched at the apex, up to 15 cm long and 1.5 cm wide; the leaves on the main stems are longer than leaves on flowering branches. Leaves distichous, oblong-elliptic, erect, leathery, up to 23 cm long and 4 cm wide; leaf-sheath enveloping the stem, up to 6 cm long; leaves deciduous, falling from the lower part of the stem first leaving the leaf-sheaths. Leaves distichous, oblong-ligulate, growing in clumps, flattened except at base, without Plant terrestrial, erect, up to 1 m high. Leaves distichous, lanceolate, purple-tinged, cane-like stems up to 80 cm tall, without pseudoPlant epiphytic or terrestrial, variable, a collection of Epidendrum densiflorum Hook.
-
-**Sepals:**
-- Sepals greenish with margins rolled back, up to 1.5 cm long. Sepals and petals similar, green with purple spots; sepals up to 2.8 cm long and 8 mm wide; petals up to 2.6 cm long and 5 mm wide. Sepals elliptic, up to 1.6 cm long and 0.4 cm broad.
-
-**Petals:**
-- Petals paler green, suffused with purple at base, up to 1.5 cm long. Petals elliptic, acute, up to 1.7 cm long and 0.7 cm broad.
-
-**Lip:**
-- Lip pale green, suffused with purple at base, fleshy, up to 1.2 cm long and 6 mm wide; callus slender, runnung down centre of lip. Lip adnate to the column-apex, irregularly 3-lobed, white base with purple spots and greenish towards the margins, up to 1.5 cm long; disc with a two lobed callus and a central ridge. Lip adnate to the column for the whole length, obscurely 3-lobed, up to 0.8 cm long and 0.6 cm broad; side lobes very shallow, fimbriate or erose; mid-lobe oblong to ovate; callus 3-keeled, with side keels truncate and mid-keel running to base of mid-lobe.
-
-**Column:**
-- Column winged, toothed at apex, up to 5 mm long and 4 mm wide. Column club-shaped, white, up to 1.5 cm long. Column green, with a wavy margin, up to 1 cm long.
-
-**NOTE:**
-- E. ciliare is moth-pollinated. gins of the side lobes of the lip. Lindley. known. Rare. mala and El Salvador. green to white. 207 (1918). (1880). Am.: 85 (1866). (holo. K-LINDL.!). last two to three weeks. 161. E. hawkesii 160. E. diffusum 159. E. difforme 158. E. cristatum Catling & Catling (1988) excluded E cristatum on the basis of a revision by E. Hágsater of a Gentle specimen reported by Correll (1965) and used the name E. raniferum Lindl. We consider them as synonymous and therefore use the earlier name. 5. Epidendrum cystosum Ames in Bot. Mus. Leafl. Harvard Univ. 2: 106 (1934). Type: Honduras, Yoro, J. B. Edwards 675 (holo. AMES). Plant epiphytic, up to 13 cm tall. Roots fibrous, smooth. Stem caespitose, erect, up to 5.5 cm long, with 6 leaves. Leaves ascending, linear-lanceolate, up to 5.5 cm long and 6 mm wide. Inflorescence fewflowered, usually 1 flower open at any time; rachis of raceme up to 7 mm long; bracts infundibuliform, up to 2.5 mm long. Flowers with sepals and petals light lavender and lip greenish-yellow with lavender margin. Lateral sepals lanceolate, up to 9 mm long and 3 mm wide; dorsal sepal similar. Petals linear, up to 8.5 mm long. Lip adnate to column, up to 8 mm long; free portion concave, up to 5 mm long and 5 mm wide, fleshy, rigid; callus elongate. Column up to 3.5 mm long. In Guatemala it is commonly called 'Maria unusual form or shape) in reference to the rather S. E physodes Rchb. f. has been reported from Belize but Hágsater (1987) has examined these specimens and found them to be E macroclinium. E. physodes appears to be restricted to Costa Rica. 12. Epidendrum nitens Rchb. f., Beitr. Orch. Centr. Am.: 82 (1866). Type: Guatemala, Las Nubes, H. Wendland (holo. W, not located). E. nitens is probably the plant listed by in reference to the shiny appearance of the flowers.
-
-**Stem:**
-- Stem numerous, reed-like. Stem reed-like, E.
+- Mexico to Panama. about 1 mm long, fleshy. (Fig. 85; Photo. 154, 155). with a fleshy callus on the central portion. Column rounded; mid-lobe very slender, antenna-like; disc mm wide; lateral lobes erect, clasping the column, and 1 mm wide. Lip 3-lobed, up to 3 mm long and 3 sepals spreading. Petals recurved, up to 3 mm long long and 1.5 mm wide; dorsal sepal recurved; lateral ries up to 2.5 cm long. Sepals keeled, about 3 mm greenish-yellow, somewhat fleshy; pedicellate ovaflowered, up to 4 cm long; peduncle slender. Flowers and 1.5 mm wide. Inflorescence loosely 5- to 7- Leaves terete, somewhat recurved, up to 2.5 cm long slightly flattened, up to 9-leaved, up to 10 cm long. sheaths, up to 60 cm long. Stem about 2.5 cm apart, masses. Rhizome slender, branching, enclosed in Plant creeping to hanging, often forming dense
 
 #### Species: Epidendrum paranthicum
 *Rchb. f. in Bot. Zeit. 10:*
 
 **SUMMARY:**
-- Guatemala, Warszewicz s.n. (holo. W!). Bot. Mus. Leafl. Harvard. Univ. 8: 148 (1940). Type: Epidanthus paranthicus (Rchb. f.) LO.Williams in species were once included within that genus. the Epidendrum-like flowers and the fact that the dendrum and the Greek anthos (flower), alluding to
+- Guatemala, Warszewicz s.n. (holo. W!). Bot. Mus. Leafl. Harvard. Univ. 8: 148 (1940). Type: Epidanthus paranthicus (Rchb. f.) LO.Williams in species were once included within that genus. the Epidendrum-like flowers and the fact that the dendrum and the Greek anthos (flower), alluding to cm wide Plant smaller; peduncle up to 12 cm long, often pendent; flowers rose-pink, up to 1 cm long 12. Lateral lobes of lip large, asymmetrically bilobed; mid-lobe of lip bilobed, lobules more or less porrect; petals filiform. 15. E polyanthum Lateral lobes of lip serrate; mid-lobe of lip bilobed, widely divaricate or serrate 13. 18. E. scriptum Inflorescence loosely flowered, erect; lip with a definite claw 14. Lamina of lip tubular.. Lamina of lip not tubular 15. 7. E. diffusum Inflorescence racemose or paniculate; if paniculate, panicle simple. 16. 1. E acuñae Stems much-branched, wiry; leaves long-linear, pointed; lip oblanceolate. 18. Plant erect; lip cordate Plant often oblanceolate with incurved edges 20. 21. E. hawkesii 20. E. secundum 4. E. cristatum •. 14. E. paniculatum 11. E macroclinium 10. E isomerum • ..22. E. strobiliferum liplongly 19. E sculptum ascending; •. 5. E cystosum •. 16. E. ramosum linearfewflowered, flowers alternate on rachis; lip cordate
 
 **ETYMOLOGY:**
 - From the first part of the name Epidoubt that the two are closely related. beside) and anthos (flower). last two to three weeks. forest at about 900 m. stipe. 732 (1852).
+
+**Inflorescence:**
+- Inflorescence densely many-flowered, sometimes pendent; lip not clawed. Inflorescence a lax or widely spreading manyflowered (usually more than 25) panicle; lip ovate or triangular-ovate; stems reed-like, bilaterally flattened, reddish-purple.
+
+**Flowers:**
+- Flowers born singly. Flowers born in groups of 2 or more 17. Flowers hardly opening; raceme compact, fewflowered Flowers opening fully 19.
+
+**Stems:**
+- Stems much-branched, thick; leaf linear-ovate, notched at apex; lip obovate ....
+
+**Leaves:**
+- Leaves flowered, usually only one flower opening at a time Leaves broadly ovate, notched at apex; more than one flower open at a time. Leaves up to 4.5 cm long and 0.6 cm wide, tinged with red; inflorescence usually up to 4-flowered; lip arrow-shaped...... Leaves up to 9 cm long and 2.5 cm wide; stems flattened; inflorescence usually up to 12- pendent; linear-lanceolate, 8.
+
+#### Species: Epidendrum acuñae
+*Dressler in Am. Orch. Soc.*
+
+**SUMMARY:**
+- Bull. 28: 358 (1959). Type: Cuba, C. Wright 3333 (holo. MO; iso. AMES, G, K, P, W). Spathiger roigii Acuña in Estac. Exper. Agron. Bot. Tec. 60:93 (1939) nom. illeg. Plant epiphytic, with one to several segmented stems, somewhat- to much-branched, up to 2-3 m long and 4-5 mm wide, with persistent brown sheaths. (Fig. 86K; Photo. 156).
+
+**Leaves:**
+- Leaves produced distichously, 2.5-3 cm apart, lower leaves deciduous with age, leathery, strap-shaped, slightly notched at the apex, up to 15 cm long and 1.5 cm wide; the leaves on the main stems are longer than leaves on flowering branches.
+
+**Inflorescence:**
+- Inflorescence terminal, flowers born singly on short side branches.
+
+**Flowers:**
+- Flowers fragrant during the day, up to 1.3 cm long and 1.8 cm wide; pedicellate ovary covered with overlapping bracts which are finely purple-spotted.
+
+**Sepals:**
+- Sepals greenish with margins rolled back, up to 1.5 cm long.
+
+**Petals:**
+- Petals paler green, suffused with purple at base, up to 1.5 cm long.
+
+**Lip:**
+- Lip pale green, suffused with purple at base, fleshy, up to 1.2 cm long and 6 mm wide; callus slender, runnung down centre of lip.
+
+**Column:**
+- Column winged, toothed at apex, up to 5 mm long and 4 mm wide.
+
+**GENERAL DISTRIBUTION:**
+- Florida, Cuba, Mexico, Belize, Guatemala, Costa Rica and Panama.
+
+**DISTRIBUTION IN BELIZE:**
+- Cayo District. Rare.
+
+**HABITAT:**
+- On trees in moist forest.
+
+**FLOWERING SEASON:**
+- May and June. Flowers last about two weeks.
+
+**ETYMOLOGY:**
+- Named after Galé Acuña who first named the species but gave it an invalid name.
+
+#### Species: Epidendrum ciliare
+*L., Syst. Nat. ed. 10, Vol. 2:*
+
+**SUMMARY:**
+- 1246 (1759). Type: based on Plumier's 'Epidendrum foliis oblongis arvensis', Pl. Am. Fasc. t. 179, f.2 (1757)!. Auliza ciliaris (L.) Salisb. in Trans. Hort. Soc. London 1: 294 (1812). (1777-1846), an orchid collector and friend of John
+
+**ETYMOLOGY:**
+- Named after the Rev. John Clowes
+
+**DISTRIBUTION IN BELIZE:**
+- Exact locality not
+
+**GENERAL DISTRIBUTION:**
+- Mexico, Belize, Guatemid-lobe. Column dilated at apex, up to 6 mm long, with a central keel extending to the apex of the lobe oblong-quadrate, bifurcate at apex; disc venose suborbicular-quadrate, with crenulate margins; midlobed, up to 10 mm wide when spread; lateral lobes 1.5 mm wide. Lip white, adnate to the column, 3- oblique. Petals linear, obtuse, up tp 10 mm long and mm long and 4 mm wide; lateral sepals somewhat up to 1.5 cm long. Sepals elliptic-spatulate, up to 13 Flowers yellowish white, small; pedicellate ovaries short or elongate; floral bracts up to 6 mm long. cence racemose, loosely many-flowered; peduncle elliptic, up to 15 cm long and 4.5 cm wide. Infloressheaths. Leaves sessile, erect-spreading, oblongStem stout, terete below, concealed by scarious Plant epiphytic, erect, caespitose, up to 60 cm tall. E. piestocaulon Schltr. in Fedde, Repert. Sp. Nov. 15: E chlorops Rchb. f. in Gard. Chron. n.s. 14: 524
+
+#### Species: Epidendrum flavovirens
+*Rchb. f., Beitr. Orch. Centr.-*
+
+**SUMMARY:**
+- Reg. 30: Misc. 16 (1844). Type: Guatemala, Bateman
+
+#### Species: Epidendrum clowesii
+*Batem. ex Lindl. in Bot.*
+
+**SUMMARY:**
+- hairs, ciliate) in reference to the fringed outer mar-
+
+**ETYMOLOGY:**
+- From the Latin ciliaris (fringed with
+
+**FLOWERING SEASON:**
+- June to August.
+
+**NOTE:**
+- E. ciliare is moth-pollinated. gins of the side lobes of the lip. Lindley. known. Rare. mala and El Salvador. green to white. 207 (1918). (1880). Am.: 85 (1866). (holo. K-LINDL.!). last two to three weeks. 161. E. hawkesii 160. E. diffusum 159. E. difforme 158. E. cristatum
+
+**HABITAT:**
+- On trees in humid oak forest.
+
+#### Species: Epidendrum viscidium
+*Lindl. in Bot. Reg. 26: Misc.*
+
+**SUMMARY:**
+- Coilostylis emarginata Raf., Fl. Tellur. 4: 37 (1838).
+
+#### Species: Epidendrum cuspidatum
+*Lodd., Bot. Cab. 1: t.10*
+
+**SUMMARY:**
+- co to northern South America. 158 161 moist forest. tricts. Uncommon. 88F; Photo. 157). 206 (1953). (1892). Epid.: 30 (1853). Epid.: 30 (1853). naea 19: 372 (1847). 81 (1840). (1816).
+
+#### Species: Epidendrum cristatum
+*Ruiz & Pav., Syst. Veg.:*
+
+**SUMMARY:**
+- 243 (1798). Type: Peru, Pozuzo, Ruiz and Pavon s.n. (holo. MA).
+
+#### Species: Epidendrum raniferum
+*Lindl., Gen. Sp. Orch. Pl.:*
+
+**SUMMARY:**
+- 109 (1831). E. calliferum Lem. in Jard. Fl. 4: Misc.65 (1853). E. hexadactylum Barb. Rod., Gen. Sp. Orch. Nov. 1: 56 (1877). E. longovarium Barb. Rodr., Gen. Sp. Orch. Nov. 1: 57 (1877). E. millei Schltr. in Fedde, Repert. Sp. Nov. Beih. 15: 54(1917). E. bathyschistum Schltr. in Fedde, Repert. Sp. Nov. 6: 36 (1919). E validum Schltr. in Fedde Repert Beih. 9: 15 (1921). E. alexandri Schltr., Anex. Mem. Inst. Butantan 1(4): E. rantierium Lindl. ex Sanchez., Orq. Mex. 47 (1930). Plant epiphytic or terrestrial, erect, growing in clumps, up to 1.3 m tall. (Photo. 158).
+
+**Stem:**
+- Stem numerous, reed-like.
+
+**Leaves:**
+- Leaves distichous, oblong-elliptic, erect, leathery, up to 23 cm long and 4 cm wide; leaf-sheath enveloping the stem, up to 6 cm long; leaves deciduous, falling from the lower part of the stem first leaving the leaf-sheaths.
+
+**Inflorescence:**
+- Inflorescence terminal, racemose, pendulous, up to 30 cm long; peduncle covered with large papery spathe-like bracts.
+
+**Flowers:**
+- Flowers several, opening together, slightly fragrant, up to 3 cm in diameter.
+
+**Sepals:**
+- Sepals and petals similar, green with purple spots; sepals up to 2.8 cm long and 8 mm wide; petals up to 2.6 cm long and 5 mm wide.
+
+**Lip:**
+- Lip adnate to the column-apex, irregularly 3-lobed, white base with purple spots and greenish towards the margins, up to 1.5 cm long; disc with a two lobed callus and a central ridge.
+
+**Column:**
+- Column club-shaped, white, up to 1.5 cm long.
+
+**GENERAL DISTRIBUTION:**
+- Mexico to Honduras, and northern South America.
+
+**DISTRIBUTION IN BELIZE:**
+- Cayo and Toledo Districts. Uncommon.
+
+**HABITAT:**
+- Terrestrial or on trees and rotten logs in moist forest.
+
+**FLOWERING SEASON:**
+- May and June, September and October. Flowers last two to three weeks.
+
+**ETYMOLOGY:**
+- From the Latin cristatus (crested, tassel-like at the tips) in reference to the appearance of the side lobes of the lip.
+
+**NOTE:**
+- Catling & Catling (1988) excluded E cristatum on the basis of a revision by E. Hágsater of a Gentle specimen reported by Correll (1965) and used the name E. raniferum Lindl. We consider them as synonymous and therefore use the earlier name.
+
+#### Species: Epidendrum cystosum
+*Ames in Bot. Mus. Leafl.*
+
+**SUMMARY:**
+- Harvard Univ. 2: 106 (1934). Type: Honduras, Yoro, J. B. Edwards 675 (holo. AMES). Plant epiphytic, up to 13 cm tall. Lateral sepals lanceolate, up to 9 mm long and 3 mm wide; dorsal sepal similar.
+
+**Roots:**
+- Roots fibrous, smooth.
+
+**Stem:**
+- Stem caespitose, erect, up to 5.5 cm long, with 6 leaves.
+
+**Leaves:**
+- Leaves ascending, linear-lanceolate, up to 5.5 cm long and 6 mm wide.
+
+**Inflorescence:**
+- Inflorescence fewflowered, usually 1 flower open at any time; rachis of raceme up to 7 mm long; bracts infundibuliform, up to 2.5 mm long.
+
+**Flowers:**
+- Flowers with sepals and petals light lavender and lip greenish-yellow with lavender margin.
+
+**Petals:**
+- Petals linear, up to 8.5 mm long.
+
+**Lip:**
+- Lip adnate to column, up to 8 mm long; free portion concave, up to 5 mm long and 5 mm wide, fleshy, rigid; callus elongate.
+
+**Column:**
+- Column up to 3.5 mm long.
+
+**GENERAL DISTRIBUTION:**
+- Belize and Honduras.
+
+**DISTRIBUTION IN BELIZE:**
+- Toledo District. Rare.
+
+**HABITAT:**
+- On trees in damp forest.
+
+**FLOWERING SEASON:**
+- April.
+
+**ETYMOLOGY:**
+- From the Greek cysto (hollow, pouched) in reference to the concave lip.
+
+#### Species: Epidendrum difforme
+*Jacq., Enum. Pl. Carib.:*
+
+**SUMMARY:**
+- 29 (1760). Type: Martinique, Jacquin (holo. BM!).
+
+#### Species: Epidendrum umbellatum
+*Sw., Prod. Veg. Ind. Occ.*
+
+**SUMMARY:**
+- 121 (1788). E. latilabrum Lindl. in Bot. Reg. 31: Misc.77 (1841). Neolehmannia difformis (Jacq.) Pabst in Bradea 2 (46): 306 (1978). Plant epiphytic, erect, spreading or pendent, in clumps. (Fig. 92J; Photo. 159). ous, falling from the bottom of the stem first leaving pale green, up to 15 cm long and 3 cm wide, decidupseudobulbs. lorifolium Schltr. in Fedde, Repert. Sp. Nov. Beih. E. palmigerum Rchb. f. in Gard. Chron. n.s. 12: 40
+
+**Stem:**
+- Stem reed-like, flexuous, somewhat flattened near the apex and concealed by the leaf-sheath, up to 60 cm long. Stem reed-like, E.
+
+**Leaves:**
+- Leaves distichous, every 4-6 cm, thick and fleshy, elliptic-lanceolate, up to 10 cm long and 3 cm wide. Leaves distichous, oblong-ligulate, growing in clumps, flattened except at base, without Plant terrestrial, erect, up to 1 m high.
+
+**Inflorescence:**
+- Inflorescence terminal, subumbellate, 1- to 18-flowered, with all the flowers opening together.
+
+**Flowers:**
+- Flowers strongly fragrant, pale green or whitish, up to 2.8 cm in diameter; bracts hyaline; pedicellate ovaries up to 4 cm long.
+
+**Sepals:**
+- Sepals and petals similar, slender, up to 3.2 cm long and 8 mm wide.
+
+**Lip:**
+- Lip adnate to the column-apex; lamina simple to 3-lobed, up to 1.8 cm long and 3.4 cm wide, transversely kidneyshaped; disc with two small calli at base.
+
+**Column:**
+- Column dilated above, up to 10 mm long.
+
+**GENERAL DISTRIBUTION:**
+- Florida, the West Indies, Mexico to northern South America.
+
+**DISTRIBUTION IN BELIZE:**
+- Cayo (including the Mountain Pine Ridge Reserve) and Toledo Districts. Uncommon.
+
+#### Species: Epidendrum imetrophyllum
+*Lindl. & Paxton in Bot.*
+
+**SUMMARY:**
+- Orch. PL.: 106 (1831). Type: Guyana, Parkin s.n.
+
+#### Species: Epidendrum imatophyllum
+*Lindl., Gen. Sp.*
+
+**SUMMARY:**
+- moid keel extending from the base to the apex of the flap-like calli at the base and a prominent erect sig3-lobed and basally truncate, a disc with 2 prominent dark yellow calli and column apex, a lip that is deeply divergent shape, flowers of a vivid carmine-lake with ing roots that are basal only, rather larger leaves of a similar E. hawkesii differs from E ibaguense in havling & Catling, 1988). Although these plants are reports were a misidentification of E. hawkesii (Catspecimens cannot be found. It is thought that these from Belize by Correll (1965) but the supporting
+
+**NOTE:**
+- S. E. ibaguense Kunth, has been reported
+
+**ETYMOLOGY:**
+- Named after Alex Hawkes, who was
+
+**FLOWERING SEASON:**
+- February to July. Flowers
+
+**HABITAT:**
+- On trees in citrus plantations, rarely
+
+**DISTRIBUTION IN BELIZE:**
+- Stann Creek District. prominent flap-like calli. Column straight, clavate, up rated from laterals by a 3 mm isthmus; disc with 2 and 1.2 cm wide, margins serrated; mid-lobe sepaLip adnate to the column, 3-lobed, up to 8 mm long obovate, acute, up to 1.5 cm long and 5.5 mm wide. up to 1.6 cm long and 4 mm wide; petals 7-nerved, 1.5 cm long and 4.5 mm wide; lateral sepal oblique, petals acute, nervose; dorsal sepal oblanceolate, up to pedicellate ovary erect, up to 5 cm long. Sepals and the lip, column-apex yellow; anther cap apple-green; wide, spreading, carmine with dark yellow calli on Flowers very showy, up to 3 cm long and 2.5 cm long; floral bracts triangular-ovate, up to 4 mm long. to 60-flowered, racemose; peduncle up to 50 cm the junior author of the original description.
+
+**GENERAL DISTRIBUTION:**
+- Central America. to 1 cm long. (Fig. 86; Photo. 161). 27:35 (1922). (1879). Mag. 4: 119 (1837). (holo. K-LINDL.!). lip. last one to two weeks. terrestrial. Rare. Inflorescence compact, densely many-flowered, 20- with dull purple, up to 11 cm long and 4.5 cm wide. concave,retuse apex,leathery, mottled or spotted sheaths flushed dark purple. Leaves oblong-elliptic, branching roots, up to 1 m tall, concealed at base by simple, rigidly erect, with profuse basal white Plant epiphytic, rarely terrestrial. Stem crowded, 14:2 (1966). Type: Nicaragua, Zelaya, A. H. Heller &
+
+#### Species: Epidendrum hawkesii
+*A. H. Heller in Phytologia*
+
+**SUMMARY:**
+- spreading) in reference to the rather diffuse pani-
+
+**ETYMOLOGY:**
+- From the Latin diffusus (loosely
+
+**FLOWERING SEASON:**
+- August and September. ing the Mountain Pine Ridge Reserve). Uncommon.
+
+**DISTRIBUTION IN BELIZE:**
+- Cayo District (includ-
+
+**GENERAL DISTRIBUTION:**
+- Cuba, the West Indies, disc with a 3-pronged callus. Column greenish, up to pointed at the apex, up to 7 mm long and 5 mm wide; wide. Lip adnate with the column,heart-shaped, form, reflexed, up to 8 mm long and less than 1 mm mm long and 2.3 mm wide. Petals spreading, filiries up to 5 mm long. Sepals lanceolate, acute, up to 9 to 1 cm in diameter, reddish-brown; pedicellate ovamany-flowered, up to 27 cm long. Flowers small, up wide. Inflorescence terminal, diffuse, branched, the edges and beneath, up to 7 cm long and 2.5 cm leathery, dark green, strongly tinged with purple on to 16 on the upper part of the stem, oblong-elliptic, ered with papery leaf-sheaths. Leaves distichous, up reed-like, reddish-purple, flattened, lower part covPlant epiphytic or terrestrial, erect-spreading. Stem Seraphyta diffusa (Sw.) Pfitzer ex Fawc. & Rendle,
+
+#### Species: Epidendrum diffusum
+*Sw., Prod. Veg. Ind. Occ.:*
+
+**NOTE:**
+- In Guatemala it is commonly called 'Maria unusual form or shape) in reference to the rather s. E imatophyllum is usually found in association with a nest of ants, and often found growing with a red-flowered bromeliad (Aechmia sp.) and occasionally with Coryanthes sp.
+
+**ETYMOLOGY:**
+- From the Latin difformis (of From the Greek imation (a piece of cloth) and phylon (leat).
+
+**FLOWERING SEASON:**
+- May and June. Flowers last A. D. Hawkes 8344 (holo. F). culate inflorescence. Flowers last several weeks. January and, intermittently, to October.
+
+**HABITAT:**
+- On trees in open forest. On trees in riverine forest and citrus plantations.
+
+**SUMMARY:**
+- from above, x 13; F: anther cap, 2 views, x 13; G: pollinia, x 13; H: fruit, x ⅓. Drawn by Susanna Stuart-Smith from R.H. the sheaths which later fall to leave a circular leafscar; leaf-sheaths up to 6 cm long enveloping the stem. (Fig. 87; Photo. 162, 163).
+
+**Inflorescence:**
+- Inflorescence terminal, may be branched, flattopped, up to 70 cm long; flowers opening in succession with about 10-12 open at any one time.
+
+**Flowers:**
+- Flowers pinkish-purple, non-resupinate, densely clustered, from 2 to 2.5 cm in diameter.
+
+**Sepals:**
+- Sepals elliptic, up to 1.6 cm long and 0.4 cm broad.
+
+**Petals:**
+- Petals elliptic, acute, up to 1.7 cm long and 0.7 cm broad.
+
+**Lip:**
+- Lip adnate to the column for the whole length, obscurely 3-lobed, up to 0.8 cm long and 0.6 cm broad; side lobes very shallow, fimbriate or erose; mid-lobe oblong to ovate; callus 3-keeled, with side keels truncate and mid-keel running to base of mid-lobe.
+
+**Column:**
+- Column green, with a wavy margin, up to 1 cm long.
+
+**GENERAL DISTRIBUTION:**
+- Mexico to Guyana, Brazil and Peru.
+
+**DISTRIBUTION IN BELIZE:**
+- Orange Walk, Stann Creek and Toledo Districts. Infrequent, but locally common.
+
+#### Species: Epidendrum isomerum
+*Schltr. in Fedde, Re-*
+
+**SUMMARY:**
+- pert. Nov. Sp. 2: 132 (1906). Type: Guatemala, H. von Türckheim 167 (holo. Bt; lecto. US).
+
+#### Species: Epidendrum guayaense
+*Schltr. in Fedde, Repert.*
+
+**SUMMARY:**
+- Spec. Nov. Beih. 8: 73 (1921). Plant epiphytic, in dense clumps. (Fig. 92M; Photo. 164).
+
+**Stem:**
+- Stem wiry, pendulous, often branched, up to 115 cm long; aerial roots often produced along the stem.
+
+**Leaves:**
+- Leaves distichous, 1 cm apart, deciduous in lower parts with age, longlinear, pointed, up to 10 cm long and 7 mm wide.
+
+**Inflorescence:**
+- Inflorescence terminal with a single flower.
+
+**Flower:**
+- Flower fragrant, greenish, yellowing with age, up to 2 cm in diameter, sessile; pedicellate ovary stout, concealed by subtending bracts.
+
+**Sepals:**
+- Sepals and petals similar, linear-lanceolate; sepals up to 1.3 cm long and 2 mm wide; petals up to 1.3 cm long and 1.5 mm wide.
+
+**Lip:**
+- Lip adnate to the column, triangular-lanceolate, channelled, up to 1.2 cm long with a free terminal portion of up to 0.9 cm long; callus linear, sulcate.
+
+**Column:**
+- Column straight, up to 5 mm long, clinandrium bilobed, surpassing the column.
+
+**GENERAL DISTRIBUTION:**
+- Mexico to Panama.
+
+**DISTRIBUTION IN BELIZE:**
+- Cayo, Stann Creek and Toledo Districts. Uncommon.
+
+**HABITAT:**
+- On trees in moist forest and citrus plantations.
+
+**FLOWERING SEASON:**
+- August to October. Flowers last seven to ten days.
+
+**ETYMOLOGY:**
+- From the Greek iso (equal) and meros (parts) presumably in reference to the similarity between the sepals and petals.
+
+#### Species: Epidendrum macroclinium
+*E. Hágsater in Or-*
+
+**SUMMARY:**
+- quídea (México) 10(2): 319 (1987). Type: Mexico, Chiapas, Thurston T-1952 in Hágsater 5484 (holo. AMO). Plant epiphytic, small, low growing, creeping habit, up to 30 cm tall. (Fig. 86L; Photo. 165).
+
+**Stem:**
+- Stem somewhat flattened, completely enclosed in leaf-sheaths, up to 13 cm long and 0.2 cm in diameter.
+
+**Leaves:**
+- Leaves several, alternate along the length of the stem, lanceolate, thickened, fleshy, up to 3.5 cm long and 0.9 cm wide.
+
+**Inflorescence:**
+- Inflorescence terminal, branched, up to 17.5 cm long; peduncle segmented, very slender, enclosed in dry papery sheaths.
+
+**Flowers:**
+- Flowers produced in sequence, only one open at a time, not scented, up to 1 cm in diameter; pedicellate ovary pink, with a sack-like vesicle about 0.2 cm in diameter just behind the lip.
+
+**Sepals:**
+- Sepals oblong, semitransparent pink, up to 0.6 cm long and 0.3 cm wide.
+
+**Petals:**
+- Petals slender, up to 0.6 cm long and 0.1 cm wide.
+
+**Lip:**
+- Lip adnate to the column, obreniform, base cuniform, lamina tubular, whitish, up to 0.6 cm long; lateral lobes semicircular; callus near base of each lobe.
+
+**Column:**
+- Column up to 5 mm long; clinandrium prominent.
+
+**GENERAL DISTRIBUTION:**
+- Mexico to Panama.
+
+**DISTRIBUTION IN BELIZE:**
+- Cayo and Toledo Districts. Very rare.
+
+**HABITAT:**
+- On trees in moist forest.
+
+**FLOWERING SEASON:**
+- December to March. Flowers last one to two weeks.
+
+**ETYMOLOGY:**
+- From the Greek macro (large) and cline (a bed or couch) in reference to the large clinandrium.
+
+**NOTE:**
+- S. E physodes Rchb. f. has been reported from Belize but Hágsater (1987) has examined these specimens and found them to be E macroclinium. E. physodes appears to be restricted to Costa Rica.
+
+#### Species: Epidendrum nitens
+*Rchb. f., Beitr. Orch. Centr.*
+
+**SUMMARY:**
+- Am.: 82 (1866). Type: Guatemala, Las Nubes, H. Wendland (holo. W, not located). up to 18 cm long and 5 cm wide, with leaf-sheaths up bulbs.
+
+**Leaves:**
+- Leaves distichous, lanceolate, purple-tinged, cane-like stems up to 80 cm tall, without pseudoPlant epiphytic or terrestrial, variable, a collection of
+
+#### Species: Epidendrum densiflorum
+*Hook. in Bot. Mag. 66:*
+
+#### Species: Epidendrum floribundum
+*Kunth, Nov. Gen. Sp. 1:*
+
+**SUMMARY:**
+- Veg.: 243 (1798). Type: Peru, Muña, Pavon (holo.
+
+#### Species: Epidendrum paniculatum
+*Ruiz & Pav., Syst.*
+
+**SUMMARY:**
+- 'Butterfly orchid' (Halcrow & Halcrow, 1967).
+
+**NOTE:**
+- This plant is commonly known as the
+
+**ETYMOLOGY:**
+- From the Latin nocturnus (night-
+
+**FLOWERING SEASON:**
+- June to October, and Febru-
+
+**HABITAT:**
+- On trees and shrubs in moist forest, and Toledo Districts. Common. the Mountain Pine Ridge Reserve), Stann Creek and
+
+**DISTRIBUTION IN BELIZE:**
+- Belize, Cayo (including Mexico to northern South America.
+
+**GENERAL DISTRIBUTION:**
+- Florida, the West Indies, up to 2.5 cm long. (Fig. 88; Photo. 167). to 5 cm long and 3 mm wide. Column dilated above, yellow base; central lobe much longer and pointed up adnate to the column, deeply 3-lobed, white with a rolled back, linear-lanceolate, up to 3 cm long. Lip and petals similar, pale to dark yellow with the edges leafless; ovary and pedicel up to 5.5 cm long. Sepals from old inflorescences even when the stems are up to 11 cm in diameter; flowers may be produced together on any one stem. Flowers strongly fragrant, flowered, usually not more than two flowers open 4 cm wide. Inflorescence terminal, 1- to severaltichous, oblong-linear, leathery, up to 11 cm long and becoming brown and papery with age. Leaves diswide; stem covered with leaf-sheaths, initially green, cm tall. Stem strongly flattened above, up to 1.25 cm Plant epiphytic, a cluster of reed-like stems up to 60 Fl. Descr. Antill. Fr. 1: 143 (1939).
+
+#### Species: Epidendrum nocturnum
+*var. angustifolium Stehlé,*
+
+**SUMMARY:**
+- & Virgin Isl. 5(2): 200 (1924). Amphiglottis nocturna Britt. in Sci. Surv. Porto Rico Spec. Nov. Beih. 9:90 (1921).
+
+#### Species: Epidendrum oliganthum
+*Schltr. in Fedde, Repert.*
+
+**SUMMARY:**
+- Auliza nocturna (Jacq.) Small, Fl. Miami: 56 (1913). Soc. Roy. Belg. 43: 323 (1907).
+
+#### Species: Epidendrum nocturnum
+*var. minus Cogn. in Bull.*
+
+**SUMMARY:**
+- t.3791(1840). 353, t. 86 (1816). BM!). flowering). ary. citrus plantations. Lex. Gen. Phanerog.: 429 (1904). Phaedrosanthus nocturnus Kuntze in Post & Kuntze, E. buanaventurae Lehm. & Kraenzl. in Engl. Bot. E. bahiense Rchb. f. in Hamb. Gartenz. 15: 53 E spruceanum Lindl., Fol. Orch. Epid.: 80 (1853). E. discolor A. Rich. & Gal. in Ann. Sci. Nat. ser. 3(3):
+
+#### Species: Epidendrum tridens
+*Poepp. & Endl., Nov. Gen. Sp. 2:*
+
+**SUMMARY:**
+- Nyctosma nocturna Raf., Fl. Tellur. 2: 9 (1837).
+
+#### Species: Epidendrum carolinianum
+*Lam., Encycl. 1: 182*
+
+**SUMMARY:**
+- as illustration associated with Select. Stirp. cited (1763). Type: Martinique, Jacquin (holo. designated Carib.: 29 (1760), & Select. Stirp. Am.: 225, t. 139
+
+#### Species: Epidendrum nocturnum
+*Jacq., Enum. Pl.*
+
+**SUMMARY:**
+- Caroline Whitfoord as E. coriifolium (1791, K!).
+
+**NOTE:**
+- E. nitens is probably the plant listed by in reference to the shiny appearance of the flowers.
+
+**ETYMOLOGY:**
+- From the Latin nitens (shiny, glossy) Flowers last individually two to three weeks.
+
+**FLOWERING SEASON:**
+- September and October.
+
+**HABITAT:**
+- On trees in dense wet forest.
+
+**DISTRIBUTION IN BELIZE:**
+- Toledo District. Un-
+
+**GENERAL DISTRIBUTION:**
+- Mexico, Belize, Guateapex, up to 6 mm long. (Photo. 166). wide; disc bicallose at base. Column bilobed at the the middle of each side, up to 8 mm long and 7 mm wide. Lip adnate to the column, slightly contracted in against the lip. Petals up to 1.1 cm long and 1 mm and 4 mm wide, keeled at the apex, clasping the petals opening upwards. Lateral sepals up to 1.2 cm long Dorsal sepal up to 1.2 cm long and 4 mm wide, fragrant, sessile; pedicellate ovary up to 8 mm long. floral-bracts. Flowers fleshy, entirely greenish, not lower parts of flower concealed by fleshy green long, with up to 11 distichous flowers; ovaries and 2.5 cm wide. Inflorescence terminal, up to 15 cm 3-4 cm apart, thickened, shiny, up to 15.5 cm long and after the leaf-blades have fallen. Leaves distichous, which are green at first, becoming brown and papery 21 cm long, almost totally covered with leaf-sheaths give rise to several erect stems. Stems flattened, up to Plant epiphytic, creeping, branched rhizomes which
+
+#### Species: Epidendrum johannis
+*Schltr. in Fedde, Repert. Sp.*
+
+**SUMMARY:**
+- Jahrb. 26: 470 (1899). mala and Costa Rica. Nov. 16:444 (1920). (1859). 22 (1845). 2 (1838). (1783). above !). common.
 
 ---
