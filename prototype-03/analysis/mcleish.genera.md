@@ -76,6 +76,8 @@
 ### Genus: Erythrodes Bl.
 *Source: page-013*
 
+> **Needs review** (foreign genus etymology, evidence points to Corymborkis)
+
 **SUMMARY (uncertain):**
 - xico, Belize, Guatemala and Costa Rica.
 
@@ -89,6 +91,8 @@
 
 ### Genus: Corymborkis Thou.
 *Source: page-013*
+
+> **Needs review** (discontinuity)
 
 **SUMMARY (uncertain):**
 - Species descriptions CHAPTER 3 known from Belize. (1854).
@@ -673,6 +677,10 @@
 
 ### Genus: Cranichis Sw.
 *Source: page-040*
+
+> **Needs review** (possible cross genus content)
+
+> **Needs review** (foreign genus etymology, evidence points to Habenaria)
 
 **SUMMARY (uncertain):**
 - Terrestrial herbs with one or more fleshy tuberoids and fibrous roots. Dorsal sepal commonly erect and hood-like. Lateral sepals spreading or reflexed. This is the largest genus of terrestrial orchids, with about 600 species widely distributed in tropical and subtropical parts of both the Old and New Worlds. Thirteen are known from Belize, of which we have seen eight. Although generally inconspicuous, the flowers of Habenaria are rather complex. In addition to the petals and lip often being deeply divided, there are two distinctly stalked stigmas at the base of the column, and the viscidia (to which the pollinia are attached) are often borne on long stalks derived from the rostellum. Most species of Habenaria are probably mothpollinated and, where the flowers have a fragrance, this is generally most noticeable at night.
@@ -1470,6 +1478,8 @@
 ### Genus: Malaxis Sw.
 *Source: page-055*
 
+> **Needs review** (foreign genus etymology, evidence points to Liparis)
+
 **SUMMARY (uncertain):**
 - the American plant from the Asian. can tropics and subtropics. last about a week. 600 m. Uncommon. 40). Plant terrestrial to semi-epiphytic, erect, up to 40 cm Liparis nervosa auct. non (Thunb.) Lindl., Gen. Sp. Type: Brazil, Chamberlain s.n. (holo. K-LINDL.!). Liparis elata Lindl. in Bot. Reg. 14: t.1175 (1828). species, L. loeselii (L.) L.C. Rich. shining) referring to the glossy leaves of the type
 
@@ -1480,6 +1490,10 @@
 
 ### Genus: Liparis L.C. Rich.
 *Source: page-055*
+
+> **Needs review** (discontinuity)
+
+> **Needs review** (discontinuity)
 
 **SUMMARY (uncertain):**
 - become one of the first casualties of deforestation. evergreen forests throughout Belize V. planifolia has 1988). Although formerly widespread in semibeen reidentified as V. planifolia (Catling & Catling previously identified as V. pomposa Schiede, has
@@ -1506,6 +1520,8 @@
 
 ### Genus: Eulophia R.Br. ex Lindl.
 *Source: page-058*
+
+> **Needs review** (possible cross genus content)
 
 **SUMMARY (uncertain):**
 - Terrestrial or rarely epiphytic herbs. A large genus of over 200 species, widespread in the tropics but most numerous in Africa. One is known from Belize.
@@ -1662,6 +1678,8 @@
 ### Genus: Galeandra Lindl.
 *Source: page-063*
 
+> **Needs review** (discontinuity)
+
 **SUMMARY (uncertain):**
 - prefer to leave Eriopsis in Cyrtopodiinae. moved it to his section 'Misfits and Leftovers'. We the subtribe Cyrtopodiinae but in his revision of 1993
 
@@ -1675,6 +1693,8 @@
 
 ### Genus: Clowesia Lindl.
 *Source: page-065, page-067*
+
+> **Needs review** (foreign genus etymology, evidence points to Catasetum)
 
 **SUMMARY (uncertain):**
 - sometimes known as the 'Pipe Orchid'. shoots appear at the end of the season. rium (Bechtel et al., 1992). by pressure on the stipe. last about a week. Dahl.). incurved above the middle, up to 3.5 cm long. Female flowers greenish or yellowishbeak-like apex, up to 4 cm long; antennae up to 2.5 in, up to 3 cm long and 2.3 cm wide. Male Flowers with the lip uppermost in both sexes; pedior rarely 60 cm long; peduncle stout and glaucous. leaves fall. Pseudobulbs conicalcm tall. non Kunth. t.3823 (1841). Type: Guatemala, Ure Skinner s.n. Catasetum integerrimum Hook. in Bot. Mag. 67: ages at the base of the column of the male flower. seta (bristle), referring to the antenna-like append- showing the anther bed, x 3; F: anther cap, 2 views, x 3; G: anther cap when spread, × 3; H: pollinia, 3 views, x 7. Drawn by
@@ -1707,6 +1727,8 @@
 
 ### Genus: Cycnoches Lindl.
 *Source: page-068*
+
+> **Needs review** (ambiguous genus boundary)
 
 **SUMMARY (uncertain):**
 - sickly-sweet fragrance Plants frequently produce both male and female flowers but usually in separate racemes and at different times. Mixed racemes and hermaphrodite flowers occasionally occur. In both this genus and Catasetum, light intensity has been shown to influence sex expression (Gregg, 1975). Plants in full sunlight are more likely to produce female inflorescences than those growing in shade. The pollination mechanism involves a bee, from the genus Euglossa, landing on the lip of a male flower. The lip, which has a flexible claw, swings down under the weight of the bee, causing the bee's abdomen to touch the anther-cap, which discharges the pollinia. When the bee then visits a female flower it lands on the lip, attracted by the odour located at the apex of the column, and when dropping off, the pollinia are caught by the finger-like rostellar processes of the column (van de Pijl & Dodson, 1966).
@@ -2077,6 +2099,8 @@
 ### Genus: Huntleya Lindl.
 *Source: page-081*
 
+> **Needs review** (discontinuity)
+
 **FLOWERING SEASON:**
 - May and June. tain Pine Ridge Reserve). Rare. winged at apex. (Fig. 35). Hawkes in Orquidea 25: 7 (1963). teenth century. Belize. flowers. (1882-86). 323 (1856).
 
@@ -2180,6 +2204,10 @@
 
 ### Genus: Maxillaria Ruiz & Pav.
 *Source: page-089, page-090, page-091, page-092, page-094, page-095, page-096, page-098, page-099, page-100, page-101, page-103*
+
+> **Needs review** (ambiguous genus boundary)
+
+> **Needs review** (ambiguous genus boundary)
 
 **SUMMARY (uncertain):**
 - cence 1-flowered, several arising from the axils of bracts at the base of the pseudobulb. (Fig. 46K; Photo. 64).
@@ -2897,6 +2925,8 @@
 ### Genus: Mormolyca Fenzl
 *Source: page-104*
 
+> **Needs review** (ambiguous genus boundary)
+
 ---
 
 ### Genus: Trigonidium Lindl.
@@ -2906,6 +2936,8 @@
 
 ### Genus: Coryanthes Hook.
 *Source: page-107, page-108*
+
+> **Needs review** (foreign genus etymology, evidence points to Trigonidium)
 
 **SUMMARY (uncertain):**
 - (1831). (1827). (holo. K!). shaped epichile of the lip. another flower. absence of such ants. One is known from Belize. glands; pollinia 2, waxy. hanging, commonly only other species with similar peduncles is Mormoconsiderable period. Amongst Belizean orchids, the the numerous, slender peduncles which persist for a even when not flowering, are easily recognisable by Mouth' orchid. Plants tend to form large clumps and,
@@ -3256,6 +3288,8 @@
 
 ### Genus: Ionopsis Kunth
 *Source: page-124*
+
+> **Needs review** (discontinuity)
 
 **SUMMARY (uncertain):**
 - KEY TO SPECIES 1.L satyrioides 2. 1. utricularioides mauve-veined, with undulate margins. (Fig. 58K; Photo. 98).
@@ -3831,6 +3865,8 @@
 ### Genus: Trichopilia Lindl.
 *Source: page-142*
 
+> **Needs review** (possible cross genus content)
+
 **SUMMARY (uncertain):**
 - folded at the base, up to 24 cm long and 4.6 cm wide. (Fig. 68; Photo. 115).
 
@@ -4096,6 +4132,8 @@
 ### Genus: Coelia Lindl.
 *Source: page-153*
 
+> **Needs review** (foreign genus etymology, evidence points to Arpophyllum)
+
 **SUMMARY (uncertain):**
 - could not be found (Catling & Catling 1988). from Belize on the basis of a specimen at MO which (1965) and Siegerist (1984) reported A. spicatum istically shaped, folded and fleshy leaves. Correll occurs only in Mexico and differs in its charactspicatum but, according to Garay (1974), the latter
 
@@ -4121,6 +4159,10 @@
 
 ### Genus: Arpophyllum La Llave & Lex.
 *Source: page-153*
+
+> **Needs review** (discontinuity)
+
+> **Needs review** (discontinuity)
 
 **SUMMARY (uncertain):**
 - hard, sharp-pointed tip) in reference to the mucronate
