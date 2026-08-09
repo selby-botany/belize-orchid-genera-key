@@ -5,3 +5,26 @@
 {"genus_id": "psilochilus", "character_id": "lip_lobing", "state_id": "three_lobed", "quote": "3-lobed", "source_field": "Lip", "source_image": "page-050.jpeg"}
 {"genus_id": "psilochilus", "character_id": "lip_attachment", "state_id": "free", "quote": "Lip free", "source_field": "Lip", "source_image": "page-050.jpeg"}
 {"genus_id": "psilochilus", "character_id": "pollinia_count", "state_id": "four", "quote": "pollinia 4", "source_field": "Column", "source_image": "page-050.jpeg"}
+{"genus_id": "platythelys", "character_id": "lip_spur_or_sac", "state_id": "present", "quote": "including a thick spur", "source_field": "Lip", "source_image": "page-016.jpeg"}
+{"genus_id": "pelexia", "character_id": "lip_attachment", "state_id": "joined_to_column", "quote": "Lip attached to base of column", "source_field": "Lip", "source_image": "page-028.jpeg"}
+{"genus_id": "epistephium", "character_id": "plant_habit", "state_id": "terrestrial", "quote": "Terrestrial herbs", "source_field": "SUMMARY", "source_image": "page-050.jpeg"}
+{"genus_id": "epistephium", "character_id": "leaf_texture", "state_id": "leathery", "quote": "coriaceous", "source_field": "Leaves", "source_image": "page-050.jpeg"}
+{"genus_id": "epistephium", "character_id": "inflorescence_position", "state_id": "terminal", "quote": "Inflorescences terminal", "source_field": "Inflorescences", "source_image": "page-050.jpeg"}
+{"genus_id": "epistephium", "character_id": "inflorescence_flower_count", "state_id": "many_flowered", "quote": "many-flowered", "source_field": "Inflorescences", "source_image": "page-050.jpeg"}
+{"genus_id": "epistephium", "character_id": "lip_attachment", "state_id": "joined_to_column", "quote": "Lip adnate to the column", "source_field": "Lip", "source_image": "page-050.jpeg"}
+{"genus_id": "comparettia", "character_id": "plant_habit", "state_id": "epiphytic", "quote": "Epiphytic herbs", "source_field": "SUMMARY", "source_image": "page-122.jpeg"}
+{"genus_id": "comparettia", "character_id": "leaf_texture", "state_id": "leathery", "quote": "coriaceous", "source_field": "Leaves", "source_image": "page-122.jpeg"}
+{"genus_id": "comparettia", "character_id": "column_shape", "state_id": "not_winged", "quote": "without wings", "source_field": "Column", "source_image": "page-122.jpeg"}
+{"genus_id": "comparettia", "character_id": "pollinia_count", "state_id": "two", "quote": "pollinia 2", "source_field": "Column", "source_image": "page-122.jpeg"}
+{"genus_id": "leochilus", "character_id": "plant_habit", "state_id": "epiphytic", "quote": "epiphytic herbs", "source_field": "SUMMARY", "source_image": "page-126.jpeg"}
+{"genus_id": "leochilus", "character_id": "pseudobulb_presence", "state_id": "present", "quote": "pseudobulbous stems", "source_field": "SUMMARY", "source_image": "page-126.jpeg"}
+{"genus_id": "leochilus", "character_id": "inflorescence_flower_count", "state_id": "few_flowered", "quote": "few- flowered", "source_field": "Inflorescences", "source_image": "page-126.jpeg"}
+{"genus_id": "leochilus", "character_id": "lip_attachment", "state_id": "joined_to_column", "quote": "Lip adnate to base of column", "source_field": "Lip", "source_image": "page-126.jpeg"}
+{"genus_id": "leochilus", "character_id": "pollinia_count", "state_id": "two", "quote": "pollinia 2", "source_field": "Column", "source_image": "page-126.jpeg"}
+{"genus_id": "leucohyle", "character_id": "plant_habit", "state_id": "epiphytic", "quote": "Plant epiphytic", "source_field": "SUMMARY", "source_image": "page-128.jpeg"}
+{"genus_id": "psygmorchis", "character_id": "plant_habit", "state_id": "epiphytic", "quote": "epiphytes", "source_field": "SUMMARY", "source_image": "page-140.jpeg"}
+{"genus_id": "psygmorchis", "character_id": "pseudobulb_presence", "state_id": "absent", "quote": "lacking pseudobulbs", "source_field": "SUMMARY", "source_image": "page-140.jpeg"}
+{"genus_id": "psygmorchis", "character_id": "lip_lobing", "state_id": "four_lobed", "quote": "4-lobed", "source_field": "Lip", "source_image": "page-140.jpeg"}
+{"genus_id": "psygmorchis", "character_id": "column_shape", "state_id": "winged", "quote": "Column winged", "source_field": "Column", "source_image": "page-140.jpeg"}
+{"genus_id": "psygmorchis", "character_id": "pollinia_count", "state_id": "two", "quote": "pollinia 2", "source_field": "Column", "source_image": "page-140.jpeg"}
+{"genus_id": "psygmorchis", "character_id": "pollinia_attachment", "state_id": "with_caudicle_or_stipe", "quote": "narrow stipe", "source_field": "Column", "source_image": "page-140.jpeg"}
