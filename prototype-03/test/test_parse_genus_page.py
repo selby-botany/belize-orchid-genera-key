@@ -204,6 +204,74 @@ class SegmentFieldsTest(unittest.TestCase):
         self.assertNotIn("SUBTRIBE", fields["NOTE"]["text"])
         self.assertEqual(fields["NOTE"]["text"], "Reported once.")
 
+    def test_plate_photo_sidebar_numbers_are_excluded_regardless_of_position(
+        self,
+    ) -> None:
+        # Real full-run finding (module docstring, finding 7): a bare
+        # concatenated run of plate/photo numbers ("111112 113114 115",
+        # page-142.jpeg) printed outside the running-head band, previously
+        # swallowed whole as a genus's SUMMARY.
+        block = [_line("111112", mid_y=0.858), _line("113114", mid_y=0.878)]
+        self.assertEqual(MODULE.segment_fields(block), {})
+
+    def test_lone_stray_capital_letter_is_excluded(self) -> None:
+        # Real full-run finding: "B" alone on its own line (page-062.jpeg),
+        # a caption panel label split off by OCR from its own description.
+        block = [_line("Roots adventitious.", mid_y=0.3), _line("B", mid_y=0.68)]
+        fields = MODULE.segment_fields(block)
+        self.assertEqual(fields["Roots"]["text"], "Roots adventitious.")
+        self.assertNotIn("SUMMARY", fields)
+
+    def test_trailing_figure_caption_block_is_dropped(self) -> None:
+        # Real full-run finding, page-062.jpeg (Eriopsis): genuine
+        # diagnostic fragments precede a full plate caption on the same
+        # plate page. The caption -- and only the caption -- is dropped.
+        block = [
+            _line("Column short, thick.", mid_y=0.3),
+            _line(
+                "Figure 25. Eriopsis biloba. A: habit, x 2/3; B: flower, x 1.",
+                mid_y=0.75,
+            ),
+            _line(
+                "H: column, x 4; J: anther cap, x 14. Drawn by Beverley Mears.",
+                mid_y=0.76,
+            ),
+        ]
+        fields = MODULE.segment_fields(block)
+        self.assertNotIn("Figure 25", fields.get("Column", {}).get("text", ""))
+        self.assertEqual(fields["Column"]["text"], "Column short, thick.")
+
+    def test_panel_label_fragment_without_its_own_trigger_line_is_excluded(
+        self,
+    ) -> None:
+        # Real full-run residual case, page holding Sarcoglottis's
+        # continuation: a caption's panel-label list ("E: column and lip,
+        # x 10; F: column from front, x 13;") can appear on a page whose
+        # own "Figure <N>." trigger line fell on a different page's span,
+        # so the trailing-block truncation in _filter_furniture never
+        # sees it. Caught instead by _is_page_furniture's own per-line
+        # check: no real diagnostic sentence starts with "<letter>:".
+        block = [
+            _line("Column short.", mid_y=0.3),
+            _line("E: column and lip, x 10; F: column from front, x 13.", mid_y=0.7),
+        ]
+        fields = MODULE.segment_fields(block)
+        self.assertEqual(fields["Column"]["text"], "Column short.")
+
+    def test_trailing_photo_index_sidebar_is_dropped(self) -> None:
+        # Real full-run finding, page-142.jpeg (Trichopilia/Bletia
+        # boundary): a "Photographs" heading followed by an unrelated
+        # numbered species list, previously swallowed as SUMMARY.
+        block = [
+            _line("A genus of about 30 species.", mid_y=0.71),
+            _line("Photographs", mid_y=0.82),
+            _line("111. O. ensatum", mid_y=0.85),
+            _line("115. Trichopilia tortillis", mid_y=0.9),
+        ]
+        fields = MODULE.segment_fields(block)
+        self.assertNotIn("Photographs", fields["SUMMARY"]["text"])
+        self.assertNotIn("ensatum", fields["SUMMARY"]["text"])
+
 
 class FindSpeciesEntriesTest(unittest.TestCase):
     """Species entries are recognized only under their own genus name."""

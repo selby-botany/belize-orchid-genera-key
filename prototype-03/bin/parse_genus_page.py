@@ -62,6 +62,28 @@ findings from that real page shaped the design directly:
    run (182, 184, ...) still print it at the top. `cross_check_running_
    head` and `_is_page_furniture` now check both bands (see
    `BOTTOM_BAND_MID_Y`).
+7. A plate/photo page's caption block and photo-index sidebar have no
+   per-line furniture signature -- unlike a folio number or running head,
+   their lines read as ordinary sentences ("Figure 25. Eriopsis biloba.
+   A: habit, x 2/3; ... Drawn by Beverley Mears from living material in
+   Belize.", or a "Photographs" heading followed by a numbered list of
+   unrelated species). Undetected, this content fell into whichever
+   genus happened to be open at that point in reading order, landing in
+   its `SUMMARY` field as if it were diagnostic prose. Found while
+   grounding Phase 2's pilot-genus selection in real data: 36 of the 65
+   genus records carrying a `SUMMARY` field (55%) contained caption or
+   photo-index text, not McLeish's own genus description. A related
+   symptom -- bare plate/photo numbers printed outside the running-head
+   band ("42", "41", "43", "45"; or several run together with no
+   separator, "111112 113114 115") -- is the same root problem: numeric
+   sidebar content this parser didn't yet know how to recognize as not
+   being body text. Fixed in `_is_page_furniture` (any bare-digit line,
+   not just ones in the running-head band, and a lone stray capital
+   letter -- a caption panel label split off from its own description by
+   OCR) and `_filter_furniture` (a `Figure <N>.` or `Photographs` trigger
+   line truncates everything from that point to the end of the given
+   span, since both kinds are always trailing content on a plate page in
+   this book's layout).
 """
 
 from __future__ import annotations
@@ -321,22 +343,55 @@ def cross_check_running_head(lines: list[dict[str, Any]]) -> dict[str, Any] | No
 def _is_page_furniture(line: dict[str, Any]) -> bool:
     """True for a line that is page furniture, not body content.
 
-    Covers three kinds found on the real pages: a bare folio number or an
-    informative running head (both confined to the top or bottom `mid_y`
-    band -- see `cross_check_running_head`), and a tribe/subtribe heading,
-    which can appear anywhere between two genus blocks.
+    Covers six kinds found on the real pages: a bare folio number or a
+    plate/photo sidebar number (a real diagnostic sentence is never just
+    digits, so this applies regardless of position on the page -- module
+    docstring, finding 7); an informative running head (confined to the
+    top or bottom `mid_y` band -- see `cross_check_running_head`); a
+    tribe/subtribe heading, which can appear anywhere between two genus
+    blocks; a lone stray capital letter (a caption panel label, e.g. "B"
+    alone on its own line, split off from its own description by OCR --
+    finding 7 again); and a caption panel-label fragment ("E: column and
+    lip, x 10; F: column from front, x 13;" -- a real diagnostic sentence
+    never starts with a single letter and a colon) that survives
+    `_filter_furniture`'s trailing-block truncation because its own
+    `Figure <N>.` trigger line fell on a different page's span (finding 7,
+    residual case).
     """
     text = line["text"].strip()
     if TRIBE_HEADING_PATTERN.match(text):
         return True
+    if (
+        re.match(r"^\d+$", text)
+        or re.match(r"^[A-Z]\.?$", text)
+        or re.match(r"^[A-Z]:\s", text)
+    ):
+        return True
     if TOP_BAND_MID_Y < line["mid_y"] < BOTTOM_BAND_MID_Y:
         return False
-    return bool(RUNNING_HEAD_PATTERN.match(text) or re.match(r"^\d+$", text))
+    return bool(RUNNING_HEAD_PATTERN.match(text))
+
+
+# A plate/photo caption ("Figure 25. Eriopsis biloba. A: habit, ...") or a
+# photo-index sidebar ("Photographs" followed by a numbered species list)
+# has no per-line furniture signature -- its lines read as ordinary
+# sentences. Both are always trailing content on a plate/continuation page
+# in this book's layout, so once the trigger line is found, everything
+# from it to the end of the given span is dropped (module docstring,
+# finding 7), not just the trigger line itself.
+_CAPTION_BLOCK_START_PATTERN = re.compile(r"^(Figure\s+\d+\.|Photographs?\b)")
 
 
 def _filter_furniture(lines: list[dict[str, Any]]) -> list[dict[str, Any]]:
-    """Drop running heads, folio numbers, and tribe/subtribe headings."""
-    return [line for line in lines if not _is_page_furniture(line)]
+    """Drop running heads, folio numbers, tribe/subtribe headings, stray
+    plate/photo sidebar numbers and letters, and a trailing caption block.
+    """
+    trimmed = lines
+    for index, line in enumerate(lines):
+        if _CAPTION_BLOCK_START_PATTERN.match(line["text"].strip()):
+            trimmed = lines[:index]
+            break
+    return [line for line in trimmed if not _is_page_furniture(line)]
 
 
 def segment_diagnosis(lines: list[dict[str, Any]]) -> dict[str, dict[str, Any]]:
