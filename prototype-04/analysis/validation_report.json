@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "self_consistency": {
+    "total_genera": 4,
+    "resolved_cleanly": 1,
+    "in_ambiguous_leaf": 3,
+    "failed": 0,
+    "failed_genus_ids": []
+  },
+  "depth": {
+    "mean": 1.0,
+    "max": 1
+  },
+  "character_usage": {
+    "plant_habit": 1
+  },
+  "ambiguous_leaves": [
+    {
+      "genus_ids": [
+        "corymborkis",
+        "sacoila",
+        "sarcoglottis"
+      ],
+      "shared_states": {
+        "plant_habit": "not_stated"
+      }
+    }
+  ]
+}

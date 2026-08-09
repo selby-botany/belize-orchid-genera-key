@@ -1,0 +1,5 @@
+item_id,kind,genus_id,reason,detail,status,resolution,resolved_by,resolved_date
+matrix:corymborkis:all_not_stated,all_not_stated,corymborkis,all_not_stated,Corymborkis: no character could be confidently extracted from its Phase 1 field text,open,,,
+matrix:sacoila:all_not_stated,all_not_stated,sacoila,all_not_stated,Sacoila: no character could be confidently extracted from its Phase 1 field text,open,,,
+matrix:sarcoglottis:all_not_stated,all_not_stated,sarcoglottis,all_not_stated,Sarcoglottis: no character could be confidently extracted from its Phase 1 field text,open,,,
+"ambiguous_leaf:corymborkis,sacoila,sarcoglottis",ambiguous_leaf,"corymborkis,sacoila,sarcoglottis",ambiguous_leaf,"Corymborkis, Sacoila, Sarcoglottis cannot be distinguished by the extracted characters (shared: plant_habit=not_stated)",open,,,

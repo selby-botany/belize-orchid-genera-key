@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "root": {
+    "type": "split",
+    "character_id": "plant_habit",
+    "branches": [
+      {
+        "state_ids": [
+          "not_stated"
+        ],
+        "next": {
+          "type": "leaf",
+          "genus_ids": [
+            "corymborkis",
+            "sacoila",
+            "sarcoglottis"
+          ]
+        }
+      },
+      {
+        "state_ids": [
+          "terrestrial_or_epiphytic"
+        ],
+        "next": {
+          "type": "leaf",
+          "genus_ids": [
+            "psilochilus"
+          ]
+        }
+      }
+    ]
+  }
+}
