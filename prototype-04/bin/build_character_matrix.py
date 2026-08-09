@@ -48,6 +48,7 @@ def build_matrix_row(
     proposals: list[dict[str, Any]],
     vocabulary: dict[str, Any],
     genera_by_id: dict[str, dict[str, Any]],
+    dropped_proposals: list[dict[str, Any]] = (),
 ) -> dict[str, Any]:
     """Build one genus's matrix row: every vocabulary character, always.
 
@@ -59,6 +60,11 @@ def build_matrix_row(
         vocabulary: Parsed `character_vocabulary.json`.
         genera_by_id: Phase 1 genus records, keyed by `genus_id` --
             used only for `genus_name`.
+        dropped_proposals: This genus's proposals that failed `verify_
+            quote` -- recorded as review flags here, on the matrix row
+            itself, rather than in a second output file only Stage C
+            ever reads (detailed design, §8: "recording them directly in
+            the matrix records' own review_flags").
     Returns:
         `{genus_id, genus_name, characters, review_flags}` -- `characters`
         has exactly one entry per character in the vocabulary, never more,
@@ -89,7 +95,9 @@ def build_matrix_row(
                 "status": NOT_STATED,
             }
 
-    review_flags: list[str] = []
+    review_flags: list[str] = [
+        f"unverified_proposal:{p['character_id']}" for p in dropped_proposals
+    ]
     if all(entry["status"] == NOT_STATED for entry in characters.values()):
         review_flags.append("all_not_stated")
 
@@ -143,7 +151,9 @@ def main() -> None:
     proposals_by_genus: dict[str, list[dict[str, Any]]] = {
         genus_id: [] for genus_id in genera_by_id
     }
-    dropped: list[dict[str, Any]] = []
+    dropped_by_genus: dict[str, list[dict[str, Any]]] = {
+        genus_id: [] for genus_id in genera_by_id
+    }
     if arguments.proposals.exists():
         with arguments.proposals.open(encoding="utf-8") as handle:
             for raw_line in handle:
@@ -156,11 +166,13 @@ def main() -> None:
                     genus_record, proposal["source_field"], proposal["quote"]
                 ):
                     proposals_by_genus[proposal["genus_id"]].append(proposal)
-                else:
-                    dropped.append(proposal)
+                elif genus_record is not None:
+                    dropped_by_genus[proposal["genus_id"]].append(proposal)
 
     rows = [
-        build_matrix_row(genus_id, proposals, vocabulary, genera_by_id)
+        build_matrix_row(
+            genus_id, proposals, vocabulary, genera_by_id, dropped_by_genus[genus_id]
+        )
         for genus_id, proposals in proposals_by_genus.items()
     ]
 
@@ -170,9 +182,10 @@ def main() -> None:
             handle.write(json.dumps(row) + "\n")
 
     all_not_stated = sum(1 for row in rows if "all_not_stated" in row["review_flags"])
+    dropped_total = sum(len(items) for items in dropped_by_genus.values())
     print(
         f"{len(rows)} genus rows ({all_not_stated} all-not_stated, "
-        f"{len(dropped)} dropped proposal(s)) -> {arguments.output}"
+        f"{dropped_total} dropped proposal(s)) -> {arguments.output}"
     )
 
 

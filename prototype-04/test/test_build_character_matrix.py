@@ -121,6 +121,27 @@ class BuildMatrixRowTest(unittest.TestCase):
         row = MODULE.build_matrix_row("alpha", proposals, vocabulary, genera_by_id)
         self.assertEqual(row["review_flags"], [])
 
+    def test_dropped_proposal_is_recorded_as_a_review_flag_on_the_row(self) -> None:
+        # Detailed design, §8: an unverified proposal is recorded
+        # directly on the matrix row's own review_flags, not in a second
+        # output file only Stage C ever reads.
+        vocabulary = _vocabulary(_character("lip_lobing", "entire", "three_lobed"))
+        genera_by_id = {"alpha": _genus_record()}
+        dropped = [
+            {
+                "genus_id": "alpha",
+                "character_id": "lip_lobing",
+                "state_id": "entire",
+                "quote": "not really there",
+                "source_field": "Lip",
+                "source_image": "page-050.jpeg",
+            }
+        ]
+        row = MODULE.build_matrix_row(
+            "alpha", [], vocabulary, genera_by_id, dropped_proposals=dropped
+        )
+        self.assertIn("unverified_proposal:lip_lobing", row["review_flags"])
+
 
 class MainIntegrationTest(unittest.TestCase):
     """An unverified proposal never reaches the matrix -- checked end to end."""
@@ -191,6 +212,7 @@ class MainIntegrationTest(unittest.TestCase):
             row = json.loads(output_path.read_text(encoding="utf-8").strip())
             self.assertEqual(row["characters"]["lip_lobing"]["state_id"], "not_stated")
             self.assertIn("all_not_stated", row["review_flags"])
+            self.assertIn("unverified_proposal:lip_lobing", row["review_flags"])
 
 
 if __name__ == "__main__":
