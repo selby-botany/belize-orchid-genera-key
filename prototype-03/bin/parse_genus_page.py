@@ -124,7 +124,28 @@ findings from that real page shaped the design directly:
    it doesn't collide with this; requiring text after the epithet also
    rejects a bare, citation-less OCR artifact ("156. Epidendrum acuqae",
    page 182 -- a typo'd duplicate of species 1 with nothing following it
-   on the line, not a genuine 156th entry).
+   on the line, not a genuine 156th entry). Testing against that real
+   text also surfaced a second, silent bug in the *existing* bare
+   pattern: Epidendrum's own species 1, "Epidendrum acuñae", has an
+   epithet containing ñ, which a plain `[a-z]` class does not match --
+   the whole header line failed to match at all, with no error, just a
+   quietly unrecognized species. `_LOWERCASE_EPITHET_CHARS` broadens
+   both patterns' epithet class to the accented Latin-1 lowercase range;
+   Latinized epithets honoring a collector's name (as "acuñae" does, for
+   Galé Acuña) are a real, unavoidable source of diacritics here, not a
+   one-off worth special-casing instead of fixing at the character-class
+   level. `find_genus_headers`/`_PROSE_WORD_PATTERN` are unaffected --
+   they never depended on this class.
+   Species detection is also, separately, now run on every continuation
+   page of a genus's treatment (`build_genus_records`), not only the
+   page carrying its own header -- previously `find_species_entries` was
+   never even called past the first page, so a species list spanning
+   many pages (Epidendrum's own, 181-190) had no chance to be split
+   regardless of pattern coverage. A continuation page's content now
+   attaches to whichever species is currently open (tracked across
+   pages), or to the genus's own fields if none is open yet -- the same
+   "species-level facts belong to the species" rule finding 3 already
+   established for a single page, extended across a multi-page span.
 """
 
 from __future__ import annotations
@@ -232,13 +253,27 @@ BOTTOM_BAND_MID_Y = 0.94
 # left unhandled, one bled into the prior genus's NOTE field.
 TRIBE_HEADING_PATTERN = re.compile(r"^(TRIBE|SUBTRIBE)\s+.+$")
 
+# A lowercase epithet character class covering plain ASCII plus the
+# accented Latin-1 lowercase range (à-ö, ø-ÿ -- skips the ÷ division sign
+# at U+00F7, the one non-letter in that span). Found necessary on the
+# real full run: Epidendrum's own species 1 is "Epidendrum acuñae", and a
+# plain `[a-z]` class silently fails to match the ñ, splitting the
+# epithet match at "acu" and then requiring whitespace that isn't there
+# -- the whole header line fails to match at all. Latinized epithets
+# honoring a collector's name (as "acuñae" does, for Galé Acuña) are a
+# real, unavoidable source of diacritics in this book, not a one-off.
+_LOWERCASE_EPITHET_CHARS = "a-zà-öø-ÿ"
+
 # Species header: the genus name (repeated verbatim from the owning
 # genus's header) followed by a lowercase epithet. Matching against the
 # specific owning genus name -- not a generic Capitalized-lowercase
 # pattern -- avoids false positives on body prose like "Plant terrestrial"
 # (requirements, §4 item 6).
 def _species_header_pattern(genus_name: str) -> re.Pattern[str]:
-    return re.compile(rf"^{re.escape(genus_name)}\s+([a-z][a-z-]+)\s+(.+)$")
+    return re.compile(
+        rf"^{re.escape(genus_name)}\s+"
+        rf"([{_LOWERCASE_EPITHET_CHARS}][{_LOWERCASE_EPITHET_CHARS}-]+)\s+(.+)$"
+    )
 
 
 # A numbered species entry: "1. Epidendrum acuñae Dressler in Am. Orch.
@@ -255,7 +290,10 @@ def _species_header_pattern(genus_name: str) -> re.Pattern[str]:
 # typo, not a genuine 156th entry) -- there is nothing on that line past
 # the epithet for `(.+)$` to match.
 def _numbered_species_header_pattern(genus_name: str) -> re.Pattern[str]:
-    return re.compile(rf"^\d+\.\s+{re.escape(genus_name)}\s+([a-z][a-z-]+)\s+(.+)$")
+    return re.compile(
+        rf"^\d+\.\s+{re.escape(genus_name)}\s+"
+        rf"([{_LOWERCASE_EPITHET_CHARS}][{_LOWERCASE_EPITHET_CHARS}-]+)\s+(.+)$"
+    )
 
 
 # Short abbreviations that precede a "." without ending a sentence, drawn
@@ -662,6 +700,22 @@ def _has_embedded_tribe_heading_before_next_header(
     return False
 
 
+def _merge_fields(target: dict[str, Any], additions: dict[str, Any]) -> None:
+    """Merge freshly segmented fields into an already-open field dict.
+
+    Args:
+        target: The field dict being added to, mutated in place.
+        additions: Newly segmented fields to merge in -- a label already
+            present in `target` has its text concatenated (a continuation
+            page's fragment of the same field); a new label is added as-is.
+    """
+    for label, value in additions.items():
+        if label in target:
+            target[label]["text"] += " " + value["text"]
+        else:
+            target[label] = value
+
+
 def build_genus_records(pages: list[dict[str, Any]]) -> tuple[list[dict[str, Any]], list[dict[str, Any]]]:
     """Build genus records by stitching genus headers across pages.
 
@@ -677,6 +731,14 @@ def build_genus_records(pages: list[dict[str, Any]]) -> tuple[list[dict[str, Any
     records: list[dict[str, Any]] = []
     discontinuities: list[dict[str, Any]] = []
     open_record: dict[str, Any] | None = None
+    # Index into open_record["species"] of the species currently being
+    # described, or None while still in the genus's own pre-species text.
+    # A continuation page's content belongs to whichever of these is open
+    # (module docstring, finding on page-050: distribution/habitat/etc.
+    # after a species' description belong to that species, not the
+    # genus) -- tracked across pages, not reset to the genus by default
+    # just because a new page started.
+    open_species_index: int | None = None
 
     for page in pages:
         lines = [dict(line, source_image=page["source_image"]) for line in page["lines"]]
@@ -685,19 +747,20 @@ def build_genus_records(pages: list[dict[str, Any]]) -> tuple[list[dict[str, Any
 
         # A header-shaped line whose genus name repeats the genus already
         # open is not a new genus -- a book does not redeclare a genus
-        # mid-treatment. Found on the real full run: Epidendrum ("one of
-        # the largest genera with several hundred" species, per its own
-        # page-181 text) numbers its own species list ("1. Epidendrum
-        # acuñae Dressler in Am. Orch. Soc. Bull. ..."), which is
+        # mid-treatment. Found on the real full run: large genera number
+        # their own species list ("1. Epidendrum acuñae Dressler in Am.
+        # Orch. Soc. Bull. ...", module docstring finding 9), which is
         # genuinely citation-shaped (passes both _PROSE_WORD_PATTERN and
         # _AUTHOR_CAPITAL_PATTERN) because it really is a citation -- just
         # for the species, not the genus. `find_genus_headers` has no
-        # continuation state to catch this itself, so it is filtered here,
-        # where `open_record` already lives, rather than by trying to
-        # parse the numbered species list itself (out of scope for this
-        # prototype -- the page's text is still fully captured, just as
-        # unsegmented genus-level continuation prose rather than
-        # per-species fields; flagged so a reviewer knows why).
+        # continuation state to catch this itself, so it is filtered
+        # here, where `open_record` already lives. When no other, real
+        # genus header remains on this page, it falls through to the
+        # continuation-page logic below, which now parses numbered
+        # species entries directly (finding 9) -- `numbered_species_
+        # list_unparsed` only fires if that also finds nothing, not
+        # unconditionally the way it used to.
+        same_genus_header_found = False
         if open_record is not None and headers:
             same_genus = [
                 h for h in headers
@@ -708,10 +771,18 @@ def build_genus_records(pages: list[dict[str, Any]]) -> tuple[list[dict[str, Any
                     h for h in headers
                     if h["genus_name"].lower() != open_record["genus_id"]
                 ]
-                open_record["extraction_status"] = "needs_review"
-                open_record["review_flags"].append(
-                    f"numbered_species_list_unparsed:{page['source_image']}"
-                )
+                if headers:
+                    # A different, real genus header also appears on this
+                    # page -- it takes over below, so the suppressed
+                    # content is never revisited by the continuation
+                    # logic. Flag it here, immediately, rather than
+                    # silently losing track of it.
+                    open_record["extraction_status"] = "needs_review"
+                    open_record["review_flags"].append(
+                        f"numbered_species_list_unparsed:{page['source_image']}"
+                    )
+                else:
+                    same_genus_header_found = True
 
         if headers:
             for position, header in enumerate(headers):
@@ -769,6 +840,9 @@ def build_genus_records(pages: list[dict[str, Any]]) -> tuple[list[dict[str, Any
                         else []
                     ),
                 }
+                open_species_index = (
+                    len(resolved_species) - 1 if resolved_species else None
+                )
                 records.append(open_record)
             continue
 
@@ -798,12 +872,48 @@ def build_genus_records(pages: list[dict[str, Any]]) -> tuple[list[dict[str, Any
 
         if running_head["genus_name"] == open_record["genus_name"]:
             open_record["source_pages"].append(page["page_number"])
-            continuation_fields = segment_fields(lines)
-            for label, value in continuation_fields.items():
-                if label in open_record["fields"]:
-                    open_record["fields"][label]["text"] += " " + value["text"]
-                else:
-                    open_record["fields"][label] = value
+
+            # A continuation page can itself carry one or more species
+            # headers -- bare or numbered (finding 9) -- exactly like a
+            # header page's own block does. Searching for them here,
+            # rather than unconditionally dumping the whole page as
+            # genus-level text, is what lets a large genus's species list
+            # (which physically spans many continuation pages, e.g.
+            # Epidendrum's 181-190) actually get split into per-species
+            # records instead of merging into one unsegmented blob.
+            species, first_species_index = find_species_entries(
+                lines, open_record["genus_name"], 0, len(lines)
+            )
+            pre_species_end = first_species_index if species else len(lines)
+            pre_species_fields = segment_fields(lines[0:pre_species_end])
+
+            _merge_fields(
+                open_record["species"][open_species_index]["fields"]
+                if open_species_index is not None
+                else open_record["fields"],
+                pre_species_fields,
+            )
+
+            for entry in species:
+                open_record["species"].append(
+                    {
+                        "species_name": entry["species_name"],
+                        "author_and_publication": entry["author_and_publication"],
+                        "fields": segment_fields(
+                            lines[entry["_start"]:entry["_end"]]
+                        ),
+                    }
+                )
+                open_species_index = len(open_record["species"]) - 1
+
+            if same_genus_header_found and not species:
+                # The suppressed same-genus header really was
+                # unparseable here -- species detection, run against the
+                # same page, found nothing to attach it to.
+                open_record["extraction_status"] = "needs_review"
+                open_record["review_flags"].append(
+                    f"numbered_species_list_unparsed:{page['source_image']}"
+                )
         else:
             discontinuities.append(
                 {

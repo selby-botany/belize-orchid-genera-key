@@ -336,6 +336,20 @@ class FindSpeciesEntriesTest(unittest.TestCase):
         self.assertEqual(species[1]["species_name"], "Dichaea glauca")
         self.assertEqual(first_index, 0)
 
+    def test_numbered_species_header_matches_an_accented_epithet(self) -> None:
+        # Real full-run text, page-182.jpeg: Epidendrum's own species 1,
+        # "Epidendrum acuñae", has an epithet containing ñ. A plain
+        # `[a-z]` class silently fails to match it -- the whole header
+        # line fails to match, with no error, just an unrecognized
+        # species (module docstring finding 9's second half).
+        lines = [_line("1. Epidendrum acuñae Dressler in Am. Orch. Soc.")]
+        species, first_index = MODULE.find_species_entries(
+            lines, "Epidendrum", 0, len(lines)
+        )
+        self.assertEqual(len(species), 1)
+        self.assertEqual(species[0]["species_name"], "Epidendrum acuñae")
+        self.assertEqual(first_index, 0)
+
     def test_numbered_species_header_does_not_match_a_key_couplet_answer(self) -> None:
         # Real full-run text: key-couplet answers use the abbreviated
         # genus form ("7. D. panamensis", "9. H. novemfida"), never the
@@ -489,9 +503,15 @@ class BuildGenusRecordsTest(unittest.TestCase):
         # own internal species list with the genus name repeated ("1.
         # Epidendrum acuñae Dressler in Am. Orch. Soc. Bull. ..."), which
         # is genuinely citation-shaped and so passes both header
-        # discriminators. Before this fix that produced a bogus second
-        # "genus 1 Epidendrum" record alongside the real "genus 70
-        # Epidendrum L." -- two records sharing one genus_id.
+        # discriminators. Originally this produced a bogus second "genus 1
+        # Epidendrum" record alongside the real "genus 70 Epidendrum L.";
+        # fixed by suppressing the false hit (ba6dd8f-era history). At
+        # that point species detection didn't yet recognize the numbered
+        # form at all (finding 9), so this same real text was flagged
+        # `numbered_species_list_unparsed` instead of actually being
+        # parsed -- now it is: species detection recognizes the numbered
+        # form (including the ñ in "acuñae", finding 9's second half) and
+        # attaches it as a real species entry, no flag needed.
         page_one = {
             "source_image": "synthetic-181.jpeg",
             "page_number": 181,
@@ -514,6 +534,32 @@ class BuildGenusRecordsTest(unittest.TestCase):
         self.assertEqual(len(records), 1)
         self.assertEqual(records[0]["genus_id"], "epidendrum")
         self.assertEqual(records[0]["source_pages"], [181, 182])
+        self.assertEqual(records[0]["extraction_status"], "complete")
+        self.assertEqual(records[0]["review_flags"], [])
+        self.assertEqual(len(records[0]["species"]), 1)
+        self.assertEqual(records[0]["species"][0]["species_name"], "Epidendrum acuñae")
+
+    def test_genuinely_unparseable_numbered_header_is_still_flagged(self) -> None:
+        # The residual case finding 9's flag exists for: a same-genus
+        # numbered-header-shaped line that species detection, run against
+        # the same page, still can't turn into a real entry (here: no
+        # lowercase epithet at all after the genus name -- an author name
+        # directly, which is genus-header-shaped, not species-shaped).
+        page_one = {
+            "source_image": "synthetic-181.jpeg",
+            "page_number": 181,
+            "lines": [_line("70. Epidendrum L.")],
+        }
+        page_two = {
+            "source_image": "synthetic-182.jpeg",
+            "page_number": 182,
+            "lines": [
+                _line("70 Epidendrum", mid_y=0.04),
+                _line("1. Epidendrum Sw."),
+            ],
+        }
+        records, _ = MODULE.build_genus_records([page_one, page_two])
+        self.assertEqual(len(records), 1)
         self.assertEqual(records[0]["extraction_status"], "needs_review")
         self.assertIn(
             "numbered_species_list_unparsed:synthetic-182.jpeg",
