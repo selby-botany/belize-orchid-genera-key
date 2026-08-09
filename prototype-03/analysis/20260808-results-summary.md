@@ -26,9 +26,9 @@ given fact.
   flowering season, notes, ...) the pipeline could confidently attribute.
   Every field carries the page image it came from and a confidence score
   — nothing in `analysis/genera.jsonl` is unsourced.
-- **57 of the 69** genus records are complete: no open questions, no
+- **52 of the 69** genus records are complete: no open questions, no
   flags.
-- **12 of the 69** carry at least one review flag (listed by name below)
+- **17 of the 69** carry at least one review flag (listed by name below)
   — not defects, but places where the pipeline found something it could
   not confidently resolve on its own, and said so rather than guessing.
 - **194 individual species entries** nested under 37 of the genera, each
@@ -44,12 +44,15 @@ given fact.
   concatenated together into genus-level fields.
 - The rendered document a person actually reads is
   `analysis/mcleish.genera.md` — one genus per section, species nested
-  underneath, in the order the book presents them.
+  underneath, in the order the book presents them. A flagged genus now
+  carries a visible **Needs review** caveat there, naming the reason;
+  until this pass the flags lived only in the machine-readable files, so
+  a doubted record read exactly like a settled one.
 
 ## What still needs a human look
 
 `manifest/review_queue.csv` lists every item, one row per issue, each
-with a plain-language reason. As of this run: **268 open rows**.
+with a plain-language reason. As of this run: **274 open rows**.
 
 | Category | Count | What it means |
 | --- | --- | --- |
@@ -58,6 +61,7 @@ with a plain-language reason. As of this run: **268 open rows**.
 | `ambiguous_genus_boundary` | 4 | A page had real content and an open genus record, but neither a genus header nor a readable running head to confirm which genus it belongs to. Filed under the genus that was open going in — flagged so a person can confirm it. |
 | `image_anomaly` | 4 | A source file itself has a naming or size problem (see below). |
 | `ocr_reject` | 4 | A page's text was too sparse or too low-confidence to accept (largely the 2 non-text plates, counted twice for two different reasons each). |
+| `foreign_genus_etymology` | 6 | This record's ETYMOLOGY explains how a *different* genus got its name, which means some of this record's text belongs to that genus. The row names the genus the evidence points to. |
 | `possible_cross_genus_content` | 3 | A rare page layout prints two genus headers side by side in their own narrow columns; the pipeline found a specific, confirmed pattern where one genus's real description can attach to the *other* genus's record. Flagged so a person checks the source image before trusting any field on the affected record. |
 
 The count of `uncertain_field` rows rose sharply this run — from 80 to
@@ -71,9 +75,10 @@ undifferentiated inside a single genus-level bucket and produced one row
 as before. More rows here means more text has been resolved down to the
 species that owns it, not that more text became doubtful.
 
-The 12 genus records carrying a flag, by name: Arpophyllum, Corymborkis,
-Cranichis, Cycnoches, Eulophia, Galeandra, Huntleya, Ionopsis,
-Liparis, Maxillaria, Mormolyca, Trichopilia. Most carry exactly one
+The 17 genus records carrying a flag, by name: Arpophyllum, Clowesia,
+Coelia, Coryanthes, Corymborkis, Cranichis, Cycnoches, Erythrodes,
+Eulophia, Galeandra, Huntleya, Ionopsis, Liparis, Malaxis, Maxillaria,
+Mormolyca, Trichopilia. Most carry exactly one
 `ambiguous_genus_boundary` or `discontinuity` flag against a single page
 — a small, specific thing to check, not a wholesale re-review of the
 genus.
@@ -104,6 +109,39 @@ only the misattributed lines, without disturbing a neighboring genus's
 own legitimate trailing content mixed in the same column — is a larger
 change than this pass took on; for now, treat any field on these three
 records as unverified until checked against the source image.
+
+## Catching that same swap by reading the etymologies
+
+The detector above only recognizes the swap by its *page layout*, and on
+the full run that turned out to catch a minority of the cases actually
+present. A record's own `ETYMOLOGY` field is far better evidence, and
+needs no layout clue at all: an etymology states the word its genus was
+coined from, so an etymology filed under the wrong genus gives itself
+away. Six records do exactly that, and each was confirmed by reading the
+record's real text before the check was written:
+
+| Genus record | Its etymology derives | Corroborating text in the same record |
+| --- | --- | --- |
+| Erythrodes | *corymbos* + *orchis* → **Corymborkis** | "Corymborkis forcipigera", "Corymborchis cubensis" |
+| Cranichis | *habena* (reins) → **Habenaria** | Habenaria's description verbatim |
+| Malaxis | *liparos* (greasy) → **Liparis** | page-55 Malaxis/Liparis/Vanilla interleaving |
+| Clowesia | *kata* (down) + *seta* → **Catasetum** | "Catasetum integerrimum" |
+| Coryanthes | *trigonos* (three-) → **Trigonidium** | — |
+| Coelia | *harpe* (sickle) → **Arpophyllum** | — |
+
+Malaxis/Liparis is the case the previous section's detector was
+documented as unable to see. Five of the six were previously reporting
+`complete` with no flag at all.
+
+Two things this check deliberately does **not** do. It never reads
+ordinary prose this way: a genus description legitimately names its
+neighbours ("differs from Epidendrum in ..."), and 33 of the 69 records
+mention another captured genus somewhere, so a bare mention proves
+nothing. And it stays quiet when the evidence names no owner — about two
+dozen records carry an etymology belonging to one of their own *species*
+("From the Latin maculatus (spotted)" under Platythelys, whose species is
+*P. maculata*), which is text misplaced *within* a genus rather than
+across two: a real defect, reported here, but not this flag's.
 
 ## Files that needed a closer look (Stage A)
 
@@ -136,7 +174,7 @@ without a trace.
 - `analysis/mcleish.genera.md` — the readable corpus.
 - `analysis/genera.jsonl` — the same data, machine-readable, with full
   provenance per field.
-- `manifest/review_queue.csv` — the 268 open items above; each row can be
+- `manifest/review_queue.csv` — the 274 open items above; each row can be
   marked `resolved` with a `resolution`/`resolved_by`/`resolved_date` and
   that resolution will be carried forward automatically the next time the
   pipeline runs.
