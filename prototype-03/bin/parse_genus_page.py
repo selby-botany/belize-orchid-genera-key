@@ -62,6 +62,12 @@ findings from that real page shaped the design directly:
    run (182, 184, ...) still print it at the top. `cross_check_running_
    head` and `_is_page_furniture` now check both bands (see
    `BOTTOM_BAND_MID_Y`).
+   **This reading of the evidence was wrong, and finding 11 corrects it.**
+   The book does not typeset those pages differently; they were scanned
+   upside down, which is why the split fell exactly on page parity. The
+   two-band check is kept because a chapter-opening page really does
+   print a drop folio at the page foot, but it is no longer load-bearing
+   for the pages named here.
 7. A plate/photo page's caption block and photo-index sidebar have no
    per-line furniture signature -- unlike a folio number or running head,
    their lines read as ordinary sentences ("Figure 25. Eriopsis biloba.
@@ -184,6 +190,36 @@ findings from that real page shaped the design directly:
    filed and merely falls outside what the self-match recognizes -- a
    recall limit that costs nothing here, since it can only withhold a
    flag, never raise a wrong one.
+11. Findings 6, 8 and 10 were all reading the same defect through
+   different symptoms, and none of them had the cause: **every
+   odd-numbered page in this capture batch was scanned upside down.**
+   Vision reads rotated text correctly and reports a flat 1.0 confidence
+   either way, so nothing upstream complained; only the geometry is
+   wrong, and it makes reading order run up the page with the columns
+   mirrored. Fixed in Stage C (`ocr_page.swift`, `pageIsUpsideDown`),
+   which is where the orientation is known -- not here, where only its
+   consequences are visible. What that one fix did to this stage's own
+   output, all of it previously attributed to parsing problems:
+   `discontinuity` 8 -> 1, `ambiguous_genus_boundary` 4 -> 0,
+   `foreign_genus_etymology` 6 -> 1, records reporting `complete`
+   52 -> 62 of 69, species entries 194 -> 214. Erythrodes, Coryanthes,
+   Clowesia, Coelia and Malaxis were not holding another genus's text
+   through any layout collision; they were reading their neighbour's
+   column backwards. Coryanthes now carries its own etymology (korys,
+   helmet, + anthos, flower) where it carried Trigonidium's.
+   The lesson worth keeping: three rounds of detectors here were built
+   against symptoms that a single upstream fact explained. Finding 10's
+   detector was *right* about the data being wrong, and still had the
+   wrong cause -- a flag that reports a real symptom is not evidence
+   that the symptom's cause is where the flag lives.
+   Two consequences left standing, deliberately not papered over:
+   `possible_cross_genus_content` (finding 8) now fires 6 times with at
+   most 1 true positive -- every flagged record was read afterwards, and
+   Eulophia, Arpophyllum and Corymborkis carry their own correct
+   etymologies; that detector's signature has mostly outlived the defect
+   it was built for and wants revisiting. Cranichis is the one genuine
+   cross-genus swap left in the corpus, and both detectors still catch
+   it.
 """
 
 from __future__ import annotations
