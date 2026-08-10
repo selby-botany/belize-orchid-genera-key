@@ -74,4 +74,49 @@ for field in text confidence column min_x mid_y; do
     }
 done
 
+# Reading order must not depend on which way up the page was scanned.
+#
+# Half this capture batch is upside down, and Vision hides it: it reads
+# rotated text correctly and reports a flat 1.0 confidence either way,
+# while returning geometry in image space -- so the page reads backwards
+# with mirrored columns. The assertion here is rotation *invariance*
+# rather than a fixed transcription, so it stays valid if Vision's
+# recognition itself changes: the same page, turned over, must produce
+# the same first line.
+magick="${project_root}/bin/imagemagick"
+rotated_dir="${project_root}/.smoke-rotated"
+mkdir -p "${rotated_dir}"
+trap 'rm -rf "${rotated_dir}"' EXIT
+
+cp "${fixture}" "${rotated_dir}/upright.jpeg"
+# bin/imagemagick runs in a container that mounts only the working
+# directory, so it is given paths relative to the project root and run
+# from there -- an absolute host path is not visible inside the container
+# and fails to open the image.
+( cd "${project_root}" \
+  && "${magick}" convert ".smoke-rotated/upright.jpeg" -rotate 180 \
+       ".smoke-rotated/flipped.jpeg" ) 2> /dev/null
+
+both="$(swift "${ocr_script}" --json \
+    "${rotated_dir}/upright.jpeg" "${rotated_dir}/flipped.jpeg")"
+
+upright_first="$(printf '%s\n' "${both}" | head -1 | "${jq}" -r '.lines[0].text')"
+flipped_first="$(printf '%s\n' "${both}" | tail -1 | "${jq}" -r '.lines[0].text')"
+[[ "${upright_first}" == "${flipped_first}" ]] || {
+    echo "FAIL: rotating the page changed reading order" >&2
+    echo "  upright first line: ${upright_first}" >&2
+    echo "  flipped first line: ${flipped_first}" >&2
+    exit 1
+}
+
+# ... and the corrected page must still read top-down, not bottom-up.
+flipped_ascending="$(printf '%s\n' "${both}" | tail -1 \
+    | "${jq}" '[.lines | group_by(.column)[]
+                | [.[].mid_y] | . == sort] | all')"
+[[ "${flipped_ascending}" == "true" ]] || {
+    echo "FAIL: flipped page's mid_y values are not in reading order" >&2
+    exit 1
+}
+
 echo "PASS: ocr_page.swift produced well-formed output for ${line_count_value} lines"
+echo "PASS: reading order is invariant to a 180 degree page rotation"

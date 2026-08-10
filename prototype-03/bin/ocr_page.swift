@@ -23,6 +23,18 @@
 // binomials and author abbreviations that a language model would "correct"
 // into ordinary English, silently corrupting the transcription.
 //
+// Page orientation is resolved here, before columns are assigned. Every
+// odd-numbered page in this capture batch was scanned upside down, and
+// Vision gives no direct sign of it: the recognized strings are correct
+// (it reads rotated text) and the confidence is a flat 1.0 either way.
+// Only the geometry betrays it, and only if something checks -- see
+// `pageIsUpsideDown`. Left uncorrected the damage all lands downstream,
+// where it looks like anything but a scanning problem: reading order runs
+// up the page, columns mirror, sentences splice across the gutter mid-word
+// ("slen" + "flower shape"), and a genus's text files itself under its
+// neighbour's name. Stage D spent three separate rounds of detectors on
+// those symptoms before the cause was found here.
+//
 // Usage:
 //   swift prototype-03/bin/ocr_page.swift [--json] IMAGE...
 //
@@ -40,6 +52,19 @@ struct Line: Codable {
     let column: Int
     let midY: Double
     let minX: Double
+}
+
+/// One recognized line before page orientation has been resolved.
+///
+/// `maxX` is needed only to mirror the horizontal axis on an upside-down
+/// page (a line's left edge there is its right edge here), so it stays
+/// internal rather than joining the emitted `Line` schema.
+struct RawLine {
+    let text: String
+    let confidence: Double
+    let midY: Double
+    let minX: Double
+    let maxX: Double
 }
 
 struct Thresholds {
@@ -66,6 +91,83 @@ struct PageResult: Codable {
     let rejectReasons: [String]
 }
 
+/// Score how well a line order reads as continuous prose.
+///
+/// A body page's lines mostly continue one another: the line before ends
+/// without terminal punctuation and the next begins lowercase, and a
+/// hyphenated word break is stronger evidence still. Reversing the order
+/// breaks most of those joins. Used only as a last resort, when a page
+/// carries no running head, chapter head or folio to read the
+/// orientation off -- it is a weak signal on pages with little prose
+/// (a map, a key of one-line couplets) and must not outrank them.
+func readingCoherence(_ lines: [RawLine], reversed: Bool) -> Int {
+    let ordered = lines.sorted { reversed ? $0.midY > $1.midY : $0.midY < $1.midY }
+    var score = 0
+    for (first, second) in zip(ordered, ordered.dropFirst()) {
+        let before = first.text.trimmingCharacters(in: .whitespaces)
+        let after = second.text.trimmingCharacters(in: .whitespaces)
+        guard let opener = after.first, !before.isEmpty else { continue }
+        if before.hasSuffix("-") && opener.isLowercase {
+            score += 2
+        } else if !".!?:;".contains(before.last!) && opener.isLowercase {
+            score += 1
+        }
+    }
+    return score
+}
+
+/// Decide whether a scan is rotated 180 degrees.
+///
+/// Half this capture batch is: every odd-numbered page was fed into the
+/// scanner upside down. Vision reads rotated text correctly -- the
+/// strings are right and the confidence is a flat 1.0 either way, which
+/// is exactly why this went unnoticed -- but it reports geometry in
+/// image space, so reading order runs backwards up the page and columns
+/// come out mirrored. Downstream that looks like scrambled prose, words
+/// spliced across column breaks, and one genus's text filed under
+/// another's name, none of which is a parsing defect at all.
+///
+/// The evidence is the page furniture, which this book always prints at
+/// the page top: a running head ("17 Habenaria"), a chapter head
+/// ("CHAPTER 2"). Finding one at the foot of the image means the image
+/// is upside down. A bare folio number is a weaker witness, and only
+/// consulted when no head is present, because a chapter-opening page
+/// prints a drop folio at the page *bottom* instead -- on page 13 that
+/// drop folio is the only number, and reading it naively gives the
+/// wrong answer. Parity is deliberately not used: which pages a
+/// scanner operator turned over is an accident of this batch, not a
+/// property of the book.
+func pageIsUpsideDown(_ lines: [RawLine]) -> Bool {
+    let topBand = 0.10
+    let bottomBand = 0.90
+
+    var headAtFoot = 0
+    var headAtHead = 0
+    var folioAtFoot = 0
+    var folioAtHead = 0
+
+    for line in lines {
+        let atFoot = line.midY > bottomBand
+        let atHead = line.midY < topBand
+        guard atFoot || atHead else { continue }
+
+        let text = line.text.trimmingCharacters(in: .whitespaces)
+        let tokens = text.split(separator: " ")
+        guard let first = tokens.first else { continue }
+        let leadIsNumber = first.count <= 3 && first.allSatisfy { $0.isNumber }
+
+        if text.uppercased().hasPrefix("CHAPTER ") || (leadIsNumber && tokens.count > 1) {
+            if atFoot { headAtFoot += 1 } else { headAtHead += 1 }
+        } else if tokens.count == 1 && leadIsNumber {
+            if atFoot { folioAtFoot += 1 } else { folioAtHead += 1 }
+        }
+    }
+
+    if headAtFoot != headAtHead { return headAtFoot > headAtHead }
+    if folioAtFoot != folioAtHead { return folioAtFoot > folioAtHead }
+    return readingCoherence(lines, reversed: true) > readingCoherence(lines, reversed: false)
+}
+
 /// Recognize text in one image and return its lines with geometry.
 func recognize(url: URL) -> [Line] {
     guard let image = NSImage(contentsOf: url),
@@ -89,15 +191,35 @@ func recognize(url: URL) -> [Line] {
     }
 
     guard let observations = request.results else { return [] }
-    return observations.compactMap { observation in
+    // Vision's origin is the lower-left corner, so midY is flipped here
+    // to make it read top-down. That alone is not enough when the page
+    // itself went through the scanner upside down -- see
+    // `pageIsUpsideDown`.
+    let raw: [RawLine] = observations.compactMap { observation in
         guard let candidate = observation.topCandidates(1).first else { return nil }
         let box = observation.boundingBox
-        return Line(
+        return RawLine(
             text: candidate.string,
             confidence: Double(candidate.confidence),
-            column: 0,
             midY: Double(1.0 - (box.midY)),
-            minX: Double(box.minX)
+            minX: Double(box.minX),
+            maxX: Double(box.maxX)
+        )
+    }
+
+    // Rotating the geometry is equivalent to rotating the image: an
+    // upside-down scan re-OCR'd after a 180 degree rotation returns the
+    // same strings with y' = 1 - y and x' = 1 - maxX (verified on
+    // page-013 against an ImageMagick-rotated copy), so the page is
+    // corrected here rather than re-read at twice the cost.
+    let upsideDown = pageIsUpsideDown(raw)
+    return raw.map { line in
+        Line(
+            text: line.text,
+            confidence: line.confidence,
+            column: 0,
+            midY: upsideDown ? 1.0 - line.midY : line.midY,
+            minX: upsideDown ? 1.0 - line.maxX : line.minX
         )
     }
 }
