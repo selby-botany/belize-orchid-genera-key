@@ -8,7 +8,10 @@ today, what it can't yet, and why.
 ## What went in
 
 - **69 genus records** from `prototype-03/analysis/genera.jsonl` (Phase
-  1's real output), read strictly as-is. This is the **corrected**
+  1's real output), read strictly as-is — and re-read from scratch for
+  this pass, because Phase 1's corpus changed underneath it. Half the
+  book's pages had been scanned upside down, so the descriptions this
+  phase read the first time were partly the *neighbouring* genus's text. This is the **corrected**
   corpus: half the page scans turned out to be upside down, and fixing
   that is what made most of the improvement below possible (Phase 1's
   own results summary has the detail).
@@ -46,59 +49,53 @@ today, what it can't yet, and why.
 - The key now draws on **11 of the 17 characters** (was 5), with
   `plant_habit` and `pollinia_count` doing most of the separating.
 
-## Why 61 genera produced nothing
+## Why 50 genera still produce nothing
 
-This is the honest, load-bearing finding of this pass, not a shortfall
-to gloss over. Three real, distinct reasons, found by actually reading
-the text rather than assumed in advance:
+This is the honest, load-bearing finding of this pass, not a shortfall to
+gloss over. The single biggest cause of the *previous* pass's emptiness
+has now been removed — half the page scans were upside down, which
+scrambled reading order and spliced sentences across the column gutter —
+and that alone took the data-bearing genera from 8 to 19. What remains
+has two distinct causes, both found by reading the text rather than
+assumed in advance:
 
-1. **Residual OCR/reading-order noise.** A meaningful share of Phase 1's
-   genus records still carry caption fragments, citation soup, or
-   multi-species text concatenated together (prototype-03's own
-   documented, known limitations — module docstring findings 7 and 8 in
-   `parse_genus_page.py`). Extracting a character from garbled or
-   ambiguous text would violate this project's first rule (never invent
-   a state) just as surely as inventing one from nothing.
-2. **Field-label mismatches.** Partway through this pass, several
-   plausible-looking characters turned out to sit in a field whose label
-   didn't match its content (e.g., column or lip facts appearing inside
-   an `ETYMOLOGY` field) — the same reading-order scrambling in a milder
-   form. A stricter rule was adopted and applied consistently for the
-   rest of the pass: only `SUMMARY` or a character's own designated
-   field counts as evidence. Two already-extracted proposals were
-   retracted once this rule was set, for consistency.
-3. **Large, species-rich genera have no clean genus-level text at all.**
-   Oncidium, Sobralia, Habenaria, Encyclia, Epidendrum, and others like
-   them have their per-organ fields concatenated across several species'
-   entries by Phase 1's own parser, with no reliable way to tell which
-   sentence describes the genus as a whole versus one particular
-   species.
+1. **Large, species-rich genera still have no genus-level description
+   to read.** Oncidium, Encyclia, Epidendrum, Maxillaria, Habenaria,
+   Lycaste, Sobralia and others like them have their genus-level fields
+   filled with the book's own *dichotomous key couplets* ("Leaves less
+   than 7 mm wide. Leaves less than 9 mm wide.") rather than a
+   diagnostic paragraph. A couplet states a contrast between species, not
+   a fact about the genus, so nothing in it can be attributed to the
+   genus without inventing. These are the richest genera in the book, and
+   they remain the largest single prize left on the table.
+2. **Several genus records carry a single species' description**, full
+   of measurements and specimen colour, where the book gives its
+   treatment under the species rather than the genus. Qualitative
+   statements from those records (lobing, attachment, pollinia count)
+   were used; measurements and colours were not.
 
-Three genera — Cranichis, Trichopilia, Eulophia — are excluded entirely:
-prototype-03 flags them `possible_cross_genus_content` (their record may
-contain a *different* genus's real facts). Extracting characters from
-flagged, possibly-wrong text would defeat the point of the flag.
+**Extraction standard, unchanged from the previous pass:** only
+`SUMMARY` or a character's own designated field counts as evidence, and
+every quote must appear verbatim in Phase 1's own field text. Stage C
+re-verifies all of it mechanically — **0 of the 76 proposals were
+dropped.**
 
-## A related defect found, not yet fixed
-
-While working through Malaxis, a **different**, messier version of the
-same underlying problem turned up: on one page, fragments of Malaxis,
-Liparis, and Vanilla's real text are interleaved within a single OCR
-column, with a genus header (Liparis's) buried mid-column rather than
-isolated the way prototype-03's existing detector expects. That detector
-correctly did not fire here — the pattern is real but different — so
-Malaxis and Liparis are excluded from this pass's extraction rather than
-risk pulling wrong facts, but the underlying data defect in
-`prototype-03/analysis/genera.jsonl` is not fixed. This is flagged here
-as a known, real, unresolved item for a future, dedicated pass — not
-silently absorbed into "not stated."
+**One genus is excluded outright:** `Cranichis`, whose record genuinely
+does contain Habenaria's description (Phase 1 flags it both
+`possible_cross_genus_content` and `foreign_genus_etymology`, and the
+text was re-read to confirm). Corymborkis, Eulophia, Arpophyllum and
+Trichopilia were excluded on that same flag in the previous pass and are
+**included now**: with the page orientation corrected, each was re-read
+and demonstrably carries its own text — Corymborkis its own *corymbos* +
+*orchis* etymology, Arpophyllum its own *harpe* + *phyllon*. Phase 1's
+layout-based flag has largely outlived the defect it was built for.
 
 ## What still needs a human look
 
-`manifest/review_queue.csv`: **62 open rows** — 61 `all_not_stated` (one
+`manifest/review_queue.csv`: **51 open rows** — 50 `all_not_stated` (one
 per thin genus, each naming the genus) and 1 `ambiguous_leaf` (the
-61-genus tie, naming every member and the exact shared states that
-caused it).
+50-genus tie, naming every member and the exact shared states that
+caused it). That is down from 62.
 
 ## What this does *not* claim
 
@@ -107,11 +104,11 @@ caused it).
 - An `all_not_stated` genus is not "no data exists" — it means *this
   pass*, with *this* 17-character vocabulary and *this* extraction
   standard, found nothing it could confidently attribute. A larger
-  vocabulary, a cleaner Phase 1 corpus (the two defect classes above,
-  fixed), or the deferred `SUMMARY`-mining/species-corroboration
+  vocabulary, a cleaner Phase 1 corpus (the causes above, addressed), or
+  the deferred `SUMMARY`-mining/species-corroboration
   governance questions revisited (requirements document, §4) would
   likely raise this considerably.
-- The ambiguous leaf is not a claim that those 61 genera are
+- The ambiguous leaf is not a claim that those 50 genera are
   indistinguishable in real life — it is an honest statement that
   *this data, today,* does not distinguish them.
 - Nothing here has been cross-checked against
@@ -124,15 +121,15 @@ caused it).
 - `analysis/character_matrix.jsonl` — the full matrix, machine-readable,
   full provenance per verified cell.
 - `analysis/validation_report.md` — the full validation detail.
-- `manifest/review_queue.csv` — the 62 open items above.
+- `manifest/review_queue.csv` — the 51 open items above.
 
 ## Metadata
 
 ```text
 generator-name: Claude Code
-generator-version: Claude Sonnet 5
-generator-model-token: claude-sonnet-5
+generator-version: Claude Opus 5
+generator-model-token: claude-opus-5
 generator-provider: Anthropic
-generation-date: 2026-08-08
+generation-date: 2026-08-09
 generator-responsibility: implementation
 ```
