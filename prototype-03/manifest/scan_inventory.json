@@ -1,6 +1,6 @@
 {
  "schema_version": 1,
- "generated_at": "2026-08-09T21:58:37.589139+00:00",
+ "generated_at": "2026-08-09T22:54:12.794163+00:00",
  "source_directory": "20260804-page-scans",
  "image_count": 242,
  "entries": [
@@ -403,7 +403,7 @@
    "anomalies": [],
    "review_status": "unreviewed",
    "review_checksum": "b6b0160f2ee11a08ca75a1046cab4a214412c6a4146a3f1959537b207b1f3a94",
-   "remarks": ""
+   "remarks": "content changed; supersedes e6a29b78c18675413df189b563c4acd3bbacad5372d2972f43397a3eb6741620"
   },
   {
    "filename": "page-014.jpeg",
