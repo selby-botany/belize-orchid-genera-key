@@ -9,25 +9,25 @@ characteristic corpus.
 The key itself does not exist yet, but the structured genus data it will
 be built from does. Work so far spans four prototypes:
 
-- `prototype-01/` — a completed page-ordering and genus-characteristic
+- [`prototype-01/README.md`](prototype-01/README.md) — a completed page-ordering and genus-characteristic
   pipeline: OCR-assisted page recovery for the source scan set, a
   hand-curated characteristic corpus for eight genera, and
   characteristic/morphological clustering analysis. See
-  [prototype-01/README.md](prototype-01/README.md).
-- `prototype-02/` — capture auditing and OCR preprocessing work that
+  [`prototype-01/README.md`](prototype-01/README.md).
+- [`prototype-02/README.md`](prototype-02/README.md) — capture auditing and OCR preprocessing work that
   proved the image-capture and OCR approach on a small sample, superseded
   by prototype-03's larger capture set before running over the full book.
-  See `prototype-02/doc/`.
-- `prototype-03/` — **complete (Phase 1)**: a pipeline-driven extraction
+  See [`prototype-02/README.md`](prototype-02/README.md).
+- [`prototype-03/README.md`](prototype-03/README.md) — **complete (Phase 1)**: a pipeline-driven extraction
   that turned 190 contiguous captured pages into 69 structured,
   provenance-carrying genus records, at the scale of the whole captured
   treatment rather than a hand-picked sample. See
-  [prototype-03/README.md](prototype-03/README.md) and its
+  [`prototype-03/README.md`](prototype-03/README.md) and its
   [results summary](prototype-03/analysis/20260808-results-summary.md).
-- `prototype-04/` — **planning (Phase 2)**: turning prototype-03's genus
+- `prototype-04/README.md`](prototype-03/README.md) — **planning (Phase 2)**: turning prototype-04's genus
   records into a working identification key, plus analytics that measure
   how well it performs. See
-  [prototype-04/README.md](prototype-04/README.md).
+  [`prototype-04/README.md`](prototype-04/README.md).
 
 ## Repository layout
 
@@ -89,8 +89,8 @@ Belize*[^mcleish]. The raw scans live under `prototype-01/mcleish/` and
 `prototype-03/images/`, neither committed to this repository (see
 `.gitignore`). The curated, machine-readable output derived from that
 source — page-mapped images, extracted genus text, characteristic data —
-lives under `prototype-01/`, `prototype-02/`, and, at Phase 1 completion,
-`prototype-03/analysis/`.
+lives under `prototype-01`](prototype-01/README.md), [`prototype-02`](prototype-02/README.md), and, at Phase 1 completion,
+(`prototype-03/analysis/`)[`prototype-03`](prototype-03/README.md).
 
 ## License
 
