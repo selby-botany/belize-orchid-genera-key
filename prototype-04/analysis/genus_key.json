@@ -6,11 +6,44 @@
     "branches": [
       {
         "state_ids": [
+          "terrestrial"
+        ],
+        "next": {
+          "type": "split",
+          "character_id": "inflorescence_position",
+          "branches": [
+            {
+              "state_ids": [
+                "basal_or_lateral"
+              ],
+              "next": {
+                "type": "leaf",
+                "genus_ids": [
+                  "corymborkis"
+                ]
+              }
+            },
+            {
+              "state_ids": [
+                "terminal"
+              ],
+              "next": {
+                "type": "leaf",
+                "genus_ids": [
+                  "epistephium"
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "state_ids": [
           "not_stated"
         ],
         "next": {
           "type": "split",
-          "character_id": "lip_attachment",
+          "character_id": "pollinia_count",
           "branches": [
             {
               "state_ids": [
@@ -18,87 +51,164 @@
               ],
               "next": {
                 "type": "split",
-                "character_id": "lip_spur_or_sac",
+                "character_id": "lip_attachment",
                 "branches": [
                   {
                     "state_ids": [
                       "not_stated"
                     ],
                     "next": {
-                      "type": "leaf",
-                      "genus_ids": [
-                        "erythrodes",
-                        "corymborkis",
-                        "goodyera",
-                        "prescottia",
-                        "cyclopogon",
-                        "eurystyles",
-                        "lyroglossa",
-                        "mesadenella",
-                        "pseudogoodyera",
-                        "sacoila",
-                        "sarcoglottis",
-                        "spiranthes",
-                        "cranichis",
-                        "habenaria",
-                        "vanilla",
-                        "malaxis",
-                        "liparis",
-                        "eulophia",
-                        "cyrtopodium",
-                        "eriopsis",
-                        "catasetum",
-                        "galeandra",
-                        "clowesia",
-                        "cycnoches",
-                        "mormodes",
-                        "cryptarrhena",
-                        "dichaea",
-                        "galeottia",
-                        "koellensteinia",
-                        "huntleya",
-                        "lycaste",
-                        "teuscheria",
-                        "xylobium",
-                        "maxillaria",
-                        "mormolyca",
-                        "trigonidium",
-                        "coryanthes",
-                        "gongora",
-                        "lacaena",
-                        "stanhopea",
-                        "ornithocephalus",
-                        "brassia",
-                        "ionopsis",
-                        "lockhartia",
-                        "macradenia",
-                        "notylia",
-                        "oncidium",
-                        "trichopilia",
-                        "bletia",
-                        "chysis",
-                        "elleanthus",
-                        "sobralia",
-                        "coelia",
-                        "arpophyllum",
-                        "brassavola",
-                        "cattleya",
-                        "caularthron",
-                        "dimerandra",
-                        "encyclia",
-                        "epidanthus",
-                        "epidendrum"
+                      "type": "split",
+                      "character_id": "leaf_vernation",
+                      "branches": [
+                        {
+                          "state_ids": [
+                            "not_stated"
+                          ],
+                          "next": {
+                            "type": "split",
+                            "character_id": "sepal_petal_torsion",
+                            "branches": [
+                              {
+                                "state_ids": [
+                                  "not_stated"
+                                ],
+                                "next": {
+                                  "type": "split",
+                                  "character_id": "lip_spur_or_sac",
+                                  "branches": [
+                                    {
+                                      "state_ids": [
+                                        "not_stated"
+                                      ],
+                                      "next": {
+                                        "type": "leaf",
+                                        "genus_ids": [
+                                          "erythrodes",
+                                          "goodyera",
+                                          "prescottia",
+                                          "cyclopogon",
+                                          "eurystyles",
+                                          "lyroglossa",
+                                          "mesadenella",
+                                          "pseudogoodyera",
+                                          "sacoila",
+                                          "sarcoglottis",
+                                          "spiranthes",
+                                          "cranichis",
+                                          "habenaria",
+                                          "malaxis",
+                                          "cyrtopodium",
+                                          "eriopsis",
+                                          "galeandra",
+                                          "catasetum",
+                                          "clowesia",
+                                          "cycnoches",
+                                          "mormodes",
+                                          "cryptarrhena",
+                                          "galeottia",
+                                          "huntleya",
+                                          "lycaste",
+                                          "teuscheria",
+                                          "xylobium",
+                                          "maxillaria",
+                                          "mormolyca",
+                                          "trigonidium",
+                                          "lacaena",
+                                          "stanhopea",
+                                          "ornithocephalus",
+                                          "brassia",
+                                          "ionopsis",
+                                          "leucohyle",
+                                          "lockhartia",
+                                          "macradenia",
+                                          "notylia",
+                                          "oncidium",
+                                          "bletia",
+                                          "chysis",
+                                          "elleanthus",
+                                          "sobralia",
+                                          "coelia",
+                                          "cattleya",
+                                          "caularthron",
+                                          "dimerandra",
+                                          "encyclia",
+                                          "epidendrum"
+                                        ]
+                                      }
+                                    },
+                                    {
+                                      "state_ids": [
+                                        "present"
+                                      ],
+                                      "next": {
+                                        "type": "leaf",
+                                        "genus_ids": [
+                                          "platythelys"
+                                        ]
+                                      }
+                                    }
+                                  ]
+                                }
+                              },
+                              {
+                                "state_ids": [
+                                  "twisted"
+                                ],
+                                "next": {
+                                  "type": "leaf",
+                                  "genus_ids": [
+                                    "trichopilia"
+                                  ]
+                                }
+                              }
+                            ]
+                          }
+                        },
+                        {
+                          "state_ids": [
+                            "plicate"
+                          ],
+                          "next": {
+                            "type": "leaf",
+                            "genus_ids": [
+                              "liparis"
+                            ]
+                          }
+                        }
                       ]
                     }
                   },
                   {
                     "state_ids": [
-                      "present"
+                      "joined_to_column"
                     ],
                     "next": {
-                      "type": "leaf",
-                      "genus_ids": [
-                        "platythelys"
+                      "type": "split",
+                      "character_id": "anther_position",
+                      "branches": [
+                        {
+                          "state_ids": [
+                            "not_stated"
+                          ],
+                          "next": {
+                            "type": "leaf",
+                            "genus_ids": [
+                              "pelexia"
+                            ]
+                          }
+                        },
+                        {
+                          "state_ids": [
+                            "incumbent"
+                          ],
+                          "next": {
+                            "type": "leaf",
+                            "genus_ids": [
+                              "vanilla"
+                            ]
+                          }
+                        }
                       ]
                     }
                   }
@@ -107,12 +217,45 @@
             },
             {
               "state_ids": [
-                "joined_to_column"
+                "four"
               ],
               "next": {
                 "type": "leaf",
                 "genus_ids": [
-                  "pelexia"
+                  "dichaea"
+                ]
+              }
+            },
+            {
+              "state_ids": [
+                "two"
+              ],
+              "next": {
+                "type": "split",
+                "character_id": "lip_lobing",
+                "branches": [
+                  {
+                    "state_ids": [
+                      "three_lobed"
+                    ],
+                    "next": {
+                      "type": "leaf",
+                      "genus_ids": [
+                        "gongora"
+                      ]
+                    }
+                  },
+                  {
+                    "state_ids": [
+                      "not_stated"
+                    ],
+                    "next": {
+                      "type": "leaf",
+                      "genus_ids": [
+                        "epidanthus"
+                      ]
+                    }
+                  }
                 ]
               }
             }
@@ -124,20 +267,53 @@
           "terrestrial_or_epiphytic"
         ],
         "next": {
-          "type": "leaf",
-          "genus_ids": [
-            "psilochilus"
-          ]
-        }
-      },
-      {
-        "state_ids": [
-          "terrestrial"
-        ],
-        "next": {
-          "type": "leaf",
-          "genus_ids": [
-            "epistephium"
+          "type": "split",
+          "character_id": "pollinia_count",
+          "branches": [
+            {
+              "state_ids": [
+                "four"
+              ],
+              "next": {
+                "type": "leaf",
+                "genus_ids": [
+                  "psilochilus"
+                ]
+              }
+            },
+            {
+              "state_ids": [
+                "two"
+              ],
+              "next": {
+                "type": "leaf",
+                "genus_ids": [
+                  "eulophia"
+                ]
+              }
+            },
+            {
+              "state_ids": [
+                "not_stated"
+              ],
+              "next": {
+                "type": "leaf",
+                "genus_ids": [
+                  "koellensteinia"
+                ]
+              }
+            },
+            {
+              "state_ids": [
+                "eight"
+              ],
+              "next": {
+                "type": "leaf",
+                "genus_ids": [
+                  "arpophyllum"
+                ]
+              }
+            }
           ]
         }
       },
@@ -151,7 +327,7 @@
           "branches": [
             {
               "state_ids": [
-                "not_stated"
+                "present"
               ],
               "next": {
                 "type": "split",
@@ -159,37 +335,48 @@
                 "branches": [
                   {
                     "state_ids": [
-                      "leathery"
-                    ],
-                    "next": {
-                      "type": "leaf",
-                      "genus_ids": [
-                        "comparettia"
-                      ]
-                    }
-                  },
-                  {
-                    "state_ids": [
                       "not_stated"
                     ],
                     "next": {
                       "type": "leaf",
                       "genus_ids": [
-                        "leucohyle"
+                        "coryanthes"
+                      ]
+                    }
+                  },
+                  {
+                    "state_ids": [
+                      "leathery"
+                    ],
+                    "next": {
+                      "type": "split",
+                      "character_id": "inflorescence_position",
+                      "branches": [
+                        {
+                          "state_ids": [
+                            "basal_or_lateral"
+                          ],
+                          "next": {
+                            "type": "leaf",
+                            "genus_ids": [
+                              "comparettia"
+                            ]
+                          }
+                        },
+                        {
+                          "state_ids": [
+                            "not_stated"
+                          ],
+                          "next": {
+                            "type": "leaf",
+                            "genus_ids": [
+                              "leochilus"
+                            ]
+                          }
+                        }
                       ]
                     }
                   }
-                ]
-              }
-            },
-            {
-              "state_ids": [
-                "present"
-              ],
-              "next": {
-                "type": "leaf",
-                "genus_ids": [
-                  "leochilus"
                 ]
               }
             },
@@ -201,6 +388,17 @@
                 "type": "leaf",
                 "genus_ids": [
                   "psygmorchis"
+                ]
+              }
+            },
+            {
+              "state_ids": [
+                "not_stated"
+              ],
+              "next": {
+                "type": "leaf",
+                "genus_ids": [
+                  "brassavola"
                 ]
               }
             }

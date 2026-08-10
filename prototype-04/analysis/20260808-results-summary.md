@@ -8,7 +8,10 @@ today, what it can't yet, and why.
 ## What went in
 
 - **69 genus records** from `prototype-03/analysis/genera.jsonl` (Phase
-  1's real output), read strictly as-is.
+  1's real output), read strictly as-is. This is the **corrected**
+  corpus: half the page scans turned out to be upside down, and fixing
+  that is what made most of the improvement below possible (Phase 1's
+  own results summary has the detail).
 - A hand-curated set of **17 established orchid genus-level characters**
   (growth habit, pseudobulb presence, leaf vernation and texture,
   inflorescence position and flower count, sepal/petal torsion, lip
@@ -22,18 +25,26 @@ today, what it can't yet, and why.
 
 ## What came out
 
-- **8 of the 69 genera** produced at least one verified character:
-  Psilochilus, Epistephium, Pelexia, Platythelys, Leochilus,
-  Psygmorchis, Comparettia, Leucohyle.
-- **61 of the 69** produced none at all — every character `not_stated`,
+- **19 of the 69 genera** produced at least one verified character, up
+  from 8 before the scan-orientation fix: Arpophyllum, Brassavola,
+  Comparettia, Corymborkis, Coryanthes, Dichaea, Epidanthus,
+  Epistephium, Eulophia, Gongora, Koellensteinia, Leochilus, Liparis,
+  Pelexia, Platythelys, Psilochilus, Psygmorchis, Trichopilia, Vanilla.
+- **76 verified characters** in total, up from 30, and every one of them
+  passed quote verification against Phase 1's own field text — **0
+  proposals were dropped.**
+- **50 of the 69** produced none at all — every character `not_stated`,
   by design (requirements document, §1.5), not by omission.
 - The generated key (`analysis/genus_key.md`) is a real, working
-  five-question dichotomous key. It correctly, cleanly separates all 8
-  data-bearing genera from each other and from everyone else. The other
-  61 genera land together in one large, explicitly-named leaf.
+  dichotomous key, 13 numbered couplets deep at most 6 questions. It
+  cleanly separates all 19 data-bearing genera from each other and from
+  everyone else. The other 50 land together in one large,
+  explicitly-named leaf.
 - **Self-consistency: 0 failures out of 69.** Every genus, walked with
   its own recorded characters, reaches a leaf containing itself — the
   key never contradicts the data it was built from.
+- The key now draws on **11 of the 17 characters** (was 5), with
+  `plant_habit` and `pollinia_count` doing most of the separating.
 
 ## Why 61 genera produced nothing
 
